@@ -158,15 +158,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [13.8399847, 52.537855]
-      },
-      "properties": {
-        "description": "}
-},
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [13.2231562, 52.7517865]
       },
       "properties": {
@@ -306,15 +297,6 @@
       },
       "properties": {
         "description":" <A HREF=\"http://senseis.xmp.net/?GoClubSchleswig\">Schleswig</A>, Sa ab 17 n. V.  Café Patio, Lollfuß 3 (Innenhof) K: Mario Venzlaff , 04621-382823 "}
-},
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [9.4368124, 54.7840636]
-      },
-      "properties": {
-        "description": "}
 },
     {
       "type": "Feature",
@@ -666,15 +648,6 @@
       },
       "properties": {
         "description":" <A HREF=\"http://www.go-lingen.de\">Lingen</A>, Di ab 18 Grüner Jäger K: Axel Wimmer , 0591-9152870 K: Christoph Hermes , 0591-90110952 "}
-},
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.9491147, 50.9599103]
-      },
-      "properties": {
-        "description": "}
 },
     {
       "type": "Feature",
