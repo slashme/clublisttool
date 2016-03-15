@@ -5,7 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.06212745, 13.7222126691801]
+        "coordinates": [13.7222126691801, 51.06212745]
       },
       "properties": {
         "description":"EnergieVerbund Arena, 10, Magdeburger Straße, Friedrichstadt, Altstadt, Dresden, Sachsen, 01067, Deutschland"}
@@ -14,7 +14,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.0696329, 13.7560578]
+        "coordinates": [13.7560578, 51.0696329]
       },
       "properties": {
         "description":"Görlitzer Straße, Äußere Neustadt, Neustadt, Dresden, Sachsen, 01099, Deutschland"}
@@ -23,7 +23,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.5598961, 14.2085356682333]
+        "coordinates": [14.2085356682333, 51.5598961]
       },
       "properties": {
         "description":"Proschim, Welzow, Landkreis Spree-Neiße, Brandenburg, 03119, Deutschland"}
@@ -32,7 +32,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.33881915, 12.380879136165]
+        "coordinates": [12.380879136165, 51.33881915]
       },
       "properties": {
         "description":"Augustusplatz, Seeburgviertel, Mitte, Leipzig, Sachsen, 04109, Deutschland"}
@@ -41,7 +41,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.4683192, 11.973735894186]
+        "coordinates": [11.973735894186, 51.4683192]
       },
       "properties": {
         "description":"Lutherplatz\/Thüringer Bahnhof, Halle (Saale), Sachsen-Anhalt, 06110, Deutschland"}
@@ -50,7 +50,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [50.9296751, 11.5864968]
+        "coordinates": [11.5864968, 50.9296751]
       },
       "properties": {
         "description":"Jenergasse, Zentrum, Jena-Zentrum, Jena, Thüringen, 07743, Deutschland"}
@@ -59,7 +59,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [50.8353940036907, 12.924034580186]
+        "coordinates": [12.924034580186, 50.8353940036907]
       },
       "properties": {
         "description":"Zentrum, Chemnitz, Sachsen, 09111, Deutschland"}
@@ -68,7 +68,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [50.9906380955545, 12.982995613993]
+        "coordinates": [12.982995613993, 50.9906380955545]
       },
       "properties": {
         "description":"Rößgen, Mittweida, Landkreis Mittelsachsen, Sachsen, 09648, Deutschland"}
@@ -77,7 +77,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.5240046, 13.377976]
+        "coordinates": [13.377976, 52.5240046]
       },
       "properties": {
         "description":"Mitte, Berlin, 10117, Deutschland"}
@@ -86,7 +86,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.5408877, 13.4143769]
+        "coordinates": [13.4143769, 52.5408877]
       },
       "properties": {
         "description":"Lychener Straße, Helmholtzkiez, Prenzlauer Berg, Pankow, Berlin, 10437, Deutschland"}
@@ -95,7 +95,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.5081789, 13.3283011]
+        "coordinates": [13.3283011, 52.5081789]
       },
       "properties": {
         "description":"Hardenbergstraße, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10623, Deutschland"}
@@ -104,7 +104,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.4949173, 13.4388536]
+        "coordinates": [13.4388536, 52.4949173]
       },
       "properties": {
         "description":"Glogauer Straße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10999, Deutschland"}
@@ -113,7 +113,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.4471763, 13.5069655]
+        "coordinates": [13.5069655, 52.4471763]
       },
       "properties": {
         "description":"Sterndamm, Johannisthal, Treptow-Köpenick, Berlin, 12487, Deutschland"}
@@ -122,7 +122,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.4467378, 13.6271993]
+        "coordinates": [13.6271993, 52.4467378]
       },
       "properties": {
         "description":"Scharnweberstraße, Fhagen, Treptow-Köpenick, Berlin, 12587, Deutschland"}
@@ -131,7 +131,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.5462212, 13.3972286]
+        "coordinates": [13.3972286, 52.5462212]
       },
       "properties": {
         "description":"Gleimstraße, Gesundbrunnen, Mitte, Berlin, 13355, Deutschland"}
@@ -140,7 +140,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.4372333, 13.241466027255]
+        "coordinates": [13.241466027255, 52.4372333]
       },
       "properties": {
         "description":"Zehlendorf, Steglitz-Zehlendorf, Berlin, 14163, Deutschland"}
@@ -149,7 +149,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.4018765, 13.0108711]
+        "coordinates": [13.0108711, 52.4018765]
       },
       "properties": {
         "description":"Am Neuen Palais, Potsdam West, Potsdam, Brandenburg, 14469, Deutschland"}
@@ -158,7 +158,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.537855, 13.8399847]
+        "coordinates": [13.8399847, 52.537855]
       },
       "properties": {
         "description":"Landhausstraße, Strausberg Vorstadt, Strausberg, Landkreis Märkisch-Oderland, Brandenburg, 15344, Deutschland"}
@@ -167,7 +167,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.7517865, 13.2231562]
+        "coordinates": [13.2231562, 52.7517865]
       },
       "properties": {
         "description":"Kremmener Straße, Altstadt, Sachsenhausen, Oranienburg, Landkreis Oberhavel, Brandenburg, 16515, Deutschland"}
@@ -176,7 +176,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.9464193243255, 13.1502135877827]
+        "coordinates": [13.1502135877827, 52.9464193243255]
       },
       "properties": {
         "description":"Löwenberger Land, Landkreis Oberhavel, Brandenburg, 16775, Deutschland"}
@@ -185,7 +185,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [54.0927869, 13.3779334]
+        "coordinates": [13.3779334, 54.0927869]
       },
       "properties": {
         "description":"Bahnhofstraße, Fleischervorstadt, Greifswald, Landkreis Vorpommern-Greifswald, Mecklenburg-Vorpommern, 17489, Deutschland"}
@@ -194,7 +194,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [54.0852727, 12.1252848]
+        "coordinates": [12.1252848, 54.0852727]
       },
       "properties": {
         "description":"Helgas Kitchen, 19, Am Vögenteich, Kröpeliner-Tor-Vorstadt, Ortsbeirat 11 : Kröpeliner-Tor-Vorstadt, Rostock, Mecklenburg-Vorpommern, 18057, Deutschland"}
@@ -203,7 +203,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [53.6290796, 11.4153397]
+        "coordinates": [11.4153397, 53.6290796]
       },
       "properties": {
         "description":"Puschkinstraße, Altstadt, Schwerin, Mecklenburg-Vorpommern, 19055, Deutschland"}
@@ -212,7 +212,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [53.5574272, 10.0038509]
+        "coordinates": [10.0038509, 53.5574272]
       },
       "properties": {
         "description":"An der Alster, St. Georg, Hamburg-Mitte, Hamburg, 20099, Deutschland"}
@@ -221,7 +221,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [53.56789125, 9.97962391591026]
+        "coordinates": [9.97962391591026, 53.56789125]
       },
       "properties": {
         "description":"Rotherbaum, Eimsbüttel, Hamburg, 20146, Deutschland"}
@@ -230,7 +230,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [53.5660034, 9.9908152]
+        "coordinates": [9.9908152, 53.5660034]
       },
       "properties": {
         "description":"Feldbrunnenstraße, Rotherbaum, Eimsbüttel, Hamburg, 20148, Deutschland"}
@@ -239,7 +239,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [53.4580076, 9.9864197]
+        "coordinates": [9.9864197, 53.4580076]
       },
       "properties": {
         "description":"Rieckhoffstraße, Harburg, Hamburg, 21073, Deutschland"}
@@ -248,7 +248,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [53.22281005, 10.3844010777478]
+        "coordinates": [10.3844010777478, 53.22281005]
       },
       "properties": {
         "description":"Oedeme, Lüneburg, Landkreis Lüneburg, Niedersachsen, 21335, Deutschland"}
@@ -257,7 +257,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [53.24993835, 10.3377483217865]
+        "coordinates": [10.3377483217865, 53.24993835]
       },
       "properties": {
         "description":"Reppenstedt, Samtgemeinde Gellersen, Landkreis Lüneburg, Niedersachsen, 21391, Deutschland"}
@@ -266,7 +266,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [53.60649915, 10.1669467510192]
+        "coordinates": [10.1669467510192, 53.60649915]
       },
       "properties": {
         "description":"Rahlstedt, Wandsbek, Hamburg, 22143, Deutschland"}
@@ -275,7 +275,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [53.8717805, 10.6887673]
+        "coordinates": [10.6887673, 53.8717805]
       },
       "properties": {
         "description":"Koberg, Autobriefkasten, 23552 Lübeck, Koberg, Innenstadt, Lübeck, Schleswig-Holstein, 23552, Deutschland"}
@@ -284,7 +284,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [54.3413523, 10.1387933]
+        "coordinates": [10.1387933, 54.3413523]
       },
       "properties": {
         "description":"Esmarchstraße, Blücherplatz, Kiel, Schleswig-Holstein, 24105, Deutschland"}
@@ -293,7 +293,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [54.3367251, 10.1317026]
+        "coordinates": [10.1317026, 54.3367251]
       },
       "properties": {
         "description":"Olshausenstraße, Brunswik, Kiel, Schleswig-Holstein, 24118, Deutschland"}
@@ -302,7 +302,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [54.5121597, 9.5470302]
+        "coordinates": [9.5470302, 54.5121597]
       },
       "properties": {
         "description":"Lollfuß, Schleswig, Kreis Schleswig-Flensburg, Schleswig-Holstein, 24837, Deutschland"}
@@ -311,7 +311,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [54.7840636, 9.4368124]
+        "coordinates": [9.4368124, 54.7840636]
       },
       "properties": {
         "description":"Holmhof, Jürgensby, Flensburg, Schleswig-Holstein, 24937, 24939, 24941, 24943, 24944, Deutschland"}
@@ -320,7 +320,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [53.1497295, 8.2085064]
+        "coordinates": [8.2085064, 53.1497295]
       },
       "properties": {
         "description":"Röwekamp, Johannisviertel, Ziegelhof, Oldenburg, Niedersachsen, 26121, Deutschland"}
@@ -329,7 +329,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [53.520833, 8.1105765]
+        "coordinates": [8.1105765, 53.520833]
       },
       "properties": {
         "description":"Börsenstraße, City, Innenstadt, Wilhelmshaven, Niedersachsen, 26382, Deutschland"}
@@ -338,7 +338,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [53.53544055, 8.58743436011112]
+        "coordinates": [8.58743436011112, 53.53544055]
       },
       "properties": {
         "description":"Geestemünde, Stadtbezirk Bremerhaven-Süd, Bremerhaven, Bremen, 27570, Deutschland"}
@@ -347,7 +347,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [53.0649497, 8.8532302]
+        "coordinates": [8.8532302, 53.0649497]
       },
       "properties": {
         "description":"Osterdeich, Peterswerder, Östliche Vorstadt, Stadtbezirk Bremen-Ost, Bremen, 28205, Deutschland"}
@@ -356,7 +356,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [53.05111175, 9.69543254964762]
+        "coordinates": [9.69543254964762, 53.05111175]
       },
       "properties": {
         "description":"Neuenkirchen, Landkreis Heidekreis, Niedersachsen, 29643, Deutschland"}
@@ -365,7 +365,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [53.099378542339, 10.003024486579]
+        "coordinates": [10.003024486579, 53.099378542339]
       },
       "properties": {
         "description":"Bispingen, Landkreis Heidekreis, Niedersachsen, 29646, Deutschland"}
@@ -374,7 +374,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.3784695, 9.7225325]
+        "coordinates": [9.7225325, 52.3784695]
       },
       "properties": {
         "description":"Königsworther Platz, Mitte, Hannover, Region Hannover, Niedersachsen, 30167, Deutschland"}
@@ -383,7 +383,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.3701065, 9.7590527]
+        "coordinates": [9.7590527, 52.3701065]
       },
       "properties": {
         "description":"Am Südbahnhof, Südstadt, Südstadt-Bult, Hannover, Region Hannover, Niedersachsen, 30171, Deutschland"}
@@ -392,7 +392,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.4749749, 9.7957567]
+        "coordinates": [9.7957567, 52.4749749]
       },
       "properties": {
         "description":"Burgwedeler Straße, Farster Bauernschaft, Isernhagen, Region Hannover, Niedersachsen, 30916, Deutschland"}
@@ -401,7 +401,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.1500474, 9.9542093]
+        "coordinates": [9.9542093, 52.1500474]
       },
       "properties": {
         "description":"Hindenburgplatz, Venedig, Neustadt, Stadtmitte\/Neustadt, Hildesheim, Landkreis Hildesheim, Niedersachsen, 31134, Deutschland, Europe"}
@@ -410,7 +410,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.3460724, 9.38137]
+        "coordinates": [9.38137, 52.3460724]
       },
       "properties": {
         "description":"Rotrehre, Waltringhausen, Bad Nenndorf, Samtgemeinde Nenndorf, Landkreis Schaumburg, Niedersachsen, 31542, Deutschland"}
@@ -419,7 +419,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.1206019, 8.6949104]
+        "coordinates": [8.6949104, 52.1206019]
       },
       "properties": {
         "description":"Mozartstraße, Neustädter Feldmark, Herford-Stadt, Herford, Kreis Herford, Regierungsbezirk Detmold, Nordrhein-Westfalen, 32049, Deutschland"}
@@ -428,7 +428,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.0291924, 8.9008426]
+        "coordinates": [8.9008426, 52.0291924]
       },
       "properties": {
         "description":"Echternstraße, Innenstadt, Lemgo, Kreis Lippe, Regierungsbezirk Detmold, Nordrhein-Westfalen, 32657, Deutschland"}
@@ -437,7 +437,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.9342601, 8.8811483]
+        "coordinates": [8.8811483, 51.9342601]
       },
       "properties": {
         "description":"Schülerstraße, Jerxen, Detmold, Kreis Lippe, Regierungsbezirk Detmold, Nordrhein-Westfalen, 32756, Deutschland"}
@@ -446,7 +446,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.7120229, 8.75926137769997]
+        "coordinates": [8.75926137769997, 51.7120229]
       },
       "properties": {
         "description":"Paderborn, Kreis Paderborn, Regierungsbezirk Detmold, Nordrhein-Westfalen, 33098, Deutschland"}
@@ -455,7 +455,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.3210372, 9.5018452]
+        "coordinates": [9.5018452, 51.3210372]
       },
       "properties": {
         "description":"Wolfhager Straße, Schillerviertel, Nord-Holland, Kassel, Regierungsbezirk Kassel, Hessen, 34117, Deutschland, Europe"}
@@ -464,7 +464,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [50.5879123, 8.7067318]
+        "coordinates": [8.7067318, 50.5879123]
       },
       "properties": {
         "description":"Grünberger Straße, Wieseck, Gießen, Landkreis Gießen, Regierungsbezirk Gießen, Hessen, 35394, Deutschland"}
@@ -473,7 +473,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.5381897, 9.9486496]
+        "coordinates": [9.9486496, 51.5381897]
       },
       "properties": {
         "description":"Dahlmannstraße 17, 37073 Göttingen, Dahlmannstraße, Oststadt, Göttingen, Landkreis Göttingen, Niedersachsen, 37073, Deutschland, Europe"}
@@ -482,7 +482,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.5355261, 9.93535695036284]
+        "coordinates": [9.93535695036284, 51.5355261]
       },
       "properties": {
         "description":"Innenstadt, Göttingen, Landkreis Göttingen, Niedersachsen, 37073, Deutschland, Europe"}
@@ -491,7 +491,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.2632964, 10.5427699]
+        "coordinates": [10.5427699, 52.2632964]
       },
       "properties": {
         "description":"Altewiekring, Östliches Ringgebiet, Braunschweig, Niedersachsen, 38102, Deutschland"}
@@ -500,7 +500,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.2739507, 10.5366363]
+        "coordinates": [10.5366363, 52.2739507]
       },
       "properties": {
         "description":"Zimmerstraße, Östliches Ringgebiet, Braunschweig, Niedersachsen, 38106, Deutschland"}
@@ -509,7 +509,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.8044974, 10.3305624]
+        "coordinates": [10.3305624, 51.8044974]
       },
       "properties": {
         "description":"Silberstraße, Clausthal, Clausthal-Zellerfeld, Landkreis Goslar, Niedersachsen, 38678, Deutschland, Europe"}
@@ -518,7 +518,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.1389773, 11.6400834]
+        "coordinates": [11.6400834, 52.1389773]
       },
       "properties": {
         "description":"Universitätsplatz, Universitätsviertel, Alte Neustadt, Magdeburg, Sachsen-Anhalt, 39106, Deutschland"}
@@ -527,7 +527,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.23676795, 11.271080076543]
+        "coordinates": [11.271080076543, 52.23676795]
       },
       "properties": {
         "description":"Emden, Altenhausen, Flechtingen, Landkreis Börde, Sachsen-Anhalt, 39343, Deutschland"}
@@ -536,7 +536,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.1966518, 6.7722202832333]
+        "coordinates": [6.7722202832333, 51.1966518]
       },
       "properties": {
         "description":"Bilk, Stadtbezirk 3, Düsseldorf, Regierungsbezirk Düsseldorf, Nordrhein-Westfalen, 40223, Deutschland"}
@@ -545,7 +545,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.2969523, 6.8407315]
+        "coordinates": [6.8407315, 51.2969523]
       },
       "properties": {
         "description":"Stadionring, Zentrum, Ratingen, Kreis Mettmann, Regierungsbezirk Düsseldorf, Nordrhein-Westfalen, 40878, Deutschland"}
@@ -554,7 +554,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.242193, 7.1515081]
+        "coordinates": [7.1515081, 51.242193]
       },
       "properties": {
         "description":"Gaußstraße, Wolfshahn, Gemarkung Elberfeld, Wuppertal, Regierungsbezirk Düsseldorf, Nordrhein-Westfalen, 42119, Deutschland"}
@@ -563,7 +563,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.4976693, 7.4654176]
+        "coordinates": [7.4654176, 51.4976693]
       },
       "properties": {
         "description":"Joseph-Scherer-Straße, Mitte, Dortmund, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 44139, Deutschland"}
@@ -572,7 +572,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.5329225, 7.4550586]
+        "coordinates": [7.4550586, 51.5329225]
       },
       "properties": {
         "description":"Immermannstraße, Eving, Dortmund, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 44147, Deutschland"}
@@ -581,7 +581,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.489429, 7.4009765]
+        "coordinates": [7.4009765, 51.489429]
       },
       "properties": {
         "description":"Otto-Hahn-Straße, Eichlinghofen, Dortmund, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 44227, Deutschland"}
@@ -590,7 +590,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.5691882, 7.306946]
+        "coordinates": [7.306946, 51.5691882]
       },
       "properties": {
         "description":"Bahnhofstraße, Rauxel-Nord, Castrop-Rauxel, Kreis Recklinghausen, Regierungsbezirk Münster, Nordrhein-Westfalen, 44579, Deutschland"}
@@ -599,7 +599,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.4817374, 7.2145793]
+        "coordinates": [7.2145793, 51.4817374]
       },
       "properties": {
         "description":"Willy-Brandt-Platz, Mitte, Bochum-Mitte, Bochum, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 44787, Deutschland"}
@@ -608,7 +608,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.6157493, 7.1972241]
+        "coordinates": [7.1972241, 51.6157493]
       },
       "properties": {
         "description":"Münsterstraße, Innenstadt, Recklinghausen, Kreis Recklinghausen, Regierungsbezirk Münster, Nordrhein-Westfalen, 45657, Deutschland"}
@@ -617,7 +617,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.5371173, 6.9054775]
+        "coordinates": [6.9054775, 51.5371173]
       },
       "properties": {
         "description":"Lindhorststraße, Fuhlenbrock, Bottrop, Regierungsbezirk Münster, Nordrhein-Westfalen, 46242, Deutschland"}
@@ -626,7 +626,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.9650068, 7.6476565]
+        "coordinates": [7.6476565, 51.9650068]
       },
       "properties": {
         "description":"Erphostraße, Mauritz-Mitte, Erphoviertel, Münster-Mitte, Münster, Regierungsbezirk Münster, Nordrhein-Westfalen, 48145, Deutschland"}
@@ -635,7 +635,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.18899725, 7.02877720225627]
+        "coordinates": [7.02877720225627, 52.18899725]
       },
       "properties": {
         "description":"Gronau, Kreis Borken, Regierungsbezirk Münster, Nordrhein-Westfalen, 48599, Deutschland"}
@@ -644,7 +644,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.2744752, 8.040146]
+        "coordinates": [8.040146, 52.2744752]
       },
       "properties": {
         "description":"Rolandsmauer, Altstadt, Innenstadt, Osnabrück, Niedersachsen, 49074, Deutschland"}
@@ -653,7 +653,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.2352944, 7.9667856]
+        "coordinates": [7.9667856, 52.2352944]
       },
       "properties": {
         "description":"Zum Ortenbrink, Hasbergen, Landkreis Osnabrück, Niedersachsen, 49205, Deutschland"}
@@ -662,7 +662,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.5138071835757, 7.33481941986942]
+        "coordinates": [7.33481941986942, 52.5138071835757]
       },
       "properties": {
         "description":"Laxten, Lingen (Ems), Landkreis Emsland, Niedersachsen, 49809, Deutschland"}
@@ -671,7 +671,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [50.9599103, 6.9491147]
+        "coordinates": [6.9491147, 50.9599103]
       },
       "properties": {
         "description":"Merheimer Straße, Sechzigviertel, Nippes, Köln, Regierungsbezirk Köln, Nordrhein-Westfalen, 50667-51149, Deutschland"}
@@ -680,7 +680,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [50.7674876, 6.0813818]
+        "coordinates": [6.0813818, 50.7674876]
       },
       "properties": {
         "description":"Südstraße, Marschiertor, Burtscheid, Aachen-Mitte, Aachen, Städteregion Aachen, Regierungsbezirk Köln, Nordrhein-Westfalen, 52064, Deutschland"}
@@ -689,7 +689,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [50.7262759, 7.0952728]
+        "coordinates": [7.0952728, 50.7262759]
       },
       "properties": {
         "description":"Königstraße, Südstadt, Stadtbezirk Bonn, Bonn, Regierungsbezirk Köln, Nordrhein-Westfalen, 53115, Deutschland"}
@@ -698,7 +698,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [49.7583755, 6.6441823]
+        "coordinates": [6.6441823, 49.7583755]
       },
       "properties": {
         "description":"Rindertanzstraße, Altstadt, Mitte-Gartenfeld, Trier, Rheinland-Pfalz, 54290, Deutschland"}
@@ -707,7 +707,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [49.7441331, 6.6920685]
+        "coordinates": [6.6920685, 49.7441331]
       },
       "properties": {
         "description":"Tarforst, Trier, Rheinland-Pfalz, 54296, Deutschland"}
@@ -716,7 +716,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [49.99744505, 8.26975643509378]
+        "coordinates": [8.26975643509378, 49.99744505]
       },
       "properties": {
         "description":"Ballplatz, Altstadt, Mainz, Rheinland-Pfalz, 55116, Deutschland"}
@@ -725,7 +725,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [50.8796546, 8.0251182]
+        "coordinates": [8.0251182, 50.8796546]
       },
       "properties": {
         "description":"Sandstraße, Alt-Siegen, Siegen, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 57072, Deutschland"}
@@ -734,7 +734,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.357074, 7.4747128]
+        "coordinates": [7.4747128, 51.357074]
       },
       "properties": {
         "description":"Kamp, 22, Mittelstraße, Mittelstadt, Hagen Mitte, Hagen, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 58095, Deutschland"}
@@ -743,7 +743,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.3577484, 7.47749213629262]
+        "coordinates": [7.47749213629262, 51.3577484]
       },
       "properties": {
         "description":"Potthof, Potthofstraße, Mittelstadt, Hagen Mitte, Hagen, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 58095, Deutschland"}
@@ -752,7 +752,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.3665884, 7.476435]
+        "coordinates": [7.476435, 51.3665884]
       },
       "properties": {
         "description":"Am Sportpark, Hochschulviertel, Hagen Mitte, Hagen, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 58097, Deutschland"}
@@ -761,7 +761,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.53071685, 7.69473039297348]
+        "coordinates": [7.69473039297348, 51.53071685]
       },
       "properties": {
         "description":"Königsborn, Unna, Kreis Unna, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 59423, Deutschland"}
@@ -770,7 +770,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.6774711, 8.3417027]
+        "coordinates": [8.3417027, 51.6774711]
       },
       "properties": {
         "description":"Cappeltor, Lippstadt, Kreis Soest, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 59555, Deutschland"}
@@ -779,7 +779,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.3620266, 8.2981392]
+        "coordinates": [8.2981392, 51.3620266]
       },
       "properties": {
         "description":"Lindenstraße, Löttmaringhausen, Meschede, Hochsauerlandkreis, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 59872, Deutschland"}
@@ -788,7 +788,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [50.1047811, 8.6906603]
+        "coordinates": [8.6906603, 50.1047811]
       },
       "properties": {
         "description":"Neuer Wall, Sachsenhausen, Sachsenhausen Nord, Frankfurt, Regierungsbezirk Darmstadt, Hessen, 60594, Deutschland"}
@@ -797,7 +797,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [49.8778201, 8.6597034]
+        "coordinates": [8.6597034, 49.8778201]
       },
       "properties": {
         "description":"Lauteschlägerstraße, Universitätsviertel, Darmstadt, Regierungsbezirk Darmstadt, Hessen, 64289, Deutschland"}
@@ -806,7 +806,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [49.8778201, 8.6597034]
+        "coordinates": [8.6597034, 49.8778201]
       },
       "properties": {
         "description":"Lauteschlägerstraße, Universitätsviertel, Darmstadt, Regierungsbezirk Darmstadt, Hessen, 64289, Deutschland"}
@@ -815,7 +815,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [50.0863765, 8.2411949]
+        "coordinates": [8.2411949, 50.0863765]
       },
       "properties": {
         "description":"Saalgasse, Mitte, Wiesbaden, Regierungsbezirk Darmstadt, Hessen, 65183, Deutschland"}
@@ -824,7 +824,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [49.2331112, 6.99663709023437]
+        "coordinates": [6.99663709023437, 49.2331112]
       },
       "properties": {
         "description":"Kappenstraße, Sankt Johann, Mitte, Saarbrücken, Regionalverband Saarbrücken, Saarland, 66111, Deutschland"}
@@ -833,7 +833,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [49.4351088, 7.76925229161359]
+        "coordinates": [7.76925229161359, 49.4351088]
       },
       "properties": {
         "description":"Lämmchesberg, Kaiserslautern, Rheinland-Pfalz, 67663, Deutschland"}
@@ -842,7 +842,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [49.4915185418846, 8.46174147732246]
+        "coordinates": [8.46174147732246, 49.4915185418846]
       },
       "properties": {
         "description":"Innenstadt\/Jungbusch, Mannheim, Regierungsbezirk Karlsruhe, Baden-Württemberg, 68159, Deutschland"}
@@ -851,7 +851,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [49.4138049, 8.6537518]
+        "coordinates": [8.6537518, 49.4138049]
       },
       "properties": {
         "description":"Ludwig-Guttmann-Straße, Ochsenkopf, Wieblingen, Heidelberg, Regierungsbezirk Karlsruhe, Baden-Württemberg, 69123, Deutschland"}
@@ -860,7 +860,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [49.546424, 8.6728312]
+        "coordinates": [8.6728312, 49.546424]
       },
       "properties": {
         "description":"Marktplatz, Judenbuckel, Schindkaut, Weinheim, Rhein-Neckar-Kreis, Regierungsbezirk Karlsruhe, Baden-Württemberg, 69469, Deutschland"}
@@ -869,7 +869,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.7775884, 9.1716536]
+        "coordinates": [9.1716536, 48.7775884]
       },
       "properties": {
         "description":"Gymnasiumstraße, Neue Vorstadt, Stuttgart-Mitte, Stuttgart, Regierungsbezirk Stuttgart, Baden-Württemberg, 70174, Deutschland"}
@@ -878,7 +878,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.6852145092567, 9.01963413752123]
+        "coordinates": [9.01963413752123, 48.6852145092567]
       },
       "properties": {
         "description":"Rauher Kapf, Böblingen (Stadt), Böblingen, Landkreis Böblingen, Regierungsbezirk Stuttgart, Baden-Württemberg, 71032, Deutschland"}
@@ -887,7 +887,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.89626725, 9.22901104422706]
+        "coordinates": [9.22901104422706, 48.89626725]
       },
       "properties": {
         "description":"Oßweil, Ludwigsburg, Landkreis Ludwigsburg, Regierungsbezirk Stuttgart, Baden-Württemberg, 71640, Deutschland"}
@@ -896,7 +896,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.5146239, 9.0625243]
+        "coordinates": [9.0625243, 48.5146239]
       },
       "properties": {
         "description":"Ulrichstraße, Christoph-Eck, Südstadt, Tübingen, Landkreis Tübingen, Regierungsbezirk Tübingen, Baden-Württemberg, 72072, Deutschland"}
@@ -905,7 +905,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.7190864, 9.69049160197639]
+        "coordinates": [9.69049160197639, 48.7190864]
       },
       "properties": {
         "description":"Malerviertel, Göppingen, Vereinbarte Verwaltungsgemeinschaft der Stadt Göppingen, Landkreis Göppingen, Regierungsbezirk Stuttgart, Baden-Württemberg, 73037, Deutschland"}
@@ -914,7 +914,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [49.0056091, 8.4160154]
+        "coordinates": [8.4160154, 49.0056091]
       },
       "properties": {
         "description":"Ostendstraße, Oststadt, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland"}
@@ -923,7 +923,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [49.0103242, 8.4062738]
+        "coordinates": [8.4062738, 49.0103242]
       },
       "properties": {
         "description":"Adlerstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland"}
@@ -932,7 +932,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.3410737, 7.8831135]
+        "coordinates": [7.8831135, 48.3410737]
       },
       "properties": {
         "description":"Geroldsecker Vorstadt, Lahr-Mietersheim, Lahr\/Schwarzwald, Verwaltungsgemeinschaft Lahr\/Schwarzwald, Ortenaukreis, Regierungsbezirk Freiburg, Baden-Württemberg, 77933, Deutschland"}
@@ -941,7 +941,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.0555458518873, 8.44681080887598]
+        "coordinates": [8.44681080887598, 48.0555458518873]
       },
       "properties": {
         "description":"Haslach, Villingen-Schwenningen, Verwaltungsgemeinschaf Villingen-Schwenningen, Schwarzwald-Baar-Kreis, Regierungsbezirk Freiburg, Baden-Württemberg, 78050, Deutschland"}
@@ -950,7 +950,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [47.6609571, 9.17817603944776]
+        "coordinates": [9.17817603944776, 47.6609571]
       },
       "properties": {
         "description":"Konzil, 2, Hafenstraße, Konstanz-Altstadt, Konstanz, Verwaltungsgemeinschaft Konstanz, Landkreis Konstanz, Regierungsbezirk Freiburg, Baden-Württemberg, 78462, Deutschland"}
@@ -959,7 +959,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [47.6903464, 9.1767391]
+        "coordinates": [9.1767391, 47.6903464]
       },
       "properties": {
         "description":"Universitätsstraße, Konstanz-Egg, Konstanz, Verwaltungsgemeinschaft Konstanz, Landkreis Konstanz, Regierungsbezirk Freiburg, Baden-Württemberg, 78464, Deutschland"}
@@ -968,7 +968,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [47.975875, 7.8141061]
+        "coordinates": [7.8141061, 47.975875]
       },
       "properties": {
         "description":"Bergiselstraße, Sankt Georgen Süd, Sankt Georgen, Freiburg, Regierungsbezirk Freiburg, Baden-Württemberg, 79111, Deutschland"}
@@ -977,7 +977,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [47.96398895, 7.90094001771169]
+        "coordinates": [7.90094001771169, 47.96398895]
       },
       "properties": {
         "description":"Bläsihof, Kappel, Freiburg, Regierungsbezirk Freiburg, Baden-Württemberg, 79117, Deutschland"}
@@ -986,7 +986,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.1805501, 11.5777896]
+        "coordinates": [11.5777896, 48.1805501]
       },
       "properties": {
         "description":"Hans-Denzinger-Straße, Bezirksteil Milbertshofen, Stadtbezirk 11 Milbertshofen-Am Hart, München, OB, Bayern, 80807, Deutschland"}
@@ -995,7 +995,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.1803724, 11.518034]
+        "coordinates": [11.518034, 48.1803724]
       },
       "properties": {
         "description":"Jenaer Straße, Bezirksteil Alt-Moosach, Stadtbezirk 10 Moosach, München, OB, Bayern, 80992, Deutschland"}
@@ -1004,7 +1004,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [47.9954339, 11.1704637]
+        "coordinates": [11.1704637, 47.9954339]
       },
       "properties": {
         "description":"Seestraße, Herrsching am Ammersee, Landkreis Starnberg, OB, Bayern, 82211, Deutschland"}
@@ -1013,7 +1013,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [47.8379995864355, 12.1081236758529]
+        "coordinates": [12.1081236758529, 47.8379995864355]
       },
       "properties": {
         "description":"Aisingerwies, Aising, Rosenheim, OB, Bayern, 83026, Deutschland"}
@@ -1022,7 +1022,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.5449693, 12.1655881]
+        "coordinates": [12.1655881, 48.5449693]
       },
       "properties": {
         "description":"Peter und Paul, Landshut, NB, Bayern, 84028, Deutschland"}
@@ -1031,7 +1031,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.2964858, 11.8944743]
+        "coordinates": [11.8944743, 48.2964858]
       },
       "properties": {
         "description":"Posener Straße, Parksiedlung, Altenerding, Erding, Landkreis Erding, OB, Bayern, 85435, Deutschland"}
@@ -1040,7 +1040,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.2770031, 11.5535459243189]
+        "coordinates": [11.5535459243189, 48.2770031]
       },
       "properties": {
         "description":"Unterschleißheim, Landkreis München, OB, Bayern, 85716, Deutschland"}
@@ -1049,7 +1049,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.2680413, 11.6728178]
+        "coordinates": [11.6728178, 48.2680413]
       },
       "properties": {
         "description":"Boltzmannstraße, Hochschul- und Forschungszentrum, Garching, Landkreis München, OB, Bayern, 85748, Deutschland"}
@@ -1058,7 +1058,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.379659, 10.8321346]
+        "coordinates": [10.8321346, 48.379659]
       },
       "properties": {
         "description":"Steppacher Straße, Steppach, Westheim, Neusäß, Landkreis Augsburg, Schwaben, Bayern, 86356, Deutschland"}
@@ -1067,7 +1067,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.0301967, 10.7538150746101]
+        "coordinates": [10.7538150746101, 48.0301967]
       },
       "properties": {
         "description":"Buchloe, Landkreis Ostallgäu, Schwaben, Bayern, 86807, Deutschland"}
@@ -1076,7 +1076,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.4067632, 9.9997099]
+        "coordinates": [9.9997099, 48.4067632]
       },
       "properties": {
         "description":"König Wilhelm, Heidenheimer Straße, Safranberg, Oststadt, Arbeitersiedlung Untere Bleiche, Ulm, Regierungsbezirk Tübingen, Baden-Württemberg, 89073, Deutschland"}
@@ -1085,7 +1085,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [49.591547, 11.0108027]
+        "coordinates": [11.0108027, 49.591547]
       },
       "properties": {
         "description":"Sieboldstraße, Burgberg, Erlangen, Mittelfranken, Bayern, 91052, Deutschland"}
@@ -1094,7 +1094,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [49.0084477, 12.1083093]
+        "coordinates": [12.1083093, 49.0084477]
       },
       "properties": {
         "description":"Mühlweg, Eisbuckel, Kasernenviertel, Rgbg, Regensburg, OPf, Bayern, 93053, Deutschland"}
@@ -1103,7 +1103,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [49.9118415, 10.9048274]
+        "coordinates": [10.9048274, 49.9118415]
       },
       "properties": {
         "description":"AU, Rodezstraße, Kramersfeld, Bamberg, Oberfranken, Bayern, 96052, Deutschland"}
@@ -1112,7 +1112,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [50.6889175, 10.9243951]
+        "coordinates": [10.9243951, 50.6889175]
       },
       "properties": {
         "description":"Weimarer Straße, Neuhaus, Am Stollen, Ilmenau, Ilm-Kreis, Thüringen, 98693, Deutschland, Europe"}
@@ -1121,7 +1121,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [50.978905, 11.0273195]
+        "coordinates": [11.0273195, 50.978905]
       },
       "properties": {
         "description":"Allerheiligenstraße, Altstadt, Erfurt, Thüringen, 99084, Deutschland, Europe"}
@@ -1130,7 +1130,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [51.5047085, 10.8013748]
+        "coordinates": [10.8013748, 51.5047085]
       },
       "properties": {
         "description":"Wilhelm-Nebelung-Straße, Nordhausen Ost, Nordhausen, Landkreis Nordhausen, Thüringen, 99734, Deutschland, Europe"}
