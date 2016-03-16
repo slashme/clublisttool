@@ -1,0 +1,511 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!-- !DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd" -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Clubs List | British Go Association</title>
+    <link type="text/css" rel="stylesheet" media="all" href="/files/css/css_7bc91d04dba6ecab2d75cb325716f1e3.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/files/css/css_a2556788b772bddafaff712e4f990131.css" />
+    <script type="text/javascript" src="/files/js/js_4032eee32acd38e568f3a564ff8fe82c.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "nice_menus_options": { "delay": 800, "speed": 1 } });
+//--><!]]>
+</script>
+    <!--[if lt IE 7]>
+      <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/garlandbga/fix-ie.css" />    <![endif]-->
+   <link rel="alternate" type="application/rss+xml" title="British Go Association news" href="http://www.britgo.org/xml.rss"/>
+  </head>
+  <body class="sidebar-left">
+
+<!-- Layout -->
+
+    <div id="wrapper">
+    <div id="container" class="clear-block">
+
+      <div id="header">
+        <div id="logo-floater">
+        <h1><a href="/" title="A few simple rules ... limitless possibilities"><img src="/bgalogos/gohead12.gif" alt="A few simple rules ... limitless possibilities" id="logo" /></a><span>A few simple rules ... limitless possibilities</span></h1>        </div>
+
+                  <ul class="links primary-links"><li class="menu-658 first"><a href="/clubs/map" title="British Isles Clubs List and Map">Find a Club</a></li>
+<li class="menu-286"><a href="/news" title="Latest news">News</a></li>
+<li class="menu-284"><a href="/ratings/current.html" title="Ratings list">Ratings</a></li>
+<li class="menu-1459"><a href="/results/12months" title="Tournament Results">Tournament Results</a></li>
+<li class="menu-638"><a href="/tournaments" title="Diary of tournaments and other Go events">Calendar</a></li>
+<li class="menu-687"><a href="/membership/index.html" title="Membership details and how to pay">Join Our Community</a></li>
+<li class="menu-1498"><a href="/user" title="Login (you need to be a member)">Login</a></li>
+<li class="menu-688 last"><a href="/help" title="Help about our website">HELP</a></li>
+</ul>                                  
+  <div id="header-region" class="clear-block"><div id="block-search-0" class="clear-block block block-search">
+
+
+  <div class="content"><form action="/clubs/list?page=3"  accept-charset="UTF-8" method="post" id="search-block-form">
+<div><div class="container-inline">
+  <div class="form-item" id="edit-search-block-form-1-wrapper">
+ <label for="edit-search-block-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-_TYp5i3OXqGulcoCzzQAfhB9fYwRTv-q8CMnDrbms2Y" value="form-_TYp5i3OXqGulcoCzzQAfhB9fYwRTv-q8CMnDrbms2Y"  />
+<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form"  />
+</div>
+
+</div></form>
+</div>
+</div>
+</div>
+      </div> <!-- /header -->
+
+              <div id="sidebar-left" class="sidebar">
+                    <div id="block-user-1" class="clear-block block block-user">
+
+
+  <div class="content"><ul class="menu"><li class="collapsed first"><a href="/whatisgo" title="Find out about the Game of Go">What is Go?</a></li>
+<li class="expanded active-trail"><a href="/play.html" title="Information about where and when to play Go">Where can I play?</a><ul class="menu"><li class="leaf first"><a href="/clubs/map" title="British Isles Club Map">Clubs Map</a></li>
+<li class="leaf active-trail"><a href="/clubs/list" title="BGA Club List" class="active">Clubs List</a></li>
+<li class="collapsed"><a href="/gopcres/play.html">Online</a></li>
+<li class="collapsed"><a href="/gopcres/playit.html">Against a Computer</a></li>
+<li class="leaf"><a href="/events/index.html">Tournaments</a></li>
+<li class="leaf last"><a href="/organisers/index.html" title="Organisers Material">For Organisers</a></li>
+</ul></li>
+<li class="collapsed"><a href="/events/index.html" title="Everything you wanted to know about tournaments in the UK and other events that we run/sponsor">Tournaments and Events</a></li>
+<li class="collapsed"><a href="/books" title="What Go Books and Sets are available and how to purchase them">Books and Sets</a></li>
+<li class="collapsed"><a href="/teaching/index.html" title="All you ever wanted to know about improving your standard of Go playing">How can I play better?</a></li>
+<li class="collapsed"><a href="/junior" title="Junior Go Home Page">Junior Go</a></li>
+<li class="collapsed"><a href="/gopcres/gopcres.html">Computers and Go</a></li>
+<li class="collapsed"><a href="/bga.html" title="What the British Go Association is and what it does">What is the British Go Association?</a></li>
+<li class="collapsed"><a href="/teaching/guide" title="Advice on how to Teach Go or organising a club or event">Organising and Teaching Go</a></li>
+<li class="collapsed"><a href="/youth/index.html" title="Info for Schools and Youth Go Organisers">School Teachers&#039; Info</a></li>
+<li class="leaf"><a href="/membersonlyaccess" title="Members Only Section - Access Here">MEMBERS ACCESS</a></li>
+<li class="leaf last"><a href="/contact" title="How to contact the right person in our organisation">Contact Us</a></li>
+</ul></div>
+</div>
+<div id="block-views-ForumTopics-block_2" class="clear-block block block-views">
+
+  <h2><a href="/forum/2" class="rc">Forum Listings</a></h2>
+
+  <div class="content"><div class="view view-ForumTopics view-id-ForumTopics view-display-id-block_2 view-dom-id-fd9d4c179cb9c0569b82fc8b40208a8f">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/node/5151">Should we have a public membership list?</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/node/5100">Enhancements needed</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/node/5067">Forum Notifications</a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+</div>
+        </div>
+      
+      <div id="center">
+ <!-- JD: TOP_CONTENT_1: this region will be displayed before the "Breadcrumb" legend in the content column -->
+        <div id="squeeze"><div class="right-corner"><div class="left-corner">
+         <div class="breadcrumb"><a href="/">Home</a> › <a href="/play.html" title="Information about where and when to play Go">Where can I play?</a></div>           <!-- JD: TOP_CONTENT_2: this region will be displayed after the "Breadcrumb" legend in the content column -->
+                            <h2>Clubs List</h2>                                        <!-- JD: TOP_CONTENT_3: this region will be displayed before the "Content" in the content column -->
+                   <div class="clear-block">
+            <div class="view view-Club view-id-Club view-display-id-page_2 view-dom-id-30c7efffb6e23ecc2bfe9b58d8b2ca45">
+        <div class="view-header">
+      <p>Click on <b>Venue</b> to see a map in a separate tab or window.<br>
+If there isn't a club in an area please check <a href="/clubs/_request">our requests page</a> to see if anyone is trying to form one already or <a href="mailto:mem@britgo.org">email the Membership Secretary</a> for a contact.</p>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-7">
+        <thead>
+      <tr>
+                  <th class="views-field views-field-title active">
+                      </th>
+                  <th class="views-field views-field-field-seenode-url">
+            See          </th>
+                  <th class="views-field views-field-field-meets-value">
+            Meets          </th>
+                  <th class="views-field views-field-field-postcode-value">
+            Postcode/  Lat-Long          </th>
+                  <th class="views-field views-field-field-venue-value">
+            Venue          </th>
+                  <th class="views-field views-field-field-contact-value">
+            Contact          </th>
+                  <th class="views-field views-field-field-email-email">
+            Email          </th>
+              </tr>
+    </thead>
+    <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-title active" >
+            <a href="/node/3213">Milton Keynes </a>          </td>
+                  <td class="views-field views-field-field-seenode-url" >
+                      </td>
+                  <td class="views-field views-field-field-meets-value" >
+            Tuesday 12:15-13:15          </td>
+                  <td class="views-field views-field-field-postcode-value" >
+            MK7 6AA          </td>
+                  <td class="views-field views-field-field-venue-value" >
+            <a href="https://www.google.com/maps?source=uds&amp;q=MK7 6AA" target="_new">The coffee bar in the Catering Hub, The Open University, Walton Hall</a>          </td>
+                  <td class="views-field views-field-field-contact-value" >
+            Tim Hunt Tel: 07850 119939          </td>
+                  <td class="views-field views-field-field-email-email" >
+            <a href="/email/3213/field_email">Email contact form</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title active" >
+            <a href="/node/3214">Milton Keynes </a>          </td>
+                  <td class="views-field views-field-field-seenode-url" >
+                      </td>
+                  <td class="views-field views-field-field-meets-value" >
+            Tuesday 18:15          </td>
+                  <td class="views-field views-field-field-postcode-value" >
+            MK9 1EA          </td>
+                  <td class="views-field views-field-field-venue-value" >
+            <a href="https://www.google.com/maps?source=uds&amp;q=MK9 1EA" target="_new">Wetherspoons, 201 Midsummer Boulevard</a>          </td>
+                  <td class="views-field views-field-field-contact-value" >
+            Tim Hunt Tel: 07850 119939          </td>
+                  <td class="views-field views-field-field-email-email" >
+            <a href="/email/3214/field_email">Email contact form</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title active" >
+            <a href="/node/3450">Northampton</a>          </td>
+                  <td class="views-field views-field-field-seenode-url" >
+                      </td>
+                  <td class="views-field views-field-field-meets-value" >
+            Wednesday 19:00          </td>
+                  <td class="views-field views-field-field-postcode-value" >
+            NN1 4JQ          </td>
+                  <td class="views-field views-field-field-venue-value" >
+            <a href="https://www.google.com/maps?source=uds&amp;q=NN1 4JQ" target="_new">Blackcurrent Centre, St Michaels Avenue, Abington, Northampton (www.blackcurrentcentre.org.uk)</a>          </td>
+                  <td class="views-field views-field-field-contact-value" >
+            Thomas Streamer 07926357826          </td>
+                  <td class="views-field views-field-field-email-email" >
+            <a href="/email/3450/field_email">Email contact form</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title active" >
+            <a href="/node/3219">Nottingham</a>          </td>
+                  <td class="views-field views-field-field-seenode-url" >
+                      </td>
+                  <td class="views-field views-field-field-meets-value" >
+            Wednesday 19:30-22:00          </td>
+                  <td class="views-field views-field-field-postcode-value" >
+            NG9 1AA          </td>
+                  <td class="views-field views-field-field-venue-value" >
+            <a href="https://www.google.com/maps?source=uds&amp;q=NG9 1AA" target="_new">The Last Post, Chilwell Road, Beeston</a>          </td>
+                  <td class="views-field views-field-field-contact-value" >
+            Brent Cutts Tel: 0115 959 2404
+          </td>
+                  <td class="views-field views-field-field-email-email" >
+            <a href="/email/3219/field_email">Email contact form</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title active" >
+            <a href="/node/3221">Open University</a>          </td>
+                  <td class="views-field views-field-field-seenode-url" >
+            <a href="http://www.britgo.org/node/3213" 0="a:0:{}" target="_blank">Milton Keynes</a>          </td>
+                  <td class="views-field views-field-field-meets-value" >
+                      </td>
+                  <td class="views-field views-field-field-postcode-value" >
+                      </td>
+                  <td class="views-field views-field-field-venue-value" >
+                      </td>
+                  <td class="views-field views-field-field-contact-value" >
+                      </td>
+                  <td class="views-field views-field-field-email-email" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title active" >
+            <a href="/node/3222">Oxford City </a>          </td>
+                  <td class="views-field views-field-field-seenode-url" >
+                      </td>
+                  <td class="views-field views-field-field-meets-value" >
+            Tuesday 19:30-23:00          </td>
+                  <td class="views-field views-field-field-postcode-value" >
+            OX2 6AH          </td>
+                  <td class="views-field views-field-field-venue-value" >
+            <a href="https://www.google.com/maps?source=uds&amp;q=OX2 6AH" target="_new">Freud&#039;s Cafe Restaurant, 119 Walton Street</a>          </td>
+                  <td class="views-field views-field-field-contact-value" >
+            Harry Fearnley,  38 Henley Street, Oxford OX4 1ES Tel: 01865 248775 (day/eve)
+          </td>
+                  <td class="views-field views-field-field-email-email" >
+            <a href="/email/3222/field_email">Email contact form</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title active" >
+            <a href="/node/3223">Oxford University </a>          </td>
+                  <td class="views-field views-field-field-seenode-url" >
+                      </td>
+                  <td class="views-field views-field-field-meets-value" >
+            Thursday 19:30-23:00 - wks 1-8 Oxford Univ term           </td>
+                  <td class="views-field views-field-field-postcode-value" >
+            OX1 4JD          </td>
+                  <td class="views-field views-field-field-venue-value" >
+            <a href="https://www.google.com/maps?source=uds&amp;q=OX1 4JD" target="_new">Fitzjames 2 in Merton College, Merton Street, Oxford</a>          </td>
+                  <td class="views-field views-field-field-contact-value" >
+            Toby Cathcart Burn Tel/Text: 07821 199649          </td>
+                  <td class="views-field views-field-field-email-email" >
+            <a href="/email/3223/field_email">Email contact form</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title active" >
+            <a href="/node/3224">Penzance </a>          </td>
+                  <td class="views-field views-field-field-seenode-url" >
+            <a href="http://www.britgo.org/node/3239" 0="a:0:{}" target="_blank">West Cornwall</a>          </td>
+                  <td class="views-field views-field-field-meets-value" >
+                      </td>
+                  <td class="views-field views-field-field-postcode-value" >
+                      </td>
+                  <td class="views-field views-field-field-venue-value" >
+                      </td>
+                  <td class="views-field views-field-field-contact-value" >
+                      </td>
+                  <td class="views-field views-field-field-email-email" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title active" >
+            <a href="/node/3225">Portsmouth</a>          </td>
+                  <td class="views-field views-field-field-seenode-url" >
+            <a href="http://www.britgo.org/node/3226" 0="a:0:{}" target="_blank">Purbrook</a>          </td>
+                  <td class="views-field views-field-field-meets-value" >
+                      </td>
+                  <td class="views-field views-field-field-postcode-value" >
+                      </td>
+                  <td class="views-field views-field-field-venue-value" >
+                      </td>
+                  <td class="views-field views-field-field-contact-value" >
+                      </td>
+                  <td class="views-field views-field-field-email-email" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title active" >
+            <a href="/node/3226">Purbrook</a>          </td>
+                  <td class="views-field views-field-field-seenode-url" >
+                      </td>
+                  <td class="views-field views-field-field-meets-value" >
+            Thursday evenings - most weeks          </td>
+                  <td class="views-field views-field-field-postcode-value" >
+            PO7 5LU          </td>
+                  <td class="views-field views-field-field-venue-value" >
+            <a href="https://www.google.com/maps?source=uds&amp;q=PO7 5LU" target="_new">Mostly at Peter Wendes&#039;s house</a>          </td>
+                  <td class="views-field views-field-field-contact-value" >
+            Peter Wendes Tel: 02392 267648
+          </td>
+                  <td class="views-field views-field-field-email-email" >
+            <a href="/email/3226/field_email">Email contact form</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title active" >
+            <a href="/node/3229">Reading</a>          </td>
+                  <td class="views-field views-field-field-seenode-url" >
+                      </td>
+                  <td class="views-field views-field-field-meets-value" >
+            Monday 18:30 except bank holidays          </td>
+                  <td class="views-field views-field-field-postcode-value" >
+            RG1 1EU          </td>
+                  <td class="views-field views-field-field-venue-value" >
+            <a href="https://www.google.com/maps?source=uds&amp;q=RG1 1EU" target="_new">Eclectic Games, 5 Union Street, Reading</a>          </td>
+                  <td class="views-field views-field-field-contact-value" >
+            Jim Clare, 32-28 Granville Rd, Reading, RG30 3QE Tel: 0118 950 7319
+          </td>
+                  <td class="views-field views-field-field-email-email" >
+            <a href="/email/3229/field_email">Email contact form</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title active" >
+            <a href="/node/4282">Seaford</a>          </td>
+                  <td class="views-field views-field-field-seenode-url" >
+                      </td>
+                  <td class="views-field views-field-field-meets-value" >
+            Thursday 19:00-21:30 (not every week)          </td>
+                  <td class="views-field views-field-field-postcode-value" >
+            BN25 2QT          </td>
+                  <td class="views-field views-field-field-venue-value" >
+            <a href="https://www.google.com/maps?source=uds&amp;q=BN25 2QT" target="_new">149 Princess Drive, Seaford</a>          </td>
+                  <td class="views-field views-field-field-contact-value" >
+             Karen van den Zyl tel: 01323 351473          </td>
+                  <td class="views-field views-field-field-email-email" >
+            <a href="/email/4282/field_email">Email contact form</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title active" >
+            <a href="/node/3230">Sheffield</a>          </td>
+                  <td class="views-field views-field-field-seenode-url" >
+                      </td>
+                  <td class="views-field views-field-field-meets-value" >
+            Sunday 19:30          </td>
+                  <td class="views-field views-field-field-postcode-value" >
+            S1 2BG          </td>
+                  <td class="views-field views-field-field-venue-value" >
+            <a href="https://www.google.com/maps?source=uds&amp;q=S1 2BG" target="_new">(Since October 2015): The Old Queens Head, 40 Pond Hill, Sheffield, South Yorkshire 
+</a>          </td>
+                  <td class="views-field views-field-field-contact-value" >
+            Phil Barker Tel: 0114 255 1440 (home)
+          </td>
+                  <td class="views-field views-field-field-email-email" >
+            <a href="/email/3230/field_email">Email contact form</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title active" >
+            <a href="/node/4456">Sheffield University Go Society</a>          </td>
+                  <td class="views-field views-field-field-seenode-url" >
+                      </td>
+                  <td class="views-field views-field-field-meets-value" >
+            Tuesday 18:00-21:00 in term-time          </td>
+                  <td class="views-field views-field-field-postcode-value" >
+            S10 2TG          </td>
+                  <td class="views-field views-field-field-venue-value" >
+            <a href="https://www.google.com/maps?source=uds&amp;q=S10 2TG" target="_new">Student Union Gallery Eye room, Western Bank</a>          </td>
+                  <td class="views-field views-field-field-contact-value" >
+            David Philpott          </td>
+                  <td class="views-field views-field-field-email-email" >
+            <a href="/email/4456/field_email">Email contact form</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title active" >
+            <a href="/node/3231">Skye</a>          </td>
+                  <td class="views-field views-field-field-seenode-url" >
+                      </td>
+                  <td class="views-field views-field-field-meets-value" >
+            Tuesday 19:30          </td>
+                  <td class="views-field views-field-field-postcode-value" >
+            IV51 9GU          </td>
+                  <td class="views-field views-field-field-venue-value" >
+            <a href="https://www.google.com/maps?source=uds&amp;q=IV51 9GU" target="_new">Givendale Guest House, Heron Place, Portree, Isle of Skye</a>          </td>
+                  <td class="views-field views-field-field-contact-value" >
+            <div class="field-item field-item-0">Carel Goodheir Tel: 01478 611763.
+</div><div class="field-item field-item-1">Jurriaan Dijkman Tel: 01478 612183, 07554 434215</div>          </td>
+                  <td class="views-field views-field-field-email-email" >
+            <a href="/email/3231/field_email">Email contact form</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title active" >
+            <a href="/node/3163">South East Wales</a>          </td>
+                  <td class="views-field views-field-field-seenode-url" >
+            <a href="http://www.britgo.org/node/3164" 0="a:0:{}" target="_blank">Cardiff</a>          </td>
+                  <td class="views-field views-field-field-meets-value" >
+                      </td>
+                  <td class="views-field views-field-field-postcode-value" >
+                      </td>
+                  <td class="views-field views-field-field-venue-value" >
+                      </td>
+                  <td class="views-field views-field-field-contact-value" >
+                      </td>
+                  <td class="views-field views-field-field-email-email" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title active" >
+            <a href="/node/3233">St Albans </a>          </td>
+                  <td class="views-field views-field-field-seenode-url" >
+                      </td>
+                  <td class="views-field views-field-field-meets-value" >
+            Wednesday 20:00 until pub closing          </td>
+                  <td class="views-field views-field-field-postcode-value" >
+            AL1 1RT          </td>
+                  <td class="views-field views-field-field-venue-value" >
+            <a href="https://www.google.com/maps?source=uds&amp;q=AL1 1RT" target="_new">The Garibaldi, 61 Albert Street</a>          </td>
+                  <td class="views-field views-field-field-contact-value" >
+            Secretary: Brian Ellis  01727 872575, Mike Cockburn 01727 834035          </td>
+                  <td class="views-field views-field-field-email-email" >
+            <a href="/email/3233/field_email">Email contact form</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title active" >
+            <a href="/node/3235">St Andrews </a>          </td>
+                  <td class="views-field views-field-field-seenode-url" >
+                      </td>
+                  <td class="views-field views-field-field-meets-value" >
+            Tuesday 19:30-23:00          </td>
+                  <td class="views-field views-field-field-postcode-value" >
+            KY16 9UX          </td>
+                  <td class="views-field views-field-field-venue-value" >
+            <a href="https://www.google.com/maps?source=uds&amp;q=KY16 9UX" target="_new">Aikman&#039;s Cellar Bar, 32 Bell Street</a>          </td>
+                  <td class="views-field views-field-field-contact-value" >
+            Edwin Brady          </td>
+                  <td class="views-field views-field-field-email-email" >
+            <a href="/email/3235/field_email">Email contact form</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title active" >
+            <a href="/node/3154">Sussex University</a>          </td>
+                  <td class="views-field views-field-field-seenode-url" >
+            <a href="http://www.britgo.org/node/3155" 0="a:0:{}" target="_blank">Brighton</a>          </td>
+                  <td class="views-field views-field-field-meets-value" >
+                      </td>
+                  <td class="views-field views-field-field-postcode-value" >
+                      </td>
+                  <td class="views-field views-field-field-venue-value" >
+                      </td>
+                  <td class="views-field views-field-field-contact-value" >
+                      </td>
+                  <td class="views-field views-field-field-email-email" >
+                      </td>
+              </tr>
+          <tr class="even views-row-last">
+                  <td class="views-field views-field-title active" >
+            <a href="/node/3244">Swansea</a>          </td>
+                  <td class="views-field views-field-field-seenode-url" >
+            <a href="http://www.britgo.org/node/3164" 0="a:0:{}" target="_blank">also Cardiff</a>          </td>
+                  <td class="views-field views-field-field-meets-value" >
+            By arrangement          </td>
+                  <td class="views-field views-field-field-postcode-value" >
+            SA1 4JJ          </td>
+                  <td class="views-field views-field-field-venue-value" >
+            <a href="https://www.google.com/maps?source=uds&amp;q=SA1 4JJ" target="_new">The Mill Pub, 75 Brynymor Road</a>          </td>
+                  <td class="views-field views-field-field-contact-value" >
+            Dylan Carter          </td>
+                  <td class="views-field views-field-field-email-email" >
+            <a href="/email/3244/field_email">Email contact form</a>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+      <div class="item-list"><ul class="pager"><li class="pager-first first"><a href="/clubs/list" title="Go to first page" class="active">« first</a></li>
+<li class="pager-previous"><a href="/clubs/list?page=2" title="Go to previous page" class="active">‹ previous</a></li>
+<li class="pager-item"><a href="/clubs/list" title="Go to page 1" class="active">1</a></li>
+<li class="pager-item"><a href="/clubs/list?page=1" title="Go to page 2" class="active">2</a></li>
+<li class="pager-item"><a href="/clubs/list?page=2" title="Go to page 3" class="active">3</a></li>
+<li class="pager-current">4</li>
+<li class="pager-item"><a href="/clubs/list?page=4" title="Go to page 5" class="active">5</a></li>
+<li class="pager-next"><a href="/clubs/list?page=4" title="Go to next page" class="active">next ›</a></li>
+<li class="pager-last last"><a href="/clubs/list?page=4" title="Go to last page" class="active">last »</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>          </div>
+                    <div id="footer"></div>
+      </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+      
+    </div> <!-- /container -->
+  </div>
+<!-- /layout -->
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42398660-1', 'britgo.org');
+  ga('send', 'pageview');
+
+</script>
+  </body>
+</html>
