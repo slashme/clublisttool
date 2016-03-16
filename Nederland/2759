@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="nl" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="nl" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="nl" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="nl" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="nl" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://gobond.nl/sites/all/themes/gobond/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/2759" />
+<link rel="canonical" href="/club/nijmeegse-go-club" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Nijmeegse Go Club | NGoB (www.gobond.nl)</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <!--[if IEMobile]><meta http-equiv="cleartype" content="on"><![endif]-->
+
+  <style>
+@import url("https://gobond.nl/modules/system/system.base.css?o3mn4k");
+@import url("https://gobond.nl/modules/system/system.messages.css?o3mn4k");
+@import url("https://gobond.nl/modules/system/system.theme.css?o3mn4k");
+</style>
+<style>
+@import url("https://gobond.nl/sites/all/modules/date/date_api/date.css?o3mn4k");
+@import url("https://gobond.nl/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?o3mn4k");
+@import url("https://gobond.nl/modules/field/theme/field.css?o3mn4k");
+@import url("https://gobond.nl/modules/node/node.css?o3mn4k");
+@import url("https://gobond.nl/modules/search/search.css?o3mn4k");
+@import url("https://gobond.nl/modules/user/user.css?o3mn4k");
+@import url("https://gobond.nl/sites/all/modules/views/css/views.css?o3mn4k");
+</style>
+<style>
+@import url("https://gobond.nl/sites/all/modules/ctools/css/ctools.css?o3mn4k");
+</style>
+<style>
+@import url("https://gobond.nl/sites/all/themes/gobond/css/normalize.css?o3mn4k");
+@import url("https://gobond.nl/sites/all/themes/gobond/css/wireframes.css?o3mn4k");
+@import url("https://gobond.nl/sites/all/themes/gobond/css/layouts/responsive-sidebars.css?o3mn4k");
+@import url("https://gobond.nl/sites/all/themes/gobond/css/tabs.css?o3mn4k");
+@import url("https://gobond.nl/sites/all/themes/gobond/css/pages.css?o3mn4k");
+@import url("https://gobond.nl/sites/all/themes/gobond/css/blocks.css?o3mn4k");
+@import url("https://gobond.nl/sites/all/themes/gobond/css/navigation.css?o3mn4k");
+@import url("https://gobond.nl/sites/all/themes/gobond/css/views-styles.css?o3mn4k");
+@import url("https://gobond.nl/sites/all/themes/gobond/css/nodes.css?o3mn4k");
+@import url("https://gobond.nl/sites/all/themes/gobond/css/comments.css?o3mn4k");
+@import url("https://gobond.nl/sites/all/themes/gobond/css/forms.css?o3mn4k");
+@import url("https://gobond.nl/sites/all/themes/gobond/css/fields.css?o3mn4k");
+@import url("https://gobond.nl/sites/all/themes/gobond/css/print.css?o3mn4k");
+</style>
+  <script src="https://gobond.nl/misc/jquery.js?v=1.4.4"></script>
+<script src="https://gobond.nl/misc/jquery.once.js?v=1.2"></script>
+<script src="https://gobond.nl/misc/drupal.js?o3mn4k"></script>
+<script src="https://gobond.nl/sites/default/files/languages/nl_K-ujHO8WrRvqzZdMB3T52DU1mWYEos_GqohFYC00nHo.js?o3mn4k"></script>
+<script src="https://gobond.nl/misc/tableheader.js?o3mn4k"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"gobond","theme_token":"06I1aCe1j9sHEfv_VaWDQokY4pHvWV0c6iYA1oJSzhk","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"public:\/\/languages\/nl_K-ujHO8WrRvqzZdMB3T52DU1mWYEos_GqohFYC00nHo.js":1,"misc\/tableheader.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/gobond\/system.menus.css":1,"sites\/all\/themes\/gobond\/css\/normalize.css":1,"sites\/all\/themes\/gobond\/css\/wireframes.css":1,"sites\/all\/themes\/gobond\/css\/layouts\/responsive-sidebars.css":1,"sites\/all\/themes\/gobond\/css\/page-backgrounds.css":1,"sites\/all\/themes\/gobond\/css\/tabs.css":1,"sites\/all\/themes\/gobond\/css\/pages.css":1,"sites\/all\/themes\/gobond\/css\/blocks.css":1,"sites\/all\/themes\/gobond\/css\/navigation.css":1,"sites\/all\/themes\/gobond\/css\/views-styles.css":1,"sites\/all\/themes\/gobond\/css\/nodes.css":1,"sites\/all\/themes\/gobond\/css\/comments.css":1,"sites\/all\/themes\/gobond\/css\/forms.css":1,"sites\/all\/themes\/gobond\/css\/fields.css":1,"sites\/all\/themes\/gobond\/css\/print.css":1}},"ogContext":{"groupType":"node","gid":"2759"}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-2759 node-type-club og-context og-context-node og-context-node-2759 section-club" >
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+
+<div id="pagewrapper">
+
+          <nav id="secondary-menu" role="navigation">
+        <h2 class="element-invisible">User menu</h2><ul class="links inline clearfix"><li class="menu-399 first last"><a href="/user/login" title="Inloggen, een account aanvragen, of je wachtwoord vervangen">Inloggen</a></li>
+</ul>      </nav>
+    
+
+<div id="page">
+
+  <header id="header" role="banner">
+
+          <a href="/" title="Home" rel="home" id="logo"><img src="https://gobond.nl/sites/all/themes/gobond/logo.png" alt="" /></a>
+    
+    
+    
+  </header>
+
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+            <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">U bent hier</h2><ol><li><a href="/">Home</a> › </li></ol></nav>      <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Nijmeegse Go Club</h1>
+                                          
+
+
+<article class="node-2759 node node-club view-mode-full clearfix" about="/club/nijmeegse-go-club" typeof="sioc:Item foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="Nijmeegse Go Club" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+  <div class="field field-name-field-club-plaats field-type-text field-label-above"><div class="field-label">Plaats:&nbsp;</div><div class="field-items"><div class="field-item even">Nijmegen</div></div></div><div class="field field-name-field-speellocatie field-type-text field-label-above"><div class="field-label">Speellocatie:&nbsp;</div><div class="field-items"><div class="field-item even">Wijkcentrum Daalsehof 2, achter Daalseweg 113</div></div></div><div class="field field-name-field-speeltijden field-type-text field-label-above"><div class="field-label">Speeltijden:&nbsp;</div><div class="field-items"><div class="field-item even">Maandag 20:00 </div></div></div><div class="field field-name-field-e-mail-contact-info field-type-email field-label-above"><div class="field-label">E-mail contact/info:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="mailto:nijmegen@gobond.nl">nijmegen@gobond.nl</a></div></div></div><div class="field-collection-container clearfix"><div class="field field-name-field-club-functionaris field-type-field-collection field-label-above"><div class="field-label">Functionarissen:&nbsp;</div><div class="field-items"><div class="field-item even"><table class="field-collection-view-final sticky-enabled">
+ <thead><tr><th class="field_club_functionaris_naam">Naam</th><th class="field_club_functionaris_functie">Functie</th> </tr></thead>
+<tbody>
+ <tr class="field_collection_item odd"><td class="field_club_functionaris_naam"><div class="field field-name-field-club-functionaris-naam field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Han van der Pluijm</div></div></div></td><td class="field_club_functionaris_functie"><div class="field field-name-field-club-functionaris-functie field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Voorzitter</div></div></div></td> </tr>
+</tbody>
+</table>
+</div></div></div></div>
+  
+  
+</article>
+          </div><!-- /#content -->
+
+    <div id="navigation">
+
+              <nav id="main-menu" role="navigation">
+          <h2 class="element-invisible">Hoofdmenu</h2><ul class="links inline clearfix"><li class="menu-218 first"><a href="/">Home</a></li>
+<li class="menu-380"><a href="/go-info">Go-info</a></li>
+<li class="menu-378"><a href="/ngob">NGoB</a></li>
+<li class="menu-1865"><a href="/verenigingen">Verenigingen</a></li>
+<li class="menu-1791"><a href="/leden">Leden</a></li>
+<li class="menu-381"><a href="/redactie">Redactie</a></li>
+<li class="menu-1813"><a href="/wedstrijden">Wedstrijden</a></li>
+<li class="menu-801"><a href="/evenementen" title="">Kalender</a></li>
+<li class="menu-2764 last"><a href="/winkel">Winkel</a></li>
+</ul>        </nav>
+      
+      
+    </div><!-- /#navigation -->
+
+    
+          <aside class="sidebars">
+          <section class="region region-sidebar-first column sidebar">
+    <div id="block-og-menu-og-single-menu-block" class="block block-og-menu first last odd">
+
+        <h2 class="block__title block-title"><a href="/club/nijmeegse-go-club" class="active">Nijmeegse Go Club</a></h2>
+      <div class="block-content">
+    <ul class="menu"><li class="menu__item is-leaf first last leaf"><a href="https://gobond.nl/clubsites/nijm/" title="" class="menu__link">Website Nijmeegse Go Club</a></li>
+</ul>  </div>
+</div><!-- /.block -->
+  </section>
+              </aside><!-- /.sidebars -->
+    
+  </div><!-- /#main -->
+
+  
+
+</div><!-- /#page -->
+</div><!-- /#pagewrapper -->
+
+  </body>
+</html>
