@@ -28,5 +28,6 @@ def etree_to_dict(t):
 outfile=open(sys.argv[1]+'.geojson','w')
 tree = ET.parse(sys.argv[1])
 root=tree.getroot()
-outfile.write( str(etree_to_dict(root)) )
-
+for i in root:
+  j=(etree_to_dict(i))
+  outfile.write(str(j)+'\n')
