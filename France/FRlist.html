@@ -1,0 +1,194 @@
+<!--?xml version="1.0" encoding="iso-8859-1"?-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr"><head>
+  <title>Fédération Française de Go</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <meta http-equiv="Content-Script-Type" content="text/javascript">
+  <link href="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/ffg.css" rel="stylesheet" type="text/css">
+  <script type="text/javascript" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/email.js"></script>
+</head>
+<body>
+<div id="ffg_page">
+  <div id="ffg_header">
+    <div id="ffg_header_imgs">
+      <img src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/header001.png" alt="Logo FFG" style="width: 163px; height: 98px;">
+      <img src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/header002-c.jpg" alt="Images du go" style="width: 603px; height: 98px; float: right;">
+    </div>
+    <div id="ffg_header_searches">
+      <form id="search_club_form" action="../php/groupe_dept.php" method="post">
+	<fieldset class="invisible">
+	  <label class="FFG_header" for="departement">|&nbsp;Chercher un
+	    club&nbsp;:</label>
+	  <select name="departement" id="departement">
+	    	    <option selected="selected">01 - Ain</option>
+	    	    <option>02 - Aisne</option>
+	    	    <option>03 - Allier</option>
+	    	    <option>04 - Alpes de Haute Provence</option>
+	    	    <option>05 - Hautes Alpes</option>
+	    	    <option>06 - Alpes Maritimes</option>
+	    	    <option>07 - Ardèche</option>
+	    	    <option>08 - Ardennes</option>
+	    	    <option>09 - Ariège</option>
+	    	    <option>10 - Aube</option>
+	    	    <option>11 - Aude</option>
+	    	    <option>12 - Aveyron</option>
+	    	    <option>13 - Bouches du Rhône</option>
+	    	    <option>14 - Calvados</option>
+	    	    <option>15 - Cantal</option>
+	    	    <option>16 - Charente</option>
+	    	    <option>17 - Charente Maritime</option>
+	    	    <option>18 - Cher</option>
+	    	    <option>19 - Corrèze</option>
+	    	    <option>2A - Corse du Sud</option>
+	    	    <option>2B - Haute Corse</option>
+	    	    <option>21 - Côte d'or</option>
+	    	    <option>22 - Cotes d'Armor</option>
+	    	    <option>23 - Creuse</option>
+	    	    <option>24 - Dordogne</option>
+	    	    <option>25 - Doubs</option>
+	    	    <option>26 - Drôme</option>
+	    	    <option>27 - Eure</option>
+	    	    <option>28 - Eure et Loir</option>
+	    	    <option>29 - Finistère</option>
+	    	    <option>30 - Gard</option>
+	    	    <option>31 - Haute Garonne</option>
+	    	    <option>32 - Gers</option>
+	    	    <option>33 - Gironde</option>
+	    	    <option>34 - Hérault</option>
+	    	    <option>35 - Ille et Vilaine</option>
+	    	    <option>36 - Indre</option>
+	    	    <option>37 - Indre et Loire</option>
+	    	    <option>38 - Isère</option>
+	    	    <option>39 - Jura</option>
+	    	    <option>40 - Landes</option>
+	    	    <option>41 - Loir et Cher</option>
+	    	    <option>42 - Loire</option>
+	    	    <option>43 - Haute Loire</option>
+	    	    <option>44 - Loire Atlantique</option>
+	    	    <option>45 - Loiret</option>
+	    	    <option>46 - Lot</option>
+	    	    <option>47 - Lot et Garonne</option>
+	    	    <option>48 - Lozère</option>
+	    	    <option>49 - Maine et Loire</option>
+	    	    <option>50 - Manche</option>
+	    	    <option>51 - Marne</option>
+	    	    <option>52 - Haute Marne</option>
+	    	    <option>53 - Mayenne</option>
+	    	    <option>54 - Meurthe et Moselle</option>
+	    	    <option>55 - Meuse</option>
+	    	    <option>56 - Morbihan</option>
+	    	    <option>57 - Moselle</option>
+	    	    <option>58 - Nièvre</option>
+	    	    <option>59 - Nord</option>
+	    	    <option>60 - Oise</option>
+	    	    <option>61 - Orne</option>
+	    	    <option>62 - Pas de Calais</option>
+	    	    <option>63 - Puy de Dôme</option>
+	    	    <option>64 - Pyrénées-Atlantiques</option>
+	    	    <option>65 - Hautes Pyrénées</option>
+	    	    <option>66 - Pyrénées Orientales</option>
+	    	    <option>67 - Bas Rhin</option>
+	    	    <option>68 - Haut Rhin</option>
+	    	    <option>69 - Rhône</option>
+	    	    <option>70 - Haute Saône</option>
+	    	    <option>71 - Saône et loire</option>
+	    	    <option>72 - Sarthe</option>
+	    	    <option>73 - Savoie</option>
+	    	    <option>74 - Haute Savoie</option>
+	    	    <option>75 - Paris</option>
+	    	    <option>76 - Seine Maritime</option>
+	    	    <option>77 - Seine et Marne</option>
+	    	    <option>78 - Yvelines</option>
+	    	    <option>79 - Deux Sèvres</option>
+	    	    <option>80 - Somme</option>
+	    	    <option>81 - Tarn</option>
+	    	    <option>82 - Tarn et Garonne</option>
+	    	    <option>83 - Var</option>
+	    	    <option>84 - Vaucluse</option>
+	    	    <option>85 - Vendée</option>
+	    	    <option>86 - Vienne</option>
+	    	    <option>87 - Vienne Haute</option>
+	    	    <option>88 - Vosges</option>
+	    	    <option>89 - Yonne</option>
+	    	    <option>90 - Territoire de Belfort</option>
+	    	    <option>91 - Essonne</option>
+	    	    <option>92 - Hauts de seine</option>
+	    	    <option>93 - Seine st Denis</option>
+	    	    <option>94 - Val de Marne</option>
+	    	    <option>95 - Val d'Oise</option>
+	    	    <option>971 - Guadeloupe</option>
+	    	    <option>972 - Martinique</option>
+	    	    <option>973 - Guyane</option>
+	    	    <option>974 - La Réunion</option>
+	    	    <option>975 - St Pierre et Miquelon</option>
+	    	    <option>976 - Mayotte</option>
+	    	    <option>984 - Terres Australes et Ant.</option>
+	    	    <option>986 - Wallis et Futuna</option>
+	    	    <option>987 - Polynésie Française</option>
+	    	    <option>988 - Nouvelle Calédonie</option>
+	    	  </select><input class="recherche" value="Ok" type="submit">
+	</fieldset>
+      </form>
+      <form id="search_player_form" action="../php/listePersonnes.php" method="post">
+	<fieldset class="invisible">
+	  <label class="FFG_header" for="semence">|&nbsp;Chercher un
+	    joueur&nbsp;:</label>
+	  <input name="semence" id="semence" type="text"><input class="recherche" value="Ok" type="submit">
+	</fieldset>
+      </form>
+    </div>
+  </div>
+<!-- menu et contenu -->
+  <div id="ffg_main">
+    <div id="ffg_main_menu">
+      <!-- ************* Page d'accueil -->
+      
+<p class="menu_FFG_item">
+  <a href="http://ffg.jeudego.org/english/english.php"><img src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/union_jack.jpg" alt="English page" title="English page"></a>
+</p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg.jeudego.org/index.php">Accueil</a></p>
+      <!-- ************* Découvrir le go -->
+      <p class="menu_FFG_title"><img src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/decouvrir_go.gif" style="width: 150px; height: 16px;" alt=""></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://jeudego.org/" onclick="window.open(this.href, '_blank'); return false">Le jeu de Go</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg.jeudego.org/php/acheterUnJeu.php">Acheter un jeu</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg.jeudego.org/php/selectDepartement.php">S'initier dans un club</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg.jeudego.org/php/jouerSurInternet.php">S'initier sur Internet</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://rfg.jeudego.org/" onclick="window.open(this.href, '_blank'); return false">Revue Française de Go</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg.jeudego.org/video/list_movies.php">Vidéos</a></p>
+      <!-- ************* Competitions -->
+      <p class="menu_FFG_title"><img src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/competitions.gif" style="width: 150px; height: 16px;" alt=""></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://jeudego.org/regles/reg_set.htm" onclick="window.open(this.href, '_blank'); return false">Règle officielle</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg.jeudego.org/informations/competitions/competitions.php">Compétitions fédérales</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg.jeudego.org/evenements/calendrier.php?type=ToutSaufEtranger">Calendrier</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg.jeudego.org/resultats/resultats.php">Résultats</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg.jeudego.org/echelle/echelle.php">Échelle de niveau</a></p>
+      <!-- ************* Enseignement -->
+      <p class="menu_FFG_title"><img src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/enseignement.gif" style="width: 150px; height: 16px;" alt=""></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg.jeudego.org/informations/formations/presentation.php">Présentation</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg.jeudego.org/informations/formations/formations.php">Formations</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg.jeudego.org/evenements/calendrier.php?type=Stage">Stages</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg.jeudego.org/informations/goscolaire/go_scolaire.php">Go scolaire</a></p>
+      <!-- ************* Vie federale -->
+      <p class="menu_FFG_title"><img src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/vie_federale.gif" style="width: 150px; height: 16px;" alt=""></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg.jeudego.org/informations/officiel/presentation.php">Présentation</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg.jeudego.org/informations/officiel/organigramme.php">Organigramme</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg.jeudego.org/informations/officiel/statuts.php">Statuts et réglements</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg.jeudego.org/informations/officiel/cr.php">Comptes-rendus</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg.jeudego.org/informations/officiel/demarches.php">Démarches et services</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg.jeudego.org/informations/officiel/listes.php">Listes de diffusion</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg-jeunes.jeudego.org/" onclick="window.open(this.href, '_blank'); return false">Site jeunes</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://animations.jeudego.org/" onclick="window.open(this.href, '_blank'); return false">Site animations</a></p>
+      <!-- ************* Affilies -->
+      <p class="menu_FFG_title"><img src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/affilies.gif" style="width: 150px; height: 16px;" alt=""></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg.jeudego.org/php/listePersonnes.php">Licenciés</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg.jeudego.org/php/listeClubs.php">Clubs</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg.jeudego.org/php/listeLigues.php">Ligues</a></p>
+      <p class="menu_FFG_item" style="margin-top: 10px;"><img class="menu_FFG_puce" src="F%C3%A9d%C3%A9ration%20Fran%C3%A7aise%20de%20Go_files/puce.gif" alt=""><a href="http://ffg.jeudego.org/php/liens.php">Les liens du Go</a></p>      <p><a href="http://ffg.jeudego.org/php/credits.php">
+	  <em class="mini">Crédits</em></a>
+      </p>
+    </div>
+    <div id="ffg_main_content">
+<div align="center">
+<h2>Liste des 116 clubs de la FFG</h2>
+<table class="simple" border="0">
+<tbody><tr><th class="left">Par ville</th><th class="right">Par département</th></tr><tr><td>
+<a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=657">Afuji (Saint Lô) (50SL)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=368">Aix&amp;Go (Aix-en-Provence) (13Ai)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=330">Albi (81Al)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=792">Alès (30Al)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=722">Allinges -Go Club (74Al)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=306">Angers (49An)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=228">Annecy (74An)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=254">Antony (92An)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=789">ARGO (92Ge)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=705">Arras - L'Atelier du Go Arrageois (62Ar)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=231">Aubenas - Couleur GO (07Au)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=372">Avignon (84Av)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=788">Balma, Club Go Seigen (31Ba)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=333">Bayonne - Le Cénacle du Go (64Ba)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=391">Belfort (90Be)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=392">Besançon (25Be)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=338">Bordeaux - Club Kitani (33Bo)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=262">Boulogne-Billancourt (92Bo)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=310">Brest - Tenuki (29Br)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=265">Cachan (94Ca)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=323">Caen (14Ca)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=240">Chambéry (73Ch)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=410">Charleville-Mézières (08Ch)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=613">Châteauroux-Le Poinçonnet (36Ch)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=353">Clermont-Ferrand (63Cl)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=352">Clermont-Ferrand (GRAUG) (63Ce)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=775">Club de Go de Chartres (28Cr)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=769">Club de Go de Sermaise (91Se)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=781">Club de Go de Tulle (19Tu)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=803">Collège des Gratte-Ciel - Club scolaire (69GC)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=725">Collège Lucie Aubrac - Club scolaire (38CA)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=271">Colombes (92Co)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=718">Compiègne - Club de l'UTC (60UT)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=312">Concarneau (29Co)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=381">Côte d'Azur -Club de go ( CGCA 06 ) (06Pe)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=805">Crest : Kasen'GO (26Cr)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=393">Dijon (21Di)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=665">Dragoban (Club de Draguignan) (83Dr)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=710">Ecole Bizanet - Club scolaire (38EB)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=720">Ecole de Go de Paris (75EG)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=760">Epinal - SpinaGo (88Ep)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=563">EPITANIME (94EP)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=327">Évreux - A l'Eure du go (27Ev)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=236">Go Club Lyon Shinogi (69Ly)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=369">GO Narbonne (11Na)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=309">Go&amp;Lan : Club de Go du Trégor (22La)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=794">Go-Club Golfes St-Raphael St-Tropez (83SA)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=233">Grenoble (38Gr)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=626">Grenoble - Ecole de Go (38GJ)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=764">Grisolles (82Gr)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=337">Guyane - Club de go (97Gu)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=370">Ispagnac (48Is)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=583">Kime no Go - Club de Bourges (18Bo)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=700">La Belette Bleue (Puteaux / Bécon) (92BB)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=547">La Côte Saint André - Section MJC Go (38Co)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=350">La Réunion -Club de go (97Re)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=304">La Rochelle (17Ro)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=703">Le Cercle des Investigateurs (St Michel, Juvisy) (91SM)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=325">Le Havre (76Ha)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=305">Le Mans Go (72Ma)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=585">Les cercles de Sartrouville - section Go (78Sa)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=643">Les Sables d'Olonne (85Ol)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=275">Levallois-Perret (92Le)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=603">Licence Stage Fédéral (00SF)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=411">LilleGo (59Li)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=311">Lorient (56Lo)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=378">Marseille 1 - Sardin Ki'in (13Ma)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=379">Marseille 2 (13Mr)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=395">Metz (57Me)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=561">Miai Nantes (44MN)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=349">Mont de Marsan - Goban du Marsan (40Mo)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=380">Montpellier Komoku (34Mo)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=286">Montreuil et Est Parisien - CGEP (93Mo)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=397">Mulhouse (68Mu)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=653">Nantes (44NE)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=356">Nevers-Go en Nivernais (58Ne)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=386">Nice (06Ni)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=736">Noiseau - Let's go club (94No)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=640">Nouméa - Go cagou (98No)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=282">Orléans Kami No Go (45Or)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=284">Orsay (91Or)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=299">Palaiseau - école polytechnique (91PO)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=749">Pamiers - GoNoTao (09Pa)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=258">Paris - Club de Go d'Aligre (75Al)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=279">Paris - Club de Go de Paris (75Pa)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=252">Paris - Jussieu (75Ju)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=619">Paris - Lycée La Fontaine (AAFJ) (75LF)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=280">Paris - Observatoire (75OB)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=267">Paris - Ouest (COP) (75Op)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=296">Paris SNCF (75CF)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=268">Paris XX (75XX)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=344">Pau (64Pa)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=382">Perpignan (66Pe)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=659">Pibrac - Club Go Seigen (31Pi)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=319">Poitiers (86Po)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=216">Reims - Reims No Dan (51Re)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=317">Rennes Club Rengo (35Re)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=326">Rouen (76Ro)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=401">Saint Dié (88Sd)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=357">Saint-Etienne - Le Go Gaga (42Se)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=385">Sophia-Antipolis (06So)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=398">StanGo : Club de Nancy (54Na)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=402">Strasbourg - Collège Saint-Étienne (67SE)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=742">Tarbes Club de go Yotsuba (65Ta)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=723">Thionville (57Th)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=362">Toulon - Variation Go Club (83To)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=346">Toulouse - Club Go Seigen (31To)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=318">Tours (37To)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=241">Valence - GONIROKU (26Va)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=538">Valenciennes (59Va)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=375">Valréas (84Va)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=376">Valréas GO Club Jeunes (84VJ)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=536">Vannes (56Va)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=287">Vauréal (95Va)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=289">Versailles (78Ve)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=316">Yosakura club de go de Nantes (44Na)</a><br></td>
+<td>
+<a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=603">Licence Stage Fédéral (00SF)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=386">Nice (06Ni)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=381">Côte d'Azur -Club de go ( CGCA 06 ) (06Pe)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=385">Sophia-Antipolis (06So)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=231">Aubenas - Couleur GO (07Au)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=410">Charleville-Mézières (08Ch)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=749">Pamiers - GoNoTao (09Pa)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=369">GO Narbonne (11Na)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=368">Aix&amp;Go (Aix-en-Provence) (13Ai)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=378">Marseille 1 - Sardin Ki'in (13Ma)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=379">Marseille 2 (13Mr)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=323">Caen (14Ca)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=304">La Rochelle (17Ro)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=583">Kime no Go - Club de Bourges (18Bo)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=781">Club de Go de Tulle (19Tu)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=393">Dijon (21Di)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=309">Go&amp;Lan : Club de Go du Trégor (22La)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=392">Besançon (25Be)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=805">Crest : Kasen'GO (26Cr)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=241">Valence - GONIROKU (26Va)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=327">Évreux - A l'Eure du go (27Ev)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=775">Club de Go de Chartres (28Cr)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=310">Brest - Tenuki (29Br)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=312">Concarneau (29Co)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=792">Alès (30Al)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=788">Balma, Club Go Seigen (31Ba)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=659">Pibrac - Club Go Seigen (31Pi)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=346">Toulouse - Club Go Seigen (31To)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=338">Bordeaux - Club Kitani (33Bo)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=380">Montpellier Komoku (34Mo)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=317">Rennes Club Rengo (35Re)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=613">Châteauroux-Le Poinçonnet (36Ch)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=318">Tours (37To)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=725">Collège Lucie Aubrac - Club scolaire (38CA)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=547">La Côte Saint André - Section MJC Go (38Co)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=710">Ecole Bizanet - Club scolaire (38EB)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=626">Grenoble - Ecole de Go (38GJ)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=233">Grenoble (38Gr)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=349">Mont de Marsan - Goban du Marsan (40Mo)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=357">Saint-Etienne - Le Go Gaga (42Se)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=561">Miai Nantes (44MN)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=316">Yosakura club de go de Nantes (44Na)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=653">Nantes (44NE)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=282">Orléans Kami No Go (45Or)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=370">Ispagnac (48Is)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=306">Angers (49An)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=657">Afuji (Saint Lô) (50SL)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=216">Reims - Reims No Dan (51Re)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=398">StanGo : Club de Nancy (54Na)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=311">Lorient (56Lo)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=536">Vannes (56Va)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=395">Metz (57Me)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=723">Thionville (57Th)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=356">Nevers-Go en Nivernais (58Ne)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=411">LilleGo (59Li)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=538">Valenciennes (59Va)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=718">Compiègne - Club de l'UTC (60UT)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=705">Arras - L'Atelier du Go Arrageois (62Ar)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=352">Clermont-Ferrand (GRAUG) (63Ce)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=353">Clermont-Ferrand (63Cl)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=333">Bayonne - Le Cénacle du Go (64Ba)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=344">Pau (64Pa)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=742">Tarbes Club de go Yotsuba (65Ta)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=382">Perpignan (66Pe)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=402">Strasbourg - Collège Saint-Étienne (67SE)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=397">Mulhouse (68Mu)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=803">Collège des Gratte-Ciel - Club scolaire (69GC)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=236">Go Club Lyon Shinogi (69Ly)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=305">Le Mans Go (72Ma)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=240">Chambéry (73Ch)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=722">Allinges -Go Club (74Al)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=228">Annecy (74An)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=258">Paris - Club de Go d'Aligre (75Al)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=296">Paris SNCF (75CF)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=720">Ecole de Go de Paris (75EG)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=252">Paris - Jussieu (75Ju)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=619">Paris - Lycée La Fontaine (AAFJ) (75LF)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=280">Paris - Observatoire (75OB)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=267">Paris - Ouest (COP) (75Op)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=279">Paris - Club de Go de Paris (75Pa)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=268">Paris XX (75XX)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=325">Le Havre (76Ha)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=326">Rouen (76Ro)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=585">Les cercles de Sartrouville - section Go (78Sa)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=289">Versailles (78Ve)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=330">Albi (81Al)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=764">Grisolles (82Gr)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=665">Dragoban (Club de Draguignan) (83Dr)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=794">Go-Club Golfes St-Raphael St-Tropez (83SA)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=362">Toulon - Variation Go Club (83To)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=372">Avignon (84Av)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=375">Valréas (84Va)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=376">Valréas GO Club Jeunes (84VJ)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=643">Les Sables d'Olonne (85Ol)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=319">Poitiers (86Po)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=760">Epinal - SpinaGo (88Ep)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=401">Saint Dié (88Sd)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=391">Belfort (90Be)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=284">Orsay (91Or)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=299">Palaiseau - école polytechnique (91PO)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=769">Club de Go de Sermaise (91Se)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=703">Le Cercle des Investigateurs (St Michel, Juvisy) (91SM)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=254">Antony (92An)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=700">La Belette Bleue (Puteaux / Bécon) (92BB)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=262">Boulogne-Billancourt (92Bo)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=271">Colombes (92Co)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=789">ARGO (92Ge)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=275">Levallois-Perret (92Le)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=286">Montreuil et Est Parisien - CGEP (93Mo)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=265">Cachan (94Ca)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=563">EPITANIME (94EP)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=736">Noiseau - Let's go club (94No)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=287">Vauréal (95Va)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=337">Guyane - Club de go (97Gu)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=350">La Réunion -Club de go (97Re)</a><br><a href="http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=640">Nouméa - Go cagou (98No)</a><br>
+</td></tr></tbody></table>
+</div>
+
+
+<script type="text/javascript"><!--
+document.write('<div style="text-align: right;"><a href="javascript: history.go(-1);">Retour</a></div>');
+--></script><div style="text-align: right;"><a href="javascript:%20history.go(-1);">Retour</a></div>
+    </div> <!-- ffg_main_content -->
+  </div> <!-- ffg_main -->
+  <div id="ffg_footer">
+    <p class="footer">Toutes informations de ce site © F&nbsp;F&nbsp;G -
+      Site déclaré à la CNIL sous le N° 1009012 le
+      22 Mars 2004<br>
+      Fédération
+      Française de Go BP 95 75262 Paris Cedex 06 -
+      <a href="#" onclick="javascript:sphinx('contact', 'jeudego.org');">Contact F.F.G.</a>      -
+      <a href="#" onclick="javascript:sphinx('webmestre', 'jeudego.org');">Contact webmaster</a>    </p>
+  </div>
+</div> <!-- ffg_page -->
+
+
+
+</body></html>
