@@ -1,598 +1,85 @@
-Reims - Reims No Dan
-bar le kilberry 
-182 rue de Vesle, 51100 Reims
-[{"place_id":"63816039","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"26122118","boundingbox":["49.2506956","49.2511862","4.0208967","4.0223333"],"lat":"49.2511862","lon":"4.0223333","display_name":"Rue de Vesle, Reims, Marne, Alsace-Champagne-Ardenne-Lorraine, France métropolitaine, 51100, France","class":"highway","type":"primary","importance":0.51}]
-Tous les mardi à partir de 19h
-http://www.kilberry.fr/
-
-Annecy
-Baptiste Chopin
-4 RUE DES EDELWEISS 74000 ANNECY
-[{"place_id":"3801203","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"418340574","boundingbox":["45.9204102","45.9205102","6.1302411","6.1303411"],"lat":"45.9204602","lon":"6.1302911","display_name":"4, Rue des Edelweiss, Annecy, Haute-Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 74000, France","class":"place","type":"house","importance":0.401}]
-Tous les vendredi, de 20h30 à 23h30.
-http://annecy.jeudego.org
-
-MJC ARCHIPEL SUD
-GYMNASE DES BALMETTES
-12 AV LUCIEN BOSCHETTI 74000 ANNECY
-[{"place_id":"134674636","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"321029760","boundingbox":["45.8952482","45.8955199","6.1219702","6.1222175"],"lat":"45.8953459","lon":"6.1221154","display_name":"Avenue Lucien Boschetti, Annecy, Haute-Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 74000, France","class":"highway","type":"primary","importance":0.5}]
-Le vendredi à partir de 20h30
-http://annecy.jeudego.org/
-
-Aubenas - Couleur GO
-Couleur Café
-1 PLACE JACQUES ROURE 07200 AUBENAS
-[{"place_id":"71342986","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"49290660","boundingbox":["44.62171","44.6221433","4.3865636","4.3867419"],"lat":"44.6221146","lon":"4.3867316","display_name":"Place Jacques Roure, Aubenas, Largentière, Ardèche, Auvergne-Rhône-Alpes, France métropolitaine, 07200, France","class":"highway","type":"residential","importance":0.5}]
-Tous les jeudi soirs de 20h30
-http://club-go-aubenas.blogspot.de/
-
-Club de Go de Grenoble
-ADAJE
-8 rue Aristide Bergès
-[{"place_id":"65359483","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"32602708","boundingbox":["45.1920312","45.1921603","5.7180535","5.7182944"],"lat":"45.1920943","lon":"5.71819943595166","display_name":"8, Rue Aristide Bergès, L'Estacade, Secteur 1, Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38000, France","class":"building","type":"yes","importance":0.301}]
-Samedi De 14h à 18h
-http://grenoble.jeudego.org/
-
-Club de Go de Grenoble
-Restaurant le PAV SAN
-43 Avenue Alsace Lorraine, 38000 Grenoble
-[{"place_id":"67915506","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"32593429","boundingbox":["45.1893152","45.1895956","5.7181578","5.7185828"],"lat":"45.1894479","lon":"5.71834732264151","display_name":"43, Avenue Alsace Lorraine, Hyper Centre, Secteur 2, Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38000, France","class":"building","type":"yes","importance":0.411}]
-Mercredi A partir de 20h30
-http://grenoble.jeudego.org/pav-san/
-
-Club de Go de Grenoble
-l’école BIZANET
-53 Avenue Maréchal Randon, 38000 Grenoble
-[{"place_id":"6355029","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"667890393","boundingbox":["45.1946515","45.1947515","5.7338298","5.7339298"],"lat":"45.1947015","lon":"5.7338798","display_name":"53, Avenue Maréchal Randon, Hyper Centre, Secteur 2, Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38000, France","class":"place","type":"house","importance":0.411}]
-Mercredi de 14h00 à 16h00
-http://grenoble.jeudego.org/informations-horaires/club-scolaire-et-ecole-de-go/
-
-Club de Go de Grenoble
-Bar LA NATATION
-32 Boulevard Gambetta, 38000 Grenoble
-[{"place_id":"9365350","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"961806823","boundingbox":["45.1857222","45.1858222","5.7246561","5.7247561"],"lat":"45.1857722","lon":"5.7247061","display_name":"La Compagnie Des Aspirateurs, 32, Boulevard Gambetta, Championnet, Secteur 2, Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38000, France","class":"shop","type":"hardware","importance":0.311}]
-Tournois de Blitz tous les premiers lundi du mois
-http://grenoble.jeudego.org/la-natation/
-
-Go Club Lyon Shinogi
-Restaurant Hua Yuan Xuan
-20 rue Mulet Lyon 1er
-[{"place_id":"18218326","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"1883877865","boundingbox":["45.7657027","45.7658027","4.8364012","4.8365012"],"lat":"45.7657527","lon":"4.8364512","display_name":"20, Rue Mulet, Clos-Jouve, 1er, Lyon 1er Arrondissement, Lyon, Métropole de Lyon, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69001, France","class":"place","type":"house","importance":0.421}]
-Lundi 19h - 22h30
-http://lyon-shinogi.jeudego.org/
-
-Go Club Lyon Shinogi
-Bistrot Chez Thibault
-80 rue Montesquieu Lyon 7e
-[{"place_id":"14391167","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"1422764636","boundingbox":["45.7512058","45.7513058","4.8449302","4.8450302"],"lat":"45.7512558","lon":"4.8449802","display_name":"80, Rue Montesquieu, 7e, Lyon 7e Arrondissement, Lyon, Métropole de Lyon, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69007, France","class":"place","type":"house","importance":0.421}]
-Mercredi 18h30 - 23h
-http://lyon-shinogi.jeudego.org/
-
-Go Club Lyon Shinogi
-Espace Lyon-Japon
-16 Rue Bellecombe Lyon 6e
-[{"place_id":"37277686","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"2858259543","boundingbox":["45.7691148","45.7692148","4.8628975","4.8629975"],"lat":"45.7691648","lon":"4.8629475","display_name":"16, Rue Bellecombe, Lyon 6e Arrondissement, Lyon, Métropole de Lyon, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69006, France","class":"place","type":"house","importance":0.411}]
-Jeudi 17h - 19h
-http://lyon-shinogi.jeudego.org/
-
-Go Club Lyon Shinogi
-Salle associative
-233 rue Vendôme Lyon 3e
-[{"place_id":"37598032","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"2932341312","boundingbox":["45.7570333","45.7571333","4.8472875","4.8473875"],"lat":"45.7570833","lon":"4.8473375","display_name":"233, Rue Vendôme, 3e, Lyon 3e Arrondissement, Lyon, Métropole de Lyon, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69003, France","class":"place","type":"house","importance":0.421}]
-Samedi 14h - 19h
-http://lyon-shinogi.jeudego.org/
-
-Chambéry
-Maison des Associations
-67 RUE ST FRANÇOIS DE SALES, 73000 CHAMBÉRY
-[{"place_id":"1255032","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"300252112","boundingbox":["45.5669159","45.5670159","5.9252514","5.9253514"],"lat":"45.5669659","lon":"5.9253014","display_name":"Maison des Associations, 67, Rue Saint-François de Sales, Centre-Ville, Chambéry, Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 73000, France","class":"amenity","type":"public_building","importance":0.301}]
-Le mercredi Après-midi de 15h30 à 18h00; Soirée de 18h30 à 22h00; Le samedi Après-midi de 15h à 18h30 en salle B212
-http://chambery.jeudego.org
-
-Chambéry
-Bar Pause Café
-215 Rue République
-[{"place_id":"20845913","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"2142322000","boundingbox":["48.848001","48.888001","2.3435154","2.3835154"],"lat":"48.868001","lon":"2.3635154","display_name":"République, 10e, Paris, Île-de-France, France métropolitaine, 75010, France","class":"place","type":"suburb","importance":0.36,"icon":"http:\/\/nominatim.openstreetmap.org\/images\/mapicons\/poi_place_village.p.20.png"}]
-Le jeudi soir de 20h45-21h00
-http://chambery.jeudego.org
-
-Valence - GONIROKU
-GONIROKU, MJC GRAND CHARRAN
-61 AVENUE DU GRAND CHARRAN 26000 VALENCE
-[{"place_id":"25441463","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"2506427176","boundingbox":["44.9235625","44.9236625","4.9099984","4.9100984"],"lat":"44.9236125","lon":"4.9100484","display_name":"61, Avenue du Grand Charran, Le Grand Charran, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26000, France","class":"place","type":"house","importance":0.501}]
-Tous les Mercredi à partir de 18h30
-http://goniroku.skyrock.com/
-
-Club de Paris - Jussieu
-Restaurant le Royal Jussieu
-1 RUE DES ÉCOLES 75005 PARIS
-[{"place_id":"6640333","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"715356453","boundingbox":["48.8474206","48.8475206","2.3523705","2.3524705"],"lat":"48.8474706","lon":"2.3524205","display_name":"1, Rue des Écoles, Sorbonne, 5e, Paris, Île-de-France, France métropolitaine, 75005, France","class":"place","type":"house","importance":0.401}]
-Le Jeudi de 19h à 23h
-http://gojussieu.free.fr/
-
-Antony
-1 Place des Anciens Combattants d'Afrique du Nord
-1 Place des Anciens Combattants dAfrique du Nord, 92160 Antony
-[{"place_id":"70879586","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"37938848","boundingbox":["48.7501352","48.750245","2.2998792","2.300491"],"lat":"48.7502414","lon":"2.300436","display_name":"Place des Anciens Combattants d'Afrique du Nord, Quartier Jean Zay, Antony, Hauts-de-Seine, Île-de-France, France métropolitaine, 92160, France","class":"highway","type":"living_street","importance":0.81}]
-Le jeudi de 19h30 à 23h, Le samedi de 14h à 17h
-http://antony.jeudego.org/
-
-Club de Go d%27Aligre (Paris XIIe)
-Le Troll Café
-27 RUE DE COTTE, PARIS
-[{"place_id":"15022639","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"1370190346","boundingbox":["48.8499947","48.8500947","2.3779716","2.3780716"],"lat":"48.8500447","lon":"2.3780216","display_name":"27, Rue de Cotte, 12e Arrondissement (urbain), Quinze-Vingts, 12e, Paris, Île-de-France, France métropolitaine, 75012, France","class":"place","type":"house","importance":0.401}]
-le mardi à partir 18H
-http://www.aligre.org/
-
-Club de Boulogne-Billancourt
-Club de Boulogne Billancourt
-17 ALLÉE ROBERT DOISNEAU 92100 BOULOGNE BILLANCOURT
-[{"place_id":"28914461","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"2680532896","boundingbox":["48.8276317","48.8277317","2.2370325","2.2371325"],"lat":"48.8276817","lon":"2.2370825","display_name":"Médiathèque Le Trapèze, 17, Allée Robert Doisneau, Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, France métropolitaine, 92100, France","class":"amenity","type":"library","importance":0.401,"icon":"http:\/\/nominatim.openstreetmap.org\/images\/mapicons\/amenity_library.p.20.png"}]
-Le vendredi de 20h à minuit
-http://boulogne.jeudego.org/
-
-Cercle de Go à la maison Tilly
-Cercle d Activités Culturelles Cachan, Maison Tilly
-3 rue Raspail 94230 Cachan
-[{"place_id":"66291842","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"28319745","boundingbox":["48.7950238","48.796377","2.3318884","2.3339009"],"lat":"48.7963426","lon":"2.3330426","display_name":"Rue Raspail, Cachan, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94230, France","class":"highway","type":"unclassified","importance":0.41}]
-Le Lundi de 19h45 à 21h pour les jeunes et l%27initiation, et de 20h à 23h pour les adultes
-http://cachan.jeudego.org
-
-Club de l%27Ouest Parisien.
-Local social du COP
-43 rue La Quintinie - Paris-15e
-[{"place_id":"17143388","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"1705064268","boundingbox":["48.8372231","48.8373231","2.3033047","2.3034047"],"lat":"48.8372731","lon":"2.3033547","display_name":"43, Rue La Quintinie, Necker, 15e, Paris, Île-de-France, France métropolitaine, 75015, France","class":"place","type":"house","importance":0.521}]
-Le samedi de 14h30 à 19h,
-http://cop.jeudego.org/
-
-Paris XX Club Pierre Desproges et Dolly Parton
-Bar «Les Trois-Arts»
-21 rue des Rigoles 75020 Paris
-[{"place_id":"18932262","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"1990798136","boundingbox":["48.8717308","48.8718308","2.3939091","2.3940091"],"lat":"48.8717808","lon":"2.3939591","display_name":"21, Rue des Rigoles, Belleville, 20e, Paris, Île-de-France, France métropolitaine, 75020, France","class":"place","type":"house","importance":0.411}]
-Le club ne se réunit plus, mais des jeux sont à votre disposotion, demander au bar
-http://victoire.b.free.fr/Paris20/index.html
-
-Club de Colombes
-Association TUMCLASST
-2 avenue Jean Jaurès, colombes
-[{"place_id":"10116046","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"995308315","boundingbox":["48.9314389","48.9315389","2.2595828","2.2596828"],"lat":"48.9314889","lon":"2.2596328","display_name":"2, Avenue Jean Jaurès, Colombes, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92700, France","class":"place","type":"house","importance":0.401}]
-le second samedi du mois de 15h à 19h au salon de thé - laverie Tout un monde
-http://www.tumclasst.org/
-
-Club du Jeu de Go, Levallois-Perret.
-Maison des Associations
-34 rue Pierre Brossolette 92300 Levallois-Perret
-[{"place_id":"50819570","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"4449005","boundingbox":["48.8945254","48.8958289","2.2903308","2.2934013"],"lat":"48.8953403","lon":"2.2922588","display_name":"Rue Pierre Brossolette, Levallois-Perret, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92300, France","class":"highway","type":"residential","importance":0.6}]
-Samedi de 14h à 17h.  Jeudi à partir de 20h30. Pour savoir si le club est ouvert un jeudi, contacter Rémy NOËL.
-http://levallois.jeudego.org/
-
-Paris - Club de Go de Paris
-Café-Restaurant Le Djurdjura
-[{"place_id":"3966838","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"428145559","boundingbox":["48.8628073","48.8629073","2.352158","2.352258"],"lat":"48.8628573","lon":"2.352208","display_name":"Iris, Rue Saint-Martin, Ste-Avoye, 3e, Paris, Île-de-France, France métropolitaine, 75003, France","class":"amenity","type":"restaurant","importance":0.201,"icon":"http:\/\/nominatim.openstreetmap.org\/images\/mapicons\/food_restaurant.p.20.png"}]
-Ouvert tous les jours de 16h.30 à la fermeture
-infogo-paris.org
-
-Paris - Observatoire
-L%27Observatoire Au café Le Monaco
-2 rue Vulpian, Paris
-[{"place_id":"26671479","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"2597462877","boundingbox":["48.8324188","48.8325188","2.3466761","2.3467761"],"lat":"48.8324688","lon":"2.3467261","display_name":"2, Rue Vulpian, Croulebarbe, 13e, Paris, Île-de-France, France métropolitaine, 75013, France","class":"place","type":"house","importance":0.311}]
-Permanences le mercredi de 19h à 23h
-http://www.goclub-observatoire.com/
-
-Club de Go d%27Orléans.
-Les Becs à Vin
-8 place du Châtelet
-[{"place_id":"23209667","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"2296759094","boundingbox":["47.8988765","47.8989765","1.9063719","1.9064719"],"lat":"47.8989265","lon":"1.9064219","display_name":"Les becs à Vin, 8, Place du Châtelet, Orléans, Loiret, Centre-Val de Loire, France métropolitaine, 45000, France","class":"amenity","type":"bar","importance":0.301,"icon":"http:\/\/nominatim.openstreetmap.org\/images\/mapicons\/food_bar.p.20.png"}]
-Le mardi soir à partir de 20h30
-http://orleans.jeudego.org
-
-Club de Go d%27Orsay
-Maison des Muses
-7+bis+Avenue+Saint+Laurent,+Orsay
-[{"place_id":"114188463","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"233525208","boundingbox":["48.6987527","48.6989977","2.1878481","2.1918745"],"lat":"48.6988112","lon":"2.1898834","display_name":"Avenue Saint-Laurent, Orsay, Palaiseau, Essonne, Île-de-France, France métropolitaine, 91400, France","class":"highway","type":"secondary","importance":0.51}]
-Mercredi à partir de 20h30
-http://orsay.jeudego.org/
-
-Club de l%27Est Parisien à Montreuil
-Centre culturel Jean Lurçat
-place+du+marché,+93100
-[{"place_id":"62405766","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"23564211","boundingbox":["48.8575416","48.8584183","2.4332896","2.4335894"],"lat":"48.8579954","lon":"2.4334228","display_name":"Place du Marché, Montreuil, Bobigny, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93100, France","class":"highway","type":"residential","importance":0.4}]
-Le Jeudi de 20h à 22h30, et le Samedi de 15h00 à 19h
-http://montreuil-cgep.jeudego.org
-
-Le Club de Vauréal
-à la Maison Vallerand
-49.034831, 2.032363
-[{"place_id":"63791455","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"23759627","boundingbox":["49.0341895","49.0350535","2.0281471","2.0336206"],"lat":"49.035042","lon":"2.030759","display_name":"Rue de l'Ancienne Mairie, La Bussie, Vauréal, Pontoise, Val-d'Oise, Île-de-France, France métropolitaine, 95490, France","class":"highway","type":"tertiary","importance":0.1}]
-tous les lundis de 21h à 2h; tous les vendredis partir de 20h à 2h
-http://vaurealgo.jeudego.org
-
-Club de Versailles
-Bistro Franco Belge
-3 rue de la Pourvoierie
-[{"place_id":"24745468","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"2459762578","boundingbox":["48.8073196","48.8074196","2.1315577","2.1316577"],"lat":"48.8073696","lon":"2.1316077","display_name":"3, Rue de la Pourvoierie, Notre-Dame, Versailles, Yvelines, Île-de-France, France métropolitaine, 78000, France","class":"place","type":"house","importance":0.401}]
-Tous les mardis à partir de 20h00.
-http://versailles.jeudego.org
-
-Paris SNCF
-Club d%27entreprise de la SNCF
-9 rue de Chateau-Landon
-[{"place_id":"2602046345","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"281447846","boundingbox":["48.257153","48.2577043","2.5562598","2.5578839"],"lat":"48.2573474","lon":"2.5571053","display_name":"Rue de Château Landon, Guercheville, Fontainebleau, Seine-et-Marne, Île-de-France, France métropolitaine, 77760, France","class":"highway","type":"residential","importance":0.4}]
-les mercredis de 12h30 à 13h45
-http://gorail.wix.com/club-go-rail
-
-Club de Go de La Rochelle
-la grosse boîte
-65 Rue Saint-Nicolas, 17000 LA ROCHELLE
-[{"place_id":"40902784","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"3093956075","boundingbox":["46.1568466","46.1569466","-1.1486187","-1.1485187"],"lat":"46.1568966","lon":"-1.1485687","display_name":"Saint-Nicolas, Tasdon, La Rochelle, Charente-Maritime, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 17000, France","class":"place","type":"neighbourhood","importance":0.6}]
-chaque mardi à partir de 18h00, chaque jeudi à partir de 18H00, chaque samedi à partir de 14H00
-http://www.golarochelle.com/
-
-Le Mans Go
-Le Mans Go
-16 rue du Chêne vert, 72000 LE MANS
-[{"place_id":"52500295","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"8818729","boundingbox":["48.0071697","48.0084703","0.189367","0.1908798"],"lat":"48.0076934","lon":"0.1899502","display_name":"Rue du Chêne Vert, Cité Plantagenêt, Le Grand Pré Fortier, Le Mans, Sarthe, Pays de la Loire, France métropolitaine, 72000;72100, France","class":"highway","type":"secondary","importance":0.7}]
-Le mercredi soir à partir de 20H30
-http://lemansgo.over-blog.fr
-
-L%27âge de pierre, club de Go d%27Angers.
-Café le Welsh
-place Imbach, Angers
-[{"place_id":"74718905","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"51849983","boundingbox":["47.4731801","47.473956","-0.5488796","-0.5466449"],"lat":"47.47355415","lon":"-0.547897081140346","display_name":"Place Imbach, Place Louis Imbach, Angers, Maine-et-Loire, Pays de la Loire, France métropolitaine, 49000;49100, France","class":"amenity","type":"parking","importance":0.311}]
-Le Samedi de 17h à 20h
-http://lagedepierre.over-blog.com/
-
-Go&Lan : Club de Go du Trégor
-Bar %27Les Valseuses%27
-1 rue de la Coudraie, 22300 LANNION
-[{"place_id":"2606029195","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"4041506789","boundingbox":["48.736646","48.736746","-3.4580795","-3.4579795"],"lat":"48.736696","lon":"-3.4580295","display_name":"1, Rue de la Coudraie, Lannion, Côtes-d'Armor, Bretagne, France métropolitaine, 22300, France","class":"place","type":"house","importance":0.501}]
-les JEUDI soirs, A partir de 20h30, Il est prudent de lancer un appel sur la liste avant de venir (surtout en période de vacances scolaires).
-http://www.lesvalseuses.net/
-
-Brest - Tenuki
-MPT Pen ar Créac%27h
-17+rue+Professeur+Chrétien,+29200+Brest
-[{"place_id":"16257220","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"1702557580","boundingbox":["48.4040922","48.4041922","-4.468738","-4.468638"],"lat":"48.4041422","lon":"-4.468688","display_name":"17, Rue Professeur Chrétien, Dourjacq, Brest, Finistère, Bretagne, France métropolitaine, 29200, France","class":"place","type":"house","importance":0.411}]
-le vendredi soir à partir de 20h
-http://tenuki-brest.jeudego.org/
-
-Club de Lorient.
-Cité Allende
-12+rue+Colbert,+56100+Lorient
-[{"place_id":"62484252","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"24020080","boundingbox":["47.7512076","47.7512624","-3.3596918","-3.3586441"],"lat":"47.7512076","lon":"-3.3586441","display_name":"Rue Colbert, Lanveur, Lorient, Morbihan, Bretagne, France métropolitaine, 56100, France","class":"highway","type":"residential","importance":0.41}]
-Le samedi de 14h à 18h
-http://goanoriant.org/
-
-Club de Lorient.
-Galway Inn
-18 rue de Belgique, 56100 Lorient
-[{"place_id":"64788977","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"23699275","boundingbox":["47.7601352","47.7603015","-3.3835195","-3.3829151"],"lat":"47.7603015","lon":"-3.3835195","display_name":"Rue de Belgique, Kerfichant, Lorient, Morbihan, Bretagne, France métropolitaine, 56100, France","class":"highway","type":"secondary","importance":0.51}]
-Le mardi à partir de 20h,
-http://www.pubgalway-lorient.com/accueil.htm
-
-Club de Concarneau
-Bar Le Cabestan
-Ville-Close+Concarneau
-[{"place_id":"325989","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"122553427","boundingbox":["47.8626195","47.8826195","-3.9229148","-3.9029148"],"lat":"47.8726195","lon":"-3.9129148","display_name":"Ville Close, Concarneau, Quimper, Finistère, Bretagne, France métropolitaine, 29900, France","class":"place","type":"locality","importance":0.56,"icon":"http:\/\/nominatim.openstreetmap.org\/images\/mapicons\/poi_place_village.p.20.png"}]
-Le Samedi à 14h30
-nosite
-
-club de go de Nantes
-Maison des jeux
-14 rue Michel Rocher, Nantes
-[{"place_id":"36770572","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"2856627139","boundingbox":["47.2062004","47.2063004","-1.5498972","-1.5497972"],"lat":"47.2062504","lon":"-1.5498472","display_name":"Bibliothèque Centre Socioculturel des Ponts, 14, Rue Michel Rocher, République - Les Ponts, Île de Nantes, Nantes, Loire-Atlantique, Pays de la Loire, France métropolitaine, 44200, France","class":"amenity","type":"library","importance":0.411,"icon":"http:\/\/nominatim.openstreetmap.org\/images\/mapicons\/amenity_library.p.20.png"}]
-le samedi après-midi de 14 heures à 19 heures 
-http://nantes.jeudego.org/
-
-club de go de Nantes
-Café du commerce
-9 pl Commerce
-[{"place_id":"65097937","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"23933813","boundingbox":["43.5146884","43.5152586","1.5576849","1.5585123"],"lat":"43.5152281","lon":"1.5580515","display_name":"Rue du Commerce, La Bourdette, Escalquens, Toulouse, Haute-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 31750, France","class":"highway","type":"residential","importance":0.2}]
-les Lundi et Mercredi à partir de 18H
-http://nantes.jeudego.org/
-
-club de go de Nantes
-AJFJ
-75 rue d’Allonville, Nantes
-[{"place_id":"17527687","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"1711425208","boundingbox":["47.2217491","47.2218491","-1.5356401","-1.5355401"],"lat":"47.2217991","lon":"-1.5355901","display_name":"75, Rue d'Allonville, Place du 11e Train des Équipages, Malakoff - Saint-Donatien, Nantes, Loire-Atlantique, Pays de la Loire, France métropolitaine, 44000, France","class":"place","type":"house","importance":0.411}]
-les mardi à partir de 18h30
-http://nantes.jeudego.org/
-
-Rennes Club Rengo
-Institut Confucius
-17 rue de Brest, 35000 Rennes
-[{"place_id":"53814697","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"5080739","boundingbox":["48.1132642","48.1142491","-1.6995794","-1.6962723"],"lat":"48.1138233","lon":"-1.6981817","display_name":"Rue de Brest, Bourg-l'Évesque - La Touche - Moulin du Comte, Quartiers Ouest, Rennes, Ille-et-Vilaine, Bretagne, France métropolitaine, 35000;35200;35700, France","class":"highway","type":"secondary","importance":0.51}]
-Les samedis de 15h00 à 18h00
-http://rennes.jeudego.org/
-
-Rennes Club Rengo
-Diapason
-campus de Beaulieu 
-[{"place_id":"103743376","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"187829483","boundingbox":["46.8118886","46.812697","1.675214","1.6766743"],"lat":"46.8123575","lon":"1.67535031022182","display_name":"Campus Centre CCI Indre, 2, Allée Jean Vaillé, Beaulieu, Von, Châteauroux, Indre, Centre-Val de Loire, France métropolitaine, 36000, France","class":"amenity","type":"college","importance":0.311,"icon":"http:\/\/nominatim.openstreetmap.org\/images\/mapicons\/education_school.p.20.png"}]
-Les Jeudis entre 12h et 14h
-http://rennes.jeudego.org/
-
-Rennes Club Rengo
-Bar L%27Heure du Jeu
-11 Bd Magenta, 35000 Rennes
-[{"place_id":"4747845","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"567045015","boundingbox":["48.1063066","48.1064066","-1.6741472","-1.6740472"],"lat":"48.1063566","lon":"-1.6740972","display_name":"Erotica, 11, Boulevard Magenta, Centre, Quartiers Centre, Rennes, Ille-et-Vilaine, Bretagne, France métropolitaine, 35000;35200;35700, France","class":"shop","type":"erotic","importance":0.211}]
-Les lundis de 20h00 à 01H00
-http://rennes.jeudego.org/
-
-Club de go de Touraine.
-Amboise, hotel Ibis
-Chemin+du+Roy,+37400+Amboise
-[{"place_id":"89360971","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"133271258","boundingbox":["47.4134641","47.4143157","1.012608","1.0172031"],"lat":"47.4134641","lon":"1.012608","display_name":"Chemin du Roy, Amboise, Tours, Indre-et-Loire, Centre-Val de Loire, France métropolitaine, 37400, France","class":"highway","type":"unclassified","importance":0.51}]
-Le vendredi
-http://touraine.jeudego.org/
-
-Club de go de Touraine.
-bar-restaurant les Blancs-Manteaux
-27 rue Colbert, Tours
-[{"place_id":"72149229","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"43546552","boundingbox":["47.3954078","47.3955637","0.6880298","0.6881402"],"lat":"47.3954867","lon":"0.688085440742972","display_name":"Les Blancs Manteaux, 27, Rue Colbert, Blaise Pascal, Cathédrale, Tours, Indre-et-Loire, Centre-Val de Loire, France métropolitaine, 37200, France","class":"amenity","type":"restaurant","importance":0.311,"icon":"http:\/\/nominatim.openstreetmap.org\/images\/mapicons\/food_restaurant.p.20.png"}]
-Le jeudi
-http://touraine.jeudego.org/
-
-Club de Go du Poitou
-Au Café des Arts,
-5 Place Charles de Gaulle, Poitiers,
-[{"place_id":"7123790","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"822043754","boundingbox":["46.5827869","46.5828869","0.3443778","0.3444778"],"lat":"46.5828369","lon":"0.3444278","display_name":"5, Place Charles De Gaulle, Centre ville, Poitiers, Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 86000, France","class":"place","type":"house","importance":0.511}]
-tous les mardis à 21h00.
-http://poitiers.jeudego.org/
-
-Go Club de Caen
-Le Kitch café
-100 Rue de Geôle, 14000 Caen
-[{"place_id":"23791864","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"2364229781","boundingbox":["49.186698","49.186798","-0.3660199","-0.3659199"],"lat":"49.186748","lon":"-0.3659699","display_name":"100, Rue de Geôle, Centre Ancien, Caen, Calvados, Normandie, France métropolitaine, 14000, France","class":"place","type":"house","importance":0.411}]
-Le Mardi soir
-http://caen.jeudego.org
-
-Club du Havre
-S A M St Vincent
-Rue+Guillemard,+Le+Havre
-[{"place_id":"75982125","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"74202461","boundingbox":["49.4956714","49.4989987","0.0940918","0.0945959"],"lat":"49.497372","lon":"0.0941029","display_name":"Rue Guillemard, Porte Océane, Saint-Vincent, Le Havre, Seine-Maritime, Normandie, France métropolitaine, 76600;76610;76620, France","class":"highway","type":"tertiary","importance":0.5}]
-Le lundi de 18h à 20h30
-http://clubdegohavrais.wordpress.com
-
-Description : Club de Rouen
-Maison Saint-Sever
-Rue Saint-Julien, 76000 Rouen
-[{"place_id":"62911179","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"25568207","boundingbox":["49.4270268","49.4281786","1.0774246","1.0810471"],"lat":"49.4279612","lon":"1.0803548","display_name":"Rue Saint-Julien, Quartier Saint-Clément \/ Jardin des Plantes, Rouen, Seine-Maritime, Normandie, France métropolitaine, 76000;76100, France","class":"highway","type":"tertiary","importance":0.51}]
-Le Mardi de 20h00 à 24h; Le Samedi de 14H à 18H
-http://rouen.jeudego.org/
-
-Évreux
-A l%27Eure du go
-2 Avenue Aristide Briand 27000 Evreux
-[{"place_id":"42741033","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"3193823738","boundingbox":["49.0375667","49.0376667","1.1572335","1.1573335"],"lat":"49.0376167","lon":"1.1572835","display_name":"2, Avenue Aristide Briand, La Vieille Ferme, Gravigny, Évreux, Eure, Normandie, France métropolitaine, 27930, France","class":"place","type":"house","importance":0.301}]
-Samedi soir à partir de 17H
-aleuredugoyahoo.fr
-
-Club de go de Bayonne
-Café des Pyrénées
-62 rue Pannecau, Bayonne.
-[{"place_id":"35970517","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"2850444656","boundingbox":["43.4896698","43.4897698","-1.4720951","-1.4719951"],"lat":"43.4897198","lon":"-1.4720451","display_name":"62, Rue Pannecau, Baiona Ttipia \/ Petit Bayonne, Bayonne, Pyrénées-Atlantiques, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 64100, France","class":"place","type":"house","importance":0.311}]
-Les Mardis à partir de 18h.
-http://bayonne.jeudego.org
-
-Guyane - Club de go
-Place des Amandiers
-pl+Auguste+Horth,+CAYENNE
-[{"place_id":"17010517","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"1763741969","boundingbox":["4.9334517","4.9534517","-52.3417557","-52.3217557"],"lat":"4.9434517","lon":"-52.3317557","display_name":"Place Auguste Horth, Cayenne, Guyane, 97300, France","class":"place","type":"locality","importance":0.65,"icon":"http:\/\/nominatim.openstreetmap.org\/images\/mapicons\/poi_place_village.p.20.png"}]
-les samedi entre 10 heures et 12 heures
-http://gocayenne.blogspot.com/
-
-Club de Bordeaux.
-La Zone du Dehors
-68 cours Victor Hugo - Bordeaux
-[{"place_id":"24222805","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"2486862476","boundingbox":["44.8352219","44.8353219","-0.5693956","-0.5692956"],"lat":"44.8352719","lon":"-0.5693456","display_name":"68, Cours Victor Hugo, Victor Hugo - Saint-Augustin, Bordeaux, Gironde, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 33000;33100;33300;33800, France","class":"place","type":"house","importance":0.411}]
-Le jeudi soir entre 18h00 et 22h00 environ à la ZDD
-http://www.kitani.org
-
-Club de Bordeaux.
-Café jeux Jeux Barjo
-12 rue Saint-James, 33000 Bordeaux
-[{"place_id":"25953732","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"2485585488","boundingbox":["44.8364508","44.8365508","-0.5715213","-0.5714213"],"lat":"44.8365008","lon":"-0.5714713","display_name":"12, Rue Saint-James, Victor Hugo - Saint-Augustin, Bordeaux, Gironde, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 33000;33100;33300;33800, France","class":"place","type":"house","importance":0.411}]
-Le Samedi à 14h30, au
-http://www.kitani.org
-
-Club de Bordeaux.
-Le bistroquet
-173, Cours de L%27yser
-[{"place_id":"86441204","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"122236777","boundingbox":["46.5215777","46.5343883","4.495227","4.5695897"],"lat":"46.5261652","lon":"4.5328337","display_name":"D 173, Saint-Martin-de-Salencey, Charolles, Saône-et-Loire, Bourgogne-Franche-Comté, France métropolitaine, 71220, France","class":"highway","type":"tertiary","importance":0.2}]
-Le mardi soir à partir de 20H00
-http://www.kitani.org
-
-Pau
-MJC du Lau
-81+avenue+Loup,+Pau
-[{"place_id":"20963271","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"2183755966","boundingbox":["43.4954825","43.4955825","-0.5711035","-0.5710035"],"lat":"43.4955325","lon":"-0.5710535","display_name":"Loup, Morlanne, Pau, Pyrénées-Atlantiques, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 64370, France","class":"place","type":"isolated_dwelling","importance":0.47}]
-Le Samedi de 14h30 à 18h, à la
-http://pau.jeudego.org
-
-Pau
-Librairie-Bar l%27Entropie
-Rue Bernadotte, 64000 Pau
-[{"place_id":"110390089","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"221974797","boundingbox":["43.2972755","43.297517","-0.3745482","-0.3722451"],"lat":"43.2973105","lon":"-0.3741493","display_name":"Rue Bernadotte, Centre Ville, Pau, Pyrénées-Atlantiques, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 64000, France","class":"highway","type":"residential","importance":0.41}]
-En semaine
-http://pau.jeudego.org
-
-Toulouse - Club Go Seigen Section Muret
-Restaurant L’Arche
-21 route d’Eaunes, 31600 MURET
-[{"place_id":"81412115","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"94209149","boundingbox":["43.4317932","43.4509441","1.3354555","1.3476106"],"lat":"43.4411","lon":"1.34","display_name":"Route d'Eaunes, Bazert, Muret, Haute-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 31600, France","class":"highway","type":"secondary","importance":0.5}]
-Le lundi après-midi Le samedi après-midi Horaires d’hiver : Du lundi au mercredi : de 9h00 à 19h00 sans interruption Du jeudi au samedi : de 9h00 à 23h00 sans interruption
-http://toulouse.jeudego.org/
-
-Toulouse - Club Go Seigen, Section Pibrac
-salle du 3ème âge
-Boulevard des Écoles, Pibrac
-[{"place_id":"88729772","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"129000104","boundingbox":["43.6172158","43.6192376","1.2796403","1.2799945"],"lat":"43.6183104","lon":"1.2797737","display_name":"Boulevard des Écoles, Pibrac, Toulouse, Haute-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 31820, France","class":"highway","type":"unclassified","importance":0.51}]
-les lundis soir à partir de 21h
-http://toulouse.jeudego.org/
-
-Toulouse - Club Go Seigen
-Le Cactus
-13 boulevard Lascrosses, 31000 Toulouse
-[{"place_id":"15713458","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"1435402262","boundingbox":["43.610793","43.610893","1.4370399","1.4371399"],"lat":"43.610843","lon":"1.4370899","display_name":"13, Boulevard Lascrosses, Amidonniers - Caffarelli, Toulouse Centre, Toulouse, Haute-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 31000;31100;31200;31300;31400;31500, France","class":"place","type":"house","importance":0.311}]
-Le Mercredi soir de 19h à 23h
-http://toulouse.jeudego.org/
-
-Toulouse - Club Go Seigen Section Balma
-salle COMPAS
-4+rue+des+Jardins,+Balma
-[{"place_id":"66696536","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"30225930","boundingbox":["43.6117167","43.6138574","1.4877827","1.4890727"],"lat":"43.6128169","lon":"1.488117","display_name":"Rue des Jardins, Domaine de Balma, Balma, Toulouse, Haute-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 31130, France","class":"highway","type":"unclassified","importance":0.51}]
-les jeudis soirs de 20h30 à 23h Et tous les deuxième et 4ème samedi de chaque mois
-http://fr.groups.yahoo.com/group/section_go_balma/
-
-Toulouse - Club Go Seigen
-C.E. Airbus
-Airbus,+Toulouse
-[{"place_id":"20050494","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"2153609817","boundingbox":["43.6113744","43.6114744","1.3637994","1.3638994"],"lat":"43.6114244","lon":"1.3638494","display_name":"Airbus, Avenue de Luchon, Airbus - Saint-Martin, Toulouse Ouest, Toulouse, Haute-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 31000;31100;31200;31300;31400;31500, France","class":"amenity","type":"bicycle_parking","importance":0.221}]
-Les Mardi et Jeudi de 12h15 à 14h
-http://toulouse.jeudego.org/
-
-Toulouse - Club Go Seigen
-C.E. Thales
-105 av. du Général Eisenhower, 31100 Toulouse
-[{"place_id":"26461312","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"2638017765","boundingbox":["43.5640896","43.5641896","1.3833567","1.3834567"],"lat":"43.5641396","lon":"1.3834067","display_name":"Thales Air Systems, 105, Avenue du Général Eisenhower, Saint Simon, Toulouse Ouest, Toulouse, Haute-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 31000;31100;31200;31300;31400;31500, France","class":"landuse","type":"industrial","importance":0.511}]
-Le Mardi de 12h30 à 14h, au
-http://toulouse.jeudego.org/
-
-Toulouse - Club Go Seigen
-Salle Omega, bâtiment B, C.S.
-Rue Brindejonc des Moulinais, 31500 Toulouse
-[{"place_id":"53097500","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"4719357","boundingbox":["43.5809936","43.581147","1.4937739","1.4941158"],"lat":"43.5811093","lon":"1.4940079","display_name":"Rue Brindejonc des Moulinais, Parc d'activité de la Plaine, Toulouse Sud-Est, Toulouse, Haute-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 31000;31100;31200;31300;31400;31500, France","class":"highway","type":"residential","importance":0.61}]
-Tous les mercredi de 12h15 à 14h,
-http://toulouse.jeudego.org/
-
-Toulouse - Club Go Seigen
-C.E. C.S.
-Europarc à St martin du touch
-[{"place_id":"88040413","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"125099705","boundingbox":["43.6018546","43.6043037","1.3599919","1.3640433"],"lat":"43.60290985","lon":"1.36200135474462","display_name":"Europarc, Toulouse Ouest, Toulouse, Haute-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 31000;31100;31200;31300;31400;31500, France","class":"landuse","type":"commercial","importance":0.41}]
-tous les jeudi de 12h15 à 14h
-http://toulouse.jeudego.org/
-
-Toulouse - Club Go Seigen
-Ecole de GO
-63+Rue+Antoine+de+Saint-Exupéry,+Toulouse
-[{"place_id":"61605340","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"24366349","boundingbox":["43.6040314","43.6050657","1.5010914","1.5024718"],"lat":"43.6041831","lon":"1.5013216","display_name":"Rue Antoine de Saint-Exupéry, Cyprié, Balma, Toulouse, Haute-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 31130, France","class":"highway","type":"residential","importance":0.71}]
-Les vendredi soir de 18h à 20h
-http://toulouse.jeudego.org/
-
-Toulouse - Club Go Seigen Section Grisolles
-Ludothèque de Grisolles
-11 rue de la Campadou, 82170 Grisolles
-[{"place_id":"78415024","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"89108276","boundingbox":["43.826006","43.826155","1.296556","1.296792"],"lat":"43.826081","lon":"1.29667416574368","display_name":"Ludothéque Je vous aime, 11, Rue de la Campadou, Grisolles, Montauban, Tarn-et-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 82170, France","class":"building","type":"yes","importance":0.511}]
-Les 2nd et 4ème jeudis du mois à 21h
-http://toulouse.jeudego.org/
-
-Club de Mont de Marsan.
-bar l%27Aviator
-2 place St Roch, 40000 Mont-de-Marsan
-[{"place_id":"4812758","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"582558102","boundingbox":["43.8891657","43.8892657","-0.4994788","-0.4993788"],"lat":"43.8892157","lon":"-0.4994288","display_name":"2, Place Saint-Roch, Mont-de-Marsan, Landes, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 40000, France","class":"place","type":"house","importance":0.501}]
-Le Jeudi à partir de 20h., au
-http://marsan.jeudego.org
-
-Club de go de La Réunion ou le go du dodo
-Réunion
-Réunion
-Faciliter les rencontres entre les joueurs de l%27île
-http://reunion.jeudego.org/
-
-Saint-Denis
-Récréateurs, ancienne gare routière de Saint-Denis, sur le front de mer
-rue+neuve,+saint-denis,+reunion
-[{"place_id":"67135375","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"30762228","boundingbox":["-20.8741164","-20.8730929","55.4519907","55.4522949"],"lat":"-20.8737803","lon":"55.4521915","display_name":"Rue Neuve, Saint-Jacques, Saint-Denis, La Réunion, 97488, France, La Réunion (eaux territoriales)","class":"highway","type":"unclassified","importance":0.5}]
-Tous les mardis à 18h00. Prévenez à l%27avance par courriel à clubdego974@gmail.com
-clubdego974gmail.com
-
-Saint-Pierre
-lieu variable
-Saint-Pierre
-Tous les mercredis soir
-nosite
-
-
-Groupe Auvergnat de Go
-Café-Lecture Les Augustes
-[{"place_id":"10696524","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"1119737497","boundingbox":["45.7808356","45.7809356","3.083552","3.083652"],"lat":"45.7808856","lon":"3.083602","display_name":"Café lecture Les Augustes, 5, Rue Sous les Augustins, Saint-Alyre, Clermont-Ferrand, Puy-de-Dôme, Auvergne-Rhône-Alpes, France métropolitaine, 63000, France","class":"amenity","type":"cafe","importance":0.401,"icon":"http:\/\/nominatim.openstreetmap.org\/images\/mapicons\/food_cafe.p.20.png"}]
-5 rue sous les Augustins, 63000 Clermont-Ferrand
-Le Lundi à partir de 19h,
-http://graug.jeudego.org/
-
-Club de Clermont-Ferrand.
-BAR LE MAYERLING
-4+rue+Saint-Dominique,+CLERMONT-FERRAND
-[{"place_id":"47754356","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"3314325385","boundingbox":["45.7785971","45.7786971","3.0811313","3.0812313"],"lat":"45.7786471","lon":"3.0811813","display_name":"Martial Ray, 4, Rue Saint-Dominique, Bonnabaud, Clermont-Ferrand, Puy-de-Dôme, Auvergne-Rhône-Alpes, France métropolitaine, 63000, France","class":"shop","type":"bakery","importance":0.501,"icon":"http:\/\/nominatim.openstreetmap.org\/images\/mapicons\/shopping_bakery.p.20.png"}]
-LES MARDI ET JEUDI DE 18H30 A MINUIT
-http://neversgo.jeudego.org/
-
-Club de Clermont-Ferrand.
-Centre Social VERT-PRE
-1+rue+de+VertPré,+58000+Nevers
-[{"place_id":"136450776","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"325371272","boundingbox":["46.9867765","46.9875564","3.1518447","3.1527198"],"lat":"46.9875564","lon":"3.1518447","display_name":"Rue de Vertpre, Les Bois d'Ardenets, Nevers, Nièvre, Bourgogne-Franche-Comté, France métropolitaine, 58000, France","class":"highway","type":"residential","importance":0.41}]
-Le Vendredi de 17h15 à 20h15 (et plus ...), au Centre Social de Vert-Pré
-http://neversgo.jeudego.org/
-
-Club de Saint Étienne.
-Restaurant %27La Friterie%27
-9 Rue Georges Dupré, 42000 Saint Etienne
-[{"place_id":"28438460","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"2640763151","boundingbox":["45.4363526","45.4364526","4.3904508","4.3905508"],"lat":"45.4364026","lon":"4.3905008","display_name":"9, Rue Georges Dupré, Place Antonin Moine, Saint-Étienne, Loire, Auvergne-Rhône-Alpes, France métropolitaine, 42000;42100, France","class":"place","type":"house","importance":0.401}]
-le Mercredi soir à partir de 20h à %27La Friterie%27
-
-Toulon - Variation Go Club
-restaurant « Le Richardi »
-25+Rue+de+la+Comédie,+83000+Toulon
-[{"place_id":"107642691","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"209354478","boundingbox":["43.1246909","43.1247016","5.9294251","5.9294868"],"lat":"43.1247016","lon":"5.9294251","display_name":"Rue de la Comédie, Centre ville, Toulon, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83000;83100;83200, France","class":"highway","type":"unclassified","importance":0.61}]
-les Jeudi de 17h30 à 22h00
-http://toulon.jeudego.org/
-
-Le club de Go provençal
-Au Goût Du Monde
-38+rue+des+Bernardines,+Aix-En-Provence
-[{"place_id":"52522413","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"7989626","boundingbox":["43.5276886","43.5277808","5.4438129","5.4449388"],"lat":"43.5276886","lon":"5.4449388","display_name":"Rue Des Bernardines, Beisson, Cuques, Aix-en-Provence, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13090;13100, France","class":"highway","type":"unclassified","importance":0.7}]
-Le samedi à partir de 15h30
-http://www.aixetgo.fr/
-
-Le club de Go provençal Ecole de Go
-café culturel et citoyen
-23 Boulevard Carnot Aix-En-Provence
-[{"place_id":"53479879","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"4878214","boundingbox":["43.5264113","43.529512","5.4534534","5.4554576"],"lat":"43.5285548","lon":"5.4546846","display_name":"Boulevard Carnot, Beisson, Pont de Béraud, Aix-en-Provence, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13090;13100, France","class":"highway","type":"secondary","importance":0.6}]
-2 samedis par mois de 10h00 à 11h30
-http://www.aixetgo.fr/
-
-GO Narbonne
-Assoc%27épicée
-2 quai de lorraine, 11100 NARBONNE
-[{"place_id":"32539939","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"2809813935","boundingbox":["43.1854996","43.1855996","2.9980739","2.9981739"],"lat":"43.1855496","lon":"2.9981239","display_name":"2, Quai de Lorraine, Résidence du Parc, Domaine Saint-Charles, Narbonne, Aude, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 11100, France","class":"place","type":"house","importance":0.401}]
-Tous les samedis de 14h à 17
-http://www.gonarbonne.fr
-
-Club d%27Ispagnac.
-Bibliothèque municipale
-Bibliothèque municipale, 48320 Ispagnac
-[{"place_id":"117989707","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"249090370","boundingbox":["44.369764","44.369859","3.535034","3.535228"],"lat":"44.3698055","lon":"3.53513046778711","display_name":"Bibliothèque municipale, Rue de la Portette, Ispagnac, Florac, Lozère, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 48320, France","class":"amenity","type":"library","importance":0.311,"icon":"http:\/\/nominatim.openstreetmap.org\/images\/mapicons\/amenity_library.p.20.png"}]
-Le Mardi à 21h
-nosite
-
-Club de Go d%27Avignon
-Château de la chapelle, 2 ieme étage
-84 Châteauneuf de Gadagne, Avignon
-[{"place_id":"142010486","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"relation","osm_id":"148161","boundingbox":["43.9086365","43.952862","4.9187232","4.9681813"],"lat":"43.9279198","lon":"4.9447282","display_name":"Châteauneuf-de-Gadagne, Avignon, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, 84470, France","class":"boundary","type":"administrative","importance":0.88002127073114,"icon":"http:\/\/nominatim.openstreetmap.org\/images\/mapicons\/poi_boundary_administrative.p.20.png"}]
-Le Mercredi de 16h30 à 22h
-nosite
-
-Club de Valreas
-Collège Vallis Aéria salle A4
-Collège Vallis Aéria, Av. Jean Moulin, 84600 Valréas
-[{"place_id":"16458926","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"node","osm_id":"1712518296","boundingbox":["44.3863185","44.3864185","5.0056118","5.0057118"],"lat":"44.3863685","lon":"5.0056618","display_name":"Collège Vallis Aéria, Avenue Jean Moulin, Valréas, Avignon, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, 84600, France","class":"highway","type":"bus_stop","importance":0.711,"icon":"http:\/\/nominatim.openstreetmap.org\/images\/mapicons\/transport_bus_stop2.p.20.png"}]
-mardi, vendredi : 13h - 14h
-http://valreas.jeudego.org
-
-Club de Valreas
-salle Marius, Maison des associations
-Cours Victor Hugo 84600 Valréas
-[{"place_id":"95222266","licence":"Data © OpenStreetMap contributors, ODbL 1.0. http:\/\/www.openstreetmap.org\/copyright","osm_type":"way","osm_id":"154944657","boundingbox":["44.3843688","44.386534","4.9875678","4.9904677"],"lat":"44.3856017","lon":"4.9886692","display_name":"Avenue Charles de Gaulle, Valréas, Avignon, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, 84600, France","class":"highway","type":"secondary","importance":0.21}]
-le samedi de 14 à 18 heures
-http://valreas.jeudego.org
+"coordinates": [4.0223333, 49.2511862]}, "properties": {"description": " Reims - Reims No Dan bar le kilberry 182 rue de Vesle, 51100 Reims Tous les mardi à partir de 19h http://www.kilberry.fr/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [6.1302911, 45.9204602]}, "properties":{"description": " Annecy Baptiste Chopin 4 RUE DES EDELWEISS 74000 ANNECY Tous les vendredi, de 20h30 à 23h30.  http://annecy.jeudego.org"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [6.1221154, 45.8953459]}, "properties":{"description": " MJC ARCHIPEL SUD GYMNASE DES BALMETTES 12 AV LUCIEN BOSCHETTI 74000 ANNECY Le vendredi à partir de 20h30 http://annecy.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [4.3867316, 44.6221146]}, "properties":{"description": " Aubenas - Couleur GO Couleur Café 1 PLACE JACQUES ROURE 07200 AUBENAS Tous les jeudi soirs de 20h30 http://club-go-aubenas.blogspot.de/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [5.71819943595166, 45.1920943]}, "properties":{"description": " Club de Go de Grenoble ADAJE 8 rue Aristide Bergès Samedi De 14h à 18h http://grenoble.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [5.71834732264151, 45.1894479]}, "properties":{"description": " Club de Go de Grenoble Restaurant le PAV SAN 43 Avenue Alsace Lorraine, 38000 Grenoble Mercredi A partir de 20h30 http://grenoble.jeudego.org/pav-san/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [5.7338798, 45.1947015]}, "properties":{"description": " Club de Go de Grenoble l’école BIZANET 53 Avenue Maréchal Randon, 38000 Grenoble Mercredi de 14h00 à 16h00 http://grenoble.jeudego.org/informations-horaires/club-scolaire-et-ecole-de-go/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [5.7247061, 45.1857722]}, "properties":{"description": " Club de Go de Grenoble Bar LA NATATION 32 Boulevard Gambetta, 38000 Grenoble Tournois de Blitz tous les premiers lundi du mois http://grenoble.jeudego.org/la-natation/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [4.8364512, 45.7657527]}, "properties":{"description": " Go Club Lyon Shinogi Restaurant Hua Yuan Xuan 20 rue Mulet Lyon 1er Lundi 19h - 22h30 http://lyon-shinogi.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [4.8449802, 45.7512558]}, "properties":{"description": " Go Club Lyon Shinogi Bistrot Chez Thibault 80 rue Montesquieu Lyon 7e Mercredi 18h30 - 23h http://lyon-shinogi.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [4.8629475, 45.7691648]}, "properties":{"description": " Go Club Lyon Shinogi Espace Lyon-Japon 16 Rue Bellecombe Lyon 6e Jeudi 17h - 19h http://lyon-shinogi.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [4.8473375, 45.7570833]}, "properties":{"description": " Go Club Lyon Shinogi Salle associative 233 rue Vendôme Lyon 3e Samedi 14h - 19h http://lyon-shinogi.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [5.9253014, 45.5669659]}, "properties":{"description": " Chambéry Maison des Associations 67 RUE ST FRANÇOIS DE SALES, 73000 CHAMBÉRY Le mercredi Après-midi de 15h30 à 18h00; Soirée de 18h30 à 22h00; Le samedi Après-midi de 15h à 18h30 en salle B212 http://chambery.jeudego.org"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.3635154, 48.868001]}, "properties":{"description": " Chambéry Bar Pause Café 215 Rue République Le jeudi soir de 20h45-21h00 http://chambery.jeudego.org"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [4.9100484, 44.9236125]}, "properties":{"description": " Valence - GONIROKU GONIROKU, MJC GRAND CHARRAN 61 AVENUE DU GRAND CHARRAN 26000 VALENCE Tous les Mercredi à partir de 18h30 http://goniroku.skyrock.com/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.3524205, 48.8474706]}, "properties":{"description": " Club de Paris - Jussieu Restaurant le Royal Jussieu 1 RUE DES ÉCOLES 75005 PARIS Le Jeudi de 19h à 23h http://gojussieu.free.fr/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.300436, 48.7502414]}, "properties":{"description": " Antony 1 Place des Anciens Combattants d'Afrique du Nord 1 Place des Anciens Combattants dAfrique du Nord, 92160 Antony Le jeudi de 19h30 à 23h, Le samedi de 14h à 17h http://antony.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.3780216, 48.8500447]}, "properties":{"description": " Club de Go d%27Aligre (Paris XIIe) Le Troll Café 27 RUE DE COTTE, PARIS le mardi à partir 18H http://www.aligre.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.2370825, 48.8276817]}, "properties":{"description": " Club de Boulogne-Billancourt Club de Boulogne Billancourt 17 ALLÉE ROBERT DOISNEAU 92100 BOULOGNE BILLANCOURT Le vendredi de 20h à minuit http://boulogne.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.3330426, 48.7963426]}, "properties":{"description": " Cercle de Go à la maison Tilly Cercle d Activités Culturelles Cachan, Maison Tilly 3 rue Raspail 94230 Cachan Le Lundi de 19h45 à 21h pour les jeunes et l%27initiation, et de 20h à 23h pour les adultes http://cachan.jeudego.org"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.3033547, 48.8372731]}, "properties":{"description": " Club de l%27Ouest Parisien.  Local social du COP 43 rue La Quintinie - Paris-15e Le samedi de 14h30 à 19h, http://cop.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.3939591, 48.8717808]}, "properties":{"description": " Paris XX Club Pierre Desproges et Dolly Parton Bar «Les Trois-Arts» 21 rue des Rigoles 75020 Paris Le club ne se réunit plus, mais des jeux sont à votre disposotion, demander au bar http://victoire.b.free.fr/Paris20/index.html"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.2596328, 48.9314889]}, "properties":{"description": " Club de Colombes Association TUMCLASST 2 avenue Jean Jaurès, colombes le second samedi du mois de 15h à 19h au salon de thé - laverie Tout un monde http://www.tumclasst.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.2922588, 48.8953403]}, "properties":{"description": " Club du Jeu de Go, Levallois-Perret.  Maison des Associations 34 rue Pierre Brossolette 92300 Levallois-Perret Samedi de 14h à 17h.  Jeudi à partir de 20h30. Pour savoir si le club est ouvert un jeudi, contacter Rémy NOËL.  http://levallois.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.352208, 48.8628573]}, "properties":{"description": " Paris - Club de Go de Paris Ouvert tous les jours de 16h.30 à la fermeture Café-Restaurant Le Djurdjura infogo-paris.org "}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.3467261, 48.8324688]}, "properties":{"description": " Paris - Observatoire L%27Observatoire Au café Le Monaco 2 rue Vulpian, Paris Permanences le mercredi de 19h à 23h http://www.goclub-observatoire.com/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [1.9064219, 47.8989265]}, "properties":{"description": " Club de Go d%27Orléans.  Les Becs à Vin 8 place du Châtelet Le mardi soir à partir de 20h30 http://orleans.jeudego.org"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.1898834, 48.6988112]}, "properties":{"description": " Club de Go d%27Orsay Maison des Muses 7+bis+Avenue+Saint+Laurent,+Orsay Mercredi à partir de 20h30 http://orsay.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.4334228, 48.8579954]}, "properties":{"description": " Club de l%27Est Parisien à Montreuil Centre culturel Jean Lurçat place+du+marché,+93100 Le Jeudi de 20h à 22h30, et le Samedi de 15h00 à 19h http://montreuil-cgep.jeudego.org"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.030759, 49.035042]}, "properties":{"description": " Le Club de Vauréal à la Maison Vallerand 49.034831, 2.032363 tous les lundis de 21h à 2h; tous les vendredis partir de 20h à 2h http://vaurealgo.jeudego.org"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.1316077, 48.8073696]}, "properties":{"description": " Club de Versailles Bistro Franco Belge 3 rue de la Pourvoierie Tous les mardis à partir de 20h00.  http://versailles.jeudego.org"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.5571053, 48.2573474]}, "properties":{"description": " Paris SNCF Club d%27entreprise de la SNCF 9 rue de Chateau-Landon les mercredis de 12h30 à 13h45 http://gorail.wix.com/club-go-rail"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-1.1485687, 46.1568966]}, "properties":{"description": " Club de Go de La Rochelle la grosse boîte 65 Rue Saint-Nicolas, 17000 LA ROCHELLE chaque mardi à partir de 18h00, chaque jeudi à partir de 18H00, chaque samedi à partir de 14H00 http://www.golarochelle.com/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.1899502, 48.0076934]}, "properties":{"description": " Le Mans Go Le Mans Go 16 rue du Chêne vert, 72000 LE MANS Le mercredi soir à partir de 20H30 http://lemansgo.over-blog.fr"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.547897081140346, 47.47355415]}, "properties":{"description": " L%27âge de pierre, club de Go d%27Angers.  Café le Welsh place Imbach, Angers Le Samedi de 17h à 20h http://lagedepierre.over-blog.com/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-3.4580295, 48.736696]}, "properties":{"description": " Go&Lan : Club de Go du Trégor Bar %27Les Valseuses%27 1 rue de la Coudraie, 22300 LANNION les JEUDI soirs, A partir de 20h30, Il est prudent de lancer un appel sur la liste avant de venir (surtout en période de vacances scolaires).  http://www.lesvalseuses.net/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-4.468688, 48.4041422]}, "properties":{"description": " Brest - Tenuki MPT Pen ar Créac%27h 17+rue+Professeur+Chrétien,+29200+Brest le vendredi soir à partir de 20h http://tenuki-brest.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-3.3586441, 47.7512076]}, "properties":{"description": " Club de Lorient.  Cité Allende 12+rue+Colbert,+56100+Lorient Le samedi de 14h à 18h http://goanoriant.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-3.3835195, 47.7603015]}, "properties":{"description": " Club de Lorient.  Galway Inn 18 rue de Belgique, 56100 Lorient Le mardi à partir de 20h, http://www.pubgalway-lorient.com/accueil.htm"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-3.9129148, 47.8726195]}, "properties":{"description": " Club de Concarneau Bar Le Cabestan Ville-Close+Concarneau Le Samedi à 14h30 nosite"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-1.5498472, 47.2062504]}, "properties":{"description": " club de go de Nantes Maison des jeux 14 rue Michel Rocher, Nantes le samedi après-midi de 14 heures à 19 heures http://nantes.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [1.5580515, 43.5152281]}, "properties":{"description": " club de go de Nantes Café du commerce 9 pl Commerce les Lundi et Mercredi à partir de 18H http://nantes.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-1.5355901, 47.2217991]}, "properties":{"description": " club de go de Nantes AJFJ 75 rue d’Allonville, Nantes les mardi à partir de 18h30 http://nantes.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-1.6981817, 48.1138233]}, "properties":{"description": " Rennes Club Rengo Institut Confucius 17 rue de Brest, 35000 Rennes Les samedis de 15h00 à 18h00 http://rennes.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [1.67535031022182, 46.8123575]}, "properties":{"description": " Rennes Club Rengo Diapason campus de Beaulieu Les Jeudis entre 12h et 14h http://rennes.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-1.6740972, 48.1063566]}, "properties":{"description": " Rennes Club Rengo Bar L%27Heure du Jeu 11 Bd Magenta, 35000 Rennes Les lundis de 20h00 à 01H00 http://rennes.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [1.012608, 47.4134641]}, "properties":{"description": " Club de go de Touraine.  Amboise, hotel Ibis Chemin+du+Roy,+37400+Amboise Le vendredi http://touraine.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.688085440742972, 47.3954867]}, "properties":{"description": " Club de go de Touraine.  bar-restaurant les Blancs-Manteaux 27 rue Colbert, Tours Le jeudi http://touraine.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.3444278, 46.5828369]}, "properties":{"description": " Club de Go du Poitou Au Café des Arts, 5 Place Charles de Gaulle, Poitiers, tous les mardis à 21h00.  http://poitiers.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.3659699, 49.186748]}, "properties":{"description": " Go Club de Caen Le Kitch café 100 Rue de Geôle, 14000 Caen Le Mardi soir http://caen.jeudego.org"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0941029, 49.497372]}, "properties":{"description": " Club du Havre S A M St Vincent Rue+Guillemard,+Le+Havre Le lundi de 18h à 20h30 http://clubdegohavrais.wordpress.com"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [1.0803548, 49.4279612]}, "properties":{"description": " Description : Club de Rouen Maison Saint-Sever Rue Saint-Julien, 76000 Rouen Le Mardi de 20h00 à 24h; Le Samedi de 14H à 18H http://rouen.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [1.1572835, 49.0376167]}, "properties":{"description": " Évreux A l%27Eure du go 2 Avenue Aristide Briand 27000 Evreux Samedi soir à partir de 17H aleuredugoyahoo.fr"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-1.4720451, 43.4897198]}, "properties":{"description": " Club de go de Bayonne Café des Pyrénées 62 rue Pannecau, Bayonne.  Les Mardis à partir de 18h.  http://bayonne.jeudego.org"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-52.3317557, 4.9434517]}, "properties":{"description": " Guyane - Club de go Place des Amandiers pl+Auguste+Horth,+CAYENNE les samedi entre 10 heures et 12 heures http://gocayenne.blogspot.com/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.5693456, 44.8352719]}, "properties":{"description": " Club de Bordeaux.  La Zone du Dehors 68 cours Victor Hugo - Bordeaux Le jeudi soir entre 18h00 et 22h00 environ à la ZDD http://www.kitani.org"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.5714713, 44.8365008]}, "properties":{"description": " Club de Bordeaux.  Café jeux Jeux Barjo 12 rue Saint-James, 33000 Bordeaux Le Samedi à 14h30, au http://www.kitani.org"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [4.5328337, 46.5261652]}, "properties":{"description": " Club de Bordeaux.  Le bistroquet 173, Cours de L%27yser Le mardi soir à partir de 20H00 http://www.kitani.org"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.5710535, 43.4955325]}, "properties":{"description": " Pau MJC du Lau 81+avenue+Loup,+Pau Le Samedi de 14h30 à 18h, à la http://pau.jeudego.org"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.3741493, 43.2973105]}, "properties":{"description": " Pau Librairie-Bar l%27Entropie Rue Bernadotte, 64000 Pau En semaine http://pau.jeudego.org"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [1.34, 43.4411]}, "properties":{"description": " Toulouse - Club Go Seigen Section Muret Restaurant L’Arche 21 route d’Eaunes, 31600 MURET Le lundi après-midi Le samedi après-midi Horaires d’hiver : Du lundi au mercredi : de 9h00 à 19h00 sans interruption Du jeudi au samedi : de 9h00 à 23h00 sans interruption http://toulouse.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [1.2797737, 43.6183104]}, "properties":{"description": " Toulouse - Club Go Seigen, Section Pibrac salle du 3ème âge Boulevard des Écoles, Pibrac les lundis soir à partir de 21h http://toulouse.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [1.4370899, 43.610843]}, "properties":{"description": " Toulouse - Club Go Seigen Le Cactus 13 boulevard Lascrosses, 31000 Toulouse Le Mercredi soir de 19h à 23h http://toulouse.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [1.488117, 43.6128169]}, "properties":{"description": " Toulouse - Club Go Seigen Section Balma salle COMPAS 4+rue+des+Jardins,+Balma les jeudis soirs de 20h30 à 23h Et tous les deuxième et 4ème samedi de chaque mois http://fr.groups.yahoo.com/group/section_go_balma/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [1.3638494, 43.6114244]}, "properties":{"description": " Toulouse - Club Go Seigen C.E. Airbus Airbus,+Toulouse Les Mardi et Jeudi de 12h15 à 14h http://toulouse.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [1.3834067, 43.5641396]}, "properties":{"description": " Toulouse - Club Go Seigen C.E. Thales 105 av. du Général Eisenhower, 31100 Toulouse Le Mardi de 12h30 à 14h, au http://toulouse.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [1.4940079, 43.5811093]}, "properties":{"description": " Toulouse - Club Go Seigen Salle Omega, bâtiment B, C.S.  Rue Brindejonc des Moulinais, 31500 Toulouse Tous les mercredi de 12h15 à 14h, http://toulouse.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [1.36200135474462, 43.60290985]}, "properties":{"description": " Toulouse - Club Go Seigen C.E. C.S.  Europarc à St martin du touch tous les jeudi de 12h15 à 14h http://toulouse.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [1.5013216, 43.6041831]}, "properties":{"description": " Toulouse - Club Go Seigen Ecole de GO 63+Rue+Antoine+de+Saint-Exupéry,+Toulouse Les vendredi soir de 18h à 20h http://toulouse.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [1.29667416574368, 43.826081]}, "properties":{"description": " Toulouse - Club Go Seigen Section Grisolles Ludothèque de Grisolles 11 rue de la Campadou, 82170 Grisolles Les 2nd et 4ème jeudis du mois à 21h http://toulouse.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.4994288, 43.8892157]}, "properties":{"description": " Club de Mont de Marsan.  bar l%27Aviator 2 place St Roch, 40000 Mont-de-Marsan Le Jeudi à partir de 20h., au http://marsan.jeudego.org"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [55.4521915, -20.8737803]}, "properties":{"description": " Saint-Denis Récréateurs, ancienne gare routière de Saint-Denis, sur le front de mer rue+neuve,+saint-denis,+reunion Tous les mardis à 18h00. Prévenez à l%27avance par courriel à clubdego974@gmail.com clubdego974gmail.com"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [ 55.4776174, -21.3412979 ]}, "properties":{"description": " Tous les mercredis soir Saint-Pierre lieu variable Saint-Pierre nosite"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [3.083602, 45.7808856]}, "properties":{"description": " Le Lundi à partir de 19h, Groupe Auvergnat de Go Café-Lecture Les Augustes 5 rue sous les Augustins, 63000 Clermont-Ferrand http://graug.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [3.0811813, 45.7786471]}, "properties":{"description": " Club de Clermont-Ferrand.  BAR LE MAYERLING 4+rue+Saint-Dominique,+CLERMONT-FERRAND LES MARDI ET JEUDI DE 18H30 A MINUIT http://neversgo.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [3.1518447, 46.9875564]}, "properties":{"description": " Club de Clermont-Ferrand.  Centre Social VERT-PRE 1+rue+de+VertPré,+58000+Nevers Le Vendredi de 17h15 à 20h15 (et plus ...), au Centre Social de Vert-Pré http://neversgo.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [4.3905008, 45.4364026]}, "properties":{"description": " Club de Saint Étienne.  Restaurant %27La Friterie%27 9 Rue Georges Dupré, 42000 Saint Etienne le Mercredi soir à partir de 20h à %27La Friterie%27 "}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [5.9294251, 43.1247016]}, "properties":{"description": " Toulon - Variation Go Club restaurant « Le Richardi » 25+Rue+de+la+Comédie,+83000+Toulon les Jeudi de 17h30 à 22h00 http://toulon.jeudego.org/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [5.4449388, 43.5276886]}, "properties":{"description": " Le club de Go provençal Au Goût Du Monde 38+rue+des+Bernardines,+Aix-En-Provence Le samedi à partir de 15h30 http://www.aixetgo.fr/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [5.4546846, 43.5285548]}, "properties":{"description": " Le club de Go provençal Ecole de Go café culturel et citoyen 23 Boulevard Carnot Aix-En-Provence 2 samedis par mois de 10h00 à 11h30 http://www.aixetgo.fr/"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [2.9981239, 43.1855496]}, "properties":{"description": " GO Narbonne Assoc%27épicée 2 quai de lorraine, 11100 NARBONNE Tous les samedis de 14h à 17 http://www.gonarbonne.fr"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [3.53513046778711, 44.3698055]}, "properties":{"description": " Club d%27Ispagnac.  Bibliothèque municipale Bibliothèque municipale, 48320 Ispagnac Le Mardi à 21h nosite"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [4.9447282, 43.9279198]}, "properties":{"description": " Club de Go d%27Avignon Château de la chapelle, 2 ieme étage 84 Châteauneuf de Gadagne, Avignon Le Mercredi de 16h30 à 22h nosite"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [5.0056618, 44.3863685]}, "properties":{"description": " Club de Valreas Collège Vallis Aéria salle A4 Collège Vallis Aéria, Av. Jean Moulin, 84600 Valréas mardi, vendredi : 13h - 14h http://valreas.jeudego.org"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [4.9886692, 44.3856017]}, "properties":{"description": " Club de Valreas salle Marius, Maison des associations Cours Victor Hugo 84600 Valréas le samedi de 14 à 18 heures http://valreas.jeudego.org"}},
