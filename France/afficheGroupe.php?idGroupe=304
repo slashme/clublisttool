@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html
+   PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr">
+<head>
+  <title>F&eacute;d&eacute;ration Fran&ccedil;aise de Go</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta http-equiv="Content-Script-Type" content="text/javascript" />
+  <link href="../css/ffg.css" rel="stylesheet" type="text/css" />
+  <script type="text/javascript" src="../js/email.js"></script>
+</head>
+<body>
+<div id="ffg_page">
+  <div id="ffg_header">
+    <div id="ffg_header_imgs">
+      <img src="../images/01/header001.png" alt="Logo FFG"
+	    style="width: 163px; height: 98px;" />
+      <img src="../images/01/header002-c.jpg" alt="Images du go"
+	   style="width: 603px; height: 98px; float: right;" />
+    </div>
+    <div id="ffg_header_searches">
+      <form id="search_club_form"
+	    action="../php/groupe_dept.php" method="post">
+	<fieldset class="invisible">
+	  <label class="FFG_header" for="departement">|&nbsp;Chercher un
+	    club&nbsp;:</label>
+	  <select name="departement" id="departement">
+	    	    <option>01 - Ain</option>
+	    	    <option>02 - Aisne</option>
+	    	    <option>03 - Allier</option>
+	    	    <option>04 - Alpes de Haute Provence</option>
+	    	    <option>05 - Hautes Alpes</option>
+	    	    <option>06 - Alpes Maritimes</option>
+	    	    <option>07 - Ard&egrave;che</option>
+	    	    <option>08 - Ardennes</option>
+	    	    <option>09 - Ari&egrave;ge</option>
+	    	    <option>10 - Aube</option>
+	    	    <option>11 - Aude</option>
+	    	    <option>12 - Aveyron</option>
+	    	    <option>13 - Bouches du Rh&ocirc;ne</option>
+	    	    <option>14 - Calvados</option>
+	    	    <option>15 - Cantal</option>
+	    	    <option>16 - Charente</option>
+	    	    <option>17 - Charente Maritime</option>
+	    	    <option>18 - Cher</option>
+	    	    <option>19 - Corr&egrave;ze</option>
+	    	    <option>2A - Corse du Sud</option>
+	    	    <option>2B - Haute Corse</option>
+	    	    <option>21 - C&ocirc;te d'or</option>
+	    	    <option>22 - Cotes d'Armor</option>
+	    	    <option>23 - Creuse</option>
+	    	    <option>24 - Dordogne</option>
+	    	    <option>25 - Doubs</option>
+	    	    <option>26 - Dr&ocirc;me</option>
+	    	    <option>27 - Eure</option>
+	    	    <option>28 - Eure et Loir</option>
+	    	    <option>29 - Finist&egrave;re</option>
+	    	    <option>30 - Gard</option>
+	    	    <option>31 - Haute Garonne</option>
+	    	    <option>32 - Gers</option>
+	    	    <option>33 - Gironde</option>
+	    	    <option>34 - H&eacute;rault</option>
+	    	    <option>35 - Ille et Vilaine</option>
+	    	    <option>36 - Indre</option>
+	    	    <option>37 - Indre et Loire</option>
+	    	    <option>38 - Is&egrave;re</option>
+	    	    <option>39 - Jura</option>
+	    	    <option>40 - Landes</option>
+	    	    <option>41 - Loir et Cher</option>
+	    	    <option>42 - Loire</option>
+	    	    <option>43 - Haute Loire</option>
+	    	    <option>44 - Loire Atlantique</option>
+	    	    <option>45 - Loiret</option>
+	    	    <option>46 - Lot</option>
+	    	    <option>47 - Lot et Garonne</option>
+	    	    <option>48 - Loz&egrave;re</option>
+	    	    <option>49 - Maine et Loire</option>
+	    	    <option>50 - Manche</option>
+	    	    <option>51 - Marne</option>
+	    	    <option>52 - Haute Marne</option>
+	    	    <option>53 - Mayenne</option>
+	    	    <option>54 - Meurthe et Moselle</option>
+	    	    <option>55 - Meuse</option>
+	    	    <option>56 - Morbihan</option>
+	    	    <option>57 - Moselle</option>
+	    	    <option>58 - Ni&egrave;vre</option>
+	    	    <option>59 - Nord</option>
+	    	    <option>60 - Oise</option>
+	    	    <option>61 - Orne</option>
+	    	    <option>62 - Pas de Calais</option>
+	    	    <option>63 - Puy de D&ocirc;me</option>
+	    	    <option>64 - Pyr&eacute;n&eacute;es-Atlantiques</option>
+	    	    <option>65 - Hautes Pyr&eacute;n&eacute;es</option>
+	    	    <option>66 - Pyr&eacute;n&eacute;es Orientales</option>
+	    	    <option>67 - Bas Rhin</option>
+	    	    <option>68 - Haut Rhin</option>
+	    	    <option>69 - Rh&ocirc;ne</option>
+	    	    <option>70 - Haute Sa&ocirc;ne</option>
+	    	    <option>71 - Sa&ocirc;ne et loire</option>
+	    	    <option>72 - Sarthe</option>
+	    	    <option>73 - Savoie</option>
+	    	    <option>74 - Haute Savoie</option>
+	    	    <option>75 - Paris</option>
+	    	    <option>76 - Seine Maritime</option>
+	    	    <option>77 - Seine et Marne</option>
+	    	    <option>78 - Yvelines</option>
+	    	    <option>79 - Deux S&egrave;vres</option>
+	    	    <option>80 - Somme</option>
+	    	    <option>81 - Tarn</option>
+	    	    <option>82 - Tarn et Garonne</option>
+	    	    <option>83 - Var</option>
+	    	    <option>84 - Vaucluse</option>
+	    	    <option>85 - Vend&eacute;e</option>
+	    	    <option>86 - Vienne</option>
+	    	    <option>87 - Vienne Haute</option>
+	    	    <option>88 - Vosges</option>
+	    	    <option>89 - Yonne</option>
+	    	    <option>90 - Territoire de Belfort</option>
+	    	    <option>91 - Essonne</option>
+	    	    <option>92 - Hauts de seine</option>
+	    	    <option>93 - Seine st Denis</option>
+	    	    <option>94 - Val de Marne</option>
+	    	    <option>95 - Val d'Oise</option>
+	    	    <option>971 - Guadeloupe</option>
+	    	    <option>972 - Martinique</option>
+	    	    <option>973 - Guyane</option>
+	    	    <option>974 - La R&eacute;union</option>
+	    	    <option>975 - St Pierre et Miquelon</option>
+	    	    <option>976 - Mayotte</option>
+	    	    <option>984 - Terres Australes et Ant.</option>
+	    	    <option>986 - Wallis et Futuna</option>
+	    	    <option>987 - Polyn&eacute;sie Fran&ccedil;aise</option>
+	    	    <option>988 - Nouvelle Cal&eacute;donie</option>
+	    	  </select><input class="recherche" type="submit" value="Ok" />
+	</fieldset>
+      </form>
+      <form id="search_player_form"
+	    action="../php/listePersonnes.php" method="post">
+	<fieldset class="invisible">
+	  <label class="FFG_header" for="semence">|&nbsp;Chercher un
+	    joueur&nbsp;:</label>
+	  <input type="text" name="semence" id="semence" value=""
+		 /><input class="recherche" type="submit" value="Ok" />
+	</fieldset>
+      </form>
+    </div>
+  </div>
+<!-- menu et contenu -->
+  <div id="ffg_main">
+    <div id="ffg_main_menu">
+      <!-- ************* Page d'accueil -->
+      
+<p class="menu_FFG_item">
+  <a href="../english/english.php"><img src="../english/union_jack.jpg"
+                                   alt="English page"
+                                   title="English page"/></a>
+</p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="../index.php">Accueil</a></p>
+      <!-- ************* Découvrir le go -->
+      <p class="menu_FFG_title"><img src="../images/01/decouvrir_go.gif" style="width: 150px; height: 16px;" alt=""/></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="http://jeudego.org" onclick="window.open(this.href, '_blank'); return false">Le jeu de Go</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="../php/acheterUnJeu.php">Acheter un jeu</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="../php/selectDepartement.php">S'initier dans un club</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="../php/jouerSurInternet.php">S'initier sur Internet</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="http://rfg.jeudego.org" onclick="window.open(this.href, '_blank'); return false">Revue Fran&ccedil;aise de Go</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="../video/list_movies.php">Vid&eacute;os</a></p>
+      <!-- ************* Competitions -->
+      <p class="menu_FFG_title"><img src="../images/01/competitions.gif" style="width: 150px; height: 16px;" alt=""/></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="http://jeudego.org/regles/reg_set.htm" onclick="window.open(this.href, '_blank'); return false">R&egrave;gle officielle</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="../informations/competitions/competitions.php">Comp&eacute;titions f&eacute;d&eacute;rales</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="../evenements/calendrier.php?type=ToutSaufEtranger">Calendrier</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="../resultats/resultats.php">R&eacute;sultats</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="../echelle/echelle.php">Échelle de niveau</a></p>
+      <!-- ************* Enseignement -->
+      <p class="menu_FFG_title"><img src="../images/01/enseignement.gif" style="width: 150px; height: 16px;" alt=""/></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="../informations/formations/presentation.php">Pr&eacute;sentation</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="../informations/formations/formations.php">Formations</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="../evenements/calendrier.php?type=Stage">Stages</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="../informations/goscolaire/go_scolaire.php">Go scolaire</a></p>
+      <!-- ************* Vie federale -->
+      <p class="menu_FFG_title"><img src="../images/01/vie_federale.gif" style="width: 150px; height: 16px;" alt=""/></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="../informations/officiel/presentation.php">Pr&eacute;sentation</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="../informations/officiel/organigramme.php">Organigramme</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="../informations/officiel/statuts.php">Statuts et r&eacute;glements</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="../informations/officiel/cr.php">Comptes-rendus</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="../informations/officiel/demarches.php">D&eacute;marches et services</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="../informations/officiel/listes.php">Listes de diffusion</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="http://ffg-jeunes.jeudego.org/" onclick="window.open(this.href, '_blank'); return false">Site jeunes</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="http://animations.jeudego.org/" onclick="window.open(this.href, '_blank'); return false">Site animations</a></p>
+      <!-- ************* Affilies -->
+      <p class="menu_FFG_title"><img src="../images/01/affilies.gif" style="width: 150px; height: 16px;" alt=""/></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="../php/listePersonnes.php">Licenci&eacute;s</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="../php/listeClubs.php">Clubs</a></p>      <p class="menu_FFG_item"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="../php/listeLigues.php">Ligues</a></p>
+      <p class="menu_FFG_item" style="margin-top: 10px;"><img class="menu_FFG_puce" src="../images/01/puce.gif" alt="" /><a href="../php/liens.php">Les liens du Go</a></p>      <p><a href="../php/credits.php">
+	  <em class='mini'>Cr&eacute;dits</em></a>
+      </p>
+    </div>
+    <div id="ffg_main_content">
+<h2>La Rochelle (17Ro)</h2>
+<h3><a href="afficheGroupe.php?idGroupe=3">Ligue de l'Ouest</a></h3>Bienvenue au Club de Go de La Rochelle !!<br />
+Nous sommes une dizaine à nous réunir trois fois par semaine dans une bonne ambiance pour partager notre passion du go!<br />
+<br />
+Situé rue Saint Nicolas le café jeu 'La Grosse Boîte' offre un lieu convivial et chaleureux pour passer un bon moment autour d'un Goban.<br />
+Initiation ou pratique régulière<br />
+Venez nombreux !<br/><br/>
+Site Internet&nbsp;:
+<a href="http://www.golarochelle.com/"
+   target=_blank>http://www.golarochelle.com/</a><br/><br/>Email&nbsp;: <a href="#" onclick="javascript:sphinx('17Ro', 'jeudego.org');">17Ro<img src="../images/at.jpg" style="border: none;" alt="" />jeudego.org</a><br/><br/>
+<table border='0' style='margin:0px;padding:0px;border-collapse:collapse;'>
+<tr><td style='vertical-align:top;'>
+Adresse&nbsp;:&nbsp;</td>
+<td style='vertical-align:top;'>
+Chez Alain Porte<br/>9 RUE MARC SANGNIER<br/>17000  LA ROCHELLE
+</td></tr>
+</table><br/>
+<br/>
+<hr />
+<table cellpadding='5'>
+
+<tr>
+<td valign='top'><strong>Président&nbsp;:</strong></td>
+<td valign='top'>
+<a href='/php/affichePersonne.php?id=8769'>Alain PORTE</a>
+</td></tr>
+<tr>
+<td valign='top'><strong>Trésorier&nbsp;:</strong></td>
+<td valign='top'>
+<a href='/php/affichePersonne.php?id=11291'>Jean Renaud ARENILLAS</a>
+</td></tr>
+<tr>
+<td valign='top'><strong>Secrétaire&nbsp;:</strong></td>
+<td valign='top'>
+<a href='/php/affichePersonne.php?id=11290'>Antoine SOBOCINSKI</a>
+</td></tr>
+<tr>
+<td valign='top'>Administrateur&nbsp;:</td>
+<td valign='top'>
+<a href='/php/affichePersonne.php?id=12063'>Benoit PINAUD</a>,<br/>
+<a href='/php/affichePersonne.php?id=11455'>Bertrand VACHON</a>
+</td></tr>
+<tr>
+<td valign='top'>Responsable licences&nbsp;:</td>
+<td valign='top'>
+<a href='/php/affichePersonne.php?id=8769'>Alain PORTE</a></td></tr>
+</table>
+<br/>
+<hr align="center">
+<h3>Troisième tournoi Rochelais</h3>NOUVELLE DATE  4 et 5 juin pour le troisième   tournoi rochelais qui se tiendra pour la seconde  dans  l'Ile de Ré au camping de l'océan<br />
+Toutes les infos  seront bientôt sur le site du club rochelais <br />
+Mais nous confirmons : un  lot pour  chacun, la plage pour tous!!<br />
+A bientôt à La Rochelle.<br/><br/>
+Site Internet&nbsp;:
+<a href="http://www.golarochelle.com/">http://www.golarochelle.com/</a>
+<br/><br/>
+Email&nbsp;: <a href="#" onclick="javascript:sphinx('17Ro', 'jeudego.org');">17Ro<img src="../images/at.jpg" style="border: none;" alt="" />jeudego.org</a>
+<br/><br/>
+<hr align="center">
+<h3>Rencontres du mercredi soir sur KGS</h3>Joueurs du club rochelais (for your eyes only!!), le mercredi soir, sur KGS (21 h) dans la salle du club, Antoine D. et Maxence se relaient pour vous faire progresser. Tout ce que vous avez toujours voulu savoir sur le go sans jamais avoir oser le demander. Avec  sérieux, quand même mais a consommer sans modération!<br/><br/>
+Site Internet&nbsp;:
+<a href="https://www.gokgs.com/">https://www.gokgs.com/</a>
+<br/><br/>
+<hr align="center">
+<h3>Rochefort la grosse boite</h3>Un nouveau créneau d'initiation-jeu vient de démarrer à la Grosse boite de Rochefort (62 rue cochon duvivier)<br />
+Tous les vendredis vers 18 h ceux qui veulent découvrir le go ou rencontrer des joueurs pourront nous y retrouver.<br />
+Débutants ou confirmés passez nous voir!<br/><br/>
+<hr align="center">
+<h3>La Grosse Boîte</h3>Les mardi et Jeudi à partir de 18h,  le samedi à partir de 14h à La Grosse Boîte<br />
+65 rue St Nicolas<br />
+17000 La Rochelle<br />
+<br />
+Tél : 06.28.50.29.02<br/><br/>
+<hr align="center"><br><a href="../echelle/echelle_niveau.php?strage=0&strgroupe=17Ro">Echelle de niveau pour ce club</a><br>
+<h3>25 membres&nbsp;:</h3>
+<table width='100%'><tr><td valign='top'><a href="affichePersonne.php?id=11291">ARENILLAS Jean Renaud</a><br/><a href="affichePersonne.php?id=10800">BACHRI Amine</a><br/><a href="affichePersonne.php?id=10916">CHABIN Alizée</a><br/><a href="affichePersonne.php?id=11991">D'AFFLON Aymeric</a><br/><a href="affichePersonne.php?id=12015">DELSALLE Titouan</a><br/><a href="affichePersonne.php?id=1259">DHUR Antoine</a><br/><a href="affichePersonne.php?id=11751">DROUILLET Antony</a><br/><a href="affichePersonne.php?id=12062">ENPRUN-THOMAS Neil</a><br/>
+</td>
+<td valign='top'><a href="affichePersonne.php?id=11852">IMBERT Chloé</a><br/><a href="affichePersonne.php?id=11808">LE DUS Lauriane</a><br/><a href="affichePersonne.php?id=11659">LI Haohan</a><br/><a href="affichePersonne.php?id=10834">LOTHE Maxence</a><br/><a href="affichePersonne.php?id=12064">MAURAT Martine</a><br/><a href="affichePersonne.php?id=12065">MUREAU Anémone</a><br/><a href="affichePersonne.php?id=11996">NGUYEN Nhu Van</a><br/><a href="affichePersonne.php?id=11738">PINAUD Baptiste</a><br/><a href="affichePersonne.php?id=12063">PINAUD Benoit</a><br/>
+</td>
+<td valign='top'><a href="affichePersonne.php?id=8769">PORTE Alain</a><br/><a href="affichePersonne.php?id=12098">POURTAU Michael</a><br/><a href="affichePersonne.php?id=11313">RIETTINI François</a><br/><a href="affichePersonne.php?id=11485">RUIZ Clovis</a><br/><a href="affichePersonne.php?id=12061">SCHURDER Joshua</a><br/><a href="affichePersonne.php?id=11290">SOBOCINSKI Antoine</a><br/><a href="affichePersonne.php?id=11716">SOLDATI Mathias</a><br/><a href="affichePersonne.php?id=11455">VACHON Bertrand</a><br/>
+</td></tr>
+</table>
+<br><a href="modifClub.php?idGroupe=304">Demander une correction</a>
+<script type="text/javascript"><!--
+document.write('<div style="text-align: right;"><a href="javascript: history.go(-1);">Retour</a></div>');
+--></script>
+    </div> <!-- ffg_main_content -->
+  </div> <!-- ffg_main -->
+  <div id="ffg_footer">
+    <p class="footer">Toutes informations de ce site &copy; F&nbsp;F&nbsp;G -
+      Site déclaré à la CNIL sous le N° 1009012 le
+      22 Mars 2004<br/>
+      Fédération
+      Française de Go BP 95 75262 Paris Cedex 06 -
+      <a href="#" onclick="javascript:sphinx('contact', 'jeudego.org');">Contact F.F.G.</a>      -
+      <a href="#" onclick="javascript:sphinx('webmestre', 'jeudego.org');">Contact webmaster</a>    </p>
+  </div>
+</div> <!-- ffg_page -->
+
+</body>
+</html>
