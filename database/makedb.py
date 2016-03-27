@@ -28,5 +28,10 @@ CREATE TABLE clubs
   FOREIGN KEY(layer) REFERENCES layers(name) --Which layer is it on?
 )
 ''')
-con.execute("INSERT INTO layers (name, description, color) VALUES ('Deutschland', 'Deutsche Go-Bund', 'Yellow')")
+con.execute("INSERT INTO layers (name, description, color) VALUES ('DE',?,?)", (u'Deutsche Go-Bund', 'Yellow'))
+con.execute("INSERT INTO layers (name, description, color) VALUES ('ES',?,?)", (u'http://aego.biz', 'Gold'))
+con.execute("INSERT INTO layers (name, description, color) VALUES ('FR',?,?)", (u'http://ffg.jeudego.org/', 'Blue'))
+con.execute("INSERT INTO layers (name, description, color) VALUES ('NL',?,?)", (u'Nederlandse Go-Bond: https://gobond.nl/verenigingen', 'Orange'))
+con.execute("INSERT INTO layers (name, description, color) VALUES ('UK',?,?)", (u'British Go Association: http://www.britgo.org/clubs/list', 'Red'))
+con.execute("INSERT INTO layers (name, description, color) VALUES ('ZA',?,?)", (u'South African Go Association: http://www.sagoclubs.co.za/', 'DarkGreen'))
 con.commit()
