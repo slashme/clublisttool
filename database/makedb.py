@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#Script to create a stub database with a test layer
 
 import sqlite3
 con = sqlite3.connect('clubs.db')
@@ -27,3 +28,5 @@ CREATE TABLE clubs
   FOREIGN KEY(layer) REFERENCES layers(name) --Which layer is it on?
 )
 ''')
+con.execute("INSERT INTO layers (name, description, color) VALUES ('Deutschland', 'Deutsche Go-Bund', 'Yellow')")
+con.commit()
