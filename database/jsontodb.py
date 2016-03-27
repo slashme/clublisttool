@@ -13,8 +13,8 @@ clubdata=json.load(infile)
 #Open database connection
 con = sqlite3.connect('test.db')
 
-#FIXME: finish this
+#At the moment, the geojson just has a single text field
 for club in clubdata['features']:
-  con.execute("INSERT INTO clubs (name, foo) VALUES (blah, foo)")
-
-con.commit()
+  con.execute("INSERT INTO clubs (layer, lon, lat, name) VALUES ('Deutschland', ?, ?, ?)", (club['geometry']['coordinates'][0], club['geometry']['coordinates'][1], club['properties']['description']))
+  #Write it to the database.
+  con.commit()
