@@ -63,6 +63,7 @@ def showclub(clubid):
   club_id=str(clubid)
   showclubtable = [[]] #Hack: Include an empty row so that there will be no table header
   showclubtable += [
+    ['',              ['hidden', '',        'id',        clubid     ] ],
     ['Club name:',    ['input',  'text',    'name',      result[0]  ] ],
     ['Country/group', ['select', result[1], 'layer',     layerlist  ] ],
     ['Latitude',      ['input',  'number',  'lat',       result[2]  ] ],
@@ -76,15 +77,6 @@ def showclub(clubid):
   #return str(showclubtable) #DEBUG 
   output = template('make_table', rows=showclubtable, title='Club %s'%result[0])
   return output
-
-@app.post('/club/<clubid:int>/update/<param>') 
-def do_mod_param(clubid, param):
-  '''
-  Modify single parameter of club based on user form input.
-  "param" should have the form "table.field".
-  '''
-  returnvalue=request.forms.getunicode('returnvalue')
-  return template('not_found', message=returnvalue, title="Not yet implemented") 
 
 @app.route('/list') #List clubs
 def list():
@@ -104,52 +96,47 @@ def list():
   output = template('make_table', rows=showclubtable, title="Club list")
   return output
 
-@app.get('/makeclub') #Create a new club: get action
-def makeclub():
-  '''
-  Create form to list a new club.
-  '''
-  #Get the list of allowed clubtypes to insert into the template.
-  conn = sqlite3.connect('clubs.db')
-  c = conn.cursor()
-  c.execute("SELECT clubtypeid, name FROM clubtypes")
-  clubtypelist = c.fetchall()
-  c.execute("SELECT name FROM engines")
-  enginelist = c.fetchall()
-  c.close()
-  clubform = template('club_form', enginelist=enginelist, clubtypelist=clubtypelist, title="Enter new club") #Generate a form with pre-populated option lists.
-  return clubform
-
-@app.post('/makeclub') #Create a new club: post action
-def do_makeclub():
-  '''
-  Create a new club list entry based on user input form.
-  '''
-  pn=request.forms.getunicode('club_name')
-  ft=request.forms.getunicode('ft')
-  en=request.forms.getunicode('en')
-  maj_ver=request.forms.getunicode('maj_ver')
-  min_ver=request.forms.getunicode('min_ver')
-  ver_suf=request.forms.getunicode('ver_suf')
-  fr1=request.forms.getunicode('fr1')
-  frn=request.forms.getunicode('frn')
-  conn = sqlite3.connect('clubs.db')
-  c = conn.cursor()
-  c.execute('''
-  INSERT INTO clubs(name, majorversion, minorversion, versionsuffix, clubstatus, clubtype, firstframe, lastframe, engine)
-  VALUES 
-    (?, ?, ?, ?, ?, ?, ?, ?, ?)
-  ''', (pn, maj_ver, min_ver, ver_suf, 'stopped', ft, fr1, frn, en))
-  new_club_id = c.lastrowid
-  conn.commit()
-  c.close()
-  return showclub(new_club_id)
-
-@app.route('/club/<clubid:int>') 
+@app.get('/club/<clubid:int>') 
 def showclubbynum(clubid):
   '''
   Return the club by number - showclub will redirect if not valid ID.
   '''
+  return showclub(clubid)
+
+@app.post('/updateclub') 
+def do_mod_param():
+  #FIXME: Hardly any checking going on here...
+  '''
+  Modify club data based on user form input.
+  '''
+  clubid=request.forms.getunicode('id')
+  clubname=request.forms.getunicode('name')
+  clublayer=request.forms.getunicode('layer')
+  clublat=request.forms.getunicode('lat')
+  clublon=request.forms.getunicode('lon')
+  clubwebsite=request.forms.getunicode('website')
+  clubmeetplace=request.forms.getunicode('meetplace')
+  clubmeettime=request.forms.getunicode('meettime')
+  clubstatus=request.forms.getunicode('status')
+  clubtype=request.forms.getunicode('type')
+  #Database connection
+  conn = sqlite3.connect('clubs.db')
+  c = conn.cursor()
+  c.execute('''
+  UPDATE clubs
+    SET 
+      name = ?,
+      layer = ?,
+      lat = ?,
+      lon = ?,
+      website = ?,
+      meetplace = ?,
+      meettime = ?,
+      clubstatus = ?,
+      clubtype = ?
+  WHERE clubid = ?
+  ''', (clubname, clublayer, clublat, clublon, clubwebsite, clubmeetplace, clubmeettime, clubstatus, clubtype, clubid))
+  conn.commit()
   return showclub(clubid)
 
 @app.error(404)
