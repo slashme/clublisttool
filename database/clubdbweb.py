@@ -1,5 +1,5 @@
 import sqlite3, os, errno, datetime, re, urllib
-from bottle import Bottle, route, get, post, request, run, template, debug, error, static_file
+from bottle import Bottle, route, get, post, request, run, template, debug, error, static_file, redirect
 
 app = Bottle()
 
@@ -22,6 +22,7 @@ def showclub(clubid):
     clubs.website,
     clubs.meetplace,
     clubs.meettime,
+    clubs.contact,
     clubs.clubstatus,
     clubs.clubtype
   FROM 
@@ -71,8 +72,9 @@ def showclub(clubid):
     ['Website',       ['input',  'text',    'website',   result[4]  ] ],
     ['Meeting place', ['input',  'text',    'meetplace', result[5]  ] ],
     ['Meeting time',  ['input',  'text',    'meettime',  result[6]  ] ],
-    ['Club status',   ['select', result[7], 'status',    statuslist ] ],
-    ['Club type',     ['select', result[8], 'type',      typelist   ] ]
+    ['Club contact',  ['input',  'text',    'contact',   result[7]  ] ],
+    ['Club status',   ['select', result[8], 'status',    statuslist ] ],
+    ['Club type',     ['select', result[9], 'type',      typelist   ] ]
   ]
   #return str(showclubtable) #DEBUG 
   output = template('make_table', rows=showclubtable, title='Club %s'%result[0])
@@ -117,6 +119,7 @@ def do_mod_param():
   clubwebsite=request.forms.getunicode('website')
   clubmeetplace=request.forms.getunicode('meetplace')
   clubmeettime=request.forms.getunicode('meettime')
+  clubcontact=request.forms.getunicode('contact')
   clubstatus=request.forms.getunicode('status')
   clubtype=request.forms.getunicode('type')
   #Database connection
@@ -132,12 +135,13 @@ def do_mod_param():
       website = ?,
       meetplace = ?,
       meettime = ?,
+      contact = ?,
       clubstatus = ?,
       clubtype = ?
   WHERE clubid = ?
-  ''', (clubname, clublayer, clublat, clublon, clubwebsite, clubmeetplace, clubmeettime, clubstatus, clubtype, clubid))
+  ''', (clubname, clublayer, clublat, clublon, clubwebsite, clubmeetplace, clubmeettime, clubcontact, clubstatus, clubtype, clubid))
   conn.commit()
-  return showclub(clubid)
+  redirect("/club/"+str(clubid))
 
 @app.error(404)
 def error404(error):
