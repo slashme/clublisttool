@@ -12,7 +12,7 @@
 %isaform=False #Is this a form or just a table?
 %for row in rows:
   %for col in row:
-    %if len(col)==4: #Four parameters for an input or select
+    %if col and len(col)==4: #Four parameters for an input or select
       %isaform=True #we're filling in a form; flag to create submit button.
     %end #if
   %end #for col
