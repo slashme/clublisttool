@@ -2,8 +2,13 @@
 %#template to display list of projects in an HTML table. Takes a 2D list.
 %#Each member of the list is a row in the table. Each member of a row is a cell.
 %#Renders the first row as headers.
-%#if an item is a tuple, renders it as an href with the first item as the URL
+%#if an item is a tuple with length 2, renders it as an href with the first item as the URL
 %#and the second item as the text. 
+%#if an item is a tuple with length 4, it renders it as a form input or select:
+%#0: input vs select form item
+%#1: text vs number (if input) or default value (if select)
+%#2: name of form element
+%#3: default value in case of input; list of items in case of select
 <h1>{{title}}</h1>
 <table>
 %i=0 #i is 0 for the title row
