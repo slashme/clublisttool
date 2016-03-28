@@ -13,23 +13,24 @@ def showclub(clubid):
   '''
   conn = sqlite3.connect('clubs.db')
   c = conn.cursor()
-  c.execute('''
-  SELECT
-    clubs.name, 
-    clubs.layer,
-    clubs.lat,
-    clubs.lon,
-    clubs.website,
-    clubs.meetplace,
-    clubs.meettime,
-    clubs.contact,
-    clubs.clubstatus,
-    clubs.clubtype
-  FROM 
-    clubs
-  WHERE clubs.clubid = ?
-  ''', (clubid,))
-  result = c.fetchall()
+  if not clubid=="new":
+    c.execute('''
+    SELECT
+      clubs.name, 
+      clubs.layer,
+      clubs.lat,
+      clubs.lon,
+      clubs.website,
+      clubs.meetplace,
+      clubs.meettime,
+      clubs.contact,
+      clubs.clubstatus,
+      clubs.clubtype
+    FROM 
+      clubs
+    WHERE clubs.clubid = ?
+    ''', (clubid,))
+    result = c.fetchall()
   #Get all the layers as a list
   c.execute('''
   SELECT
@@ -57,6 +58,8 @@ def showclub(clubid):
   typelist = c.fetchall()
   c.close()
   #return str(layerlist) #DEBUG 
+  if clubid=="new":
+    result=[['New club', '', '', '', '', '', '', '', 'active', 'club']]
   if len(result)==0:
     output = template('not_found', message='Project %s not found'%clubid, title='No club found')
     return output
@@ -74,7 +77,9 @@ def showclub(clubid):
     ['Meeting time',  ['input',  'text',    'meettime',  result[6]  ] ],
     ['Club contact',  ['input',  'text',    'contact',   result[7]  ] ],
     ['Club status',   ['select', result[8], 'status',    statuslist ] ],
-    ['Club type',     ['select', result[9], 'type',      typelist   ] ]
+    ['Club type',     ['select', result[9], 'type',      typelist   ] ],
+    ['',['/club/'+str(clubid-1),'prev']] if isinstance(clubid, int) else ['',['/club/'+'1','first']],
+    ['',['/club/'+str(clubid+1),'prev']] if isinstance(clubid, int) else ['',['/club/'+'1','first']]
   ]
   #return str(showclubtable) #DEBUG 
   output = template('make_table', rows=showclubtable, title='Club %s'%result[0])
@@ -97,6 +102,13 @@ def list():
     showclubtable += [[['/club/'+str(row[0]),row[1]],row[2],row[3]]]
   output = template('make_table', rows=showclubtable, title="Club list")
   return output
+
+@app.get('/club/new') 
+def newclub():
+  '''
+  Create a new club and present the form to populate it
+  '''
+  return showclub('new')
 
 @app.get('/club/<clubid:int>') 
 def showclubbynum(clubid):
@@ -125,21 +137,29 @@ def do_mod_param():
   #Database connection
   conn = sqlite3.connect('clubs.db')
   c = conn.cursor()
-  c.execute('''
-  UPDATE clubs
-    SET 
-      name = ?,
-      layer = ?,
-      lat = ?,
-      lon = ?,
-      website = ?,
-      meetplace = ?,
-      meettime = ?,
-      contact = ?,
-      clubstatus = ?,
-      clubtype = ?
-  WHERE clubid = ?
-  ''', (clubname, clublayer, clublat, clublon, clubwebsite, clubmeetplace, clubmeettime, clubcontact, clubstatus, clubtype, clubid))
+  if clubid=='new':
+    c.execute('''
+    INSERT INTO clubs
+      (name, layer, lat, lon, website, meetplace, meettime, contact, clubstatus, clubtype)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    ''', (clubname, clublayer, clublat, clublon, clubwebsite, clubmeetplace, clubmeettime, clubcontact, clubstatus, clubtype))
+  else:
+    c.execute('''
+    UPDATE clubs
+      SET 
+        name = ?,
+        layer = ?,
+        lat = ?,
+        lon = ?,
+        website = ?,
+        meetplace = ?,
+        meettime = ?,
+        contact = ?,
+        clubstatus = ?,
+        clubtype = ?
+    WHERE clubid = ?
+    ''', (clubname, clublayer, clublat, clublon, clubwebsite, clubmeetplace, clubmeettime, clubcontact, clubstatus, clubtype, clubid))
+    clubid = c.lastrowid
   conn.commit()
   redirect("/club/"+str(clubid))
 
