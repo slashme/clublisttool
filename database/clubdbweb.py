@@ -73,7 +73,7 @@ def showclub(clubid):
     ['Club status',   result[7]                              ],
     ['Club type',     result[8]                              ]
   ]
-  return str(showclubtable) #DEBUG 
+  #return str(showclubtable) #DEBUG 
   output = template('make_table', rows=showclubtable, title='Club %s'%result[0])
   return output
 

@@ -26,7 +26,7 @@
           %elif col[0]=='select':
     <td>
       <select name="{{col[2]}}">
-            %for option in {{col[3]}}:
+            %for option in col[3]:
         <option value="{{option[0]}}">{{option[1]}}</option>
             %end #for
       </select>
