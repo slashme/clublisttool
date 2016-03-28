@@ -40,6 +40,8 @@
         %elif len(col)==4: #Four parameters for an input or select
           %if col[0]=='input':
     <td><input type="{{col[1]}}" name="{{col[2]}}" value="{{col[3]}}"></td>
+          %elif col[0]=='hidden':
+    <td><input type="hidden" name="{{col[2]}}" value="{{col[3]}}"></td>
           %elif col[0]=='select':
     <td>
       <select name="{{col[2]}}">
