@@ -1,4 +1,4 @@
-import sqlite3, os, errno, datetime, re
+import sqlite3, os, errno, datetime, re, urllib
 from bottle import Bottle, route, get, post, request, run, template, debug, error, static_file
 
 app = Bottle()
@@ -15,7 +15,7 @@ def showclub(clubid):
   c = conn.cursor()
   c.execute('''
   SELECT
-    clubs.name AS club_name, 
+    clubs.name, 
     clubs.layer,
     clubs.lat,
     clubs.lon,
@@ -29,8 +29,33 @@ def showclub(clubid):
   WHERE clubs.clubid = ?
   ''', (clubid,))
   result = c.fetchall()
+  #Get all the layers as a list
+  c.execute('''
+  SELECT
+    layers.name, 
+    layers.description
+  FROM 
+    layers
+  ''')
+  layerlist = c.fetchall()
+  #Get all the statuses as a list
+  c.execute('''
+  SELECT
+    name, description
+  FROM 
+    clubstatuses
+  ''')
+  statuslist = c.fetchall()
+  #Now get all the clubtypes as a list
+  c.execute('''
+  SELECT
+    name, description
+  FROM 
+    clubtypes
+  ''')
+  typelist = c.fetchall()
   c.close()
-  #return str(result) #DEBUG 
+  #return str(layerlist) #DEBUG 
   if len(result)==0:
     output = template('not_found', message='Project %s not found'%clubid, title='No club found')
     return output
@@ -38,104 +63,19 @@ def showclub(clubid):
   club_id=str(clubid)
   showclubtable = [[]] #Hack: Include an empty row so that there will be no table header
   showclubtable += [
-    ['Club name:',    ['/club/'+club_id+'/update/clubs.name',result[0]] ],
-    ['Country/group', result[1]                                         ],
-    ['Latitude',      result[2]                                         ],
-    ['Longitute',     result[3]                                         ],
-    ['Website',       result[4]                                         ],
-    ['Meeting place', result[5]                                         ],
-    ['Meeting time',  result[6]                                         ],
-    ['Club status',   result[7]                                         ],
-    ['Club type',     result[8]                                         ]
+    ['Club name:',    ['input', 'text', 'club_name', result[0].replace('"', '')] ],
+    ['Country/group', ['select', result[1], 'layer', layerlist] ],
+    ['Latitude',      result[2]                              ],
+    ['Longitute',     result[3]                              ],
+    ['Website',       result[4]                              ],
+    ['Meeting place', result[5]                              ],
+    ['Meeting time',  result[6]                              ],
+    ['Club status',   result[7]                              ],
+    ['Club type',     result[8]                              ]
   ]
+  return str(showclubtable) #DEBUG 
   output = template('make_table', rows=showclubtable, title='Club %s'%result[0])
   return output
-
-#In progress: Creating form to modify single club parameter
-#TODO: make this work for more than just list parameters.
-@app.get('/club/<clubid:int>/update/<param>') 
-def mod_param(clubid, param):
-  '''
-  Create form to modify single parameter of club
-  "param" should have the form "table.field".
-  '''
-  #Extract the table, field and value from the parameter field.
-  mp_tf=param.split('.') #mp_tf is mod_param table/field
-  #Check if the club ID is valid
-  conn = sqlite3.connect('clubs.db')
-  c = conn.cursor()
-  c.execute("SELECT clubid, name FROM clubs WHERE clubid = ?", (clubid,))
-  clubidlist = c.fetchall() #This should have length 1
-  c.close()
-  if len(clubidlist)==0:
-    return template('not_found', message='Project %s not found'%clubid, title="No club found")
-  #Now check whether the parameter is valid...
-  c = conn.cursor()
-  c.execute('''
-  SELECT
-    editable, namefield
-  FROM 
-    userfields
-    WHERE tableid = ?
-    AND field = ?
-  ''', (mp_tf[0],mp_tf[1]))
-  result = c.fetchall()
-  c.close()
-  if not result[0][0]:
-    return template('not_found', message="Cannot change "+mp_tf[1]+" in "+mp_tf[0], title="Not permitted") 
-  namefield=result[0][1]
-  #Now check whether the parameter is a foreign key:
-  c = conn.cursor()
-  #Pragma statements cannot be parametrized, but we have already checked that
-  #the table exists and the parameter is editable, so this should be OK:
-  c.execute("PRAGMA foreign_key_list("+mp_tf[0]+")") 
-  result = c.fetchall()
-  c.close()
-  #This returns a list of all the foreign keys in the given table.
-  #Now list all foreign keys that match the requested field:
-  foreign_relation = [v for i, v in enumerate(result) if v[3] == mp_tf[1]]
-  if foreign_relation: # if it's not an empty list
-    #return template('not_found', message=str(foreign_relation), title="Not yet implemented") 
-    c = conn.cursor()
-    #Again, can't parameterize table name, but we are again safe here.
-    if(namefield):
-      c.execute("SELECT "+foreign_relation[0][4]+","+namefield+" FROM " + foreign_relation[0][2]) 
-    else:
-      c.execute("SELECT "+foreign_relation[0][4]+","+foreign_relation[0][4]+" FROM " + foreign_relation[0][2]) 
-    result = c.fetchall()
-    c.close()
-    editvalue=result
-    edittype="select"
-    editdesc=mp_tf[1]
-    #titletext="change single parameter for club"
-    titletext=str(foreign_relation)
-    editaction="/club/" + str(clubid) + "/update/" +str(param) #set form action variable
-    editform = template('mod_param', edit_value=editvalue, edit_desc=editdesc, edit_action=editaction, edit_type=edittype, title=titletext, clubname=clubidlist[0][1], info="info") #Generate parameter modification form
-    return editform
-  c = conn.cursor()
-  #Again, can't parameterize table name, but we are again safe here.
-  c.execute("PRAGMA table_info("+mp_tf[0]+")") 
-  result = c.fetchall()
-  c.close()
-  vartype= [v for i, v in enumerate(result) if v[1] == mp_tf[1]][0][2]
-  if vartype=="TEXT":
-    edittype=vartype
-    titletext="change text parameter for club"
-  if vartype=="INTEGER":
-    edittype='number'
-    titletext="change integer parameter for club"
-  c = conn.cursor()
-  #Again, can't parameterize table name, but we are again safe here.
-  c.execute("SELECT "+mp_tf[1]+" FROM "+mp_tf[0]+" WHERE clubid = " + str(clubid))
-  result = c.fetchall()
-  c.close()
-  editvalue=result[0][0]
-  editdesc=mp_tf[1]
-  editaction="/club/" + str(clubid) + "/update/" +str(param) #set form action variable
-  editform = template('mod_param', edit_value=editvalue, edit_desc=editdesc, edit_action=editaction, edit_type=edittype, title=titletext, clubname=clubidlist[0][1], info="info") #Generate parameter modification form
-  return editform
-  return template('not_found', message=str(vartype), title="Not yet implemented") 
-  return template('not_found', message=str(mp_tf[0]), title="Not yet implemented") 
 
 @app.post('/club/<clubid:int>/update/<param>') 
 def do_mod_param(clubid, param):
