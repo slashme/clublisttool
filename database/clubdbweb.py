@@ -63,15 +63,15 @@ def showclub(clubid):
   club_id=str(clubid)
   showclubtable = [[]] #Hack: Include an empty row so that there will be no table header
   showclubtable += [
-    ['Club name:',    ['input',  'text',    'name',    result[0]  ] ],
-    ['Country/group', ['select', result[1], 'layer',   layerlist  ] ],
-    ['Latitude',      ['input',  'number',  'lat',     result[2]  ] ],
-    ['Longitute',     ['input',  'number',  'lon',     result[3]  ] ],
-    ['Website',       ['input',  'text',    'website', result[4]  ] ],
-    ['Meeting place', ['input',  'text',    'website', result[5]  ] ],
-    ['Meeting time',  ['input',  'text',    'website', result[6]  ] ],
-    ['Club status',   ['select', result[7], 'layer',   statuslist ] ],
-    ['Club type',     ['select', result[8], 'layer',   typelist   ] ]
+    ['Club name:',    ['input',  'text',    'name',      result[0]  ] ],
+    ['Country/group', ['select', result[1], 'layer',     layerlist  ] ],
+    ['Latitude',      ['input',  'number',  'lat',       result[2]  ] ],
+    ['Longitute',     ['input',  'number',  'lon',       result[3]  ] ],
+    ['Website',       ['input',  'text',    'website',   result[4]  ] ],
+    ['Meeting place', ['input',  'text',    'meetplace', result[5]  ] ],
+    ['Meeting time',  ['input',  'text',    'meettime',  result[6]  ] ],
+    ['Club status',   ['select', result[7], 'status',    statuslist ] ],
+    ['Club type',     ['select', result[8], 'type',      typelist   ] ]
   ]
   #return str(showclubtable) #DEBUG 
   output = template('make_table', rows=showclubtable, title='Club %s'%result[0])
