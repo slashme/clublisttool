@@ -27,7 +27,11 @@
     <td>
       <select name="{{col[2]}}">
             %for option in col[3]:
+              %if option[0]==col[1]:
+        <option value="{{option[0]}}" selected="selected">{{option[1]}}</option>
+              %else:
         <option value="{{option[0]}}">{{option[1]}}</option>
+              %end #if
             %end #for
       </select>
     </td>
