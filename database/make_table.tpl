@@ -14,10 +14,8 @@
   %for col in row:
     %if len(col)==4: #Four parameters for an input or select
       %isaform=True #we're filling in a form; flag to create submit button.
-      %break
     %end #if
   %end #for col
-  %if isaform: break
 %end #for row
 
 <h1>{{title}}</h1>
