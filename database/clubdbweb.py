@@ -79,7 +79,7 @@ def showclub(clubid):
     ['Club status',   ['select', result[8], 'status',    statuslist ] ],
     ['Club type',     ['select', result[9], 'type',      typelist   ] ],
     ['',['/club/'+str(clubid-1),'prev']] if isinstance(clubid, int) else ['',['/club/'+'1','first']],
-    ['',['/club/'+str(clubid+1),'prev']] if isinstance(clubid, int) else ['',['/club/'+'1','first']]
+    ['',['/club/'+str(clubid+1),'next']] if isinstance(clubid, int) else ['',['/club/'+'1','first']]
   ]
   #return str(showclubtable) #DEBUG 
   output = template('make_table', rows=showclubtable, title='Club %s'%result[0])
