@@ -7,8 +7,8 @@
 <body>
   {{!base}}
   <div id="nav">
-    <a href="/list">Wish list</a>
-    <a href="/makewish">Make a wish</a>
+    <a href="/list">Club list</a>
+    <a href="/makewish">Add a club</a>
   </div>
 </body>
 </html>
