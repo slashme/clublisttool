@@ -10,7 +10,20 @@
 %#2: name of form element
 %#3: default value in case of input; list of items in case of select
 %isaform=False #Is this a form or just a table?
+%for row in rows:
+  %for col in row:
+    %if len(col)==4: #Four parameters for an input or select
+      %isaform=True #we're filling in a form; flag to create submit button.
+      %break
+    %end #if
+  %end #for col
+  %if isaform: break
+%end #for row
+
 <h1>{{title}}</h1>
+%if isaform: #we're filling in a form; create form header
+<form action="/updateclub" method="post">
+%end #if
 <table>
 %i=0 #i is 0 for the title row
 %for row in rows:
@@ -27,9 +40,8 @@
         %if len(col)==2: #Two parameters for a link
     <td><a href="{{col[0]}}">{{col[1]}}</a></td>
         %elif len(col)==4: #Four parameters for an input or select
-          %isaform=True #we're filling in a form; flag to create submit button.
           %if col[0]=='input':
-    <td><input type="{{col[1]}}" name="{{col[2]}}" value="{{col[3]}}"</td>
+    <td><input type="{{col[1]}}" name="{{col[2]}}" value="{{col[3]}}"></td>
           %elif col[0]=='select':
     <td>
       <select name="{{col[2]}}">
@@ -55,4 +67,5 @@
 </table>
 %if isaform: #we're filling in a form; create submit button.
 <input value="Update club data" type="submit" />
+</form>
 %end #if
