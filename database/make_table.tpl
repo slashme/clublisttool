@@ -39,7 +39,7 @@
     <td><a href="{{col[0]}}">{{col[1]}}</a></td>
         %elif len(col)==4: #Four parameters for an input or select
           %if col[0]=='input':
-    <td><input type="{{col[1]}}" name="{{col[2]}}" value="{{col[3]}}"></td>
+    <td><input type="{{col[1]}}" name="{{col[2]}}" value="{{'' if not col[3] else col[3]}}"></td>
           %elif col[0]=='hidden':
     <td><input type="hidden" name="{{col[2]}}" value="{{col[3]}}"></td>
           %elif col[0]=='select':
