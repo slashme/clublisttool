@@ -143,6 +143,7 @@ def do_mod_param():
       (name, layer, lat, lon, website, meetplace, meettime, contact, clubstatus, clubtype)
     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
     ''', (clubname, clublayer, clublat, clublon, clubwebsite, clubmeetplace, clubmeettime, clubcontact, clubstatus, clubtype))
+    clubid = c.lastrowid
   else:
     c.execute('''
     UPDATE clubs
@@ -159,7 +160,6 @@ def do_mod_param():
         clubtype = ?
     WHERE clubid = ?
     ''', (clubname, clublayer, clublat, clublon, clubwebsite, clubmeetplace, clubmeettime, clubcontact, clubstatus, clubtype, clubid))
-    clubid = c.lastrowid
   conn.commit()
   redirect("/club/"+str(clubid))
 
