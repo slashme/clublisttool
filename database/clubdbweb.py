@@ -70,8 +70,8 @@ def showclub(clubid):
     ['Website',       ['input',  'text',    'website', result[4]  ] ],
     ['Meeting place', ['input',  'text',    'website', result[5]  ] ],
     ['Meeting time',  ['input',  'text',    'website', result[6]  ] ],
-    ['Club status',   ['select', result[1], 'layer',   statuslist ] ],
-    ['Club type',     ['select', result[1], 'layer',   typelist   ] ]
+    ['Club status',   ['select', result[7], 'layer',   statuslist ] ],
+    ['Club type',     ['select', result[8], 'layer',   typelist   ] ]
   ]
   #return str(showclubtable) #DEBUG 
   output = template('make_table', rows=showclubtable, title='Club %s'%result[0])
