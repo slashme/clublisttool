@@ -11,7 +11,7 @@ def showclub(clubid):
   Displays a table with the information of the selected club,
   with links to set club parameters.
   '''
-  conn = sqlite3.connect('database/clubs.db')
+  conn = sqlite3.connect('clubs.db')
   c = conn.cursor()
   c.execute('''
   SELECT
@@ -30,6 +30,7 @@ def showclub(clubid):
   ''', (clubid,))
   result = c.fetchall()
   c.close()
+  #return str(result) #DEBUG 
   if len(result)==0:
     output = template('not_found', message='Project %s not found'%clubid, title='No club found')
     return output
@@ -37,15 +38,15 @@ def showclub(clubid):
   club_id=str(clubid)
   showclubtable = [[]] #Hack: Include an empty row so that there will be no table header
   showclubtable += [
-    ['Club name:', ['/club/'+club_id+'/update/clubs.name',result[0]] ],
-    ['Country/group', result[1] ]
-    ['Latitude',      result[2] ]
-    ['Longitute',     result[3] ]
-    ['Website',       result[4] ]
-    ['Meeting place', result[5] ]
-    ['Meeting time',  result[6] ]
-    ['Club status',   result[7] ]
-    ['Club type',     result[8] ]
+    ['Club name:',    ['/club/'+club_id+'/update/clubs.name',result[0]] ],
+    ['Country/group', result[1]                                         ],
+    ['Latitude',      result[2]                                         ],
+    ['Longitute',     result[3]                                         ],
+    ['Website',       result[4]                                         ],
+    ['Meeting place', result[5]                                         ],
+    ['Meeting time',  result[6]                                         ],
+    ['Club status',   result[7]                                         ],
+    ['Club type',     result[8]                                         ]
   ]
   output = template('make_table', rows=showclubtable, title='Club %s'%result[0])
   return output
