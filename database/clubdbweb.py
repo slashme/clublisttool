@@ -59,7 +59,7 @@ def showclub(clubid):
   c.close()
   #return str(layerlist) #DEBUG 
   if clubid=="new":
-    result=[['New club', '', '', '', '', '', '', '', 'active', 'club']]
+    result=[['', 'IT', '', '', '', '', '', '', 'active', 'club']]
   if len(result)==0:
     output = template('not_found', message='Project %s not found'%clubid, title='No club found')
     return output
