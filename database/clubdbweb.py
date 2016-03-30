@@ -91,15 +91,15 @@ def list():
   c = conn.cursor()
   c.execute('''
   SELECT
-    clubid, name, clubstatus, layer
+    clubid, name, clubstatus, layer, clubtype
   FROM 
     clubs 
   ''')
   result = c.fetchall()
   c.close()
-  showclubtable = [['Club name', 'Status', 'Country']]
+  showclubtable = [['Club name', 'Status', 'Country', 'Type']]
   for row in result:
-    showclubtable += [[['/club/'+str(row[0]),row[1]],row[2],row[3]]]
+    showclubtable += [[['/club/'+str(row[0]),row[1]],row[2],row[3],row[4]]]
   output = template('make_table', rows=showclubtable, title="Club list")
   return output
 
