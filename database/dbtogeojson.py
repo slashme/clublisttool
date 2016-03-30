@@ -19,6 +19,8 @@ WHERE layer IS "IT"
 ''')
 result = c.fetchall()
 c.close()
+features=[]
 for row in result:
-    row={'geometry': {'type': 'Point', 'coordinates': [row[6],row[5]]}, 'layer': 'IT', 'type': 'Feature', 'properties': {'description': row[1]+', '+row[2]+', '+row[3]+', '+row[4], 'name': row[0]}}
-    print(json.dumps(row))
+    features.append({'geometry': {'type': 'Point', 'coordinates': [row[6],row[5]]}, 'layer': 'IT', 'type': 'Feature', 'properties': {'description': row[1]+', '+row[2]+', '+row[3]+', '+row[4], 'name': row[0]}})
+result={'type': 'FeatureCollection', 'features': features}
+print(json.dumps(result))
