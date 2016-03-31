@@ -15,12 +15,12 @@ SELECT
   layer
 FROM 
   clubs 
-WHERE layer IS "IT"
+WHERE layer LIKE "CH"
 ''')
 result = c.fetchall()
 c.close()
 features=[]
 for row in result:
-    features.append({'geometry': {'type': 'Point', 'coordinates': [row[6],row[5]]}, 'layer': 'IT', 'type': 'Feature', 'properties': {'description': row[1]+', '+row[2]+', '+row[3]+', '+row[4], 'name': row[0]}})
+    features.append({'geometry': {'type': 'Point', 'coordinates': [row[6],row[5]]}, 'layer': row[7], 'type': 'Feature', 'properties': {'description': ', '.join(filter(None,row[1:5])), 'name': row[0]}})
 result={'type': 'FeatureCollection', 'features': features}
 print(json.dumps(result))
