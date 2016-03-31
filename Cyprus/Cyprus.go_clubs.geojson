@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.924922943115234,
+          35.131553026245925
+        ]
+      },
+      "properties": {
+        "name": "Magem Go club",
+        "description": "Meetings: Every Tuesday \n\nMeeting place: Magem building, Famagusta\n\nTime: 18:00 \n\nInformation: Email Nurman Aylanc nurmana@hotmail.com (tel. 0090 533 862 9582)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.353376388549805,
+          35.14209039330805
+        ]
+      },
+      "properties": {
+        "name": "Nicosia",
+        "description": "Arabica Cafe in Nicosia every Saturday, starting around 5:30pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.698917388916016,
+          34.66653484472687
+        ]
+      },
+      "properties": {
+        "name": "Pissouri Go Club",
+        "description": "The Group has about eight active members. The Group leader is Jolyon Kay, tel. 25222363. Please contact him for the venue of the meeting because now they meet in member's houses in rotation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.37519347667694,
+          35.16773936233588
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        },
+        "name": "Polykentro Neolaias Go Club",
+        "description": "Meetings: Postponed \n\nMeeting place: Polykentro Neolaias, 14 Tombazi Street, Lykavitos, Nicosia \n\nTime: TBA \n\nThis club is for children of ages 6-13. It is the ideal place for children to discover the game of Go. Parents and teachers\n\nare welcome to play with us as well.\n\nInformation: Call 22 87 75 10 or email Dimitris Regginos: regginos@gmail.com - www.regginos.com"
+      }
+    }
+  ]
+}
