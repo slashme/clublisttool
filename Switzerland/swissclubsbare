@@ -1,207 +1,23 @@
-START
-clubtype:  club
-name:      Bern
-web:       http://www.bernergoclub.ch
-meettime:  mardi 19h00-23h00
-meetplace: Längass-Treff Lerchenweg 33
-lat: 46.95387
-lon: 7.43057
-contact:   Alan HELD 031 351 59 64 aeh@vtxfree.ch
-START
-clubtype:  club
-name:      CERN
-web:       http://games.web.cern.ch/games/
-meettime:  mercredi 12h30-13h30 parfois aussi mardi dès 18h00
-meetplace: CERN Restaurant No.2
-lat: 46.23194
-lon: 6.04435
-contact:   Tibor SIMKO 022 767 35 27 tibor.simko@cern.ch
-START
-clubtype:  club
-name:      Genève mardi
-web:       http://geneva.swissgo.org/
-meettime:  mardi 20h00-24h00
-meetplace: Café du Rondeau Place du Rondeau 1, 1227 Carouge
-lat: 46.18008
-lon: 6.13949
-contact:   Armel-David WOLFF 079 689 78 27 awolff@worldcom.ch
-START
-clubtype:  club
-name:      Genève vendredi
-web:       http://geneva.swissgo.org/
-meettime:  vendredi 19h00-22h00
-meetplace: Maison de Quartier de Plainpalais 1 Rue de la tour
-lat: 46.19513
-lon: 6.14646
-contact:   Armel-David WOLFF 079 689 78 27 awolff@worldcom.ch
-START
-clubtype:  club
-name:      Genève mercredi
-web:       http://geneva.swissgo.org/
-meettime:  mercredi 18h00-23h00
-meetplace: École de Pinchat 4 ch. de la Tour-de-Pinchat
-lat: 46.17474
-lon: 6.15344
-contact:   Jean-Marc LOUIS 022 784 03 39 079 371 09 52 jmlouis@vtxnet.ch
-START
-clubtype:  club
-name:      La Chaux-de-Fonds
-web:       http://www.gocdf.ch/
-meettime:  jeudi 20h00-24h00
-meetplace: Service Jeunesse Serre 12 (1er étage) 2300 La Chaux-de-Fonds
-lat: 47.10401
-lon: 6.82957
-contact:   GO-Club CDF 079 254 88 13 contact@gocdf.ch Marcel SCHWEIZER marcelschweizer@hispeed.ch
-START
-clubtype:  club
-name:      La Tour de Peilz
-web:       http://www.museedujeu.ch/fr/animationen/klubs/goklub.html
-meettime:  vendredi 19h00-21h00
-meetplace: Musée Suisse du Jeu Au Château 11 Rue du Château
-lat: 46.45267
-lon: 6.85491
-contact:   Rick WERTENBROEK 076 533 40 05 rick.wertenbroek@gmail.com
-START
-clubtype:  club
-name:      Lausanne
-web:       http://lausanne.swissgo.org/
-meettime:  mardi 20h00-24h00
-meetplace: Café-Restaurant Le Milan 54 bd de Grancy 021 616 53 43 http://www.lemilan.ch/fr/restaurant-le-milan
-lat: 46.51652
-lon: 6.62585
-contact:   Haruna OKANO lausanne@swissgo.org
-START
-clubtype:  club
-name:      Ishi go club
-web:       http://ishigo.epfl.ch/igc.php
-meettime:  mercredi 17h15-20h00
-meetplace: EPFL - Salle de Go : CM1 121
-lat: 46.52066
-lon: 6.56546
-contact:   Flavien AUBELLE flavien.aubelle@epfl.ch
-START
-clubtype:  club
-name:      Luzern
-web:       http://luzern.swissgo.org/
-meettime:  mardi 18h30-23h00
-meetplace: Restaurant und Jugendhaus Treibhaus Spelteriniweg 4 http://www.treibhausluzern.ch/index.php?id=29
-lat: 47.04251
-lon: 8.31923
-contact:   Dominik MÜLLER 078 838 38 64 luzern@swissgo.org
-START
-clubtype:  club
-name:      Nyon
-web:
-meettime:  mardi 11h45-13h25
-meetplace: Gymnase de Nyon salle L204
-lat: 46.38249
-lon: 6.23199
-contact:   John WALCH 076 498 03 75 john_walch8@hotmail.com
-START
-clubtype:  club
-name:      Neuchâtel
-web:
-meettime:  mercredi 19h30-23/24h00
-meetplace: Bar "Au 21" 43 Faubourg du Lac
-lat: 46.99151
-lon: 6.93187
-contact:   Thibault PILLON 079 526 74 02 thibault.pillon@gmail.com
-START
-clubtype:  club
-name:      Winterthur
-web:       http://www.wintigo.org
-meettime:  lundi 19h00-22h30
-meetplace: Typisch Thai Neumarkt 3 http://www.typischthai.ch
-lat: 47.49843
-lon: 8.72617
-contact:   Philipp GRESSLY 052 212 22 15 phi@gressly.ch
-START
-clubtype:  club
-name:      Worben
-web:       http://worben.swissgo.org/
-meettime:  mercredi 14h30-15h30
-meetplace: Restaurant Bären Hauptstr. 46
-lat: 47.09733
-lon: 7.29180
-contact:   Alan REES alan.rees@playmorego.com
-START
-clubtype:  club
-name:      Yverdon
-web:
-meettime:  mardi 19h30 à 22h/23h selon l'affluence
-meetplace: Café "Le Tempo" Quai de la Thièle 3 1400 Yverdon-les-Bains
-lat: 46.78127
-lon: 6.63715
-contact:   Martin 079 795 49 59 martin.python@gmail.com
-START
-clubtype:  club
-name:      Zürich
-web:       http://zurich.swissgo.org/
-meettime:  mercredi dès 18h00
-meetplace: Zentrum Karl der Grosse Blaues Foyer im 2ten Stock Kirchgasse 14
-lat: 47.36974
-lon: 8.54461
-contact:   Jonas JERMANN jjermann2@gmail.com
-START
-clubtype:  individual
-name:      Aarau
-web:
-meettime:
-meetplace:
-lat: 47.39104
-lon: 8.06995
-contact:   Stephan BALMER 079 336 84 41 sbalmer@yetnet.ch balmerst@hotmail.com
-START
-clubtype:  individual
-name:      Frauenfeld
-web:
-meettime:
-meetplace:
-lat: 47.55681
-lon: 8.89177
-contact:   Daniel LUTZ dlutz@umlaufbahn.net
-START
-clubtype:  individual
-name:      Locarno
-web:
-meettime:
-meetplace:
-lat: 46.17318
-lon: 8.83497
-contact:   Roberto MORRISON 078 658 66 73 roberto@morrison.ch
-START
-clubtype:  individual
-name:      Sessa
-web:
-meettime:
-meetplace:
-lat: 46.00323
-lon: 8.81281
-contact:   Claude ROY 091 608 20 79
-START
-clubtype:  individual
-name:      Vallée de Joux
-web:
-meettime:
-meetplace:
-lat: 46.60065
-lon: 6.22359
-contact:   Jean-Jacques GAGNEBIN 079 768 18 78 jj@gagnebin.net
-START
-clubtype:  individual
-name:      Versoix
-web:
-meettime:
-meetplace:
-lat: 46.29130
-lon: 6.15785
-contact:   Marc DIAS 076 425 02 13 versoix.go.club@gmail.com
-START
-clubtype:  individual
-name:      Wil SG
-web:
-meettime:
-meetplace:
-lat: 47.46296
-lon: 9.05344
-contact:   Stjepan LUKAC lastronin@gmx.net
+INSERT INTO clubs (clubtype, name, website, meettime, meetplace, lat, lon, contact, layer) VALUES ( 'club', 'Bern', 'http://www.bernergoclub.ch', 'mardi 19h00-23h00', 'Längass-Treff Lerchenweg 33', '46.95387', '7.43057', 'Alan HELD 031 351 59 64 aeh@vtxfree.ch', 'CH');
+INSERT INTO clubs (clubtype, name, website, meettime, meetplace, lat, lon, contact, layer) VALUES ( 'club', 'CERN', 'http://games.web.cern.ch/games/', 'mercredi 12h30-13h30 parfois aussi mardi dès 18h00', 'CERN Restaurant No.2', '46.23194', '6.04435', 'Tibor SIMKO 022 767 35 27 tibor.simko@cern.ch', 'CH');
+INSERT INTO clubs (clubtype, name, website, meettime, meetplace, lat, lon, contact, layer) VALUES ( 'club', 'Genève mardi', 'http://geneva.swissgo.org/', 'mardi 20h00-24h00', 'Café du Rondeau Place du Rondeau 1, 1227 Carouge', '46.18008', '6.13949', 'Armel-David WOLFF 079 689 78 27 awolff@worldcom.ch', 'CH');
+INSERT INTO clubs (clubtype, name, website, meettime, meetplace, lat, lon, contact, layer) VALUES ( 'club', 'Genève vendredi', 'http://geneva.swissgo.org/', 'vendredi 19h00-22h00', 'Maison de Quartier de Plainpalais 1 Rue de la tour', '46.19513', '6.14646', 'Armel-David WOLFF 079 689 78 27 awolff@worldcom.ch', 'CH');
+INSERT INTO clubs (clubtype, name, website, meettime, meetplace, lat, lon, contact, layer) VALUES ( 'club', 'Genève mercredi', 'http://geneva.swissgo.org/', 'mercredi 18h00-23h00', 'École de Pinchat 4 ch. de la Tour-de-Pinchat', '46.17474', '6.15344', 'Jean-Marc LOUIS 022 784 03 39 079 371 09 52 jmlouis@vtxnet.ch', 'CH');
+INSERT INTO clubs (clubtype, name, website, meettime, meetplace, lat, lon, contact, layer) VALUES ( 'club', 'La Chaux-de-Fonds', 'http://www.gocdf.ch/', 'jeudi 20h00-24h00', 'Service Jeunesse Serre 12 (1er étage) 2300 La Chaux-de-Fonds', '47.10401', '6.82957', 'GO-Club CDF 079 254 88 13 contact@gocdf.ch Marcel SCHWEIZER marcelschweizer@hispeed.ch', 'CH');
+INSERT INTO clubs (clubtype, name, website, meettime, meetplace, lat, lon, contact, layer) VALUES ( 'club', 'La Tour de Peilz', 'http://www.museedujeu.ch/fr/animationen/klubs/goklub.html', 'vendredi 19h00-21h00', 'Musée Suisse du Jeu Au Château 11 Rue du Château', '46.45267', '6.85491', 'Rick WERTENBROEK 076 533 40 05 rick.wertenbroek@gmail.com', 'CH');
+INSERT INTO clubs (clubtype, name, website, meettime, meetplace, lat, lon, contact, layer) VALUES ( 'club', 'Lausanne', 'http://lausanne.swissgo.org/', 'mardi 20h00-24h00', 'Café-Restaurant Le Milan 54 bd de Grancy 021 616 53 43 http://www.lemilan.ch/fr/restaurant-le-milan', '46.51652', '6.62585', 'Haruna OKANO lausanne@swissgo.org', 'CH');
+INSERT INTO clubs (clubtype, name, website, meettime, meetplace, lat, lon, contact, layer) VALUES ( 'club', 'Ishi go club', 'http://ishigo.epfl.ch/igc.php', 'mercredi 17h15-20h00', 'EPFL - Salle de Go : CM1 121', '46.52066', '6.56546', 'Flavien AUBELLE flavien.aubelle@epfl.ch', 'CH');
+INSERT INTO clubs (clubtype, name, website, meettime, meetplace, lat, lon, contact, layer) VALUES ( 'club', 'Luzern', 'http://luzern.swissgo.org/', 'mardi 18h30-23h00', 'Restaurant und Jugendhaus Treibhaus Spelteriniweg 4 http://www.treibhausluzern.ch/index.php?id=29', '47.04251', '8.31923', 'Dominik MÜLLER 078 838 38 64 luzern@swissgo.org', 'CH');
+INSERT INTO clubs (clubtype, name, website, meettime, meetplace, lat, lon, contact, layer) VALUES ( 'club', 'Nyon', '', 'mardi 11h45-13h25', 'Gymnase de Nyon salle L204', '46.38249', '6.23199', 'John WALCH 076 498 03 75 john_walch8@hotmail.com', 'CH');
+INSERT INTO clubs (clubtype, name, website, meettime, meetplace, lat, lon, contact, layer) VALUES ( 'club', 'Neuchâtel', '', 'mercredi 19h30-23/24h00', 'Bar "Au 21" 43 Faubourg du Lac', '46.99151', '6.93187', 'Thibault PILLON 079 526 74 02 thibault.pillon@gmail.com', 'CH');
+INSERT INTO clubs (clubtype, name, website, meettime, meetplace, lat, lon, contact, layer) VALUES ( 'club', 'Winterthur', 'http://www.wintigo.org', 'lundi 19h00-22h30', 'Typisch Thai Neumarkt 3 http://www.typischthai.ch', '47.49843', '8.72617', 'Philipp GRESSLY 052 212 22 15 phi@gressly.ch', 'CH');
+INSERT INTO clubs (clubtype, name, website, meettime, meetplace, lat, lon, contact, layer) VALUES ( 'club', 'Worben', 'http://worben.swissgo.org/', 'mercredi 14h30-15h30', 'Restaurant Bären Hauptstr. 46', '47.09733', '7.29180', 'Alan REES alan.rees@playmorego.com', 'CH');
+INSERT INTO clubs (clubtype, name, website, meettime, meetplace, lat, lon, contact, layer) VALUES ( 'club', 'Yverdon', '', 'mardi 19h30 à 22h/23h selon l''affluence', 'Café "Le Tempo" Quai de la Thièle 3 1400 Yverdon-les-Bains', '46.78127', '6.63715', 'Martin 079 795 49 59 martin.python@gmail.com', 'CH');
+INSERT INTO clubs (clubtype, name, website, meettime, meetplace, lat, lon, contact, layer) VALUES ( 'club', 'Zürich', 'http://zurich.swissgo.org/', 'mercredi dès 18h00', 'Zentrum Karl der Grosse Blaues Foyer im 2ten Stock Kirchgasse 14', '47.36974', '8.54461', 'Jonas JERMANN jjermann2@gmail.com', 'CH');
+INSERT INTO clubs (clubtype, name, website, meettime, meetplace, lat, lon, contact, layer) VALUES ( 'individual', 'Aarau', '', '', '', '47.39104', '8.06995', 'Stephan BALMER 079 336 84 41 sbalmer@yetnet.ch balmerst@hotmail.com', 'CH');
+INSERT INTO clubs (clubtype, name, website, meettime, meetplace, lat, lon, contact, layer) VALUES ( 'individual', 'Frauenfeld', '', '', '', '47.55681', '8.89177', 'Daniel LUTZ dlutz@umlaufbahn.net', 'CH');
+INSERT INTO clubs (clubtype, name, website, meettime, meetplace, lat, lon, contact, layer) VALUES ( 'individual', 'Locarno', '', '', '', '46.17318', '8.83497', 'Roberto MORRISON 078 658 66 73 roberto@morrison.ch', 'CH');
+INSERT INTO clubs (clubtype, name, website, meettime, meetplace, lat, lon, contact, layer) VALUES ( 'individual', 'Sessa', '', '', '', '46.00323', '8.81281', 'Claude ROY 091 608 20 79', 'CH');
+INSERT INTO clubs (clubtype, name, website, meettime, meetplace, lat, lon, contact, layer) VALUES ( 'individual', 'Vallée de Joux', '', '', '', '46.60065', '6.22359', 'Jean-Jacques GAGNEBIN 079 768 18 78 jj@gagnebin.net', 'CH');
+INSERT INTO clubs (clubtype, name, website, meettime, meetplace, lat, lon, contact, layer) VALUES ( 'individual', 'Versoix', '', '', '', '46.29130', '6.15785', 'Marc DIAS 076 425 02 13 versoix.go.club@gmail.com', 'CH');
+INSERT INTO clubs (clubtype, name, website, meettime, meetplace, lat, lon, contact, layer) VALUES ( 'individual', 'Wil SG', '', '', '', '47.46296', '9.05344', 'Stjepan LUKAC lastronin@gmx.net', 'CH');
