@@ -11,4 +11,4 @@ for i in sys.argv[1:]:
   #Parse it as json data
   dicti=json.load(infile)
   #Write sorted data to outfile
-  outfile.write(sorted(dicti['features']))
+  outfile.write(str(sorted(dicti['features'])))
