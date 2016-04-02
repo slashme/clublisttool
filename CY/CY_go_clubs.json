@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          33.9249229431, 
+          35.1315530262
+        ]
+      }, 
+      "layer": "CY", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Magem building, Famagusta, Every Tuesday 18:00, Nurman Aylanc nurmana@hotmail.com (tel. 0090 533 862 9582)", 
+        "name": "Magem Go club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          33.3533763885, 
+          35.1420903933
+        ]
+      }, 
+      "layer": "CY", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Arabica Cafe in Nicosia, every Saturday, starting around 17:30", 
+        "name": "Nicosia"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          32.6989173889, 
+          34.6665348447
+        ]
+      }, 
+      "layer": "CY", 
+      "type": "Feature", 
+      "properties": {
+        "description": "The Group leader is Jolyon Kay, tel. 25222363. Please contact him for the venue of the meeting because now they meet in member's houses in rotation.", 
+        "name": "Pissouri Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          33.3751934767, 
+          35.1677393623
+        ]
+      }, 
+      "layer": "CY", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Meetings: Postponed Meeting place: Polykentro Neolaias, 14 Tombazi Street, Lykavitos, Nicosia Time: TBA This club is for children of ages 6-13. It is the ideal place for children to discover the game of Go. Parents and teachersare welcome to play with us as well.Information: Call 22 87 75 10 or email Dimitris Regginos: regginos@gmail.com - www.regginos.com", 
+        "name": "Polykentro Neolaias Go Club"
+      }
+    }
+  ]
+}
