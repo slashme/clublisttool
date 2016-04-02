@@ -11,4 +11,5 @@ for i in sys.argv[1:]:
   #Parse it as json data
   dicti=json.loads(infile.read().decode("utf-8-sig"))
   #Write sorted data to outfile
-  json.dump(dicti, outfile, indent=2, sort_keys=True, ensure_ascii=False)
+  for j in sorted(dicti['features']):
+    json.dump(j, outfile, indent=2, ensure_ascii=False)
