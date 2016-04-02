@@ -6,6 +6,390 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.06995,
+          47.39104
+        ]
+      },
+      "properties": {
+        "description": "Stephan BALMER 079 336 84 41 sbalmer@yetnet.ch balmerst@hotmail.com",
+        "name": "Aarau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.43057,
+          46.95387
+        ]
+      },
+      "properties": {
+        "description": "http://www.bernergoclub.ch, Längass-Treff Lerchenweg 33, mardi 19h00-23h00, Alan HELD 031 351 59 64 aeh@vtxfree.ch",
+        "name": "Bern"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.04435,
+          46.23194
+        ]
+      },
+      "properties": {
+        "description": "http://games.web.cern.ch/games/, CERN Restaurant No.2, mercredi 12h30-13h30 parfois aussi mardi dès 18h00, Tibor SIMKO 022 767 35 27 tibor.simko@cern.ch",
+        "name": "CERN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.89177,
+          47.55681
+        ]
+      },
+      "properties": {
+        "description": "Daniel LUTZ dlutz@umlaufbahn.net",
+        "name": "Frauenfeld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.13949,
+          46.18008
+        ]
+      },
+      "properties": {
+        "description": "http://geneva.swissgo.org/, Café du Rondeau Place du Rondeau 1, 1227 Carouge, mardi 20h00-24h00, Armel-David WOLFF 079 689 78 27 awolff@worldcom.ch",
+        "name": "Genève mardi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.15344,
+          46.17474
+        ]
+      },
+      "properties": {
+        "description": "http://geneva.swissgo.org/, École de Pinchat 4 ch. de la Tour-de-Pinchat, mercredi 18h00-23h00, Jean-Marc LOUIS 022 784 03 39 079 371 09 52 jmlouis@vtxnet.ch",
+        "name": "Genève mercredi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.14646,
+          46.19513
+        ]
+      },
+      "properties": {
+        "description": "http://geneva.swissgo.org/, Maison de Quartier de Plainpalais 1 Rue de la tour, vendredi 19h00-22h00, Armel-David WOLFF 079 689 78 27 awolff@worldcom.ch",
+        "name": "Genève vendredi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.56546,
+          46.52066
+        ]
+      },
+      "properties": {
+        "description": "http://ishigo.epfl.ch/igc.php, EPFL - Salle de Go : CM1 121, mercredi 17h15-20h00, Flavien AUBELLE flavien.aubelle@epfl.ch",
+        "name": "Ishi go club"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.82957,
+          47.10401
+        ]
+      },
+      "properties": {
+        "description": "http://www.gocdf.ch/, Service Jeunesse Serre 12 (1er étage) 2300 La Chaux-de-Fonds, jeudi 20h00-24h00, GO-Club CDF 079 254 88 13 contact@gocdf.ch Marcel SCHWEIZER marcelschweizer@hispeed.ch",
+        "name": "La Chaux-de-Fonds"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.85491,
+          46.45267
+        ]
+      },
+      "properties": {
+        "description": "http://www.museedujeu.ch/fr/animationen/klubs/goklub.html, Musée Suisse du Jeu Au Château 11 Rue du Château, vendredi 19h00-21h00, Rick WERTENBROEK 076 533 40 05 rick.wertenbroek@gmail.com",
+        "name": "La Tour de Peilz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62585,
+          46.51652
+        ]
+      },
+      "properties": {
+        "description": "http://lausanne.swissgo.org/, Café-Restaurant Le Milan 54 bd de Grancy 021 616 53 43 http://www.lemilan.ch/fr/restaurant-le-milan, mardi 20h00-24h00, Haruna OKANO lausanne@swissgo.org",
+        "name": "Lausanne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.83497,
+          46.17318
+        ]
+      },
+      "properties": {
+        "description": "Roberto MORRISON 078 658 66 73 roberto@morrison.ch",
+        "name": "Locarno"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.31923,
+          47.04251
+        ]
+      },
+      "properties": {
+        "description": "http://luzern.swissgo.org/, Restaurant und Jugendhaus Treibhaus Spelteriniweg 4 http://www.treibhausluzern.ch/index.php?id=29, mardi 18h30-23h00, Dominik MÜLLER 078 838 38 64 luzern@swissgo.org",
+        "name": "Luzern"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.93187,
+          46.99151
+        ]
+      },
+      "properties": {
+        "description": "Bar \"Au 21\" 43 Faubourg du Lac, mercredi 19h30-23/24h00, Thibault PILLON 079 526 74 02 thibault.pillon@gmail.com",
+        "name": "Neuchâtel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.23199,
+          46.38249
+        ]
+      },
+      "properties": {
+        "description": "Gymnase de Nyon salle L204, mardi 11h45-13h25, John WALCH 076 498 03 75 john_walch8@hotmail.com",
+        "name": "Nyon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.81281,
+          46.00323
+        ]
+      },
+      "properties": {
+        "description": "Claude ROY 091 608 20 79",
+        "name": "Sessa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.22359,
+          46.60065
+        ]
+      },
+      "properties": {
+        "description": "Jean-Jacques GAGNEBIN 079 768 18 78 jj@gagnebin.net",
+        "name": "Vallée de Joux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.15785,
+          46.2913
+        ]
+      },
+      "properties": {
+        "description": "Marc DIAS 076 425 02 13 versoix.go.club@gmail.com",
+        "name": "Versoix"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.05344,
+          47.46296
+        ]
+      },
+      "properties": {
+        "description": "Stjepan LUKAC lastronin@gmx.net",
+        "name": "Wil SG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.72617,
+          47.49843
+        ]
+      },
+      "properties": {
+        "description": "http://www.wintigo.org, Typisch Thai Neumarkt 3 http://www.typischthai.ch, lundi 19h00-22h30, Philipp GRESSLY 052 212 22 15 phi@gressly.ch",
+        "name": "Winterthur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2918,
+          47.09733
+        ]
+      },
+      "properties": {
+        "description": "http://worben.swissgo.org/, Restaurant Bären Hauptstr. 46, mercredi 14h30-15h30, Alan REES alan.rees@playmorego.com",
+        "name": "Worben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.63715,
+          46.78127
+        ]
+      },
+      "properties": {
+        "description": "Café \"Le Tempo\" Quai de la Thièle 3 1400 Yverdon-les-Bains, mardi 19h30 à 22h/23h selon l'affluence, Martin 079 795 49 59 martin.python@gmail.com",
+        "name": "Yverdon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54461,
+          47.36974
+        ]
+      },
+      "properties": {
+        "description": "http://zurich.swissgo.org/, Zentrum Karl der Grosse Blaues Foyer im 2ten Stock Kirchgasse 14, mercredi dès 18h00, Jonas JERMANN jjermann2@gmail.com",
+        "name": "Zürich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9249229431,
+          35.1315530262
+        ]
+      },
+      "properties": {
+        "description": "Magem building, Famagusta, Every Tuesday 18:00, Nurman Aylanc nurmana@hotmail.com (tel. 0090 533 862 9582)",
+        "name": "Magem Go club",
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.352931141853325,
+          35.14230972450944
+        ]
+      },
+      "properties": {
+        "description": "Arabica Cafe in Nicosia, every Saturday, starting around 17:30",
+        "name": "Nicosia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6989173889,
+          34.6665348447
+        ]
+      },
+      "properties": {
+        "description": "The Group leader is Jolyon Kay, tel. 25222363. Please contact him for the venue of the meeting because now they meet in member's houses in rotation.",
+        "name": "Pissouri Go Club"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3751934767,
+          35.1677393623
+        ]
+      },
+      "properties": {
+        "description": "Meetings: Postponed Meeting place: Polykentro Neolaias, 14 Tombazi Street, Lykavitos, Nicosia Time: TBA This club is for children of ages 6-13. It is the ideal place for children to discover the game of Go. Parents and teachersare welcome to play with us as well.Information: Call 22 87 75 10 or email Dimitris Regginos: regginos@gmail.com - www.regginos.com",
+        "name": "Polykentro Neolaias Go Club",
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.7222126691801,
           51.06212745
         ]
@@ -1987,19 +2371,6 @@
       },
       "properties": {
         "description": " Go Club Lyon Shinogi Restaurant Hua Yuan Xuan 20 rue Mulet Lyon 1er Lundi 19h - 22h30 http://lyon-shinogi.jeudego.org/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8449802,
-          45.7512558
-        ]
-      },
-      "properties": {
-        "description": " Go Club Lyon Shinogi Bistrot Chez Thibault 80 rue Montesquieu Lyon 7e Mercredi 18h30 - 23h http://lyon-shinogi.jeudego.org/"
       }
     },
     {
@@ -4235,6 +4606,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          37.597607374191284,
+          54.17155387364562
+        ]
+      },
+      "properties": {
+        "name": " Тульский Государственный Университет, Го Клуб",
+        "description": "пр.Ленина, 93, к.Б,"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           39.06845569610595,
           45.024311555886634
         ]
@@ -4249,13 +4634,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.08980345726013,
-          55.60328120499591
+          39.201858043670654,
+          51.662856575774605
         ]
       },
       "properties": {
-        "name": "г. Жуковский, ул. Солнечная, 6 («Творческая мастерская») ",
-        "description": " СР 14:00 - 16:00 Детская группа (абонемент, 300 руб. занятие) ПТ 14:00 - 16:30 Детская группа (абонемент, 300 руб. занятие)\n\nТелефон: +7-926-266-43-27 Алексей Кожунков (Neya)"
+        "name": "Воронежский го клуб"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9758780002594,
+          57.92688759374505
+        ]
+      },
+      "properties": {
+        "name": "Восточная беседа - воскресенье",
+        "description": "По воскресеньям в 16.00.\nЦентр семейно консультации, Восточная 3., https://vk.com/vostok_goban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.982948303222656,
+          57.91504153020182
+        ]
+      },
+      "properties": {
+        "name": "Восточная беседа - суббота",
+        "description": "По субботам в 15.00.\nШахматно-Шашечный Центр, Газетная 109."
       }
     },
     {
@@ -4269,6 +4681,34 @@
       },
       "properties": {
         "name": "Го в МГУ им. М.В. Ломоносова"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.08980345726013,
+          55.60328120499591
+        ]
+      },
+      "properties": {
+        "name": "Го клуб \"СЭНТЭ\". Жуковский, ул. Солнечная, 6 («Творческая мастерская») ",
+        "description": " СР 14:00 - 16:00 Детская группа (абонемент, 300 руб. занятие) ПТ 14:00 - 16:30 Детская группа (абонемент, 300 руб. занятие)\n\nТелефон: +7-926-266-43-27 Алексей Кожунков (Neya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.09602618217468,
+          54.846571357032325
+        ]
+      },
+      "properties": {
+        "name": "Го клуб НГУ",
+        "description": "Клуб находится в здании нового спортивного комплекса НГУ, 301 аудитория. Собираемся каждое воскресенье с 13:00 до 17:00. Вход свободный.\nАкадемгородок, ул. Пирогова 2 к1 \nОстановка общественного транспорта – Цветной проезд"
       }
     },
     {
@@ -4318,6 +4758,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          50.17789453268051,
+          53.21264913330052
+        ]
+      },
+      "properties": {
+        "name": "Го-клуб СГАУ: \"Полёт мысли\"",
+        "description": "* Собираемся:\nПо вторникам и четвергам в 18.00 в Студклубе СГАУ (16 корпус)\n\n* Контакты:\nАлексей Курочкин (Rendal)\nТелефон: 8 927 797 0870\nICQ: 293 215 515\n\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           84.96495723724364,
           56.46545115332785
         ]
@@ -4332,12 +4786,109 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          60.61500549316406,
+          56.841320577225034
+        ]
+      },
+      "properties": {
+        "name": "Екатеринбург",
+        "description": "Понедельник, среда, пятница\nТургенева, 4. УрГУ\nШестой этаж, аудитория 601 (или 612, или которая будет свободна))).\nс 18:00 до 22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3596875667572,
+          61.791755322463274
+        ]
+      },
+      "properties": {
+        "name": "Занятия в Дворце творчества детей и юношества",
+        "description": "http://dtdu.ru/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.10948181152344,
+          51.79587656618681
+        ]
+      },
+      "properties": {
+        "name": "Клуб \"Heiko\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.01114463806152,
+          56.32358415286558
+        ]
+      },
+      "properties": {
+        "name": "Клуб \"Го\" в Нижегородском Циферблате",
+        "description": "Каждое воскресенье с 11-00 до 14-00 и дольше."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           37.603089809417725,
           55.86073048903109
         ]
       },
       "properties": {
         "name": "Клуб \"Каисса\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.32741165161133,
+          53.52571730549891
+        ]
+      },
+      "properties": {
+        "name": "Клуб «Стратегия»",
+        "description": "5 этаж офис 505\nЛеонид Сергеевич Бычков, +7 (927) 618 56 99, strateggo@ya.ru\nМы в социальных сетях: https://vk.com/club_go_strategia "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.521613359451294,
+          54.713692117329465
+        ]
+      },
+      "properties": {
+        "name": "Клуб Го в библиотеке им. Снегова",
+        "description": "Каждую субботу с 13:00 до 17:00 собираемся в библиотеке им. Снегова (ул. 9 апреля, д. 5)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.877806663513184,
+          56.2685236855868
+        ]
+      },
+      "properties": {
+        "name": "Клуб Го НИУ ВШЭ",
+        "description": "Каждую пятницу в 17:30 на Львовской, ауд. 203"
       }
     },
     {
@@ -4372,6 +4923,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          92.88926482200623,
+          56.01106232535795
+        ]
+      },
+      "properties": {
+        "name": "Красноярский го-клуб",
+        "description": " в библиотеке им. Ленинского комсомола по адресу ул. К.Маркса, 21. Как правило по воскресеньям c 12:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.35348176956177,
+          55.44096813960599
+        ]
+      },
+      "properties": {
+        "description": "Каждый четверг в 19-00 Про Играх в художественном музее Максима Горького 129, отдельный вход с лева от центрального",
+        "name": "Курган"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.55599558353424,
+          55.679172358326156
+        ]
+      },
+      "properties": {
+        "name": "Лидер Го (детский Го клуб)",
+        "description": "ул. Архитектора Власова, д.7, корп. 3\n+7 926 925 7440 (Санкин Владимир Евгеньевич)\n+7 916 583 1580 (Санкин Тимур Владимирович)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           73.36040943861008,
           54.99244834071137
         ]
@@ -4379,6 +4972,48 @@
       "properties": {
         "name": "Омский Го-клуб",
         "description": "На площадке \"Дача Онегина\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.10968065261841,
+          55.79572666690042
+        ]
+      },
+      "properties": {
+        "name": "Полигон - Клуб любителей интеллектуальных игр",
+        "description": "Контактное лицо - Людмила http://vk.com/yaminoyume\nВозможные дни - ЧТ с 13-00 до 20-00, СБ и ВС с 11-00 до 17-30. \nТолько по договоренности с Людмилой! +7-96-56-0111-47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.73089694976806,
+          54.612168678375305
+        ]
+      },
+      "properties": {
+        "name": "Рязанский Го клуб",
+        "description": "https://vk.com/club13775999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.61701583862305,
+          54.17645216648996
+        ]
+      },
+      "properties": {
+        "name": "семейный центр «Супердетки»",
+        "description": "ул.Кауля, 49б к.1"
       }
     },
     {
@@ -4421,6 +5056,62 @@
       "properties": {
         "name": "Сюдан - четверг",
         "description": "Чайная Будду Чай по адресу: г. Ростов-на-Дону, пр.Стачки, 231б. Встречи проходят по четвергам с 18:30 до 22:30. Уточнить расписание встреч на интересующую вас дату можно на странице мероприятия Игра Го в \"Будду Чай\". Организатор встречи: мастер Го Антон Корзун 8-988-550-14-81. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.91658115386963,
+          56.83835699865732
+        ]
+      },
+      "properties": {
+        "name": "Тверской Го Клуб",
+        "description": "Клуб открыт каждый четверг (18:00-21:00)\nи воскресенье (12:00-16:00)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.52984237670898,
+          57.15901934331189
+        ]
+      },
+      "properties": {
+        "name": "Тюменский Го клуб",
+        "description": "Тургенева 9, ауд. 201 \nСтудентам ТюмГУ при себе иметь пропуск, остальным паспорт. \nВремя: каждую субботу в 13:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.36625361442566,
+          61.792024099140114
+        ]
+      },
+      "properties": {
+        "name": "Центральная спортивная школа города Петрозаводска",
+        "description": "http://csdusshor.ru/ "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.14110541343689,
+          55.83084836917363
+        ]
+      },
+      "properties": {
+        "name": "Японский культурный центр «Хато»",
+        "description": "Контактное лицо - Людмила http://vk.com/yaminoyume\n+7-96-56-0111-47"
       }
     },
     {
@@ -5597,390 +6288,6 @@
       },
       "properties": {
         "description": "York University Meets: Tuesday 18.00 - 21.00 V Bar, Vanburgh College, University of York, Heslington. Contact Leonardo Sandoval"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.9249229431,
-          35.1315530262
-        ]
-      },
-      "properties": {
-        "description": "Magem building, Famagusta, Every Tuesday 18:00, Nurman Aylanc nurmana@hotmail.com (tel. 0090 533 862 9582)",
-        "name": "Magem Go club",
-        "_storage_options": {
-          "iconClass": "Ball"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.352931141853325,
-          35.14230972450944
-        ]
-      },
-      "properties": {
-        "description": "Arabica Cafe in Nicosia, every Saturday, starting around 17:30",
-        "name": "Nicosia"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.6989173889,
-          34.6665348447
-        ]
-      },
-      "properties": {
-        "description": "The Group leader is Jolyon Kay, tel. 25222363. Please contact him for the venue of the meeting because now they meet in member's houses in rotation.",
-        "name": "Pissouri Go Club"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.3751934767,
-          35.1677393623
-        ]
-      },
-      "properties": {
-        "description": "Meetings: Postponed Meeting place: Polykentro Neolaias, 14 Tombazi Street, Lykavitos, Nicosia Time: TBA This club is for children of ages 6-13. It is the ideal place for children to discover the game of Go. Parents and teachersare welcome to play with us as well.Information: Call 22 87 75 10 or email Dimitris Regginos: regginos@gmail.com - www.regginos.com",
-        "name": "Polykentro Neolaias Go Club",
-        "_storage_options": {
-          "iconClass": "Ball"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.06995,
-          47.39104
-        ]
-      },
-      "properties": {
-        "description": "Stephan BALMER 079 336 84 41 sbalmer@yetnet.ch balmerst@hotmail.com",
-        "name": "Aarau"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.43057,
-          46.95387
-        ]
-      },
-      "properties": {
-        "description": "http://www.bernergoclub.ch, Längass-Treff Lerchenweg 33, mardi 19h00-23h00, Alan HELD 031 351 59 64 aeh@vtxfree.ch",
-        "name": "Bern"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.04435,
-          46.23194
-        ]
-      },
-      "properties": {
-        "description": "http://games.web.cern.ch/games/, CERN Restaurant No.2, mercredi 12h30-13h30 parfois aussi mardi dès 18h00, Tibor SIMKO 022 767 35 27 tibor.simko@cern.ch",
-        "name": "CERN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.89177,
-          47.55681
-        ]
-      },
-      "properties": {
-        "description": "Daniel LUTZ dlutz@umlaufbahn.net",
-        "name": "Frauenfeld"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.13949,
-          46.18008
-        ]
-      },
-      "properties": {
-        "description": "http://geneva.swissgo.org/, Café du Rondeau Place du Rondeau 1, 1227 Carouge, mardi 20h00-24h00, Armel-David WOLFF 079 689 78 27 awolff@worldcom.ch",
-        "name": "Genève mardi"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.15344,
-          46.17474
-        ]
-      },
-      "properties": {
-        "description": "http://geneva.swissgo.org/, École de Pinchat 4 ch. de la Tour-de-Pinchat, mercredi 18h00-23h00, Jean-Marc LOUIS 022 784 03 39 079 371 09 52 jmlouis@vtxnet.ch",
-        "name": "Genève mercredi"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.14646,
-          46.19513
-        ]
-      },
-      "properties": {
-        "description": "http://geneva.swissgo.org/, Maison de Quartier de Plainpalais 1 Rue de la tour, vendredi 19h00-22h00, Armel-David WOLFF 079 689 78 27 awolff@worldcom.ch",
-        "name": "Genève vendredi"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.56546,
-          46.52066
-        ]
-      },
-      "properties": {
-        "description": "http://ishigo.epfl.ch/igc.php, EPFL - Salle de Go : CM1 121, mercredi 17h15-20h00, Flavien AUBELLE flavien.aubelle@epfl.ch",
-        "name": "Ishi go club"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.82957,
-          47.10401
-        ]
-      },
-      "properties": {
-        "description": "http://www.gocdf.ch/, Service Jeunesse Serre 12 (1er étage) 2300 La Chaux-de-Fonds, jeudi 20h00-24h00, GO-Club CDF 079 254 88 13 contact@gocdf.ch Marcel SCHWEIZER marcelschweizer@hispeed.ch",
-        "name": "La Chaux-de-Fonds"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.85491,
-          46.45267
-        ]
-      },
-      "properties": {
-        "description": "http://www.museedujeu.ch/fr/animationen/klubs/goklub.html, Musée Suisse du Jeu Au Château 11 Rue du Château, vendredi 19h00-21h00, Rick WERTENBROEK 076 533 40 05 rick.wertenbroek@gmail.com",
-        "name": "La Tour de Peilz"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.62585,
-          46.51652
-        ]
-      },
-      "properties": {
-        "description": "http://lausanne.swissgo.org/, Café-Restaurant Le Milan 54 bd de Grancy 021 616 53 43 http://www.lemilan.ch/fr/restaurant-le-milan, mardi 20h00-24h00, Haruna OKANO lausanne@swissgo.org",
-        "name": "Lausanne"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.83497,
-          46.17318
-        ]
-      },
-      "properties": {
-        "description": "Roberto MORRISON 078 658 66 73 roberto@morrison.ch",
-        "name": "Locarno"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.31923,
-          47.04251
-        ]
-      },
-      "properties": {
-        "description": "http://luzern.swissgo.org/, Restaurant und Jugendhaus Treibhaus Spelteriniweg 4 http://www.treibhausluzern.ch/index.php?id=29, mardi 18h30-23h00, Dominik MÜLLER 078 838 38 64 luzern@swissgo.org",
-        "name": "Luzern"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.93187,
-          46.99151
-        ]
-      },
-      "properties": {
-        "description": "Bar \"Au 21\" 43 Faubourg du Lac, mercredi 19h30-23/24h00, Thibault PILLON 079 526 74 02 thibault.pillon@gmail.com",
-        "name": "Neuchâtel"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.23199,
-          46.38249
-        ]
-      },
-      "properties": {
-        "description": "Gymnase de Nyon salle L204, mardi 11h45-13h25, John WALCH 076 498 03 75 john_walch8@hotmail.com",
-        "name": "Nyon"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.81281,
-          46.00323
-        ]
-      },
-      "properties": {
-        "description": "Claude ROY 091 608 20 79",
-        "name": "Sessa"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.22359,
-          46.60065
-        ]
-      },
-      "properties": {
-        "description": "Jean-Jacques GAGNEBIN 079 768 18 78 jj@gagnebin.net",
-        "name": "Vallée de Joux"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.15785,
-          46.2913
-        ]
-      },
-      "properties": {
-        "description": "Marc DIAS 076 425 02 13 versoix.go.club@gmail.com",
-        "name": "Versoix"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.05344,
-          47.46296
-        ]
-      },
-      "properties": {
-        "description": "Stjepan LUKAC lastronin@gmx.net",
-        "name": "Wil SG"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.72617,
-          47.49843
-        ]
-      },
-      "properties": {
-        "description": "http://www.wintigo.org, Typisch Thai Neumarkt 3 http://www.typischthai.ch, lundi 19h00-22h30, Philipp GRESSLY 052 212 22 15 phi@gressly.ch",
-        "name": "Winterthur"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.2918,
-          47.09733
-        ]
-      },
-      "properties": {
-        "description": "http://worben.swissgo.org/, Restaurant Bären Hauptstr. 46, mercredi 14h30-15h30, Alan REES alan.rees@playmorego.com",
-        "name": "Worben"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.63715,
-          46.78127
-        ]
-      },
-      "properties": {
-        "description": "Café \"Le Tempo\" Quai de la Thièle 3 1400 Yverdon-les-Bains, mardi 19h30 à 22h/23h selon l'affluence, Martin 079 795 49 59 martin.python@gmail.com",
-        "name": "Yverdon"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.54461,
-          47.36974
-        ]
-      },
-      "properties": {
-        "description": "http://zurich.swissgo.org/, Zentrum Karl der Grosse Blaues Foyer im 2ten Stock Kirchgasse 14, mercredi dès 18h00, Jonas JERMANN jjermann2@gmail.com",
-        "name": "Zürich"
       }
     }
   ]
