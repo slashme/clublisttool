@@ -22,57 +22,17 @@ INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact)
 INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Charlton Chess Club', '51.48040805', '0.0372064959226987', 'http://www.britgo.org/node/3165', 'Tuesday 19:30 ', 'SE7 8RE Charlton House, Charlton Road, London ', 'Tony Stebbings ');
 INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Cheltenham', '51.89862', '-2.07656', 'http://www.britgo.org/node/3166', 'Wednesday 19:30 ', '', 'Adam Watts Tel: 07403 475573 ');
 INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Chester', '53.1886174371442', '-2.8914201982706', 'http://www.britgo.org/node/3167', 'Wednesday 20:00 - players normally present from 19:30 ', 'CH1 2LB Ye Olde Custom House Inn, 65-67 Watergate Street ', 'Tony Pitchford Tel: 01925 730583 ');
-
-name: Cork (UCC Weiqi Club)
-lat: 51.896337
-lon: -8.492080
-website: http://www.britgo.org/node/3168
-meettime: Sunday 20:00 
-meetplace: lat: -8.492080
-lon: 51.896337 Cork Cricket Club, Mardyke Walk  
-contact: 
-
-name: Dublin (Collegians Chess and Go Club)
-lat: 53.336883
-lon: -6.248860
-website: http://www.britgo.org/node/3169
-meettime: Wednesday about 20:30-21:00 until midnight 
-meetplace: lat: -6.248860
-lon: 53.336883 The Baggot Inn, 135 Lower Baggot Street, Dublin 2 
-contact: 
-
-name: Dublin (Collegians Chess and Go Club)
-lat: 53.336883
-lon: -6.248860
-website: http://www.britgo.org/node/3169
-meettime: Monday about 20:30-21:00 until midnight most weeks 
-meetplace: lat: -6.248860
-lon: 53.336883 The Baggot Inn, 135 Lower Baggot Street, Dublin 2 
-contact: 
+INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Cork (UCC Weiqi Club)', '51.896337', '-8.492080', 'http://www.britgo.org/node/3168', 'Sunday 20:00 ', 'Cork Cricket Club, Mardyke Walk  ', ''); 
+INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Dublin (Collegians Chess and Go Club)', '53.336883', '-6.248860', 'http://www.britgo.org/node/3169', 'Wednesday about 20:30-21:00 until midnight ', 'The Baggot Inn, 135 Lower Baggot Street, Dublin 2 ', ''); 
+INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Dublin (Collegians Chess and Go Club)', '53.336883', '-6.248860', 'http://www.britgo.org/node/3169', 'Monday about 20:30-21:00 until midnight most weeks ', 'The Baggot Inn, 135 Lower Baggot Street, Dublin 2 ', '');
 INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Dundee', '56.456211', '-2.9931106', 'http://www.britgo.org/node/3170', 'Monday from 20:00 during University terms ', 'DD2 1AS Mennie''s, aka the Speedwell Bar, 165-167 Perth Road ', 'Rich Philp Tel: 01382-666129Peter Clinch Tel: 01382 665322 ');
 INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Durham', '54.7600027', '-1.579723', 'http://www.britgo.org/node/3171', 'Monday 20:00-22:00 during term time ', 'DH1 3TQ The Bar, Ustinov College, Howlands Farm ', 'Andrew Ambrose-Thurman ');
 INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Durham', '54.7754614303746', '-1.58450460919879', 'http://www.britgo.org/node/3172', 'Thursday 20:00-22:00 during term-time ', 'DH1 4PS The Elm Tree pub, Crossgate ', 'Andrew Ambrose-Thurman ');
 INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Edinburgh', '55.9443777', '-3.2014957', 'http://www.britgo.org/node/3174', 'Thursday 18:30 ', 'EH3 9JB Edinburgh Games Hub, http://edinburghgamehub.co.uk/ ', 'Phil Blamire Tel: 0131 663 0678 ');
 INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Epsom', '51.3338915', '-0.2646228', 'http://www.britgo.org/node/3176', 'Occasionally ', 'KT19 Epsom ', 'Matthew via mobile: 07752 - 301 096 ');
-INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Exeter', '50.7208506', '-3.5303122', 'http://www.britgo.org/node/3177', 'Monday 19:00 ', 'EX1 1ED White Hart Inn, South Street ', 'David Storkey Tel: 01392 461182 ');
-
-name: Galway
-lat: 53.289630
-lon: -9.075140
-website: http://www.britgo.org/node/3180
-meettime: Wednesday 20:00 - players normally present from 19:30 
-meetplace: lat: -9.075140
-lon: 53.289630 Westwood House Hotel bar 
-contact: Richard Brennan 
-
-name: Glasgow University
-lat: 55.871799
-lon: -4.288999
-website: http://www.britgo.org/node/3181
-meettime: Thursday 18:00 
-meetplace: lat: -4.288999
-lon: 55.871799 Gilchrist Postgraduate Club, University Avenue, University of Glasgow, G12 8QQ 
-contact: Seigfried Leher 
+INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Exeter', '50.7208506', '-3.5303122', 'http://www.britgo.org/node/3177', 'Monday 19:00 ', 'EX1 1ED White Hart Inn, South Street ', 'David Storkey Tel: 01392 461182 '); 
+INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Galway', '53.289630', '-9.075140', 'http://www.britgo.org/node/3180', 'Wednesday 20:00 - players normally present from 19:30 ', 'Westwood House Hotel bar ', 'Richard Brennan '); 
+INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Glasgow University', '55.871799', '-4.288999', 'http://www.britgo.org/node/3181', 'Thursday 18:00 ', 'Gilchrist Postgraduate Club, University Avenue, University of Glasgow, G12 8QQ ', 'Seigfried Leher ');
 INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Hinstock', '52.83697', '-2.45855', 'http://www.britgo.org/node/3187', 'By arrangement ', '', 'Roger Huyshe Tel: 01952 550361 for details of local players ');
 INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Hull', '53.7639521608161', '-0.348889686595133', 'http://www.britgo.org/node/3189', 'Thursday 20:00 ', 'HU5 1LL 12 Fitzroy St, Beverley Rd ', 'Mark Collinson Tel: 01482 341179 ');
 INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Isle of Man', '54.19823', '-4.46697', 'http://www.britgo.org/node/3191', 'Sunday 20:00 ', 'Phone for details ', 'David Phillips, 4 Ivydene Ave, Onchan IM3 3HD Tel: 01624 612294, 07624 473688 ');
@@ -91,25 +51,9 @@ INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact)
 INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'London, West', '51.5019641424903', '-0.227139856293309', 'http://www.britgo.org/node/5225', 'Monday 19:00 ', 'W12 8HA Young Chelsea Bridge Club, 54 Goldhawk Road ', 'Gerry Gavigan ');
 INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'London, West', '51.5019641424903', '-0.227139856293309', 'http://www.britgo.org/node/5236', 'Wednesday 19:00 ', 'W12 8HA Young Chelsea Bridge Club, 54 Goldhawk Road ', 'Gerry Gavigan ');
 INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Maidenhead', '51.5219319', '-0.7343283', 'http://www.britgo.org/node/3208', 'Friday 20:00 ', '', 'Iain Atwell, Norhurst, Westmorland Rd, Maidenhead, SL6 4HB Tel: 01628 676792 ');
-INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Manchester', '53.4805574', '-2.2398008', 'https://www.facebook.com/groups/1752760928343423/1756314767988039/?notif_t=group_activity" 0="a:0:{}', 'Thursday 18:00 ', 'M2 2AA The Shakespeare pub, 16 Fountain Street ', 'Chris Kirkham Tel: 0161 903 9023 ');
-
-name: Mid-Cornwall
-lat: 50.198643
-lon: -5.218773
-website: http://www.britgo.org/node/3211
-meettime: Tuesday 20:00 
-meetplace: lat: -5.218773
-lon: 50.198643 Penhalurick Barton, Penhalvean, Redruth, Cornwall TR16 6TG 
-contact: Paul Massey Tel: 07966 474686 
-
-name: Mid-Cornwall
-lat: 50.228835
-lon: -5.247745
-website: http://www.britgo.org/node/5195
-meettime: Friday 13:00 - 14:00 
-meetplace: lat: -5.247745
-lon: 50.228835 Bluefruit Software, Gateway Business Centre, Barncoose, Redruth, Cornwall TR15 3RQ 
-contact: Paul Massey Tel: 07966 474686 
+INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Manchester', '53.4805574', '-2.2398008', 'https://www.facebook.com/groups/1752760928343423/1756314767988039/?notif_t=group_activity" 0="a:0:{}', 'Thursday 18:00 ', 'M2 2AA The Shakespeare pub, 16 Fountain Street ', 'Chris Kirkham Tel: 0161 903 9023 '); 
+INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Mid-Cornwall', '50.198643', '-5.218773', 'http://www.britgo.org/node/3211', 'Tuesday 20:00 ', 'Penhalurick Barton, Penhalvean, Redruth, Cornwall TR16 6TG ', 'Paul Massey Tel: 07966 474686 '); 
+INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Mid-Cornwall', '50.228835', '-5.247745', 'http://www.britgo.org/node/5195', 'Friday 13:00 - 14:00 ', 'Bluefruit Software, Gateway Business Centre, Barncoose, Redruth, Cornwall TR15 3RQ ', 'Paul Massey Tel: 07966 474686 ');
 INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Milton Keynes', '52.0242571', '-0.711252', 'http://www.britgo.org/node/3213', 'Tuesday 12:15-13:15 ', 'MK7 6AA The coffee bar in the Catering Hub, The Open University, Walton Hall ', 'Tim Hunt Tel: 07850 119939 ');
 INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Milton Keynes', '52.0384223', '-0.7692317', 'http://www.britgo.org/node/3214', 'Tuesday 18:15 ', 'MK9 1EA Wetherspoons, 201 Midsummer Boulevard ', 'Tim Hunt Tel: 07850 119939 ');
 INSERT INTO clubs (layer, name, lat, lon, website, meettime, meetplace, contact) VALUES ('GB', 'Northampton', '52.2446911', '-0.8828779', 'http://www.britgo.org/node/3450', 'Wednesday 19:00 ', 'NN1 4JQ Blackcurrent Centre, St Michaels Avenue, Abington, Northampton (www.blackcurrentcentre.org.uk) ', 'Thomas Streamer 07926357826 ');
