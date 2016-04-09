@@ -5,105 +5,120 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -5.987312793731689, 
-          37.38818864261459
+          -5.98731279373, 
+          37.3881886426
         ]
       }, 
       "layer": "ES", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Sábado 20:00\n\nhttp://www.andalucia-go.org/index.php/la-asociacion-de-go-de-andalucia/la-carboneria"
+        "description": "http://www.andalucia-go.org/index.php/la-asociacion-de-go-de-andalucia/la-carboneria, La Carbonería, Sábado 20:00", 
+        "name": "Asociación de Go de Andalucía"
       }
     }, 
     {
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -4.470834732055664, 
-          36.716526677898145
+          -4.47083473206, 
+          36.7165266779
         ]
       }, 
       "layer": "ES", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "nos reunimos todos los viernes por la tarde (A partir de las 17:00h, y hasta las 21:00h aproximadamente)en la Escuela Tecnica Superior de Informatica\n\nhttp://gomalaga.es/la-asociacion/about/"
+        "description": "http://gomalaga.es/la-asociacion/about/, Escuela Tecnica Superior de Informatica , los viernes por la tarde (A partir de las 17:00h, y hasta las 21:00h aproximadamente), gomalaga@gmail.com", 
+        "name": "Asociacion Malagueña de Go"
       }
     }, 
     {
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -1.6435933113098145, 
-          42.81948628081472
+          -1.64359331131, 
+          42.8194862808
         ]
       }, 
       "layer": "ES", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Nos reunimos los martes por la tarde en el local comunitario de Auzoenea de la asociación de vecinos del centro histórico de Pamplona.\nEl horario oficial es de 17.00 a 20.30, aunque pueden surgir modificaciones según el interés de los aficionados. Si quieres más información, pásate por el foro.\n\nhttp://playinplona.alejostenuki.com/?page_id=32"
+        "description": "http://playinplona.alejostenuki.com/?page_id=32, en el local comunitario de Auzoenea de la asociación de vecinos del centro histórico de Pamplona, los martes de 17.00 a 20.30, playinplona@gmail.com", 
+        "name": "Club de Go de Pamplona"
       }
     }, 
     {
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.157794237136841, 
-          41.38720117593744
+          2.15779423714, 
+          41.3872011759
         ]
       }, 
       "layer": "ES", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Ens reunim els dimarts a partir de les 19:30 a Av. Roma 159 2º, compartint espai amb el club de Bridge Mayda.\n\nhttp://lapedra.org"
+        "description": "http://lapedra.org, Av. Roma 159 2º, compartint espai amb el club de Bridge Mayda, els dimarts a partir de les 19:30, lapedra@googlegroups.com", 
+        "name": "Club de Go La Pedra"
       }
     }, 
     {
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -2.930656671524048, 
-          43.26786255173016
+          -2.93065667152, 
+          43.2678625517
         ]
       }, 
       "layer": "ES", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "todos los miércoles entre las 18'30 y las 21'30 horas\n\nhttp://www.escueladegodebilbao.com/"
+        "description": "http://www.escueladegodebilbao.com/, Restaurante Larruzz Bilbao (Antiguo Tapelia), en el Paseo de Uribitarte nº 14, de Bilbao, junto al Puente de Calatrava, todos los miércoles entre las 18'30 y las 21'30 horas ", 
+        "name": "Escuela de Go de Bilbao"
       }
     }, 
     {
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -6.297290325164795, 
-          36.53395025465619
+          -6.29729032516, 
+          36.5339502547
         ]
       }, 
       "layer": "ES", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Nos reunimos periódicamente para jugar al Go todas las semanas, y durante la época en que hay buen tiempo también hacemos reuniones esporádicas al aire libre algunos fines de semana.\n\n– Sábados: Aproximadamente de 10:00 a 13:30 en la Casa de la Juventud de Cádiz (C/Cánovas del Castillo, 41 C.P. 11004 Cádiz)\n\nhttps://gocadiz.wordpress.com"
+        "description": "https://gocadiz.wordpress.com, Casa de la Juventud de Cádiz (C/Cánovas del Castillo, 41 C.P. 11004 Cádiz) , Sábados: Aproximadamente de 10:00 a 13:30, agocamail@gmail.com", 
+        "name": "Asociación de Go de Cádiz "
       }
     }, 
     {
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -3.711914420127868, 
-          40.42256482817633
+          -3.71191442013, 
+          40.4225648282
         ]
       }, 
       "layer": "ES", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Nos reunimos los lunes, jueves y viernes de 19:00 a 22:00 en el Círculo Catalán, Plaza de España nº6, Madrid\n\nhttp://www.clubgomadrid.org/"
+        "description": "http://www.clubgomadrid.org/, Círculo Catalán, Plaza de España nº6, Madrid, los lunes, jueves y viernes de 19:00 a 22:00, http://es.groups.yahoo.com/group/nam-ban/", 
+        "name": "Nam-Ban"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.376625061035156, 
+          39.4714502602773
+        ]
+      }, 
+      "layer": "ES", 
+      "type": "Feature", 
+      "properties": {
+        "description": "https://www.facebook.com/clubdegovalencia/?fref=ts, los miércoles de 18.00 a 21.00, Adela Ibáñez +34 656 48 11 27", 
+        "name": "Club de go Malvarrosa"
       }
     }
   ]

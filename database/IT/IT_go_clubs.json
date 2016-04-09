@@ -1350,6 +1350,21 @@
         "description": "Manuele Carbini : carbini.manuele@tiscali.it Cell. : 328 6174620 Tel : 079 632524 (ore pasti) Tradurre 7valis7@gmail.com Cell. : 328 5686736", 
         "name": "TEMPIO PAUSANIA (OT)"
       }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -77.8597855567932, 
+          40.7933274655084
+        ]
+      }, 
+      "layer": "IT", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Musser Room (we share with the Chess Club), every Saturday 14:00, schlowgo@gmail.com", 
+        "name": "Schlow Library Go Club"
+      }
     }
   ]
 }

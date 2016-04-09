@@ -12,8 +12,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Aberdeen Meets: Saturday 11:00 every second one from 19/04/14, but check website Hardback Cafe, Aberdeen University Sir Duncan Rice Library, Bedford Road, Aberdeen. Contact Neil McLean"
+        "description": "http://www.britgo.org/node/3140, AB24 3AA Hardback Cafe, Aberdeen University \"Sir Duncan Rice Library, Bedford Road, Aberdeen , Saturday 11:00 every second one from 19/04/14, but check website , Neil McLean ", 
+        "name": "Aberdeen"
       }
     }, 
     {
@@ -27,8 +27,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Arundel Meets: Sunday - last in month, but please ring first to confirm 1 Town Quay, River Rd, Arundel, West Sussex. Contact Sue Paterson Tel: 07549 898376"
+        "description": "http://www.britgo.org/node/3141, BN18 9DF 1 Town Quay, River Rd, Arundel, West Sussex , Sunday - last in month, but please ring first to confirm , Sue Paterson Tel: 07549 898376 ", 
+        "name": "Arundel"
       }
     }, 
     {
@@ -42,8 +42,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Barmouth Meets: By arrangement . Contact Baron Allday Tel: 01341 280365"
+        "description": "http://www.britgo.org/node/3142, By arrangement , Baron Allday Tel: 01341 280365 ", 
+        "name": "Barmouth"
       }
     }, 
     {
@@ -57,23 +57,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Bath Meets: Tuesday 19:30 Meets various places - check club web site.. Contact Paul Christie Tel: 01225 428995"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -5.93037, 
-          54.57139
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "description": "", 
-        "name": "Belfast Meets: Monday 19:00 Function Room, Belfast Boat Club, 12 Lockview Road. Contact James Hutchinson"
+        "description": "http://www.britgo.org/node/3144, BA1 3EN Meets various places - check club web site. , Tuesday 19:30 , Paul Christie Tel: 01225 428995 ", 
+        "name": "Bath"
       }
     }, 
     {
@@ -87,8 +72,23 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Belfast Meets: Thursday 18:30 86 Stranmillis Road. Contact James Hutchinson"
+        "description": "http://www.britgo.org/node/3145, BT9 5FJ Function Room, Belfast Boat Club, 12 Lockview Road , Monday 19:00 , James Hutchinson ", 
+        "name": "Belfast"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -5.93305, 
+          54.57933
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/4563, BT9 5AW 86 Stranmillis Road , Thursday 18:30 , James Hutchinson ", 
+        "name": "Belfast"
       }
     }, 
     {
@@ -102,8 +102,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Billericay Meets: Monday 19:30 in term-time 42 Mons Avenue, Billericay, Essex. Contact Guy Footring Tel: 01277 623305"
+        "description": "http://www.britgo.org/node/3147, CM11 2HQ 42 Mons Avenue, Billericay, Essex , Monday 19:30 in term-time , Guy Footring Tel: 01277 623305 ", 
+        "name": "Billericay"
       }
     }, 
     {
@@ -117,8 +117,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Birmingham Meets: Sunday 14:00 Starbucks cafe in the International Convention Centre (ICC). Contact Andrew Russell http://www.brumgo.co.uk/ "
+        "description": "http://www.britgo.org/node/3148, B1 2EA Starbucks cafe in the International Convention Centre (ICC) , Sunday 14:00 , Andrew Russellhttp://www.brumgo.co.uk/ ", 
+        "name": "Birmingham"
       }
     }, 
     {
@@ -132,8 +132,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Borders Meets: By arrangement Greenwells, Gattonside near Melrose and Galashiels. Contact Ron Bell"
+        "description": "http://www.britgo.org/node/3150, TD6 9NP Greenwells, Gattonside near Melrose and Galashiels , By arrangement , Ron Bell ", 
+        "name": "Borders"
       }
     }, 
     {
@@ -147,8 +147,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Bournemouth Meets: Tuesday 20:00 24 Cowper Road, Moordown. Contact Marcus Bennett Tel: 01202 512655"
+        "description": "http://www.britgo.org/node/3153, BH9 2UJ 24 Cowper Road, Moordown , Tuesday 20:00 , Marcus Bennett Tel: 01202 512655 ", 
+        "name": "Bournemouth"
       }
     }, 
     {
@@ -162,8 +162,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Bracknell Meets: Tuesday 20:00 meets by arrangement only The Green Man, Crowthorne Road. Contact Ian Marsh Tel: 01344 422296"
+        "description": "http://www.britgo.org/node/3151, RG12 7DL The Green Man, Crowthorne Road , Tuesday 20:00 meets by arrangement only , Ian Marsh Tel: 01344 422296 ", 
+        "name": "Bracknell"
       }
     }, 
     {
@@ -177,8 +177,23 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Bradford Meets: Wednesday 19:30 The Noble Comb, Quayside, Salts Mill Road, Shipley. Contact Ewen Pearson Tel: 01274 598980"
+        "description": "http://www.britgo.org/node/3152, BD18 3ST The Noble Comb, Quayside, Salts Mill Road, Shipley , Wednesday 19:30 , Ewen Pearson Tel: 01274 598980 ", 
+        "name": "Bradford"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.1318, 
+          50.8406
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3155, BN1 4SD Druid Arms, 79-81 Ditchling Rd , Wednesday 20:00 , Felix Shardlow tel: 07940 973406John Allen aka \"Yogi\" Tel: 01273 383254 or 07854 218920Jil Segerman Tel: 07920 865065 or 01273 470346 ", 
+        "name": "Brighton"
       }
     }, 
     {
@@ -192,8 +207,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Brighton Meets: Tuesday 20:00 The Southover Pub, Southover St. Contact Felix Shardlow tel: 07940 973406 John Allen aka Yogi Tel: 01273 383254 or 07854 218920 Jil Segerman Tel: 07920 865065 or 01273 470346 Felix Shardlow 07940 973406 https://www.facebook.com/groups/brightongoclub/ "
+        "description": "http://www.britgo.org/club/brighton, BN2 9UF The Southover Pub, Southover St , Monday 20:00 , Felix Shardlow 07940 973406https://www.facebook.com/groups/brightongoclub/  ", 
+        "name": "Brighton"
       }
     }, 
     {
@@ -207,8 +222,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Bristol Meets: Wednesday 19:00 Bristol County Sports Club, 40 Colston Street, Bristol. Contact Luke Oram"
+        "description": "http://www.britgo.org/node/3156, BS1 5AE Bristol County Sports Club, 40 Colston Street, Bristol , Wednesday 19:00 , Luke Oram ", 
+        "name": "Bristol"
       }
     }, 
     {
@@ -222,8 +237,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Cambridge City Meets: Sunday 17:30-20:00 . Contact Simon Mader"
+        "description": "http://www.britgo.org/node/3158, CB1 2BH , Sunday 17:30-20:00 , Simon Mader ", 
+        "name": "Cambridge City"
       }
     }, 
     {
@@ -237,8 +252,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Cambridge Junior Chess and Go Meets: Wednesday 18:00-19:30 St Augustine&#039;s Church Hall, Richmond Road. Contact Paul Smith Tel: 01223 563932"
+        "description": "http://www.britgo.org/club/cambridgejunior, CB4 3PS St Augustine's Church Hall, Richmond Road , Wednesday 18:00-19:30 , Paul Smith Tel: 01223 563932 ", 
+        "name": "Cambridge Junior Chess and Go"
       }
     }, 
     {
@@ -252,8 +267,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Cambridge University Meets: Monday 19:00-22:00 during University terms (possibly on hold this term) Linnett Room, Robinson College. Contact Sean Hao"
+        "description": "http://www.britgo.org/node/3159, CB3 9AN Linnett Room, Robinson College , Monday 19:00-22:00 during University terms (possibly on hold this term) , Sean Hao ", 
+        "name": "Cambridge University"
       }
     }, 
     {
@@ -267,8 +282,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Cambridge University Meets: Thursday 19:00-21:00 University Centre, Mill Lane. Contact Sean Hao"
+        "description": "http://www.britgo.org/node/3160, CB2 1RU University Centre, Mill Lane , Thursday 19:00-21:00 , Sean Hao ", 
+        "name": "Cambridge University"
       }
     }, 
     {
@@ -282,8 +297,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Canterbury Go Club Meets: Wednesday evenings from about 7.00pm Chocolate Cafe in Canterbury, 1 Guildhall Street, Canterbury. Contact Andy Renshaw"
+        "description": "http://www.britgo.org/node/5002, CT2 2JQ Chocolate Cafe in Canterbury, 1 Guildhall Street, Canterbury , Wednesday evenings from about 7.00pm , Andy Renshaw ", 
+        "name": "Canterbury Go Club"
       }
     }, 
     {
@@ -297,8 +312,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Cardiff Meets: Tuesday 19:00-23:30 Cafe area of Chapter Arts Centre, Market Road, Cardiff. Contact Dylan Carter"
+        "description": "http://www.britgo.org/node/3164, CF5 1QE Cafe area of Chapter Arts Centre, Market Road, Cardiff , Tuesday 19:00-23:30 , Dylan Carter ", 
+        "name": "Cardiff"
       }
     }, 
     {
@@ -312,8 +327,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Charlton Chess Club Meets: Tuesday 19:30 Charlton House, Charlton Road, London. Contact Tony Stebbings"
+        "description": "http://www.britgo.org/node/3165, SE7 8RE Charlton House, Charlton Road, London , Tuesday 19:30 , Tony Stebbings ", 
+        "name": "Charlton Chess Club"
       }
     }, 
     {
@@ -327,8 +342,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Cheltenham Meets: Wednesday 19:30 . Contact Adam Watts Tel: 07403 475573"
+        "description": "http://www.britgo.org/node/3166, Wednesday 19:30 , Adam Watts Tel: 07403 475573 ", 
+        "name": "Cheltenham"
       }
     }, 
     {
@@ -342,8 +357,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Chester Meets: Wednesday 20:00 - players normally present from 19:30 Ye Olde Custom House Inn, 65-67 Watergate Street. Contact Tony Pitchford Tel: 01925 730583"
+        "description": "http://www.britgo.org/node/3167, CH1 2LB Ye Olde Custom House Inn, 65-67 Watergate Street , Wednesday 20:00 - players normally present from 19:30 , Tony Pitchford Tel: 01925 730583 ", 
+        "name": "Chester"
       }
     }, 
     {
@@ -357,8 +372,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Cork (UCC Weiqi Club) Meets: Sunday 20:00 Cork Cricket Club, Mardyke Walk</venue>"
+        "description": "http://www.britgo.org/node/3168, Cork Cricket Club, Mardyke Walk  , Sunday 20:00 ", 
+        "name": "Cork (UCC Weiqi Club)"
       }
     }, 
     {
@@ -372,8 +387,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Dublin (Collegians Chess and Go Club) Meets: Wednesday about 20:30-21:00 until midnight The Baggot Inn, 135 Lower Baggot Street, Dublin 2</venue>"
+        "description": "http://www.britgo.org/node/3169, The Baggot Inn, 135 Lower Baggot Street, Dublin 2 , Wednesday about 20:30-21:00 until midnight ", 
+        "name": "Dublin (Collegians Chess and Go Club)"
       }
     }, 
     {
@@ -387,8 +402,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Dublin (Collegians Chess and Go Club) Meets: Monday about 20:30-21:00 until midnight most weeks The Baggot Inn, 135 Lower Baggot Street, Dublin 2</venue>"
+        "description": "http://www.britgo.org/node/3169, The Baggot Inn, 135 Lower Baggot Street, Dublin 2 , Monday about 20:30-21:00 until midnight most weeks ", 
+        "name": "Dublin (Collegians Chess and Go Club)"
       }
     }, 
     {
@@ -402,8 +417,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Dundee Meets: Monday from 20:00 during University terms Mennie&#039;s, aka the Speedwell Bar, 165-167 Perth Road. Contact Rich Philp Tel: 01382-666129 Peter Clinch Tel: 01382 665322 "
+        "description": "http://www.britgo.org/node/3170, DD2 1AS Mennie's, aka the Speedwell Bar, 165-167 Perth Road , Monday from 20:00 during University terms , Rich Philp Tel: 01382-666129Peter Clinch Tel: 01382 665322 ", 
+        "name": "Dundee"
       }
     }, 
     {
@@ -417,8 +432,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Durham Meets: Monday 20:00-22:00 during term time The Bar, Ustinov College, Howlands Farm. Contact Andrew Ambrose-Thurman"
+        "description": "http://www.britgo.org/node/3171, DH1 3TQ The Bar, Ustinov College, Howlands Farm , Monday 20:00-22:00 during term time , Andrew Ambrose-Thurman ", 
+        "name": "Durham"
       }
     }, 
     {
@@ -432,8 +447,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Durham Meets: Thursday 20:00-22:00 during term-time The Elm Tree pub, Crossgate. Contact Andrew Ambrose-Thurman"
+        "description": "http://www.britgo.org/node/3172, DH1 4PS The Elm Tree pub, Crossgate , Thursday 20:00-22:00 during term-time , Andrew Ambrose-Thurman ", 
+        "name": "Durham"
       }
     }, 
     {
@@ -447,8 +462,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Edinburgh Meets: Thursday 18:30 Edinburgh Games Hub, http://edinburghgamehub.co.uk/. Contact Phil Blamire Tel: 0131 663 0678"
+        "description": "http://www.britgo.org/node/3174, EH3 9JB Edinburgh Games Hub, http://edinburghgamehub.co.uk/ , Thursday 18:30 , Phil Blamire Tel: 0131 663 0678 ", 
+        "name": "Edinburgh"
       }
     }, 
     {
@@ -462,8 +477,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Epsom Meets: Occasionally Epsom. Contact Matthew via mobile: 07752 - 301 096"
+        "description": "http://www.britgo.org/node/3176, KT19 Epsom , Occasionally , Matthew via mobile: 07752 - 301 096 ", 
+        "name": "Epsom"
       }
     }, 
     {
@@ -477,8 +492,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Exeter Meets: Monday 19:00 White Hart Inn, South Street. Contact David Storkey Tel: 01392 461182"
+        "description": "http://www.britgo.org/node/3177, EX1 1ED White Hart Inn, South Street , Monday 19:00 , David Storkey Tel: 01392 461182 ", 
+        "name": "Exeter"
       }
     }, 
     {
@@ -492,8 +507,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Galway Meets: Wednesday 20:00 - players normally present from 19:30 Westwood House Hotel bar. Contact Richard Brennan"
+        "description": "http://www.britgo.org/node/3180, Westwood House Hotel bar , Wednesday 20:00 - players normally present from 19:30 , Richard Brennan ", 
+        "name": "Galway"
       }
     }, 
     {
@@ -507,8 +522,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Glasgow University Meets: Thursday 18:00 Gilchrist Postgraduate Club, University Avenue, University of Glasgow, G12 8QQ. Contact Seigfried Leher"
+        "description": "http://www.britgo.org/node/3181, Gilchrist Postgraduate Club, University Avenue, University of Glasgow, G12 8QQ , Thursday 18:00 , Seigfried Leher ", 
+        "name": "Glasgow University"
       }
     }, 
     {
@@ -522,8 +537,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Hinstock Meets: By arrangement . Contact Roger Huyshe Tel: 01952 550361 for details of local players"
+        "description": "http://www.britgo.org/node/3187, By arrangement , Roger Huyshe Tel: 01952 550361 for details of local players ", 
+        "name": "Hinstock"
       }
     }, 
     {
@@ -537,8 +552,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Hull Meets: Thursday 20:00 12 Fitzroy St, Beverley Rd. Contact Mark Collinson Tel: 01482 341179"
+        "description": "http://www.britgo.org/node/3189, HU5 1LL 12 Fitzroy St, Beverley Rd , Thursday 20:00 , Mark Collinson Tel: 01482 341179 ", 
+        "name": "Hull"
       }
     }, 
     {
@@ -552,8 +567,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Isle of Man Meets: Sunday 20:00 Phone for details. Contact David Phillips, 4 Ivydene Ave, Onchan IM3 3HD Tel: 01624 612294, 07624 473688"
+        "description": "http://www.britgo.org/node/3191, Phone for details , Sunday 20:00 , David Phillips, 4 Ivydene Ave, Onchan IM3 3HD Tel: 01624 612294, 07624 473688 ", 
+        "name": "Isle of Man"
       }
     }, 
     {
@@ -567,8 +582,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Lancaster Meets: Wednesday 20:00 - players normally present from 19:30 Gregson Community Centre, 33 Moorgate. Contact Adrian Abrahams Tel: 01524 34656"
+        "description": "http://www.britgo.org/node/3184, LA1 3PY Gregson Community Centre, 33 Moorgate , Wednesday 20:00 - players normally present from 19:30 , Adrian Abrahams Tel: 01524 34656 ", 
+        "name": "Lancaster"
       }
     }, 
     {
@@ -582,8 +597,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Leamington Meets: Thursday 19:30, not Easter Thursday 22 Keytes Lane, Barford, Warwickshire. Contact Matthew Macfadyen Tel: 01926 624445"
+        "description": "http://www.britgo.org/node/3192, CV35 8EP 22 Keytes Lane, Barford, Warwickshire , Thursday 19:30, not Easter Thursday , Matthew Macfadyen Tel: 01926 624445 ", 
+        "name": "Leamington"
       }
     }, 
     {
@@ -597,8 +612,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Leeds University Meets: Tuesday 17:30-20:30 The Faversham, 1-5 Springfield Mount, Leeds. Contact Jitse Niesen"
+        "description": "http://www.britgo.org/node/3193, LS2 9NG The Faversham, 1-5 Springfield Mount, Leeds , Tuesday 17:30-20:30 , Jitse Niesen ", 
+        "name": "Leeds University"
       }
     }, 
     {
@@ -612,8 +627,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Leicester Meets: Thursday 19:45 Stephen Bashforth&#039;s house, Mayfield, Station Road, Kirby Muxloe. Contact Toby Manning Tel: 01530 245298"
+        "description": "http://www.britgo.org/node/3194, LE9 2EN Stephen Bashforth's house, Mayfield, Station Road, Kirby Muxloe , Thursday 19:45 , Toby Manning Tel: 01530 245298 ", 
+        "name": "Leicester"
       }
     }, 
     {
@@ -627,8 +642,23 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Letchworth Go Club Meets: Thursday 20:00-22:30 during term-time Central Methodist Church, Norton Way South. Contact Alison Bexfield"
+        "description": "http://www.britgo.org/club/letchworth, SG6 3TR Central Methodist Church, Norton Way South  , Thursday 20:00-22:30 during term-time , Alison Bexfield ", 
+        "name": "Letchworth Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.2276028, 
+          51.9776758
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/4212, SG6 3TR Central Methodist Church, Norton Way South  , Thursday 18:00-19:30 during term-time , Alison Bexfield ", 
+        "name": "Letchworth Junior Chess and Go Club"
       }
     }, 
     {
@@ -642,8 +672,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Lincoln Meets: Monday 19:00-22:00 (1st Mon) The Wig and Mitre, Steep Hill. Contact Richard Leedham-Green"
+        "description": "http://www.britgo.org/node/3195, LN2 1LU The Wig and Mitre, Steep Hill , Monday 19:00-22:00 (1st Mon) , Richard Leedham-Green ", 
+        "name": "Lincoln"
       }
     }, 
     {
@@ -657,8 +687,23 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "London, Central Meets: Saturday 12:00-20:00 The Inn of Court pub, 18 Holborn. Contact Jonathan Turner Tel: 07968 538881 (mobile). Kiyohiko Tanaka Tel: 07956 594040 KGS: matta"
+        "description": "http://www.britgo.org/node/3197, EC1N 2LE The Inn of Court pub, 18 Holborn , Friday 18:00-23:00 , Richard Mullens; Kiyohiko Tanaka Tel: 07956 594040 KGS: matta", 
+        "name": "London City"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.1100581, 
+          51.5178439
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3198, EC1N 2LE The Inn of Court pub, 18 Holborn , Saturday 12:00-20:00 , Jonathan Turner Tel: 07968 538881 (mobile). ", 
+        "name": "London, Central"
       }
     }, 
     {
@@ -672,8 +717,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "London, East Meets: Thursday 19:00 except August Wanstead House, 21 The Green, Wanstead. Contact Francis Roads Tel: 020 8505 4381"
+        "description": "http://www.britgo.org/node/3199, E11 2NT Wanstead House, 21 The Green, Wanstead , Thursday 19:00 except August , Francis Roads Tel: 020 8505 4381 ", 
+        "name": "London, East"
       }
     }, 
     {
@@ -687,8 +732,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "London, North Meets: Tuesday 19:30 Allatson Room, Parish Church, Church Row, Hampstead. Contact Michael Webster"
+        "description": "http://www.britgo.org/node/3202, NW3 6UU Allatson Room, Parish Church, Church Row, Hampstead , Tuesday 19:30 , Michael Webster ", 
+        "name": "London, North"
       }
     }, 
     {
@@ -702,8 +747,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "London, Twickenham Meets: Wednesday 19:30 The Alexander Pope Hotel, Cross Deep, Twickenham, West London. Contact Colin Maclennan Tel: 020 8941 1607"
+        "description": "http://www.britgo.org/node/3206, TW1 4RB The Alexander Pope Hotel, Cross Deep, Twickenham, West London , Wednesday 19:30 , Colin Maclennan Tel: 020 8941 1607 ", 
+        "name": "London, Twickenham"
       }
     }, 
     {
@@ -717,8 +762,23 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "London, West Meets: Wednesday 19:00 Young Chelsea Bridge Club, 54 Goldhawk Road. Contact Gerry Gavigan"
+        "description": "http://www.britgo.org/node/5225, W12 8HA Young Chelsea Bridge Club, 54 Goldhawk Road , Monday 19:00 , Gerry Gavigan ", 
+        "name": "London, West"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.227139856293309, 
+          51.5019641424903
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/5236, W12 8HA Young Chelsea Bridge Club, 54 Goldhawk Road , Wednesday 19:00 , Gerry Gavigan ", 
+        "name": "London, West"
       }
     }, 
     {
@@ -732,8 +792,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Maidenhead Meets: Friday 20:00 . Contact Iain Atwell, Norhurst, Westmorland Rd, Maidenhead, SL6 4HB Tel: 01628 676792"
+        "description": "http://www.britgo.org/node/3208, Friday 20:00 , Iain Atwell, Norhurst, Westmorland Rd, Maidenhead, SL6 4HB Tel: 01628 676792 ", 
+        "name": "Maidenhead"
       }
     }, 
     {
@@ -747,8 +807,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Manchester Meets: Thursday 19:45 The Shakespeare pub, 16 Fountain Street. Contact Chris Kirkham Tel: 0161 903 9023"
+        "description": "https://www.facebook.com/groups/1752760928343423/1756314767988039/?notif_t=group_activity\" 0=\"a:0:{}, M2 2AA The Shakespeare pub, 16 Fountain Street , Thursday 18:00 , Chris Kirkham Tel: 0161 903 9023 ", 
+        "name": "Manchester"
       }
     }, 
     {
@@ -762,8 +822,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Mid-Cornwall Meets: Tuesday 20:00 Penhalurick Barton, Penhalvean, Redruth, Cornwall TR16 6TG. Contact Paul Massey Tel: 07966 474686"
+        "description": "http://www.britgo.org/node/3211, Penhalurick Barton, Penhalvean, Redruth, Cornwall TR16 6TG , Tuesday 20:00 , Paul Massey Tel: 07966 474686 ", 
+        "name": "Mid-Cornwall"
       }
     }, 
     {
@@ -777,8 +837,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Mid-Cornwall Meets: Friday 13:00 - 14:00 Bluefruit Software, Gateway Business Centre, Barncoose, Redruth, Cornwall TR15 3RQ. Contact Paul Massey Tel: 07966 474686"
+        "description": "http://www.britgo.org/node/5195, Bluefruit Software, Gateway Business Centre, Barncoose, Redruth, Cornwall TR15 3RQ , Friday 13:00 - 14:00 , Paul Massey Tel: 07966 474686 ", 
+        "name": "Mid-Cornwall"
       }
     }, 
     {
@@ -792,8 +852,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Milton Keynes Meets: Tuesday 12:15-13:15 The coffee bar in the Catering Hub, The Open University, Walton Hall. Contact Tim Hunt Tel: 07850 119939"
+        "description": "http://www.britgo.org/node/3213, MK7 6AA The coffee bar in the Catering Hub, The Open University, Walton Hall , Tuesday 12:15-13:15 , Tim Hunt Tel: 07850 119939 ", 
+        "name": "Milton Keynes"
       }
     }, 
     {
@@ -807,8 +867,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Milton Keynes Meets: Tuesday 18:15 Wetherspoons, 201 Midsummer Boulevard. Contact Tim Hunt Tel: 07850 119939"
+        "description": "http://www.britgo.org/node/3214, MK9 1EA Wetherspoons, 201 Midsummer Boulevard , Tuesday 18:15 , Tim Hunt Tel: 07850 119939 ", 
+        "name": "Milton Keynes"
       }
     }, 
     {
@@ -822,8 +882,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Northampton Meets: Wednesday 19:00 Blackcurrent Centre, St Michaels Avenue, Abington, Northampton (www.blackcurrentcentre.org.uk). Contact Thomas Streamer 07926357826"
+        "description": "http://www.britgo.org/node/3450, NN1 4JQ Blackcurrent Centre, St Michaels Avenue, Abington, Northampton (www.blackcurrentcentre.org.uk) , Wednesday 19:00 , Thomas Streamer 07926357826 ", 
+        "name": "Northampton"
       }
     }, 
     {
@@ -837,8 +897,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Nottingham Meets: Wednesday 19:30-22:00 The Last Post, Chilwell Road, Beeston. Contact Brent Cutts Tel: 0115 959 2404"
+        "description": "http://www.britgo.org/node/3219, NG9 1AA The Last Post, Chilwell Road, Beeston , Wednesday 19:30-22:00 , Brent Cutts Tel: 0115 959 2404 ", 
+        "name": "Nottingham"
       }
     }, 
     {
@@ -852,8 +912,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Oxford City Meets: Tuesday 19:30-23:00 Freud&#039;s Cafe Restaurant, 119 Walton Street. Contact Harry Fearnley, 38 Henley Street, Oxford OX4 1ES Tel: 01865 248775 (day/eve)"
+        "description": "http://www.britgo.org/node/3222, OX2 6AH Freud's Cafe Restaurant, 119 Walton Street , Tuesday 19:30-23:00 , Harry Fearnley, 38 Henley Street, Oxford OX4 1ES Tel: 01865 248775 (day/eve) ", 
+        "name": "Oxford City"
       }
     }, 
     {
@@ -867,8 +927,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Oxford University Meets: Thursday 19:30-23:00 - wks 1-8 Oxford Univ term Fitzjames 2 in Merton College, Merton Street, Oxford. Contact Toby Cathcart Burn Tel/Text: 07821 199649"
+        "description": "http://www.britgo.org/node/3223, OX1 4JD Fitzjames 2 in Merton College, Merton Street, Oxford , Thursday 19:30-23:00 - wks 1-8 Oxford Univ term , Toby Cathcart Burn Tel/Text: 07821 199649 ", 
+        "name": "Oxford University"
       }
     }, 
     {
@@ -882,8 +942,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Purbrook Meets: Thursday evenings - most weeks Mostly at Peter Wendes&#039;s house. Contact Peter Wendes Tel: 02392 267648"
+        "description": "http://www.britgo.org/node/3226, PO7 5LU Mostly at Peter Wendes's house , Thursday evenings - most weeks , Peter Wendes Tel: 02392 267648 ", 
+        "name": "Purbrook"
       }
     }, 
     {
@@ -897,8 +957,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Reading Meets: Monday 18:30 except bank holidays Eclectic Games, 5 Union Street, Reading. Contact Jim Clare, 32-28 Granville Rd, Reading, RG30 3QE Tel: 0118 950 7319"
+        "description": "http://www.britgo.org/node/3229, RG1 1EU Eclectic Games, 5 Union Street, Reading , Monday 18:30 except bank holidays , Jim Clare, 32-28 Granville Rd, Reading, RG30 3QE Tel: 0118 950 7319 ", 
+        "name": "Reading"
       }
     }, 
     {
@@ -912,8 +972,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Seaford Meets: Thursday 19:00-21:30 (not every week) 149 Princess Drive, Seaford. Contact Karen van den Zyl tel: 01323 351473"
+        "description": "http://www.britgo.org/node/4282, BN25 2QT 149 Princess Drive, Seaford , Thursday 19:00-21:30 (not every week) , Karen van den Zyl tel: 01323 351473 ", 
+        "name": "Seaford"
       }
     }, 
     {
@@ -927,8 +987,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Sheffield Meets: Sunday 19:30 (Since October 2015): The Old Queens Head, 40 Pond Hill, Sheffield, South Yorkshire . Contact Phil Barker Tel: 0114 255 1440 (home)"
+        "description": "http://www.britgo.org/node/3230, S1 2BG (Since October 2015): The Old Queens Head, 40 Pond Hill, Sheffield, South Yorkshire  , Sunday 19:30 , Phil Barker Tel: 0114 255 1440 (home) ", 
+        "name": "Sheffield"
       }
     }, 
     {
@@ -942,8 +1002,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Sheffield University Go Society Meets: Tuesday 18:00-21:00 in term-time Student Union Gallery Eye room, Western Bank. Contact David Philpott"
+        "description": "http://www.britgo.org/node/4456, S10 2TG Student Union Gallery Eye room, Western Bank , Tuesday 18:00-21:00 in term-time , David Philpott ", 
+        "name": "Sheffield University Go Society"
       }
     }, 
     {
@@ -957,8 +1017,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Skye Meets: Tuesday 19:30 Givendale Guest House, Heron Place, Portree, Isle of Skye. Contact Carel Goodheir Tel: 01478 611763. Jurriaan Dijkman Tel: 01478 612183, 07554 434215 "
+        "description": "http://www.britgo.org/node/3231, IV51 9GU Givendale Guest House, Heron Place, Portree, Isle of Skye , Tuesday 19:30 , Carel Goodheir Tel: 01478 611763. Jurriaan Dijkman Tel: 01478 612183, 07554 434215 ", 
+        "name": "Skye"
       }
     }, 
     {
@@ -972,8 +1032,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "St Albans Meets: Wednesday 20:00 until pub closing The Garibaldi, 61 Albert Street. Contact Secretary: Brian Ellis 01727 872575, Mike Cockburn 01727 834035"
+        "description": "http://www.britgo.org/node/3233, AL1 1RT The Garibaldi, 61 Albert Street , Wednesday 20:00 until pub closing , Secretary: Brian Ellis 01727 872575, Mike Cockburn 01727 834035 ", 
+        "name": "St Albans"
       }
     }, 
     {
@@ -987,8 +1047,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "St Andrews Meets: Tuesday 19:30-23:00 Aikman&#039;s Cellar Bar, 32 Bell Street. Contact Edwin Brady"
+        "description": "http://www.britgo.org/node/3235, KY16 9UX Aikman's Cellar Bar, 32 Bell Street , Tuesday 19:30-23:00 , Edwin Brady ", 
+        "name": "St Andrews"
       }
     }, 
     {
@@ -1002,8 +1062,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Swansea Meets: By arrangement The Mill Pub, 75 Brynymor Road. Contact Dylan Carter"
+        "description": "http://www.britgo.org/node/3244, SA1 4JJ The Mill Pub, 75 Brynymor Road , By arrangement , Dylan Carter ", 
+        "name": "Swansea"
       }
     }, 
     {
@@ -1017,8 +1077,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Swindon Meets: Wednesday 19:30 Windmill Pub, Freshbrook Village Centre, Worsley Road. Contact David King, 21 Windsor Rd, Swindon Tel: 01793 521625"
+        "description": "http://www.britgo.org/node/3241, SN5 8LY Windmill Pub, Freshbrook Village Centre, Worsley Road , Wednesday 19:30 , David King, 21 Windsor Rd, Swindon Tel: 01793 521625 ", 
+        "name": "Swindon"
       }
     }, 
     {
@@ -1032,8 +1092,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Swindon Meets: Sunday evening The Beehive, Prospect Hill. Contact David King, 21 Windsor Rd, Swindon Tel: 01793 521625"
+        "description": "http://www.britgo.org/node/3242, SN1 3JS The Beehive, Prospect Hill , Sunday evening , David King, 21 Windsor Rd, Swindon Tel: 01793 521625 ", 
+        "name": "Swindon"
       }
     }, 
     {
@@ -1047,8 +1107,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Teesside Meets: Meets by arrangement . Contact Matthew Holton"
+        "description": "http://www.britgo.org/node/3212, Meets by arrangement , Matthew Holton ", 
+        "name": "Teesside"
       }
     }, 
     {
@@ -1062,8 +1122,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Tonbridge Meets: Tuesday 19:30 4 Ives Road. Contact Michael Pickles"
+        "description": "http://www.britgo.org/node/5190, TN9 1XJ 4 Ives Road , Tuesday 19:30 , Michael Pickles ", 
+        "name": "Tonbridge"
       }
     }, 
     {
@@ -1077,8 +1137,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Warwick University Meets: Wednesday 17:00-20:00 during University term Room B2.03 on campus (see website for directions). Contact Philip Leung"
+        "description": "http://www.britgo.org/node/3238, CV4 7AL Room B2.03 on campus (see website for directions) , Wednesday 17:00-20:00 during University term , Philip Leung ", 
+        "name": "Warwick University"
       }
     }, 
     {
@@ -1092,8 +1152,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "West Cornwall Meets: Thursday 20:00 John Culmer&#039;s house, Rose-in-Vale, Gweek, Helston. Contact John Culmer Tel: 01326 573167"
+        "description": "http://www.britgo.org/node/3239, TR12 7AD John Culmer's house, Rose-in-Vale, Gweek, Helston  , Thursday 20:00 , John Culmer Tel: 01326 573167 ", 
+        "name": "West Cornwall"
       }
     }, 
     {
@@ -1107,8 +1167,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Winchester Meets: Wednesday 19:30 The Black Boy Public House, 1 Wharf Hill, Bar End. Contact Mr John Tilley, The Old Cottage, Micheldever, Winchester, Hampshire SO21 3DF Tel: 07824-163776"
+        "description": "http://www.britgo.org/node/3129, SO23 9NQ The Black Boy Public House, 1 Wharf Hill, Bar End  , Wednesday 19:30 , Mr John Tilley, The Old Cottage, Micheldever, Winchester, Hampshire SO21 3DF Tel: 07824-163776 ", 
+        "name": "Winchester"
       }
     }, 
     {
@@ -1122,8 +1182,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Yeovil Meets: Thursday 19:45 Mason&#039;s Arms, 41 Lower Odcombe, Odcombe. Contact Julian Davies Tel: 01935 423046"
+        "description": "http://www.britgo.org/node/3131, BA22 8TX Mason's Arms, 41 Lower Odcombe, Odcombe , Thursday 19:45 , Julian Davies Tel: 01935 423046 ", 
+        "name": "Yeovil"
       }
     }, 
     {
@@ -1137,8 +1197,8 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "York Meets: Tuesdays 19:30 check on Twitter @yorkgoclub Moroccan Room, El Piano, 15 - 17 Grape Lane, York (www.el-piano.com). Contact Chris Maughan"
+        "description": "http://www.britgo.org/node/3135, YO1 7HU Moroccan Room, El Piano (www.el-piano.com), 15 - 17 Grape Lane, York  , Tuesdays 19:30 check on Twitter @yorkgoclub , Chris Maughan ", 
+        "name": "York"
       }
     }, 
     {
@@ -1152,8 +1212,23 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "York University Meets: Tuesday 18.00 - 21.00 V Bar, Vanburgh College, University of York, Heslington. Contact Leonardo Sandoval"
+        "description": "https://yorkgosociety.wordpress.com/, YO10 5DD V Bar, Vanburgh College, University of York, Heslington , Tuesday 18.00 - 21.00 , Leonardo Sandoval ", 
+        "name": "York University"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -64.782949090004, 
+          32.2931208778792
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "https://www.facebook.com/BermudaGo", 
+        "name": "Bermuda Go Society"
       }
     }
   ]

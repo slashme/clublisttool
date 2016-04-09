@@ -585,6 +585,21 @@
         "description": "http://vk.com/go_heiko", 
         "name": "Heiko"
       }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          30.2812600136, 
+          59.9405169002
+        ]
+      }, 
+      "layer": "RU", 
+      "type": "Feature", 
+      "properties": {
+        "description": "в кафе Укроп, 7-я линия В.О., д. 30\\nВХОД СВОБОДНЫЙ, Вторник с 19:00\\nСуббота с 14:00", 
+        "name": "ЗВЕЗДА"
+      }
     }
   ]
 }
