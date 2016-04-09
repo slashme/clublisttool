@@ -48,6 +48,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.37662506103515625,
+          39.47145026027725
+        ]
+      },
+      "properties": {
+        "name": "Club de go Malvarrosa",
+        "description": "https://www.facebook.com/clubdegovalencia/?fref=ts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.89177,
           47.55681
         ]
@@ -390,6 +404,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.009660720825195,
+          53.55907325414039
+        ]
+      },
+      "properties": {
+        "description": "<A HREF=\"http://gohh.de/spielabende/\">Hamburg</A>,  Fr ab 18 CVJM, An der Alster 40, 040-2840950 K: Olga Silber , 04141-7810576 K: Tobias Berben , 040-85157161 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.7222126691801,
           51.06212745
         ]
@@ -468,25 +495,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.3779334,
-          54.0927869
+          13.37853670120239,
+          54.09291350912952
         ]
       },
       "properties": {
         "description": " Greifswald, Di 19.30-23 Cafe Koeppen, Bahnhofstr. 4 K: Carsten Herrmann , 0176-61573271 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9864197,
-          53.4580076
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://gohh.de/?Clubs_und_Spielgruppen:Go-Gruppe_Harburg\">Hamburg (Harburg)</A>, Mi 19-22 Kulturzentrum \"Rieckhof\", Rieckhoffstr. 12, 040-7662020 K: Jürgen Abels , 04181-4063524 K: Matthias Palm , 040-76111771 "
       }
     },
     {
@@ -520,8 +534,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.8811483,
-          51.9342601
+          8.88156920671463,
+          51.93423430599664
         ]
       },
       "properties": {
@@ -663,8 +677,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.6887673,
-          53.8717805
+          10.690094232559204,
+          53.8718290375701
         ]
       },
       "properties": {
@@ -702,8 +716,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.973735894186,
-          51.4683192
+          11.97133183479309,
+          51.47722843117117
         ]
       },
       "properties": {
@@ -715,8 +729,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.9908152,
-          53.5660034
+          9.99032735824585,
+          53.568300150144545
         ]
       },
       "properties": {
@@ -832,8 +846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.6476565,
-          51.9650068
+          7.641795873641968,
+          51.963836721482394
         ]
       },
       "properties": {
@@ -1066,8 +1080,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.4153397,
-          53.6290796
+          11.417316198348999,
+          53.6324949053948
         ]
       },
       "properties": {
@@ -1105,8 +1119,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.2085064,
-          53.1497295
+          8.208082616329193,
+          53.15057795757906
         ]
       },
       "properties": {
@@ -1222,19 +1236,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.97962391591026,
-          53.56789125
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.go-in-hamburg.de/?Uni_Go-Gruppe\">Hamburg</A>, Do 18-21 Uni-Spielabend, Foyer des Pädagogischen Instituts (VMP 8) K: Peter Splettstösser , 040-4914818 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           8.6597034,
           49.8778201
         ]
@@ -1248,8 +1249,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.9243951,
-          50.6889175
+          10.916338562965393,
+          50.68763905667833
         ]
       },
       "properties": {
@@ -1274,8 +1275,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.5470302,
-          54.5121597
+          9.556142091751099,
+          54.51513422719894
         ]
       },
       "properties": {
@@ -1326,8 +1327,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.5427699,
-          52.2632964
+          10.54236352443695,
+          52.264857991713995
         ]
       },
       "properties": {
@@ -1339,8 +1340,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.33481941986942,
-          52.5138071835757
+          7.29691743850708,
+          52.495267921517275
         ]
       },
       "properties": {
@@ -1417,8 +1418,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.0273195,
-          50.978905
+          11.026767790317535,
+          50.97829752570632
         ]
       },
       "properties": {
@@ -1430,8 +1431,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.1105765,
-          53.520833
+          8.113065361976624,
+          53.520659341188576
         ]
       },
       "properties": {
@@ -1443,8 +1444,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.1317026,
-          54.3367251
+          10.111606121063232,
+          54.34327462431176
         ]
       },
       "properties": {
@@ -1586,21 +1587,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.1669467510192,
-          53.60649915
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://gohh.de/?Clubs_und_Spielgruppen:Rahlstedter_Go-Club\">Hamburg (Rahlstedt)</A>, Di 18-22 Gymnasium Oldenfelde, Birrenkovenallee 12 K: Patrick Brunner , 0176-488485474 K: Thomas Nohr , 040-67561446, 0176-57186511 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.003024486579,
-          53.099378542339
+          9.999240338802338,
+          53.0856026156619
         ]
       },
       "properties": {
@@ -1612,12 +1600,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.0038509,
-          53.5574272
+          10.01822233200073,
+          53.556364701611614
         ]
       },
       "properties": {
-        "description": " <A HREF=\"http://gohh.de/?Clubs_und_Spielgruppen:CVJM-Spielabend\">Hamburg</A>, Mo u. Fr ab 18 CVJM, An der Alster 40, 040-2840950 K: Olga Silber , 04141-7810576 K: Tobias Berben , 040-85157161 "
+        "description": " <A HREF=\"http://gohh.de/spielabende/\">Hamburg</A>, Mo 19:00 Uhr Schorsch, Steindamm 87,  K: Olga Silber , 04141-7810576 K: Tobias Berben , 040-85157161 "
       }
     },
     {
@@ -1677,21 +1665,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.5864968,
-          50.9296751
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://go-jena.webnode.com//\">Jena</A>, Mo ab 19 Cafe Immergrün, Jenergasse 6 K: Kevin Sanow , 0176-286 118 14 K: Guido Tautorat , 03641-350454 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.271080076543,
-          52.23676795
+          11.40081524848938,
+          52.2491324889463
         ]
       },
       "properties": {
@@ -1781,8 +1756,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.7590527,
-          52.3701065
+          9.761357903480528,
+          52.36917338787906
         ]
       },
       "properties": {
@@ -1846,8 +1821,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.7957567,
-          52.4749749
+          9.797648191452026,
+          52.47704965416954
         ]
       },
       "properties": {
@@ -1872,8 +1847,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.8532302,
-          53.0649497
+          8.832128047943115,
+          53.06843246695435
         ]
       },
       "properties": {
@@ -2149,6 +2124,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.98580515384674,
+          53.45781022681003
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://gohh.de/spielabende/\">Hamburg (Harburg)</A>, Mi 19-22 Kulturzentrum \"Rieckhof\", Rieckhoffstr. 12, 040-7662020 K: Jürgen Abels , 04181-4063524 K: Matthias Palm , 040-76111771 ",
+        "name": "Hamburg (Harburg)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.159499645233154,
+          53.61059828828756
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://gohh.de/spielabende/\">Hamburg (Rahlstedt)</A>, Di 18-22 Gymnasium Oldenfelde, Birrenkovenallee 12 K: Patrick Brunner , 0176-488485474 K: Thomas Nohr , 040-67561446, 0176-57186511 ",
+        "name": "Hamburg Rahlstedt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.585415601730347,
+          50.92978626957436
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://go-jena.webnode.com//\">Jena</A>, Mo ab 19 Cafe Immergrün, Jenergasse 6 K: Kevin Sanow , 0176-286 118 14 K: Guido Tautorat , 03641-350454 ",
+        "name": "Jena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98402416706085,
+          53.56736034776683
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.go-in-hamburg.de/?Uni_Go-Gruppe\">Hamburg</A>, Do 18-21 Uni-Spielabend, Foyer des Pädagogischen Instituts (VMP 8) K: Peter Splettstösser , 040-4914818 ",
+        "name": "UNI-Gruppe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.494641780853271,
           52.03733985771698
         ]
@@ -2163,13 +2194,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.987312793731689,
-          37.38818864261459
+          -5.98731279373,
+          37.3881886426
         ]
       },
       "properties": {
-        "name": "\"La Carbonería\" Club de Go",
-        "description": "Sábado 20:00\n\nhttp://www.andalucia-go.org/index.php/la-asociacion-de-go-de-andalucia/la-carboneria"
+        "description": "http://www.andalucia-go.org/index.php/la-asociacion-de-go-de-andalucia/la-carboneria, La Carbonería, Sábado 20:00",
+        "name": "Asociación de Go de Andalucía"
       }
     },
     {
@@ -2177,13 +2208,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.470834732055664,
-          36.716526677898145
+          -6.29729032516,
+          36.5339502547
         ]
       },
       "properties": {
-        "description": "nos reunimos todos los viernes por la tarde (A partir de las 17:00h, y hasta las 21:00h aproximadamente)en la Escuela Tecnica Superior de Informatica\n\nhttp://gomalaga.es/la-asociacion/about/",
-        "name": "Asociación Malagueña de Go"
+        "description": "https://gocadiz.wordpress.com, Casa de la Juventud de Cádiz (C/Cánovas del Castillo, 41 C.P. 11004 Cádiz) , Sábados: Aproximadamente de 10:00 a 13:30, agocamail@gmail.com",
+        "name": "Asociación de Go de Cádiz "
       }
     },
     {
@@ -2191,12 +2222,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6435933113098145,
-          42.81948628081472
+          -4.47083473206,
+          36.7165266779
         ]
       },
       "properties": {
-        "description": "Nos reunimos los martes por la tarde en el local comunitario de Auzoenea de la asociación de vecinos del centro histórico de Pamplona.\nEl horario oficial es de 17.00 a 20.30, aunque pueden surgir modificaciones según el interés de los aficionados. Si quieres más información, pásate por el foro.\n\nhttp://playinplona.alejostenuki.com/?page_id=32",
+        "description": "http://gomalaga.es/la-asociacion/about/, Escuela Tecnica Superior de Informatica , los viernes por la tarde (A partir de las 17:00h, y hasta las 21:00h aproximadamente), gomalaga@gmail.com",
+        "name": "Asociacion Malagueña de Go"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.817716836929321,
+          43.45811359238562
+        ]
+      },
+      "properties": {
+        "name": "CanBaduk",
+        "description": "Club de go cántabro.\nhttp://canbaduk.wordpress.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.64359331131,
+          42.8194862808
+        ]
+      },
+      "properties": {
+        "description": "http://playinplona.alejostenuki.com/?page_id=32, en el local comunitario de Auzoenea de la asociación de vecinos del centro histórico de Pamplona, los martes de 17.00 a 20.30, playinplona@gmail.com",
         "name": "Club de Go de Pamplona"
       }
     },
@@ -2205,13 +2264,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.157794237136841,
-          41.38720117593744
+          2.15779423714,
+          41.3872011759
         ]
       },
       "properties": {
-        "name": "el Club de Go La Pedra",
-        "description": "Ens reunim els dimarts a partir de les 19:30 a Av. Roma 159 2º, compartint espai amb el club de Bridge Mayda.\n\nhttp://lapedra.org"
+        "description": "http://lapedra.org, Av. Roma 159 2º, compartint espai amb el club de Bridge Mayda, els dimarts a partir de les 19:30, lapedra@googlegroups.com",
+        "name": "Club de Go La Pedra"
       }
     },
     {
@@ -2219,13 +2278,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.930656671524048,
-          43.26786255173016
+          -2.93065667152,
+          43.2678625517
         ]
       },
       "properties": {
-        "name": "Escuela de Go de Bilbao",
-        "description": "todos los miércoles entre las 18'30 y las 21'30 horas\n\nhttp://www.escueladegodebilbao.com/"
+        "description": "http://www.escueladegodebilbao.com/, Restaurante Larruzz Bilbao (Antiguo Tapelia), en el Paseo de Uribitarte nº 14, de Bilbao, junto al Puente de Calatrava, todos los miércoles entre las 18'30 y las 21'30 horas ",
+        "name": "Escuela de Go de Bilbao"
       }
     },
     {
@@ -2233,27 +2292,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.297290325164795,
-          36.53395025465619
+          -3.71191442013,
+          40.4225648282
         ]
       },
       "properties": {
-        "name": "La Asociación de Go de Cádiz (AGOCA)",
-        "description": "Nos reunimos periódicamente para jugar al Go todas las semanas, y durante la época en que hay buen tiempo también hacemos reuniones esporádicas al aire libre algunos fines de semana.\n\n– Sábados: Aproximadamente de 10:00 a 13:30 en la Casa de la Juventud de Cádiz (C/Cánovas del Castillo, 41 C.P. 11004 Cádiz)\n\nhttps://gocadiz.wordpress.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.711914420127868,
-          40.42256482817633
-        ]
-      },
-      "properties": {
-        "name": "Nam-ban",
-        "description": "Nos reunimos los lunes, jueves y viernes de 19:00 a 22:00 en el Círculo Catalán, Plaza de España nº6, Madrid\n\nhttp://www.clubgomadrid.org/"
+        "description": "http://www.clubgomadrid.org/, Círculo Catalán, Plaza de España nº6, Madrid, los lunes, jueves y viernes de 19:00 a 22:00, http://es.groups.yahoo.com/group/nam-ban/",
+        "name": "Nam-Ban"
       }
     },
     {
@@ -3353,6 +3398,1021 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.10586390402163,
+          57.1656495732931
+        ]
+      },
+      "properties": {
+        "description": "Aberdeen Meets: Saturday 11:00 every second one from 19/04/14, but check website Hardback Cafe, Aberdeen University Sir Duncan Rice Library, Bedford Road, Aberdeen. Contact Neil McLean"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.58450460919879,
+          54.7754614303746
+        ]
+      },
+      "properties": {
+        "description": "Durham Meets: Thursday 20:00-22:00 during term-time The Elm Tree pub, Crossgate. Contact Andrew Ambrose-Thurman"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.758857195357585,
+          51.4060111
+        ]
+      },
+      "properties": {
+        "description": "Bracknell Meets: Tuesday 20:00 meets by arrangement only The Green Man, Crowthorne Road. Contact Ian Marsh Tel: 01344 422296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2398008,
+          53.4805574
+        ]
+      },
+      "properties": {
+        "description": "Manchester Meets: Thursday 19:45 The Shakespeare pub, 16 Fountain Street. Contact Chris Kirkham Tel: 0161 903 9023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.78095942978267,
+          51.5565506239891
+        ]
+      },
+      "properties": {
+        "description": "Swindon Meets: Sunday evening The Beehive, Prospect Hill. Contact David King, 21 Windsor Rd, Swindon Tel: 01793 521625"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.83492588,
+          51.55013431
+        ]
+      },
+      "properties": {
+        "description": "Swindon Meets: Wednesday 19:30 Windmill Pub, Freshbrook Village Centre, Worsley Road. Contact David King, 21 Windsor Rd, Swindon Tel: 01793 521625"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.07656,
+          51.89862
+        ]
+      },
+      "properties": {
+        "description": "Cheltenham Meets: Wednesday 19:30 . Contact Adam Watts Tel: 07403 475573"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7343283,
+          51.5219319
+        ]
+      },
+      "properties": {
+        "description": "Maidenhead Meets: Friday 20:00 . Contact Iain Atwell, Norhurst, Westmorland Rd, Maidenhead, SL6 4HB Tel: 01628 676792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.27639,
+          54.56458
+        ]
+      },
+      "properties": {
+        "description": "Teesside Meets: Meets by arrangement . Contact Matthew Holton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2646228,
+          51.3338915
+        ]
+      },
+      "properties": {
+        "description": "Epsom Meets: Occasionally Epsom. Contact Matthew via mobile: 07752 - 301 096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7274482,
+          55.606769
+        ]
+      },
+      "properties": {
+        "description": "Borders Meets: By arrangement Greenwells, Gattonside near Melrose and Galashiels. Contact Ron Bell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.218773,
+          50.198643
+        ]
+      },
+      "properties": {
+        "description": "Mid-Cornwall Meets: Tuesday 20:00 Penhalurick Barton, Penhalvean, Redruth, Cornwall TR16 6TG. Contact Paul Massey Tel: 07966 474686"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.227139856293309,
+          51.5019641424903
+        ]
+      },
+      "properties": {
+        "description": "London, West Meets: Wednesday 19:00 Young Chelsea Bridge Club, 54 Goldhawk Road. Contact Gerry Gavigan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7748336,
+          53.8344245
+        ]
+      },
+      "properties": {
+        "description": "Bradford Meets: Wednesday 19:30 The Noble Comb, Quayside, Salts Mill Road, Shipley. Contact Ewen Pearson Tel: 01274 598980"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2583921,
+          51.19504
+        ]
+      },
+      "properties": {
+        "description": "Tonbridge Meets: Tuesday 19:30 4 Ives Road. Contact Michael Pickles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.579723,
+          54.7600027
+        ]
+      },
+      "properties": {
+        "description": "Durham Meets: Monday 20:00-22:00 during term time The Bar, Ustinov College, Howlands Farm. Contact Andrew Ambrose-Thurman"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5303122,
+          50.7208506
+        ]
+      },
+      "properties": {
+        "description": "Exeter Meets: Monday 19:00 White Hart Inn, South Street. Contact David Storkey Tel: 01392 461182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9576637,
+          51.6152447
+        ]
+      },
+      "properties": {
+        "description": "Swansea Meets: By arrangement The Mill Pub, 75 Brynymor Road. Contact Dylan Carter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.91064765766123,
+          52.4782216474506
+        ]
+      },
+      "properties": {
+        "description": "Birmingham Meets: Sunday 14:00 Starbucks cafe in the International Convention Centre (ICC). Contact Andrew Russell http://www.brumgo.co.uk/ "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.247745,
+          50.228835
+        ]
+      },
+      "properties": {
+        "description": "Mid-Cornwall Meets: Friday 13:00 - 14:00 Bluefruit Software, Gateway Business Centre, Barncoose, Redruth, Cornwall TR15 3RQ. Contact Paul Massey Tel: 07966 474686"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.331331781603036,
+          51.4419936807984
+        ]
+      },
+      "properties": {
+        "description": "London, Twickenham Meets: Wednesday 19:30 The Alexander Pope Hotel, Cross Deep, Twickenham, West London. Contact Colin Maclennan Tel: 020 8941 1607"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1264609,
+          50.8272903
+        ]
+      },
+      "properties": {
+        "description": "Brighton Meets: Tuesday 20:00 The Southover Pub, Southover St. Contact Felix Shardlow tel: 07940 973406 John Allen aka Yogi Tel: 01273 383254 or 07854 218920 Jil Segerman Tel: 07920 865065 or 01273 470346 Felix Shardlow 07940 973406 https://www.facebook.com/groups/brightongoclub/ "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5603331,
+          52.3787168
+        ]
+      },
+      "properties": {
+        "description": "Warwick University Meets: Wednesday 17:00-20:00 during University term Room B2.03 on campus (see website for directions). Contact Philip Leung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9931106,
+          56.456211
+        ]
+      },
+      "properties": {
+        "description": "Dundee Meets: Monday from 20:00 during University terms Mennie&#039;s, aka the Speedwell Bar, 165-167 Perth Road. Contact Rich Philp Tel: 01382-666129 Peter Clinch Tel: 01382 665322 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.07514,
+          53.28963
+        ]
+      },
+      "properties": {
+        "description": "Galway Meets: Wednesday 20:00 - players normally present from 19:30 Westwood House Hotel bar. Contact Richard Brennan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7981853871402,
+          56.340071512822
+        ]
+      },
+      "properties": {
+        "description": "St Andrews Meets: Tuesday 19:30-23:00 Aikman&#039;s Cellar Bar, 32 Bell Street. Contact Edwin Brady"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4350939,
+          51.6243999
+        ]
+      },
+      "properties": {
+        "description": "Billericay Meets: Monday 19:30 in term-time 42 Mons Avenue, Billericay, Essex. Contact Guy Footring Tel: 01277 623305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.711252,
+          52.0242571
+        ]
+      },
+      "properties": {
+        "description": "Milton Keynes Meets: Tuesday 12:15-13:15 The coffee bar in the Catering Hub, The Open University, Walton Hall. Contact Tim Hunt Tel: 07850 119939"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.178857120142765,
+          51.5558438026085
+        ]
+      },
+      "properties": {
+        "description": "London, North Meets: Tuesday 19:30 Allatson Room, Parish Church, Church Row, Hampstead. Contact Michael Webster"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.59758,
+          51.45624
+        ]
+      },
+      "properties": {
+        "description": "Bristol Meets: Wednesday 19:00 Bristol County Sports Club, 40 Colston Street, Bristol. Contact Luke Oram"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.21861448917604,
+          50.1019853
+        ]
+      },
+      "properties": {
+        "description": "West Cornwall Meets: Thursday 20:00 John Culmer&#039;s house, Rose-in-Vale, Gweek, Helston. Contact John Culmer Tel: 01326 573167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.24886,
+          53.336883
+        ]
+      },
+      "properties": {
+        "description": "Dublin (Collegians Chess and Go Club) Meets: Monday about 20:30-21:00 until midnight most weeks The Baggot Inn, 135 Lower Baggot Street, Dublin 2</venue>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.288999,
+          55.871799
+        ]
+      },
+      "properties": {
+        "description": "Glasgow University Meets: Thursday 18:00 Gilchrist Postgraduate Club, University Avenue, University of Glasgow, G12 8QQ. Contact Seigfried Leher"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3368138,
+          51.7500809
+        ]
+      },
+      "properties": {
+        "description": "St Albans Meets: Wednesday 20:00 until pub closing The Garibaldi, 61 Albert Street. Contact Secretary: Brian Ellis 01727 872575, Mike Cockburn 01727 834035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.93305,
+          54.57933
+        ]
+      },
+      "properties": {
+        "description": "Belfast Meets: Thursday 18:30 86 Stranmillis Road. Contact James Hutchinson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7692317,
+          52.0384223
+        ]
+      },
+      "properties": {
+        "description": "Milton Keynes Meets: Tuesday 18:15 Wetherspoons, 201 Midsummer Boulevard. Contact Tim Hunt Tel: 07850 119939"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0282214,
+          51.5760603
+        ]
+      },
+      "properties": {
+        "description": "London, East Meets: Thursday 19:00 except August Wanstead House, 21 The Green, Wanstead. Contact Francis Roads Tel: 020 8505 4381"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.138665954407287,
+          52.1973774018734
+        ]
+      },
+      "properties": {
+        "description": "Cambridge City Meets: Sunday 17:30-20:00 . Contact Simon Mader"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.30736,
+          51.0578146
+        ]
+      },
+      "properties": {
+        "description": "Winchester Meets: Wednesday 19:30 The Black Boy Public House, 1 Wharf Hill, Bar End. Contact Mr John Tilley, The Old Cottage, Micheldever, Winchester, Hampshire SO21 3DF Tel: 07824-163776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.24886,
+          53.336883
+        ]
+      },
+      "properties": {
+        "description": "Dublin (Collegians Chess and Go Club) Meets: Wednesday about 20:30-21:00 until midnight The Baggot Inn, 135 Lower Baggot Street, Dublin 2</venue>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1100581,
+          51.5178439
+        ]
+      },
+      "properties": {
+        "description": "London, Central Meets: Saturday 12:00-20:00 The Inn of Court pub, 18 Holborn. Contact Jonathan Turner Tel: 07968 538881 (mobile). Kiyohiko Tanaka Tel: 07956 594040 KGS: matta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1987678,
+          57.4044894
+        ]
+      },
+      "properties": {
+        "description": "Skye Meets: Tuesday 19:30 Givendale Guest House, Heron Place, Portree, Isle of Skye. Contact Carel Goodheir Tel: 01478 611763. Jurriaan Dijkman Tel: 01478 612183, 07554 434215 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.93037,
+          54.57139
+        ]
+      },
+      "properties": {
+        "description": "Belfast Meets: Monday 19:00 Function Room, Belfast Boat Club, 12 Lockview Road. Contact James Hutchinson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8828779,
+          52.2446911
+        ]
+      },
+      "properties": {
+        "description": "Northampton Meets: Wednesday 19:00 Blackcurrent Centre, St Michaels Avenue, Abington, Northampton (www.blackcurrentcentre.org.uk). Contact Thomas Streamer 07926357826"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5389319,
+          53.2341567
+        ]
+      },
+      "properties": {
+        "description": "Lincoln Meets: Monday 19:00-22:00 (1st Mon) The Wig and Mitre, Steep Hill. Contact Richard Leedham-Green"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.107533097928058,
+          52.2195568237466
+        ]
+      },
+      "properties": {
+        "description": "Cambridge Junior Chess and Go Meets: Wednesday 18:00-19:30 St Augustine&#039;s Church Hall, Richmond Road. Contact Paul Smith Tel: 01223 563932"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7004613,
+          50.9387109
+        ]
+      },
+      "properties": {
+        "description": "Yeovil Meets: Thursday 19:45 Mason&#039;s Arms, 41 Lower Odcombe, Odcombe. Contact Julian Davies Tel: 01935 423046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.49208,
+          51.896337
+        ]
+      },
+      "properties": {
+        "description": "Cork (UCC Weiqi Club) Meets: Sunday 20:00 Cork Cricket Club, Mardyke Walk</venue>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2276028,
+          51.9776758
+        ]
+      },
+      "properties": {
+        "description": "Letchworth Go Club Meets: Thursday 20:00-22:30 during term-time Central Methodist Church, Norton Way South. Contact Alison Bexfield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.48729028289892,
+          53.382744200046
+        ]
+      },
+      "properties": {
+        "description": "Sheffield University Go Society Meets: Tuesday 18:00-21:00 in term-time Student Union Gallery Eye room, Western Bank. Contact David Philpott"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.39513594148765,
+          51.3790174481156
+        ]
+      },
+      "properties": {
+        "description": "Bath Meets: Tuesday 19:30 Meets various places - check club web site.. Contact Paul Christie Tel: 01225 428995"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.21634470518728,
+          52.9265494728415
+        ]
+      },
+      "properties": {
+        "description": "Nottingham Meets: Wednesday 19:30-22:00 The Last Post, Chilwell Road, Beeston. Contact Brent Cutts Tel: 0115 959 2404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2305961,
+          52.6291197
+        ]
+      },
+      "properties": {
+        "description": "Leicester Meets: Thursday 19:45 Stephen Bashforth&#039;s house, Mayfield, Station Road, Kirby Muxloe. Contact Toby Manning Tel: 01530 245298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.103866856481811,
+          52.20529622534
+        ]
+      },
+      "properties": {
+        "description": "Cambridge University Meets: Monday 19:00-22:00 during University terms (possibly on hold this term) Linnett Room, Robinson College. Contact Sean Hao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0822194,
+          53.9606907
+        ]
+      },
+      "properties": {
+        "description": "York Meets: Tuesdays 19:30 check on Twitter @yorkgoclub Moroccan Room, El Piano, 15 - 17 Grape Lane, York (www.el-piano.com). Contact Chris Maughan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8914201982706,
+          53.1886174371442
+        ]
+      },
+      "properties": {
+        "description": "Chester Meets: Wednesday 20:00 - players normally present from 19:30 Ye Olde Custom House Inn, 65-67 Watergate Street. Contact Tony Pitchford Tel: 01925 730583"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.45855,
+          52.83697
+        ]
+      },
+      "properties": {
+        "description": "Hinstock Meets: By arrangement . Contact Roger Huyshe Tel: 01952 550361 for details of local players"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.46276520049956,
+          53.3782610349486
+        ]
+      },
+      "properties": {
+        "description": "Sheffield Meets: Sunday 19:30 (Since October 2015): The Old Queens Head, 40 Pond Hill, Sheffield, South Yorkshire . Contact Phil Barker Tel: 0114 255 1440 (home)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.05362,
+          52.72095
+        ]
+      },
+      "properties": {
+        "description": "Barmouth Meets: By arrangement . Contact Baron Allday Tel: 01341 280365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.116365110259831,
+          52.2012165821655
+        ]
+      },
+      "properties": {
+        "description": "Cambridge University Meets: Thursday 19:00-21:00 University Centre, Mill Lane. Contact Sean Hao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6051602,
+          52.2457926
+        ]
+      },
+      "properties": {
+        "description": "Leamington Meets: Thursday 19:30, not Easter Thursday 22 Keytes Lane, Barford, Warwickshire. Contact Matthew Macfadyen Tel: 01926 624445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0992885,
+          50.7838979
+        ]
+      },
+      "properties": {
+        "description": "Seaford Meets: Thursday 19:00-21:30 (not every week) 149 Princess Drive, Seaford. Contact Karen van den Zyl tel: 01323 351473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0534877,
+          53.9485036
+        ]
+      },
+      "properties": {
+        "description": "York University Meets: Tuesday 18.00 - 21.00 V Bar, Vanburgh College, University of York, Heslington. Contact Leonardo Sandoval"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.09364,
+          51.27998
+        ]
+      },
+      "properties": {
+        "description": "Canterbury Go Club Meets: Wednesday evenings from about 7.00pm Chocolate Cafe in Canterbury, 1 Guildhall Street, Canterbury. Contact Andy Renshaw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.79297358349193,
+          54.0466159409838
+        ]
+      },
+      "properties": {
+        "description": "Lancaster Meets: Wednesday 20:00 - players normally present from 19:30 Gregson Community Centre, 33 Moorgate. Contact Adrian Abrahams Tel: 01524 34656"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9722766,
+          51.456639
+        ]
+      },
+      "properties": {
+        "description": "Reading Meets: Monday 18:30 except bank holidays Eclectic Games, 5 Union Street, Reading. Contact Jim Clare, 32-28 Granville Rd, Reading, RG30 3QE Tel: 0118 950 7319"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5576355,
+          50.8534235
+        ]
+      },
+      "properties": {
+        "description": "Arundel Meets: Sunday - last in month, but please ring first to confirm 1 Town Quay, River Rd, Arundel, West Sussex. Contact Sue Paterson Tel: 07549 898376"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2637618,
+          51.7581354
+        ]
+      },
+      "properties": {
+        "description": "Oxford City Meets: Tuesday 19:30-23:00 Freud&#039;s Cafe Restaurant, 119 Walton Street. Contact Harry Fearnley, 38 Henley Street, Oxford OX4 1ES Tel: 01865 248775 (day/eve)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.46697,
+          54.19823
+        ]
+      },
+      "properties": {
+        "description": "Isle of Man Meets: Sunday 20:00 Phone for details. Contact David Phillips, 4 Ivydene Ave, Onchan IM3 3HD Tel: 01624 612294, 07624 473688"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0462696,
+          50.8655411
+        ]
+      },
+      "properties": {
+        "description": "Purbrook Meets: Thursday evenings - most weeks Mostly at Peter Wendes&#039;s house. Contact Peter Wendes Tel: 02392 267648"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5577702,
+          53.8048979
+        ]
+      },
+      "properties": {
+        "description": "Leeds University Meets: Tuesday 17:30-20:30 The Faversham, 1-5 Springfield Mount, Leeds. Contact Jitse Niesen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0372064959226987,
+          51.48040805
+        ]
+      },
+      "properties": {
+        "description": "Charlton Chess Club Meets: Tuesday 19:30 Charlton House, Charlton Road, London. Contact Tony Stebbings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.348889686595133,
+          53.7639521608161
+        ]
+      },
+      "properties": {
+        "description": "Hull Meets: Thursday 20:00 12 Fitzroy St, Beverley Rd. Contact Mark Collinson Tel: 01482 341179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.25093916090593,
+          51.7511179
+        ]
+      },
+      "properties": {
+        "description": "Oxford University Meets: Thursday 19:30-23:00 - wks 1-8 Oxford Univ term Fitzjames 2 in Merton College, Merton Street, Oxford. Contact Toby Cathcart Burn Tel/Text: 07821 199649"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.20868784881105,
+          51.4844325584186
+        ]
+      },
+      "properties": {
+        "description": "Cardiff Meets: Tuesday 19:00-23:30 Cafe area of Chapter Arts Centre, Market Road, Cardiff. Contact Dylan Carter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2014957,
+          55.9443777
+        ]
+      },
+      "properties": {
+        "description": "Edinburgh Meets: Thursday 18:30 Edinburgh Games Hub, http://edinburghgamehub.co.uk/. Contact Phil Blamire Tel: 0131 663 0678"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.87724721565716,
+          50.7488004472072
+        ]
+      },
+      "properties": {
+        "description": "Bournemouth Meets: Tuesday 20:00 24 Cowper Road, Moordown. Contact Marcus Bennett Tel: 01202 512655"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.78294909000397,
+          32.2931208778792
+        ]
+      },
+      "properties": {
+        "name": "Bermuda Go Society",
+        "description": "Promoting and playing the game of Go in Bermuda.\nhttps://www.facebook.com/BermudaGo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.38811,
           43.1096
         ]
@@ -4333,25 +5393,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.9802908,
-          50.8869947
-        ]
-      },
-      "properties": {
-        "description": " Plaats: Heerlen Cafe Pelt, Heerlen Speeltijden: Woensdag, vanaf 20.30 Kosten lidmaatschap vereniging: E-mail contact/info: Functionarissen: Robbert van Sluijs contactpersoon 0455726757"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.2748456,
           52.3972869
         ]
       },
       "properties": {
-        "description": " Plaats: Almere Buurtcentrum &quot;de Wieken&quot;, Wipmolenweg 54 Speeltijden: Wo: 19:00-20:00 jeugd; 20:00-23:00 volwassenen E-mail contact/info: Functionarissen: Rob van Fucht contactpersoon &amp; website beheerder 06-34318824 Ivo van Stokkum penningmeester + ledenadministratie 036-5326356 Ronald Verhagen Voorzitter 06-20137088 Extra informatie:"
+        "description": "https://gobond.nl/node/2741, Almere Buurtcentrum \"de Wieken\" , Wo: 19:00-20:00 jeugd; 20:00-23:00 volwassenen, Rob van Fucht contactpersoon & website beheerder 06-34318824",
+        "name": "Almere"
       }
     },
     {
@@ -4364,7 +5412,8 @@
         ]
       },
       "properties": {
-        "description": " Plaats: Alphen aan den Rijn Wijkvereniging de Oude Wereld, Oude Wereld 57 Speeltijden: dinsdag19:45 Functionarissen: Plaats: Amersfoort Functionarissen:"
+        "description": "https://gobond.nl/node/2742, Wijkvereniging de Oude Wereld, Oude Wereld 57, Dinsdag 19:45",
+        "name": "Alphen aan den Rijn"
       }
     },
     {
@@ -4377,7 +5426,8 @@
         ]
       },
       "properties": {
-        "description": " Plaats: Amstelveen  EGCC, Schokland 14 Speeltijden: dinsdag19:45 Functionarissen:"
+        "description": "https://gobond.nl/node/2745, Café Batavia 1920 tegenover het Centraal Station. Adres: Prins Hendrikkade 85, 1012 AE, Iedere woensdag avond vanaf 20:30, voorzitter@goinamsterdam.nl",
+        "name": "Amsterdamse Go Club"
       }
     },
     {
@@ -4390,85 +5440,8 @@
         ]
       },
       "properties": {
-        "description": " Plaats: Amsterdam café Batavia 1920 tegenover het Centraal Station. Adres: Prins Hendrikkade 85, 1012 AE Amsterdam Speeltijden: Iedere woensdag avond vanaf 20:30 Kosten lidmaatschap vereniging: € 70 per jaar (inclusief Bondslidmaatschap) E-mail contact/info: Functionarissen: Roel van Kollem Voorzitter Michiel de Jonge van Zwijnsbergen penningmeester/ledenadministratie Simon Ooosterbaan Secretaris Nanko van Egmond overig bestuurslid Extra informatie:"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.9658318,
-          52.182566
-        ]
-      },
-      "properties": {
-        "description": " Plaats: Apeldoorn Denksportcentrum Apeldoorn, Dubbelbeek 24 Speeltijden: woensdag 20:00 E-mail contact/info: Functionarissen: Marten Ubbink Secretaris / penningmeester Rob van den Born Voorzitter Extra informatie:"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.22031316383286,
-          51.96191845
-        ]
-      },
-      "properties": {
-        "description": " Plaats: Culemborg Restaurant Op de Haven, Helling 7, 4101 AE Culemborg Speeltijden: Laatste zondag van de maand: 13:00-16:00 uur Kosten lidmaatschap vereniging: Verplicht lidmaatschap van de NGoB, verder niets E-mail contact/info: Functionarissen: Rob Friederichs Contactpersoon 06-39783298 Plaats: Delft E-mail contact/info: Functionarissen:"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.2277054,
-          51.9590526
-        ]
-      },
-      "properties": {
-        "description": " Plaats: &#039;s-Hertogenbosch e.o. Nanne van der Zijpp, Elisabethdreef 5, 4101 KN Culemborg Speeltijden: Tweede woensdag van de maand: 19:30-23:00 uur Kosten lidmaatschap vereniging: Verplicht lidmaatschap van de NGoB, verder niets E-mail contact/info: Functionarissen: Rob Friederichs Contactpersoon 06-39783298 Plaats: Delft E-mail contact/info: Functionarissen:"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.22031316383286,
-          51.96191845
-        ]
-      },
-      "properties": {
-        "description": " Plaats: &#039;s-Hertogenbosch e.o. Volkstuinvereniging Pastoor Barten, De Herven 70, 5232 NJ ’s-Hertogenbosch Speeltijden: Dinsdagavond, vanaf 20:00 uur Kosten lidmaatschap vereniging: 62,50 euro p. jr. voor volwassenen, incl. afdracht NGoB (2015) E-mail contact/info: Functionarissen: Don Verheijen Voorzitter Sybo Bruinsma Secretaris Extra informatie:"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3678704,
-          52.0842279
-        ]
-      },
-      "properties": {
-        "description": " Plaats: Voorburg Wijkcentrum Essesteijn, Elzendreef 10 Speeltijden: woensdag 19:45 uur Kosten lidmaatschap vereniging: 60 euro / jaar (incl. bondslidmaatschap) E-mail contact/info: Functionarissen: Ming Au voorzitter 0615322616 Lennard Moll secretaris Gerard Havik penningmeester Tamara Havik webmaster Eric van der Marel wedstrijdleider Extra informatie:"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.1514605,
-          52.2536119
-        ]
-      },
-      "properties": {
-        "description": " Plaats: Deventer buurthuis De Fermerie aan het Muggeplein 9 in de binnenstad van Deventer Speeltijden: donderdagavond vanaf 20.00 uur Kosten lidmaatschap vereniging: 20,- per jaar E-mail contact/info: Functionarissen: Gerard Bouwman secretaris 06-83080349 Gerard Slooven voorzitter Joost van Ulsen penningmeester Wim Moll erelid Extra informatie:"
+        "description": "https://gobond.nl/node/2744, Amstelveen EGCC, Schokland 14, Dinsdag 19:45",
+        "name": "De Twee Ogen"
       }
     },
     {
@@ -4481,7 +5454,8 @@
         ]
       },
       "properties": {
-        "description": " Plaats: Eindhoven ontmoetingscentrum &#039;t Bellefort - Iepenlaan 40-42 Speeltijden: maandagavond vanaf 19:30 Functionarissen: Nicole de Beer voorzitter Arthur de Beaumont secretaris Extra informatie: Functionarissen: Rudi Verhagen voorzitter/contactpersoon 06-19706853 Taco Peters ledenadministratie 053-4339272 Extra informatie:"
+        "description": "http://eindhoven.gobond.nl/, ontmoetingscentrum 't Bellefort - Iepenlaan 40-42, maandagavond vanaf 19:30, Nicole de Beer voorzitter",
+        "name": "Eindhovense GC"
       }
     },
     {
@@ -4494,72 +5468,8 @@
         ]
       },
       "properties": {
-        "description": " Plaats: Gouda bar The Trafalgar Pub - Dommelstraat 21 Speeltijden: donderdagavond vanaf 20:00 Functionarissen: Nicole de Beer voorzitter Arthur de Beaumont secretaris Extra informatie: Functionarissen: Rudi Verhagen voorzitter/contactpersoon 06-19706853 Taco Peters ledenadministratie 053-4339272 Extra informatie:"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6868942,
-          52.0190099
-        ]
-      },
-      "properties": {
-        "description": " Plaats: Gouda De Hoog Biljart- en Bridgecentrum, Nieuwe Gouwe Oostzijde 11b Speeltijden: dinsdag 19:45 Functionarissen:"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.5616966,
-          53.218175
-        ]
-      },
-      "properties": {
-        "description": " Plaats: Groningen Café&quot;Wolthoorn &amp; Co&quot;, Turftorenstraat 6 Speeltijden: maandag 20:00 (NGC) E-mail contact/info: Functionarissen: Siu Hong Chung voorzitter 06-52664744 Herman Hiddema secretaris &amp; webbeheer Heike de Rijk penningmeester &amp; ledenadministratie"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4648411,
-          52.1564348
-        ]
-      },
-      "properties": {
-        "description": " Plaats: Leiden Denksportcentrum Leiden, Robijnstraat 4 Speeltijden: donderdag19:45 Functionarissen:"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.8719893,
-          51.8408455
-        ]
-      },
-      "properties": {
-        "description": " Plaats: Nijmegen Wijkcentrum Daalsehof 2, achter Daalseweg 113 Speeltijden: Maandag 20:00 E-mail contact/info: Functionarissen: Han van der Pluijm Voorzitter"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.0823331,
-          52.0801693
-        ]
-      },
-      "properties": {
-        "description": " Plaats: Utrecht NDC Den Hommel, Kennedylaan 9 Speeltijden: maandag 19:30 Kosten lidmaatschap vereniging: 47,50 E-mail contact/info: Functionarissen: Douwe van der Veen secretaris 06-52243622 Extra informatie: Functionarissen:"
+        "description": "http://eindhoven.gobond.nl/, The Trafalgar Pub - Dommelstraat 21, donderdagavond vanaf 20:00, Nicole de Beer voorzitter",
+        "name": "Eindhovense GC"
       }
     },
     {
@@ -4572,7 +5482,8 @@
         ]
       },
       "properties": {
-        "description": " Plaats: Zoetermeer Huiskamerpatio van Rob Groeneveld, Scharounlijn 14 Speeltijden: dinsdag 19:45 Functionarissen:"
+        "description": "https://gobond.nl/node/2762, Huiskamerpatio van Rob Groeneveld, Scharounlijn 14, Zoetermeer, Dinsdag 19:45",
+        "name": "GC Amai Mizuumi"
       }
     },
     {
@@ -4580,12 +5491,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.0989139,
-          52.508075
+          5.22031316383,
+          51.96191845
         ]
       },
       "properties": {
-        "description": " Plaats: Zwolle Café de Singel, Groot Weezenland 4 Speeltijden: woensdag 20:00 Functionarissen:"
+        "description": "https://gobond.nl/node/2747, Restaurant Op de Haven, Helling 7, 4101 AE, Laatste zondag van de maand: 13:00-16:00, Rob Friederichs 06-39783298 culemborg@gobond.nl",
+        "name": "GC Betuwe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2267711,
+          51.9573743
+        ]
+      },
+      "properties": {
+        "description": "https://gobond.nl/club/go-club-betuwe, Nanne van der Zijpp, Elisabethdreef 5, 4101 KN Culemborg, Tweede woensdag van de maand: 19:30-23:00 uur, Rob Friederichs 06-39783298 culemborg@gobond.nl",
+        "name": "GC Betuwe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6868942,
+          52.0190099
+        ]
+      },
+      "properties": {
+        "description": "https://gobond.nl/node/2754, De Hoog Biljart- en Bridgecentrum, Nieuwe Gouwe Oostzijde 11b, Dinsdag 19:45, gouda@gobond.nl",
+        "name": "GC GoGo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4648411,
+          52.1564348
+        ]
+      },
+      "properties": {
+        "description": "https://gobond.nl/node/2758, Denksportcentrum Leiden, Robijnstraat 4, donderdag 19:45",
+        "name": "GC Leiden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3678704,
+          52.0842279
+        ]
+      },
+      "properties": {
+        "description": "http://www.goclubseki.nl, Wijkcentrum Essesteijn, Elzendreef 10, woensdag 19:45, Ming Au voorzitter 0615322616",
+        "name": "GC Seki"
       }
     },
     {
@@ -4598,7 +5566,190 @@
         ]
       },
       "properties": {
-        "description": " Plaats: Harderwijk De Graaf van Gelre; centrum Harderwijk Speeltijden: Woensdagavond vanf 20.00 u Kosten lidmaatschap vereniging: Gratis E-mail contact/info: Functionarissen: Sander den Oudsten Contactpersoon 06 4224 0945 Extra informatie:"
+        "description": "https://gobond.nl/node/3020, De Graaf van Gelre; centrum Harderwijk, Woensdagavond vanaf 20.00, Sander den Oudsten 06 4224 0945",
+        "name": "Go Club Harderwijk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1514605,
+          52.2536119
+        ]
+      },
+      "properties": {
+        "description": "http://www.goclubsalland.nl/, buurthuis De Fermerie aan het Muggeplein 9 in de binnenstad van Deventer, donderdagavond vanaf 20.00, Gerard Bouwman secretaris 06-83080349",
+        "name": "Go Club Salland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.22031316383,
+          51.96191845
+        ]
+      },
+      "properties": {
+        "description": "www.goclub-denbosch.nl, Volkstuinvereniging Pastoor Barten, De Herven 70, 5232 NJ ’s-Hertogenbosch, Dinsdagavond, vanaf 20:00 uur, Don Verheijen Voorzitter; Sybo Bruinsma Secretaris denbosch@gobond.nl",
+        "name": "Goclub Den Bosch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5616966,
+          53.218175
+        ]
+      },
+      "properties": {
+        "description": "https://gobond.nl/node/2755, Café \"Wolthoorn & Co\", Turftorenstraat 6, maandag 20:00, Siu Hong Chung voorzitter 06-52664744",
+        "name": "Groningen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9802908,
+          50.8869947
+        ]
+      },
+      "properties": {
+        "description": "https://gobond.nl/node/2734, Cafe Pelt, Heerlen, Woensdag, vanaf 20.30, Robbert van Sluijs 0455726757",
+        "name": "Heerlen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8719893,
+          51.8408455
+        ]
+      },
+      "properties": {
+        "description": "https://gobond.nl/node/2759, Wijkcentrum Daalsehof 2, achter Daalseweg 113, Maandag 20:00, nijmegen@gobond.nl",
+        "name": "Nijmeegse Go Club"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9658318,
+          52.182566
+        ]
+      },
+      "properties": {
+        "description": "https://gobond.nl/node/2746, Denksportcentrum Apeldoorn, Dubbelbeek 24, woensdag 20:00, Marten Ubbink apeldoorn@gobond.nl",
+        "name": "Nobe No Shinju"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0823331,
+          52.0801693
+        ]
+      },
+      "properties": {
+        "description": "http://www.goclubutrecht.nl/, NDC Den Hommel, Kennedylaan 9, maandag 19:30, Douwe van der Veen secretaris 06-52243622",
+        "name": "Utrechtse goclub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0989139,
+          52.508075
+        ]
+      },
+      "properties": {
+        "description": "https://gobond.nl/node/2763, Café de Singel, Groot Weezenland 4, woensdag 20:00",
+        "name": "Zwolle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.14295,
+          39.40331
+        ]
+      },
+      "properties": {
+        "description": "http://www.go-portugal.org/index.php/onde-jogar/57-caldas-da-rainha, Centro de Juventude das Caldas da Rainha, R. de Vitorino Frois 22, Sábados às 18:00, Combinar antecipadamente com Francisco Pereira: xikkuh@gmail.com",
+        "name": "Caldas da Rainha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.42008,
+          41.55126
+        ]
+      },
+      "properties": {
+        "description": "https://clubegobraga.wordpress.com/, Livraria Centésima Página, avenida central 118-120, 4710-229 braga, portugal, no 2º e 4º sábado de cada mês, às 10h, clubegobraga@gmail.com | https://www.facebook.com/gobraga",
+        "name": "Clube de Go Braga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4292,
+          40.211
+        ]
+      },
+      "properties": {
+        "description": "http://www.go-portugal.org/index.php/onde-jogar/64-coimbra, Quem estiver interessado em jogar pode contactar o Pedro - kemedo@hotmail.it",
+        "name": "Coimbra "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.15444,
+          38.73447
+        ]
+      },
+      "properties": {
+        "description": "http://www.go-portugal.org/index.php/onde-jogar/55-lisboa, Centro de Bridge de Lisboa,  na Av. António Augusto de Aguiar, 163-4º Esq. (perto do El Corte Ingles)., aos Domingos à tarde, Pedro Carmona - 91 627 0944 p.carmona@go-portugal.org ; Rui Malhado - 91 485 0532 rui.malhado@go-portugal.org ; Vasco Pimenta - 93 426 3497 vasco@go-portugal.org",
+        "name": "Lisboa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6271,
+          41.1474
+        ]
+      },
+      "properties": {
+        "description": "http://www.go-portugal.org/index.php/onde-jogar/56-porto, Crystal Park (o encontro é em frente ao Tropical Burger), Quintas a partir das 21h00, Cristóvão Neto - 93 695 2487 chris@go-portugal.org",
+        "name": "Porto "
       }
     },
     {
@@ -4830,6 +5981,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          30.28126001358032,
+          59.940516900226456
+        ]
+      },
+      "properties": {
+        "name": "ЗВЕЗДА го клуб",
+        "description": "Игровые встречи для всех желающих:\nВторник с 19:00\nСуббота с 14:00\nв кафе Укроп, 7-я линия В.О., д. 30\nВХОД СВОБОДНЫЙ (но в кафе обязательно что-то заказываем). \n\nНа игровых встречах будет интересно:\n- игрокам любого уровня;\n- новичкам (кто только недавно узнал об игре или не знает о го ничего)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           37.6030898094,
           55.860730489
         ]
@@ -4961,7 +6126,7 @@
         ]
       },
       "properties": {
-        "description": "На площадке \"Дача Онегина\"",
+        "description": "http://vk.com/club9312684. \nЗанимаемся на площадке \"Дача Онегина\" в здании библиотеки им. Пушкина по воскресеньям с 12:00 до 17:00. Вход свободный.",
         "name": "Омский Го-клуб"
       }
     },
@@ -5138,6 +6303,113 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.58225440979004,
+          28.04437196174128
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68205642700195,
+          42.04879868897706
+        ]
+      },
+      "properties": {
+        "name": "Evanston Go club"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.71788001060484,
+          41.92147483623387
+        ]
+      },
+      "properties": {
+        "name": "Harridan Go Club (unofficial)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85978555679321,
+          40.793327465508355
+        ]
+      },
+      "properties": {
+        "name": "Schlow Library Go Club",
+        "description": "Schlow Library Go Club meets every Saturday at 2:00 pm in the Musser Room (we share with the Chess Club)\nFor more info: schlowgo@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5732421875,
+          28.05259082333986
+        ]
+      },
+      "properties": {
+        "name": "Tampa Go Club",
+        "description": "Go Club in Tampa, FL USA. Meets weekly in Saturdays. See facebook or meetup pages: https://www.facebook.com/tampagoclub/\nhttp://www.meetup.com/Tampa-Bay-Go-Baduk-Players/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28776597976685,
+          44.95215736922185
+        ]
+      },
+      "properties": {
+        "name": "Twin Cities Go Club (Monday)",
+        "description": "Mondays, 18:00-23:00 at\nBob's Java Hut\n2651 Lyndale Ave S\nMinneapolis, MN 55408\n612-871-4485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.18775177001953,
+          44.93971147843105
+        ]
+      },
+      "properties": {
+        "name": "Twin Cities Go Club (Saturday)",
+        "description": "Saturdays, 13:00-17:00 at\nCoffee Bene\n53 Cleveland Avenue South\nSaint Paul, MN 55105\n651-698-2266"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24617028236389,
+          44.96940553832905
+        ]
+      },
+      "properties": {
+        "name": "Twin Cities Go Club (Thursday)",
+        "description": "Meets Thursdays 18:30-22:00 at\nHard Times Cafe\n1821 Riverside Avenue\nMinneapolis, MN 55454-1034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.468875885009766,
           -33.93869593864506
         ]
@@ -5299,12 +6571,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.10586390402163,
-          57.1656495732931
+          -74.04350638389587,
+          4.688976997750929
         ]
       },
       "properties": {
-        "description": "Aberdeen Meets: Saturday 11:00 every second one from 19/04/14, but check website Hardback Cafe, Aberdeen University Sir Duncan Rice Library, Bedford Road, Aberdeen. Contact Neil McLean"
+        "description": "Calle 106, número 13-33\nSábados tarde\nContactar con Federico Pareja\nhttps://www.facebook.com/Asociación-Colombiana-de-Go-266936886710738/",
+        "name": "Go Bogota"
       }
     },
     {
@@ -5312,987 +6585,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.5576355,
-          50.8534235
+          -75.56307435035706,
+          6.2557115321450585
         ]
       },
       "properties": {
-        "description": "Arundel Meets: Sunday - last in month, but please ring first to confirm 1 Town Quay, River Rd, Arundel, West Sussex. Contact Sue Paterson Tel: 07549 898376"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.05362,
-          52.72095
-        ]
-      },
-      "properties": {
-        "description": "Barmouth Meets: By arrangement . Contact Baron Allday Tel: 01341 280365"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.39513594148765,
-          51.3790174481156
-        ]
-      },
-      "properties": {
-        "description": "Bath Meets: Tuesday 19:30 Meets various places - check club web site.. Contact Paul Christie Tel: 01225 428995"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.93037,
-          54.57139
-        ]
-      },
-      "properties": {
-        "description": "Belfast Meets: Monday 19:00 Function Room, Belfast Boat Club, 12 Lockview Road. Contact James Hutchinson"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.93305,
-          54.57933
-        ]
-      },
-      "properties": {
-        "description": "Belfast Meets: Thursday 18:30 86 Stranmillis Road. Contact James Hutchinson"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.4350939,
-          51.6243999
-        ]
-      },
-      "properties": {
-        "description": "Billericay Meets: Monday 19:30 in term-time 42 Mons Avenue, Billericay, Essex. Contact Guy Footring Tel: 01277 623305"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.91064765766123,
-          52.4782216474506
-        ]
-      },
-      "properties": {
-        "description": "Birmingham Meets: Sunday 14:00 Starbucks cafe in the International Convention Centre (ICC). Contact Andrew Russell http://www.brumgo.co.uk/ "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.7274482,
-          55.606769
-        ]
-      },
-      "properties": {
-        "description": "Borders Meets: By arrangement Greenwells, Gattonside near Melrose and Galashiels. Contact Ron Bell"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.87724721565716,
-          50.7488004472072
-        ]
-      },
-      "properties": {
-        "description": "Bournemouth Meets: Tuesday 20:00 24 Cowper Road, Moordown. Contact Marcus Bennett Tel: 01202 512655"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.758857195357585,
-          51.4060111
-        ]
-      },
-      "properties": {
-        "description": "Bracknell Meets: Tuesday 20:00 meets by arrangement only The Green Man, Crowthorne Road. Contact Ian Marsh Tel: 01344 422296"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7748336,
-          53.8344245
-        ]
-      },
-      "properties": {
-        "description": "Bradford Meets: Wednesday 19:30 The Noble Comb, Quayside, Salts Mill Road, Shipley. Contact Ewen Pearson Tel: 01274 598980"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1264609,
-          50.8272903
-        ]
-      },
-      "properties": {
-        "description": "Brighton Meets: Tuesday 20:00 The Southover Pub, Southover St. Contact Felix Shardlow tel: 07940 973406 John Allen aka Yogi Tel: 01273 383254 or 07854 218920 Jil Segerman Tel: 07920 865065 or 01273 470346 Felix Shardlow 07940 973406 https://www.facebook.com/groups/brightongoclub/ "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.59758,
-          51.45624
-        ]
-      },
-      "properties": {
-        "description": "Bristol Meets: Wednesday 19:00 Bristol County Sports Club, 40 Colston Street, Bristol. Contact Luke Oram"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.138665954407287,
-          52.1973774018734
-        ]
-      },
-      "properties": {
-        "description": "Cambridge City Meets: Sunday 17:30-20:00 . Contact Simon Mader"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.107533097928058,
-          52.2195568237466
-        ]
-      },
-      "properties": {
-        "description": "Cambridge Junior Chess and Go Meets: Wednesday 18:00-19:30 St Augustine&#039;s Church Hall, Richmond Road. Contact Paul Smith Tel: 01223 563932"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.103866856481811,
-          52.20529622534
-        ]
-      },
-      "properties": {
-        "description": "Cambridge University Meets: Monday 19:00-22:00 during University terms (possibly on hold this term) Linnett Room, Robinson College. Contact Sean Hao"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.116365110259831,
-          52.2012165821655
-        ]
-      },
-      "properties": {
-        "description": "Cambridge University Meets: Thursday 19:00-21:00 University Centre, Mill Lane. Contact Sean Hao"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.09364,
-          51.27998
-        ]
-      },
-      "properties": {
-        "description": "Canterbury Go Club Meets: Wednesday evenings from about 7.00pm Chocolate Cafe in Canterbury, 1 Guildhall Street, Canterbury. Contact Andy Renshaw"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.20868784881105,
-          51.4844325584186
-        ]
-      },
-      "properties": {
-        "description": "Cardiff Meets: Tuesday 19:00-23:30 Cafe area of Chapter Arts Centre, Market Road, Cardiff. Contact Dylan Carter"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0372064959226987,
-          51.48040805
-        ]
-      },
-      "properties": {
-        "description": "Charlton Chess Club Meets: Tuesday 19:30 Charlton House, Charlton Road, London. Contact Tony Stebbings"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.07656,
-          51.89862
-        ]
-      },
-      "properties": {
-        "description": "Cheltenham Meets: Wednesday 19:30 . Contact Adam Watts Tel: 07403 475573"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.8914201982706,
-          53.1886174371442
-        ]
-      },
-      "properties": {
-        "description": "Chester Meets: Wednesday 20:00 - players normally present from 19:30 Ye Olde Custom House Inn, 65-67 Watergate Street. Contact Tony Pitchford Tel: 01925 730583"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.49208,
-          51.896337
-        ]
-      },
-      "properties": {
-        "description": "Cork (UCC Weiqi Club) Meets: Sunday 20:00 Cork Cricket Club, Mardyke Walk</venue>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.24886,
-          53.336883
-        ]
-      },
-      "properties": {
-        "description": "Dublin (Collegians Chess and Go Club) Meets: Wednesday about 20:30-21:00 until midnight The Baggot Inn, 135 Lower Baggot Street, Dublin 2</venue>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.24886,
-          53.336883
-        ]
-      },
-      "properties": {
-        "description": "Dublin (Collegians Chess and Go Club) Meets: Monday about 20:30-21:00 until midnight most weeks The Baggot Inn, 135 Lower Baggot Street, Dublin 2</venue>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.9931106,
-          56.456211
-        ]
-      },
-      "properties": {
-        "description": "Dundee Meets: Monday from 20:00 during University terms Mennie&#039;s, aka the Speedwell Bar, 165-167 Perth Road. Contact Rich Philp Tel: 01382-666129 Peter Clinch Tel: 01382 665322 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.579723,
-          54.7600027
-        ]
-      },
-      "properties": {
-        "description": "Durham Meets: Monday 20:00-22:00 during term time The Bar, Ustinov College, Howlands Farm. Contact Andrew Ambrose-Thurman"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.58450460919879,
-          54.7754614303746
-        ]
-      },
-      "properties": {
-        "description": "Durham Meets: Thursday 20:00-22:00 during term-time The Elm Tree pub, Crossgate. Contact Andrew Ambrose-Thurman"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.2014957,
-          55.9443777
-        ]
-      },
-      "properties": {
-        "description": "Edinburgh Meets: Thursday 18:30 Edinburgh Games Hub, http://edinburghgamehub.co.uk/. Contact Phil Blamire Tel: 0131 663 0678"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.2646228,
-          51.3338915
-        ]
-      },
-      "properties": {
-        "description": "Epsom Meets: Occasionally Epsom. Contact Matthew via mobile: 07752 - 301 096"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.5303122,
-          50.7208506
-        ]
-      },
-      "properties": {
-        "description": "Exeter Meets: Monday 19:00 White Hart Inn, South Street. Contact David Storkey Tel: 01392 461182"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.07514,
-          53.28963
-        ]
-      },
-      "properties": {
-        "description": "Galway Meets: Wednesday 20:00 - players normally present from 19:30 Westwood House Hotel bar. Contact Richard Brennan"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.288999,
-          55.871799
-        ]
-      },
-      "properties": {
-        "description": "Glasgow University Meets: Thursday 18:00 Gilchrist Postgraduate Club, University Avenue, University of Glasgow, G12 8QQ. Contact Seigfried Leher"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.45855,
-          52.83697
-        ]
-      },
-      "properties": {
-        "description": "Hinstock Meets: By arrangement . Contact Roger Huyshe Tel: 01952 550361 for details of local players"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.348889686595133,
-          53.7639521608161
-        ]
-      },
-      "properties": {
-        "description": "Hull Meets: Thursday 20:00 12 Fitzroy St, Beverley Rd. Contact Mark Collinson Tel: 01482 341179"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.46697,
-          54.19823
-        ]
-      },
-      "properties": {
-        "description": "Isle of Man Meets: Sunday 20:00 Phone for details. Contact David Phillips, 4 Ivydene Ave, Onchan IM3 3HD Tel: 01624 612294, 07624 473688"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.79297358349193,
-          54.0466159409838
-        ]
-      },
-      "properties": {
-        "description": "Lancaster Meets: Wednesday 20:00 - players normally present from 19:30 Gregson Community Centre, 33 Moorgate. Contact Adrian Abrahams Tel: 01524 34656"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6051602,
-          52.2457926
-        ]
-      },
-      "properties": {
-        "description": "Leamington Meets: Thursday 19:30, not Easter Thursday 22 Keytes Lane, Barford, Warwickshire. Contact Matthew Macfadyen Tel: 01926 624445"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5577702,
-          53.8048979
-        ]
-      },
-      "properties": {
-        "description": "Leeds University Meets: Tuesday 17:30-20:30 The Faversham, 1-5 Springfield Mount, Leeds. Contact Jitse Niesen"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2305961,
-          52.6291197
-        ]
-      },
-      "properties": {
-        "description": "Leicester Meets: Thursday 19:45 Stephen Bashforth&#039;s house, Mayfield, Station Road, Kirby Muxloe. Contact Toby Manning Tel: 01530 245298"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.2276028,
-          51.9776758
-        ]
-      },
-      "properties": {
-        "description": "Letchworth Go Club Meets: Thursday 20:00-22:30 during term-time Central Methodist Church, Norton Way South. Contact Alison Bexfield"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.5389319,
-          53.2341567
-        ]
-      },
-      "properties": {
-        "description": "Lincoln Meets: Monday 19:00-22:00 (1st Mon) The Wig and Mitre, Steep Hill. Contact Richard Leedham-Green"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1100581,
-          51.5178439
-        ]
-      },
-      "properties": {
-        "description": "London, Central Meets: Saturday 12:00-20:00 The Inn of Court pub, 18 Holborn. Contact Jonathan Turner Tel: 07968 538881 (mobile). Kiyohiko Tanaka Tel: 07956 594040 KGS: matta"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0282214,
-          51.5760603
-        ]
-      },
-      "properties": {
-        "description": "London, East Meets: Thursday 19:00 except August Wanstead House, 21 The Green, Wanstead. Contact Francis Roads Tel: 020 8505 4381"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.178857120142765,
-          51.5558438026085
-        ]
-      },
-      "properties": {
-        "description": "London, North Meets: Tuesday 19:30 Allatson Room, Parish Church, Church Row, Hampstead. Contact Michael Webster"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.331331781603036,
-          51.4419936807984
-        ]
-      },
-      "properties": {
-        "description": "London, Twickenham Meets: Wednesday 19:30 The Alexander Pope Hotel, Cross Deep, Twickenham, West London. Contact Colin Maclennan Tel: 020 8941 1607"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.227139856293309,
-          51.5019641424903
-        ]
-      },
-      "properties": {
-        "description": "London, West Meets: Wednesday 19:00 Young Chelsea Bridge Club, 54 Goldhawk Road. Contact Gerry Gavigan"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.7343283,
-          51.5219319
-        ]
-      },
-      "properties": {
-        "description": "Maidenhead Meets: Friday 20:00 . Contact Iain Atwell, Norhurst, Westmorland Rd, Maidenhead, SL6 4HB Tel: 01628 676792"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.2398008,
-          53.4805574
-        ]
-      },
-      "properties": {
-        "description": "Manchester Meets: Thursday 19:45 The Shakespeare pub, 16 Fountain Street. Contact Chris Kirkham Tel: 0161 903 9023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.218773,
-          50.198643
-        ]
-      },
-      "properties": {
-        "description": "Mid-Cornwall Meets: Tuesday 20:00 Penhalurick Barton, Penhalvean, Redruth, Cornwall TR16 6TG. Contact Paul Massey Tel: 07966 474686"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.247745,
-          50.228835
-        ]
-      },
-      "properties": {
-        "description": "Mid-Cornwall Meets: Friday 13:00 - 14:00 Bluefruit Software, Gateway Business Centre, Barncoose, Redruth, Cornwall TR15 3RQ. Contact Paul Massey Tel: 07966 474686"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.711252,
-          52.0242571
-        ]
-      },
-      "properties": {
-        "description": "Milton Keynes Meets: Tuesday 12:15-13:15 The coffee bar in the Catering Hub, The Open University, Walton Hall. Contact Tim Hunt Tel: 07850 119939"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.7692317,
-          52.0384223
-        ]
-      },
-      "properties": {
-        "description": "Milton Keynes Meets: Tuesday 18:15 Wetherspoons, 201 Midsummer Boulevard. Contact Tim Hunt Tel: 07850 119939"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.8828779,
-          52.2446911
-        ]
-      },
-      "properties": {
-        "description": "Northampton Meets: Wednesday 19:00 Blackcurrent Centre, St Michaels Avenue, Abington, Northampton (www.blackcurrentcentre.org.uk). Contact Thomas Streamer 07926357826"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.21634470518728,
-          52.9265494728415
-        ]
-      },
-      "properties": {
-        "description": "Nottingham Meets: Wednesday 19:30-22:00 The Last Post, Chilwell Road, Beeston. Contact Brent Cutts Tel: 0115 959 2404"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2637618,
-          51.7581354
-        ]
-      },
-      "properties": {
-        "description": "Oxford City Meets: Tuesday 19:30-23:00 Freud&#039;s Cafe Restaurant, 119 Walton Street. Contact Harry Fearnley, 38 Henley Street, Oxford OX4 1ES Tel: 01865 248775 (day/eve)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.25093916090593,
-          51.7511179
-        ]
-      },
-      "properties": {
-        "description": "Oxford University Meets: Thursday 19:30-23:00 - wks 1-8 Oxford Univ term Fitzjames 2 in Merton College, Merton Street, Oxford. Contact Toby Cathcart Burn Tel/Text: 07821 199649"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0462696,
-          50.8655411
-        ]
-      },
-      "properties": {
-        "description": "Purbrook Meets: Thursday evenings - most weeks Mostly at Peter Wendes&#039;s house. Contact Peter Wendes Tel: 02392 267648"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.9722766,
-          51.456639
-        ]
-      },
-      "properties": {
-        "description": "Reading Meets: Monday 18:30 except bank holidays Eclectic Games, 5 Union Street, Reading. Contact Jim Clare, 32-28 Granville Rd, Reading, RG30 3QE Tel: 0118 950 7319"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0992885,
-          50.7838979
-        ]
-      },
-      "properties": {
-        "description": "Seaford Meets: Thursday 19:00-21:30 (not every week) 149 Princess Drive, Seaford. Contact Karen van den Zyl tel: 01323 351473"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.46276520049956,
-          53.3782610349486
-        ]
-      },
-      "properties": {
-        "description": "Sheffield Meets: Sunday 19:30 (Since October 2015): The Old Queens Head, 40 Pond Hill, Sheffield, South Yorkshire . Contact Phil Barker Tel: 0114 255 1440 (home)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.48729028289892,
-          53.382744200046
-        ]
-      },
-      "properties": {
-        "description": "Sheffield University Go Society Meets: Tuesday 18:00-21:00 in term-time Student Union Gallery Eye room, Western Bank. Contact David Philpott"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.1987678,
-          57.4044894
-        ]
-      },
-      "properties": {
-        "description": "Skye Meets: Tuesday 19:30 Givendale Guest House, Heron Place, Portree, Isle of Skye. Contact Carel Goodheir Tel: 01478 611763. Jurriaan Dijkman Tel: 01478 612183, 07554 434215 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.3368138,
-          51.7500809
-        ]
-      },
-      "properties": {
-        "description": "St Albans Meets: Wednesday 20:00 until pub closing The Garibaldi, 61 Albert Street. Contact Secretary: Brian Ellis 01727 872575, Mike Cockburn 01727 834035"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.7981853871402,
-          56.340071512822
-        ]
-      },
-      "properties": {
-        "description": "St Andrews Meets: Tuesday 19:30-23:00 Aikman&#039;s Cellar Bar, 32 Bell Street. Contact Edwin Brady"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9576637,
-          51.6152447
-        ]
-      },
-      "properties": {
-        "description": "Swansea Meets: By arrangement The Mill Pub, 75 Brynymor Road. Contact Dylan Carter"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.83492588,
-          51.55013431
-        ]
-      },
-      "properties": {
-        "description": "Swindon Meets: Wednesday 19:30 Windmill Pub, Freshbrook Village Centre, Worsley Road. Contact David King, 21 Windsor Rd, Swindon Tel: 01793 521625"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.78095942978267,
-          51.5565506239891
-        ]
-      },
-      "properties": {
-        "description": "Swindon Meets: Sunday evening The Beehive, Prospect Hill. Contact David King, 21 Windsor Rd, Swindon Tel: 01793 521625"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.27639,
-          54.56458
-        ]
-      },
-      "properties": {
-        "description": "Teesside Meets: Meets by arrangement . Contact Matthew Holton"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.2583921,
-          51.19504
-        ]
-      },
-      "properties": {
-        "description": "Tonbridge Meets: Tuesday 19:30 4 Ives Road. Contact Michael Pickles"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5603331,
-          52.3787168
-        ]
-      },
-      "properties": {
-        "description": "Warwick University Meets: Wednesday 17:00-20:00 during University term Room B2.03 on campus (see website for directions). Contact Philip Leung"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.21861448917604,
-          50.1019853
-        ]
-      },
-      "properties": {
-        "description": "West Cornwall Meets: Thursday 20:00 John Culmer&#039;s house, Rose-in-Vale, Gweek, Helston. Contact John Culmer Tel: 01326 573167"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.30736,
-          51.0578146
-        ]
-      },
-      "properties": {
-        "description": "Winchester Meets: Wednesday 19:30 The Black Boy Public House, 1 Wharf Hill, Bar End. Contact Mr John Tilley, The Old Cottage, Micheldever, Winchester, Hampshire SO21 3DF Tel: 07824-163776"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.7004613,
-          50.9387109
-        ]
-      },
-      "properties": {
-        "description": "Yeovil Meets: Thursday 19:45 Mason&#039;s Arms, 41 Lower Odcombe, Odcombe. Contact Julian Davies Tel: 01935 423046"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0822194,
-          53.9606907
-        ]
-      },
-      "properties": {
-        "description": "York Meets: Tuesdays 19:30 check on Twitter @yorkgoclub Moroccan Room, El Piano, 15 - 17 Grape Lane, York (www.el-piano.com). Contact Chris Maughan"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0534877,
-          53.9485036
-        ]
-      },
-      "properties": {
-        "description": "York University Meets: Tuesday 18.00 - 21.00 V Bar, Vanburgh College, University of York, Heslington. Contact Leonardo Sandoval"
+        "description": "Carrera 49 Nº 58-44, Barrio Prado Centro\nDomingos a partir de las 2:00 pm\nContactar con Juan Carlos Pachón\nhttps://www.facebook.com/Asociación-Colombiana-de-Go-266936886710738/",
+        "name": "Go Medellin"
       }
     }
   ]
