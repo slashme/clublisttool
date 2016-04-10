@@ -90,6 +90,21 @@
         "description": "https://www.facebook.com/tampagoclub/ - http://www.meetup.com/Tampa-Bay-Go-Baduk-Players/ , Saturdays", 
         "name": "Tampa Go Club"
       }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -77.8597855568, 
+          40.7933274655
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Musser Room (we share with the Chess Club), every Saturday 14:00, schlowgo@gmail.com", 
+        "name": "Schlow Library Go Club"
+      }
     }
   ]
 }
