@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          17.6482862234, 
+          59.8416577728
+        ]
+      }, 
+      "layer": "SE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "https://www.facebook.com/groups/8126794587/, kl. 19 i Ekonomikum (f.d. Humanistcentrum) i det allmänna utrymmet vid huvudentrén (\"lokstallarna\"), på Kyrkogårdsgatan, på tisdagar, uppsalago@gmail.com", 
+        "name": "Uppsala go-klubb"
+      }
+    }
+  ]
+}

@@ -680,14 +680,14 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "10.003024486579,", 
-          53.099378542339
+          9.9992403388, 
+          53.0993785423
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "privat (bitte vorher kontaktieren), Fr ab 18, Thomas Rohde, 05194-6741", 
+        "description": "29646 Bispingen; privat (bitte vorher kontaktieren), Fr ab 18, Thomas Rohde, 05194-6741", 
         "name": "Bispingen"
       }
     }, 
@@ -2054,6 +2054,21 @@
       "properties": {
         "description": "Thomas-Mann-Klub, Nebelungstr. 39, 03631-983493, Mi ab 17, Dieter Wenske, 03631-987952; Matthias Reimann, 036331-31406", 
         "name": "Nordhausen"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.3081904054, 
+          52.5034272711
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Mommsen Eck, every 2nd monday of a month 18:00 - 21:00, Pandau Ting: pandau@nakade.de; Maurice Wohabi: mo@nakade.de", 
+        "name": "Nakade Go Club"
       }
     }
   ]
