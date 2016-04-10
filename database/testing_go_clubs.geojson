@@ -6,6 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          117.12789544661062,
+          36.67160500961173
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.06995,
           47.39104
         ]
@@ -244,6 +255,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          17.64828622341156,
+          59.841657772801135
+        ]
+      },
+      "properties": {
+        "name": "Uppsala Go Club",
+        "description": "https://www.facebook.com/groups/8126794587/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.22359,
           46.60065
         ]
@@ -342,6 +367,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.04350638389587,
+          4.688976997750929
+        ]
+      },
+      "properties": {
+        "description": "Calle 106, número 13-33\nSábados tarde\nContactar con Federico Pareja\nhttps://www.facebook.com/Asociación-Colombiana-de-Go-266936886710738/",
+        "name": "Go Bogota"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56307435035706,
+          6.2557115321450585
+        ]
+      },
+      "properties": {
+        "description": "Carrera 49 Nº 58-44, Barrio Prado Centro\nDomingos a partir de las 2:00 pm\nContactar con Juan Carlos Pachón\nhttps://www.facebook.com/Asociación-Colombiana-de-Go-266936886710738/",
+        "name": "Go Medellin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           33.9249229431,
           35.1315530262
         ]
@@ -417,12 +470,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.7222126691801,
-          51.06212745
+          8.040146,
+          52.2744752
         ]
       },
       "properties": {
-        "description": " <A HREF=\"http://www.horst-huebner.de\">Dresden</A>, Mi 18-22 Freiberger Str. 31 im Eigenbetrieb Sportstätten, 4. Etage, Konferenzraum K: Horst Hübner , 0351-4712051 "
+        "description": " <A HREF=\"http://www.lagerhalle-osnabrueck.de/\">Osnabrück</A>, Di ab 18.30 \"Lagerhalle\" am Heger Tor, Rolandsmauer 26 K: Michael Stolte , 0541-75049597 "
       }
     },
     {
@@ -430,168 +483,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.3283011,
-          52.5081789
+          12.924034580186,
+          50.8353940036907
         ]
       },
       "properties": {
-        "description": " Berlin (Charlottenburg), Fr 18-23 TU Berlin, Hardenbergstr. 36 (Physikneubau, Raum 114) K: James Brückl , 0157-73867795 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.58743436011112,
-          53.53544055
-        ]
-      },
-      "properties": {
-        "description": " Bremerhaven, Di, Mi ab 20 priv. n. V.  K: Martin Osthaus , 04747/931334 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.44681080887598,
-          48.0555458518873
-        ]
-      },
-      "properties": {
-        "description": " Villingen-Schwenningen, priv. n. V.  K: Manfred Götz , 0151-11523830 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.0813818,
-          50.7674876
-        ]
-      },
-      "properties": {
-        "description": " Aachen, Di ab 20 \"Meisenfrei\", Südstr. 25 K: Sarah Tegtmeier , 0241-4759651 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.6400834,
-          52.1389773
-        ]
-      },
-      "properties": {
-        "description": " Magdeburg, Di ab 19 Universitätsplatz 2 (Campus), Gebäude 05, R. 210, Nordeingang K: Olaf Salchow , 03949-4488 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.37853670120239,
-          54.09291350912952
-        ]
-      },
-      "properties": {
-        "description": " Greifswald, Di 19.30-23 Cafe Koeppen, Bahnhofstr. 4 K: Carsten Herrmann , 0176-61573271 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.2085356682333,
-          51.5598961
-        ]
-      },
-      "properties": {
-        "description": " Welzow, priv. n. V.  K: Hartmut Köstner, 035751-15691 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.9054775,
-          51.5371173
-        ]
-      },
-      "properties": {
-        "description": " Bottrop, Do ab 19 Gasthof Milke, Lindhorststraße 213 A K: Detlef de Jonghe , 02041-97196 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.88156920671463,
-          51.93423430599664
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.dgob.de/lv-nrw/detmold/\">Detmold</A>, Do ab 18 Asia Palast, Schülerstr. 24, Eingang Grabenstr.  K: Peter Hagemann , 05231-31629 K: Rolf Bensel , 0160-5056506 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.306946,
-          51.5691882
-        ]
-      },
-      "properties": {
-        "description": " Castrop-Rauxel, Di ab 19.30 Tapas Bar La Sonrisa, Bahnhofstr. 252 K: Hans-Werner Bressan , 02305-360154 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.4160154,
-          49.0056091
-        ]
-      },
-      "properties": {
-        "description": " Karlsruhe, Do ab 20 Thoule e.V., Ostendstr. 1 K: Alexander Wirth K: Birger Holtermann "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.6271993,
-          52.4467378
-        ]
-      },
-      "properties": {
-        "description": " Berlin (Friedrichshagen), Mi 19-22.30 Cafe Rabu, Scharnweberstr. 67 K: Torsten Vergin , 030-88538010 K: Stefan Brunn , 0151-41675719 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.6597034,
-          49.8778201
-        ]
-      },
-      "properties": {
-        "description": " Darmstadt, Mo ab 19.30 \"Hobbit\", Lauteschlägerstr. 3 K: Jochen Tappe , 06151-3928560 "
+        "description": " <A HREF=\"http://www.facebook.com/#!/pages/Go-Gruppe-Chemnitz/255486124499961\">Chemnitz</A>, Mi ab 18, 14-tg (bitte vorher Go-Gruppe Chemnitz über Facebook kontaktieren) K: Lars Gebhardt "
       }
     },
     {
@@ -612,12 +509,181 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.3844010777478,
+          53.22281005
+        ]
+      },
+      "properties": {
+        "description": " Lüneburg, Privat n.V.  K: Ralf Schulz , 0151-65783327 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.69543254964762,
+          53.05111175
+        ]
+      },
+      "properties": {
+        "description": " Soltau, priv. n. V.  K: Reinhard Spode , 05195-1259 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1767391,
+          47.6903464
+        ]
+      },
+      "properties": {
+        "description": " Konstanz, Di ab 18.45 Universität Raum G302, Universitätsstr. 10 (im Semester) K: Christoph Adelsberger , 0171-5255715 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6597034,
+          49.8778201
+        ]
+      },
+      "properties": {
+        "description": " Darmstadt, Mo ab 19.30 \"Hobbit\", Lauteschlägerstr. 3 K: Jochen Tappe , 06151-3928560 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1515081,
+          51.242193
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://tonshi.de/tonshi2/der_spieleabend/\">Wuppertal</A>, Mo ab 19 Universität, Asta-Kneipe, Gauss-Str. 20 K: Erik Schweitzer , 0202-2429133 K: Hildegard Puttkammer , 02053-40215 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9486496,
+          51.5381897
+        ]
+      },
+      "properties": {
+        "description": " Göttingen, Do ab 18 Uni Göttingen, Mathematisches Institut (Hauptgebäude Übungssaal), Bürgerstr. (im Semester) K: Colin-Marius Koch , 0178-2969071 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.4550586,
           51.5329225
         ]
       },
       "properties": {
         "description": " <A HREF=\"http://dortmund-go.de/index.php/spielabende\">Dortmund</A>, Do ab 19.30 \"Depothek\" im Depot, Immermannstraße 29 (U-Bahn: \"Immermannstr./Klinikzentrum\") K: Lars Gehrke , 01732015374 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1972241,
+          51.6157493
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.guzumi.de/index.php\">Recklinghausen</A>, Do ab 19 \"Drübbelken\", Münsterstr. 5 K: Martin Langer , 02361-486674 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.02877720225627,
+          52.18899725
+        ]
+      },
+      "properties": {
+        "description": " Gronau-Epe, n. V.  privat (bitte vorher kontaktieren) K: Claus Weyck, 02565-2556,0177-1446465 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6271993,
+          52.4467378
+        ]
+      },
+      "properties": {
+        "description": " Berlin (Friedrichshagen), Mi 19-22.30 Cafe Rabu, Scharnweberstr. 67 K: Torsten Vergin , 030-88538010 K: Stefan Brunn , 0151-41675719 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.761357903480528,
+          52.36917338787906
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.hannover-go.de\">Hannover</A>, Mo 19.15-22 RSV Geschäftsstelle, Vorraum der dortigen Kegelbahn im Keller der Sporthalle, Am Südbahnhof 7 K: Ralph Tiefenthaler , 0511-8765551 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0625243,
+          48.5146239
+        ]
+      },
+      "properties": {
+        "description": " Tübingen, Mi ab 18.30 \"Herzog Ulrich\", Ulrichstr. 11 K: Hannes Vogt , 0179-9041687 K: Bernhard Unold, 0176-97412331 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.17817603944776,
+          47.6609571
+        ]
+      },
+      "properties": {
+        "description": " Konstanz, Mi ab 19 \"Seekuh\" Kneipe, Konzilstr. 1 K: Christoph Adelsberger , 0171-5255715 K: Norbert Kolassa , 07531-8076906 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8321346,
+          48.379659
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.augsburg-go.de/\">Augsburg</A>, Do ab 19.30 Il Galeone, Steppacher Str. 1 K: Thomas Brückmann "
       }
     },
     {
@@ -638,12 +704,194 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.75926137769997,
+          51.7120229
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.ponnuki-paderborn.de\">Paderborn</A>, Mi ab 19 Uni Paderborn, Raum H3.203 K: Martin Hershoff , 05251-760467 K: Joshua Nowack , n/a "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.026767790317535,
+          50.97829752570632
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.roterelephant.de/\">Erfurt</A>, So 19-24 \"Roter Elephant\", Allerheiligenstr. 4 K: Markus Lang , 0361-2622691 K: Thomas Schütz , 0361-416882 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4160154,
+          49.0056091
+        ]
+      },
+      "properties": {
+        "description": " Karlsruhe, Do ab 20 Thoule e.V., Ostendstr. 1 K: Alexander Wirth K: Birger Holtermann "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6441823,
+          49.7583755
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://de.trigo.wikia.com\">Trier</A>, Fr ab 20 Jugendzentrum \"Mergener Hof\", Rindertanzstr. 4 K: Horst Zein , 0651-52711 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.69473039297348,
+          51.53071685
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.dortmund-go.de\">Unna</A>, Mo 19.30-23 , priv. n.V.  Café Extrablatt Unna, Markt 1 K: Andre Schneider , 0151-27535137 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.69049160197639,
+          48.7190864
+        ]
+      },
+      "properties": {
+        "description": " Göppingen, Di 18-22 Haus der Jugend, 2. Stock K: Joachim Pimiskern , 07161-815530 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.797648191452026,
+          52.47704965416954
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.hannover-go.de\">Isernhagen</A>, Do ab 18 Voltmershof, Burgwedeler Str.  K: Winfried Dörholt , 0511-772766 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.99663709023437,
           49.2331112
         ]
       },
       "properties": {
         "description": " Saarbrücken, Di ab 19.30 Cafe \"Leonardo\", Kappenstr. 1, 0681-3908505 K: Gregor Mertz , 0681-5847742 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.29691743850708,
+          52.495267921517275
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.go-lingen.de\">Lingen</A>, Di ab 18 Grüner Jäger K: Axel Wimmer , 0591-9152870 K: Christoph Hermes , 0591-90110952 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.113065361976624,
+          53.520659341188576
+        ]
+      },
+      "properties": {
+        "description": " Wilhelmshaven, Mi 19.30-23 News Cafe, Börsenstr. 42, 04421-92910 K: Klaus Heine , 04421-44526 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.306946,
+          51.5691882
+        ]
+      },
+      "properties": {
+        "description": " Castrop-Rauxel, Di ab 19.30 Tapas Bar La Sonrisa, Bahnhofstr. 252 K: Hans-Werner Bressan , 02305-360154 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.26975643509378,
+          49.99744505
+        ]
+      },
+      "properties": {
+        "description": " Mainz, Mi ab 20 Lomo, Ballplatz 2 K: Bernhard Herwig , 06131-5701833 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.241466027255,
+          52.4372333
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.slaughterlake.de\">Berlin (Schlachtensee)</A>, Di 18-23 direkt an der S-Bahn Linie 1, mit Badesee (Sommer) und Kachelofen (Winter) K: Thorsten Bartelt "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8407315,
+          51.2969523
+        ]
+      },
+      "properties": {
+        "description": " Ratingen, Do ab 19.30 Haus der Jugend, 1. Etage, Stadionring 9 K: Wolfgang Klengel , 02102-844711 K: Helmut Heidrich, 0211-656325 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.518034,
+          48.1803724
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"https://www.google.com/maps/d/edit?mid=zNJ3sfg4D5TM.kDEuGESFYHBM\">München (Moosach)</A>, Sa 14-22 n.V.  Turnhalle der GS an der Jenaer Str. 3, Spieletreff und freies Training von Jonglieren in München e.V.  K: Thomas Furtner , 0160-96261998 "
       }
     },
     {
@@ -664,12 +912,194 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.54236352443695,
+          52.264857991713995
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.braunschweig-go.de\">Braunschweig</A>, Do ab 19 Café Fischer, Altewiekring 44 K: Joachim Beggerow , 0531-42504 K: Andreas Szostak , 0176-82167987 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.111606121063232,
+          54.34327462431176
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://server.sportzentrum.uni-kiel.de/sportarten/aktueller_zeitraum/_Go.html\">Kiel</A>, Mi 18-20 Uni-Go-Gruppe, Stadionturm, Olshausenstr. 70 (Während der Vorlesungszeit. In der vorlesungsfreien Zeit Termin evtl. abweichend.) K: Christina Schramm "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.88156920671463,
+          51.93423430599664
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.dgob.de/lv-nrw/detmold/\">Detmold</A>, Do ab 18 Asia Palast, Schülerstr. 24, Eingang Grabenstr.  K: Peter Hagemann , 05231-31629 K: Rolf Bensel , 0160-5056506 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9997099,
+          48.4067632
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.go-ulm.de\">Ulm</A>, Mi ab 19 Cafe Omar, König-Wilhelm Str. 5 K: Gerhard Schmid , 0731-54739 K: Mattias Laage, 0731-57084 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8141061,
+          47.975875
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.Dreisam-Honinbo.de\">Freiburg</A>, Mo ab 19 Enigma, Bergiselstr. 34 K: Christian Haberbosch, 0761-4299652 K: Kirsten Grimm , 0172-5841455 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2411949,
+          50.0863765
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://wi-go.de\">Wiesbaden</A>, Do ab 20, 14-tg Kulturpalast, Saalgasse 36 (Details siehe http://wi-go.de) K: Jana Hollmann , 0611-5802855 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.832128047943115,
+          53.06843246695435
+        ]
+      },
+      "properties": {
+        "description": " Bremen, Di+Fr 19-22 Weserterrassen, Osterdeich 70 b, 0421-549490 K: Uwe Weiß , 0421-74154 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.0108711,
           52.4018765
         ]
       },
       "properties": {
         "description": " <A HREF=\"http://www.planet-nil.de\">Potsdam</A>, Mi ab 19.30 Nil Keller, Am Neuen Palais 10, Haus 11, www.planet-nil.de K: Stefan Leon , 01520-731 58 21 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.476435,
+          51.3665884
+        ]
+      },
+      "properties": {
+        "description": " Hagen, Mi ab 19 Postsportheim, Am Sportpark 18a K: Wolfgang Deinert , 02331-302752, 0170-4150674 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.377976,
+          52.5240046
+        ]
+      },
+      "properties": {
+        "description": " </DL><hr><DL> Berlin (Mitte), Mo 17.30-22 Humboldt Universität, Hauptgebäude, Dorotheenstr.  K: Patrick Husmann , 0176-84091779 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9054775,
+          51.5371173
+        ]
+      },
+      "properties": {
+        "description": " Bottrop, Do ab 19 Gasthof Milke, Lindhorststraße 213 A K: Detlef de Jonghe , 02041-97196 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2981392,
+          51.3620266
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.fh-meschede.de\">Meschede</A>, Mo ab 18 n. V.  Go-Kurs in der FH Südwestfalen, Lindenstr. 53, Raum 8.2 am Foyer, 1. Mo im Monat und n. V.  K: Monika Reimpell , 02934-2453148 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6920685,
+          49.7441331
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://de.trigo.wikia.com\">Trier</A>, n. V.  Universität Trier K: Marc Oliver Rieger "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.46174147732246,
+          49.4915185418846
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.mannheimer-aji.de/\">Mannheim</A>, Mo ab 19.00 Gaststätte \"Tomate\", B6, 12 K: Matthias Armbruster , 0176-20164702 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8944743,
+          48.2964858
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.go-erding.de\">Erding</A>, Mo ab 19 Posenerstr. 12, privat K: Klaus Flügge , 08122-902914 "
       }
     },
     {
@@ -690,12 +1120,194 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.5018452,
+          51.3210372
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://gokassel.webnode.com\">Kassel</A>, Mi ab 18.30 Foto Motel, Wolfhager Str. 53 K: Martin Bussas , 0561-81049711 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7067318,
+          50.5879123
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://homepages.thm.de/~hg53/go-club-giessen\">Giessen</A>, Do ab 20 Pit's Pinte, Grünberger Str. 31, 0641-47276 K: Hellwig Geisse , 0641-394659 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2085356682333,
+          51.5598961
+        ]
+      },
+      "properties": {
+        "description": " Welzow, priv. n. V.  K: Hartmut Köstner, 035751-15691 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9542093,
+          52.1500474
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://go-hildesheim.de\">Hildesheim</A>, Sa ab 14 \"Deseo\", Hindenburgplatz 3 (bitte vorher kontaktieren) K: Veronika Lyssenko "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.417316198348999,
+          53.6324949053948
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.jaaan.de/go-schwerin\">Schwerin</A>, Mo ab 19.30 Pfarrei St. Nikolai, Puschkinstr. 3 (am Schelfmarkt) K: Hubert Marischen, 0385-564210 K: Heinz Postulka , 0385-3433846 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5069655,
+          52.4471763
+        ]
+      },
+      "properties": {
+        "description": " Berlin (Johannisthal), Di ab 18 Kiezklub Johannisthal, Sterndamm 102, 1. Etage K: Ralph Drochner "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6728178,
+          48.2680413
+        ]
+      },
+      "properties": {
+        "description": " Garching, Do 14-18 bei München, Boltzmannstr. 3, Fakultät für Mathematik und Informatik der TUM K: Bernhard Werner , 0151-40322940 K: Stephan Schmolke , 0176-47790131 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.22901104422706,
           48.89626725
         ]
       },
       "properties": {
         "description": " Ludwigsburg, priv. n. V.  in Ludwigsburg-Ossweil K: Christopher Doubleday , 07141-918882 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7222126691801,
+          51.06212745
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.horst-huebner.de\">Dresden</A>, Mi 18-22 Freiberger Str. 31 im Eigenbetrieb Sportstätten, 4. Etage, Konferenzraum K: Horst Hübner , 0351-4712051 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7225325,
+          52.3784695
+        ]
+      },
+      "properties": {
+        "description": " </DL><hr><DL> <A HREF=\"http://www.hannover-go.de\">Hannover</A>, Di 19.30-22 Uni, Conti-Hochhaus, Königsworther Platz 1, Etage 13 K: Ralph Tiefenthaler , 0511-8765551 K: Christoph Gerlach , 0511-7000552 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37853670120239,
+          54.09291350912952
+        ]
+      },
+      "properties": {
+        "description": " Greifswald, Di 19.30-23 Cafe Koeppen, Bahnhofstr. 4 K: Carsten Herrmann , 0176-61573271 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3305624,
+          51.8044974
+        ]
+      },
+      "properties": {
+        "description": " Clausthal, Mo+Do ab 20 \"Kellerclub\", Silberstraße 1, 05323-722111 K: Conny Pohle , 05323-722898 (d) "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7722202832333,
+          51.1966518
+        ]
+      },
+      "properties": {
+        "description": " </DL><hr><DL> Düsseldorf, Mi ab 20 Universität, Café Atempause, Gebäude 25.23 K: Dawid Napora, 0160-6287144 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.380879136165,
+          51.33881915
+        ]
+      },
+      "properties": {
+        "description": " Leipzig, Do 18-21 Universität Leipzig, Augustusplatz, Raum A314 (im Semester) K: Bastian Schütze K: Anke Bremer , 0163-4554310 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0251182,
+          50.8796546
+        ]
+      },
+      "properties": {
+        "description": " Siegen, Do 18-21 BlueBox Siegen, Sandstr. 54 K: Karl Blotnicki , 0176-78753831 K: Hartmud Koch , 0271-7411944 "
       }
     },
     {
@@ -716,12 +1328,194 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.556142091751099,
+          54.51513422719894
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://senseis.xmp.net/?GoClubSchleswig\">Schleswig</A>, Sa ab 17 n. V.  Café Patio, Lollfuß 3 (Innenhof) K: Mario Venzlaff , 04621-382823 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5535459243189,
+          48.2770031
+        ]
+      },
+      "properties": {
+        "description": " Unterschleissheim, priv. n. V.  K: Paul Freitag , 0151-12318766 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6400834,
+          52.1389773
+        ]
+      },
+      "properties": {
+        "description": " Magdeburg, Di ab 19 Universitätsplatz 2 (Campus), Gebäude 05, R. 210, Nordeingang K: Olaf Salchow , 03949-4488 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.40081524848938,
+          52.2491324889463
+        ]
+      },
+      "properties": {
+        "description": " Hundisburg, Do ab 20 Schloß-und Gartenverwaltung Hundisburg K: Harald Blanke , 03904-44265 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1704637,
+          47.9954339
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.ristorante-la-dolce-vita.com/\">Herrsching am Ammersee</A>, Do ab 19 \"La Dolce Vita\", Seestr. 52 (bitte vorher kontaktieren) K: Daniel Altmann , 08152-9040457 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2145793,
+          51.4817374
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"www.bochum-go.de\">Bochum</A>, Di ab 19 \"Game\", Willy-Brandt-Platz 10, 0234-6406950 K: Sascha Hempel , 0173-5419476 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9048274,
+          49.9118415
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"https://www.facebook.com/groups/GOspielen.Bamberg/\">Bamberg</A>, Mi 18-(21) wechselnde Lokale in der Austraße (einfach durchschauen) K: Owen Jericho , null162vier502759 K: Andi "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.97133183479309,
           51.47722843117117
         ]
       },
       "properties": {
         "description": " Halle (Saale), Mo 20-24 Spielehaus, Franckesche Stiftung K: Dr. Rainer Herter , 0345-5521446 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9008426,
+          52.0291924
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://sc-stpauli.de/\">Lemgo</A>, Mo 18.30 (14-tägig) jeden 2. Montag im Gemeindehaus oder im Bistro (Kirchturm, 2. Etage) der St. Pauli Kirche, Echternstr. 20 K: Tim Robert Würfel "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1083093,
+          49.0084477
+        ]
+      },
+      "properties": {
+        "description": " Regensburg, Mo ab 20 Gaststätte Antoniushaus, Mühlweg 13 K: Erwin Gerstorfer "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0813818,
+          50.7674876
+        ]
+      },
+      "properties": {
+        "description": " Aachen, Di ab 20 \"Meisenfrei\", Südstr. 25 K: Sarah Tegtmeier , 0241-4759651 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1387933,
+          54.3413523
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://sites.google.com/site/gospielkreiskiel/\">Kiel</A>, Mo ab 19.30 Gaststätte Blücher, Esmarchstr. 44 K: Werner Ente , 0431-677304 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.208082616329193,
+          53.15057795757906
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.go-club-oldenburg.de/\">Oldenburg</A>, Di ab 20 Dreieck, Röwekamp 23 K: Jens Pankoke , 0441-9333649 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.38137,
+          52.3460724
+        ]
+      },
+      "properties": {
+        "description": " Bad Nenndorf, Mi ab 19.30 Intensofit, Rotrehre 20-22 K: Dieter Rasche , 05723-74116 K: Bernd Barthold, 05723-913528 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.982995613993,
+          50.9906380955545
+        ]
+      },
+      "properties": {
+        "description": " Mittweida, Mi ab 18 Bierstube in der Mensa der Hochschule, Am Schwanenteich K: H.-D. Pester , 03727-603099 "
       }
     },
     {
@@ -742,12 +1536,194 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.93535695036284,
-          51.5355261
+          10.916338562965393,
+          50.68763905667833
         ]
       },
       "properties": {
-        "description": " Göttingen, Mo ab 19 Galerie \"Apex\", Burgstr. 46 K: Gerhard Mex , 0551-705056 "
+        "description": " <A HREF=\"http://kunysch.de/go/\">Ilmenau</A>, Do ab 19 Piano, Weimarer Str. 9 K: Markus Richert , 03677-466684 K: Paul Kunysch, 0151-22651019 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1081236758529,
+          47.8379995864355
+        ]
+      },
+      "properties": {
+        "description": " Rosenheim, priv. n. V.  K: Christoph Sitte , 0176-21643171 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.44681080887598,
+          48.0555458518873
+        ]
+      },
+      "properties": {
+        "description": " Villingen-Schwenningen, priv. n. V.  K: Manfred Götz , 0151-11523830 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1716536,
+          48.7775884
+        ]
+      },
+      "properties": {
+        "description": " </DL><hr><DL> <A HREF=\"http://www.dgob.de/lv-bw/Stuttgart/index.html\">Stuttgart</A>, Mi ab 19 forum 3, Gymnasiumstr. 21 K: Thomas Schmid , 07127-952213 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6597034,
+          49.8778201
+        ]
+      },
+      "properties": {
+        "description": " Darmstadt, Mi ab 19 \"Hobbit\", Lauteschlägerstr. 3 K: Klaus Petri , 06151-9674362 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641795873641968,
+          51.963836721482394
+        ]
+      },
+      "properties": {
+        "description": " Münster, Di ab 20.15 Cafe Klingklang, Erphostr. 2 K: Rainer Busch , 0251-784207 K: Markus Dittberner , 0251-2302783 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6949104,
+          52.1206019
+        ]
+      },
+      "properties": {
+        "description": " Herford, Fr ab 19, 14-tg Mozartstr. 81 a, privat K: Hans Abraham , 05221-84183 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6906603,
+          50.1047811
+        ]
+      },
+      "properties": {
+        "description": " Frankfurt/M., Do ab 20 Plateau, Neuer Wall 15 K: Nils Blarr "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4747128,
+          51.357074
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.allerwelthaus.org/index.html\">Hagen</A>, Fr ab 17 \"AllerWeltHaus\", Potthofstr. 22 K: Thomas Knop "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.01963413752123,
+          48.6852145092567
+        ]
+      },
+      "properties": {
+        "description": " Böblingen, priv. n. V.  K: Uli Staber , 07157-65801 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.58743436011112,
+          53.53544055
+        ]
+      },
+      "properties": {
+        "description": " Bremerhaven, Di, Mi ab 20 priv. n. V.  K: Martin Osthaus , 04747/931334 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6537518,
+          49.4138049
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.heidelberg-go.de/\">Heidelberg</A>, Mi 20-24 Neckarschänke Wieblingen, Ludwig-Guttmann-Str. 10, 06221-833347 K: Rolf Hofmann, 06201-46653 K: Hans-Ulrich Teufel , 06221-400625 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0108027,
+          49.591547
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.nefkom.net/martin.bergmann/go\">Erlangen</A>, Mo ab 20 Katholische Hochschul-Stud.-Gem. (KHG), Sieboldstr. 3, Pacelli-Haus K: Martin Bergmann , 09131-6103700 K: Horst Schrebe, 09131-481926 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3972286,
+          52.5462212
+        ]
+      },
+      "properties": {
+        "description": " Berlin (Wedding), Mi+Sa 18-22 Baduk in der Tortenwerkstatt, Gleimstr. 6 K: Byoung Seon K: Uwe Hadlich , 0176-61663333 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7538150746101,
+          48.0301967
+        ]
+      },
+      "properties": {
+        "description": " Buchloe, priv. n. V.  K: Bernd Gramlich , 08241-5079996 "
       }
     },
     {
@@ -768,6 +1744,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.7560578,
+          51.0696329
+        ]
+      },
+      "properties": {
+        "description": " Dresden, Do ab 18.30 Barneby, Görlitzer Str. 11 K: Sascha Giebner , 0151-23232237 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5366363,
+          52.2739507
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.braunschweig-go.de\">Braunschweig</A>, Mo ab 19 Gebäude Grotrian an der TUBS, Zimmerstr. 24 D K: Björn Meier , 05306-931757 K: Nina Knöchelmann , 0160-4434640 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3283011,
+          52.5081789
+        ]
+      },
+      "properties": {
+        "description": " Berlin (Charlottenburg), Fr 18-23 TU Berlin, Hardenbergstr. 36 (Physikneubau, Raum 114) K: James Brückl , 0157-73867795 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0952728,
+          50.7262759
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.bonnergozentrum.de/\">Bonn</A>, Do 17-22 Dietrich-Bonhoeffer-Haus, Königstr. 88 K: Andre Sieber , 0151-21151031 K: Rainer Schütze , 0228-658218 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4009765,
+          51.489429
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://dortmund-go.de/index.php/spielabende\">Dortmund</A>, Mo 17-19 Neues Informatik-Gebäude der TU Dortmund, Otto-Hahn-Str. 12, 2. Etage, Raum 2003 K: Lars Gehrke , 01732015374 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.3417027,
           51.6774711
         ]
@@ -781,12 +1822,116 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.2231562,
+          52.7517865
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://facebook.com/GoPiraten\">Oranienburg</A>, Fr ab 18 Cafe/Bistro Kaffeetante (im Oranienwerk), Kremmenerstr. 43 K: Wolfgang Walz , 03301-426366 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.01822233200073,
+          53.556364701611614
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://gohh.de/spielabende/\">Hamburg</A>, Mo 19:00 Uhr Schorsch, Steindamm 87,  K: Olga Silber , 04141-7810576 K: Tobias Berben , 040-85157161 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5777896,
+          48.1805501
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.mils-sportrestaurant.de\">München</A>, Mo u. Di 18-23 Mil's, Hans-Denzinger-Str. 2 K: Joachim Bitzer , 089-301961 K: Andreas Mauke , 0177-7455229 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.1502135877827,
           52.9464193243255
         ]
       },
       "properties": {
         "description": " Löwenberg, Mo-Do 19-22 priv. n. V.  K: Tobias Klatt , 0151-28027524 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8013748,
+          51.5047085
+        ]
+      },
+      "properties": {
+        "description": " Nordhausen, Mi ab 17 Thomas-Mann-Klub, Nebelungstr. 39, 03631-983493 K: Dieter Wenske, 03631-987952 K: Matthias Reimann , 036331-31406 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3377483217865,
+          53.24993835
+        ]
+      },
+      "properties": {
+        "description": " Lüneburg, 2. Sonntag/ Monat 14:30 - 18:00 Reppenstedt (bei Lüneburg)  Privat, Bitte vorher anrufen K: Alexander Huber , 04131-395300 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4654176,
+          51.4976693
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www.dortmund-go.de/index.php/spielabende\">Dortmund</A>, Mi 16-18.30, 14-tg SIGNAL IDUNA Gruppe, Joseph-Scherer Str. 3, externe Besucher müssen sich vorher anmelden K: Martin Quest , 0231-201945 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.90094001771169,
+          47.96398895
+        ]
+      },
+      "properties": {
+        "description": " Freiburg, Fr ab 18 privat, Am Hagmättle 11 K: Kirsten Grimm , 0172-5841455 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.76925229161359,
+          49.4351088
+        ]
+      },
+      "properties": {
+        "description": " <A HREF=\"http://www-user.rhrk.uni-kl.de/~pfaff/go.html\">Kaiserslautern</A>, Mi ab 19 Universität, Bau 48 (Mathebau), Raum 582 K: Dr. Thomas Pfaff , 0631-13698 "
       }
     },
     {
@@ -820,168 +1965,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.4654176,
-          51.4976693
+          9.93535695036284,
+          51.5355261
         ]
       },
       "properties": {
-        "description": " <A HREF=\"http://www.dortmund-go.de/index.php/spielabende\">Dortmund</A>, Mi 16-18.30, 14-tg SIGNAL IDUNA Gruppe, Joseph-Scherer Str. 3, externe Besucher müssen sich vorher anmelden K: Martin Quest , 0231-201945 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.3972286,
-          52.5462212
-        ]
-      },
-      "properties": {
-        "description": " Berlin (Wedding), Mi+Sa 18-22 Baduk in der Tortenwerkstatt, Gleimstr. 6 K: Byoung Seon K: Uwe Hadlich , 0176-61663333 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.641795873641968,
-          51.963836721482394
-        ]
-      },
-      "properties": {
-        "description": " Münster, Di ab 20.15 Cafe Klingklang, Erphostr. 2 K: Rainer Busch , 0251-784207 K: Markus Dittberner , 0251-2302783 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.38137,
-          52.3460724
-        ]
-      },
-      "properties": {
-        "description": " Bad Nenndorf, Mi ab 19.30 Intensofit, Rotrehre 20-22 K: Dieter Rasche , 05723-74116 K: Bernd Barthold, 05723-913528 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.2145793,
-          51.4817374
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"www.bochum-go.de\">Bochum</A>, Di ab 19 \"Game\", Willy-Brandt-Platz 10, 0234-6406950 K: Sascha Hempel , 0173-5419476 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.380879136165,
-          51.33881915
-        ]
-      },
-      "properties": {
-        "description": " Leipzig, Do 18-21 Universität Leipzig, Augustusplatz, Raum A314 (im Semester) K: Bastian Schütze K: Anke Bremer , 0163-4554310 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.5069655,
-          52.4471763
-        ]
-      },
-      "properties": {
-        "description": " Berlin (Johannisthal), Di ab 18 Kiezklub Johannisthal, Sterndamm 102, 1. Etage K: Ralph Drochner "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.46174147732246,
-          49.4915185418846
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.mannheimer-aji.de/\">Mannheim</A>, Mo ab 19.00 Gaststätte \"Tomate\", B6, 12 K: Matthias Armbruster , 0176-20164702 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.2411949,
-          50.0863765
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://wi-go.de\">Wiesbaden</A>, Do ab 20, 14-tg Kulturpalast, Saalgasse 36 (Details siehe http://wi-go.de) K: Jana Hollmann , 0611-5802855 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.8407315,
-          51.2969523
-        ]
-      },
-      "properties": {
-        "description": " Ratingen, Do ab 19.30 Haus der Jugend, 1. Etage, Stadionring 9 K: Wolfgang Klengel , 02102-844711 K: Helmut Heidrich, 0211-656325 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.69049160197639,
-          48.7190864
-        ]
-      },
-      "properties": {
-        "description": " Göppingen, Di 18-22 Haus der Jugend, 2. Stock K: Joachim Pimiskern , 07161-815530 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.17817603944776,
-          47.6609571
-        ]
-      },
-      "properties": {
-        "description": " Konstanz, Mi ab 19 \"Seekuh\" Kneipe, Konzilstr. 1 K: Christoph Adelsberger , 0171-5255715 K: Norbert Kolassa , 07531-8076906 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.3844010777478,
-          53.22281005
-        ]
-      },
-      "properties": {
-        "description": " Lüneburg, Privat n.V.  K: Ralf Schulz , 0151-65783327 "
+        "description": " Göttingen, Mo ab 19 Galerie \"Apex\", Burgstr. 46 K: Gerhard Mex , 0551-705056 "
       }
     },
     {
@@ -1002,961 +1991,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.1515081,
-          51.242193
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://tonshi.de/tonshi2/der_spieleabend/\">Wuppertal</A>, Mo ab 19 Universität, Asta-Kneipe, Gauss-Str. 20 K: Erik Schweitzer , 0202-2429133 K: Hildegard Puttkammer , 02053-40215 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           8.6728312,
           49.546424
         ]
       },
       "properties": {
         "description": " <A HREF=\"http://www.go-weinheim.de/\">Weinheim</A>, Do ab 19 n. V.  Bistrorant Tafelspitz, Marktplatz 7 K: Thomas Reinicz , 0172-6371629 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.69473039297348,
-          51.53071685
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.dortmund-go.de\">Unna</A>, Mo 19.30-23 , priv. n.V.  Café Extrablatt Unna, Markt 1 K: Andre Schneider , 0151-27535137 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.241466027255,
-          52.4372333
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.slaughterlake.de\">Berlin (Schlachtensee)</A>, Di 18-23 direkt an der S-Bahn Linie 1, mit Badesee (Sommer) und Kachelofen (Winter) K: Thorsten Bartelt "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.8141061,
-          47.975875
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.Dreisam-Honinbo.de\">Freiburg</A>, Mo ab 19 Enigma, Bergiselstr. 34 K: Christian Haberbosch, 0761-4299652 K: Kirsten Grimm , 0172-5841455 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.6920685,
-          49.7441331
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://de.trigo.wikia.com\">Trier</A>, n. V.  Universität Trier K: Marc Oliver Rieger "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.417316198348999,
-          53.6324949053948
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.jaaan.de/go-schwerin\">Schwerin</A>, Mo ab 19.30 Pfarrei St. Nikolai, Puschkinstr. 3 (am Schelfmarkt) K: Hubert Marischen, 0385-564210 K: Heinz Postulka , 0385-3433846 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.7722202832333,
-          51.1966518
-        ]
-      },
-      "properties": {
-        "description": " </DL><hr><DL> Düsseldorf, Mi ab 20 Universität, Café Atempause, Gebäude 25.23 K: Dawid Napora, 0160-6287144 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.1704637,
-          47.9954339
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.ristorante-la-dolce-vita.com/\">Herrsching am Ammersee</A>, Do ab 19 \"La Dolce Vita\", Seestr. 52 (bitte vorher kontaktieren) K: Daniel Altmann , 08152-9040457 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.208082616329193,
-          53.15057795757906
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.go-club-oldenburg.de/\">Oldenburg</A>, Di ab 20 Dreieck, Röwekamp 23 K: Jens Pankoke , 0441-9333649 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.4009765,
-          51.489429
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://dortmund-go.de/index.php/spielabende\">Dortmund</A>, Mo 17-19 Neues Informatik-Gebäude der TU Dortmund, Otto-Hahn-Str. 12, 2. Etage, Raum 2003 K: Lars Gehrke , 01732015374 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.6906603,
-          50.1047811
-        ]
-      },
-      "properties": {
-        "description": " Frankfurt/M., Do ab 20 Plateau, Neuer Wall 15 K: Nils Blarr "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.3377483217865,
-          53.24993835
-        ]
-      },
-      "properties": {
-        "description": " Lüneburg, 2. Sonntag/ Monat 14:30 - 18:00 Reppenstedt (bei Lüneburg)  Privat, Bitte vorher anrufen K: Alexander Huber , 04131-395300 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.5777896,
-          48.1805501
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.mils-sportrestaurant.de\">München</A>, Mo u. Di 18-23 Mil's, Hans-Denzinger-Str. 2 K: Joachim Bitzer , 089-301961 K: Andreas Mauke , 0177-7455229 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.8013748,
-          51.5047085
-        ]
-      },
-      "properties": {
-        "description": " Nordhausen, Mi ab 17 Thomas-Mann-Klub, Nebelungstr. 39, 03631-983493 K: Dieter Wenske, 03631-987952 K: Matthias Reimann , 036331-31406 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.7560578,
-          51.0696329
-        ]
-      },
-      "properties": {
-        "description": " Dresden, Do ab 18.30 Barneby, Görlitzer Str. 11 K: Sascha Giebner , 0151-23232237 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.0108027,
-          49.591547
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.nefkom.net/martin.bergmann/go\">Erlangen</A>, Mo ab 20 Katholische Hochschul-Stud.-Gem. (KHG), Sieboldstr. 3, Pacelli-Haus K: Martin Bergmann , 09131-6103700 K: Horst Schrebe, 09131-481926 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.4747128,
-          51.357074
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.allerwelthaus.org/index.html\">Hagen</A>, Fr ab 17 \"AllerWeltHaus\", Potthofstr. 22 K: Thomas Knop "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.6597034,
-          49.8778201
-        ]
-      },
-      "properties": {
-        "description": " Darmstadt, Mi ab 19 \"Hobbit\", Lauteschlägerstr. 3 K: Klaus Petri , 06151-9674362 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.916338562965393,
-          50.68763905667833
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://kunysch.de/go/\">Ilmenau</A>, Do ab 19 Piano, Weimarer Str. 9 K: Markus Richert , 03677-466684 K: Paul Kunysch, 0151-22651019 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.9008426,
-          52.0291924
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://sc-stpauli.de/\">Lemgo</A>, Mo 18.30 (14-tägig) jeden 2. Montag im Gemeindehaus oder im Bistro (Kirchturm, 2. Etage) der St. Pauli Kirche, Echternstr. 20 K: Tim Robert Würfel "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.556142091751099,
-          54.51513422719894
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://senseis.xmp.net/?GoClubSchleswig\">Schleswig</A>, Sa ab 17 n. V.  Café Patio, Lollfuß 3 (Innenhof) K: Mario Venzlaff , 04621-382823 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.90094001771169,
-          47.96398895
-        ]
-      },
-      "properties": {
-        "description": " Freiburg, Fr ab 18 privat, Am Hagmättle 11 K: Kirsten Grimm , 0172-5841455 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.5018452,
-          51.3210372
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://gokassel.webnode.com\">Kassel</A>, Mi ab 18.30 Foto Motel, Wolfhager Str. 53 K: Martin Bussas , 0561-81049711 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.476435,
-          51.3665884
-        ]
-      },
-      "properties": {
-        "description": " Hagen, Mi ab 19 Postsportheim, Am Sportpark 18a K: Wolfgang Deinert , 02331-302752, 0170-4150674 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.54236352443695,
-          52.264857991713995
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.braunschweig-go.de\">Braunschweig</A>, Do ab 19 Café Fischer, Altewiekring 44 K: Joachim Beggerow , 0531-42504 K: Andreas Szostak , 0176-82167987 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.29691743850708,
-          52.495267921517275
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.go-lingen.de\">Lingen</A>, Di ab 18 Grüner Jäger K: Axel Wimmer , 0591-9152870 K: Christoph Hermes , 0591-90110952 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.75926137769997,
-          51.7120229
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.ponnuki-paderborn.de\">Paderborn</A>, Mi ab 19 Uni Paderborn, Raum H3.203 K: Martin Hershoff , 05251-760467 K: Joshua Nowack , n/a "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.1972241,
-          51.6157493
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.guzumi.de/index.php\">Recklinghausen</A>, Do ab 19 \"Drübbelken\", Münsterstr. 5 K: Martin Langer , 02361-486674 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.1767391,
-          47.6903464
-        ]
-      },
-      "properties": {
-        "description": " Konstanz, Di ab 18.45 Universität Raum G302, Universitätsstr. 10 (im Semester) K: Christoph Adelsberger , 0171-5255715 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.924034580186,
-          50.8353940036907
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.facebook.com/#!/pages/Go-Gruppe-Chemnitz/255486124499961\">Chemnitz</A>, Mi ab 18, 14-tg (bitte vorher Go-Gruppe Chemnitz über Facebook kontaktieren) K: Lars Gebhardt "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.02877720225627,
-          52.18899725
-        ]
-      },
-      "properties": {
-        "description": " Gronau-Epe, n. V.  privat (bitte vorher kontaktieren) K: Claus Weyck, 02565-2556,0177-1446465 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.026767790317535,
-          50.97829752570632
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.roterelephant.de/\">Erfurt</A>, So 19-24 \"Roter Elephant\", Allerheiligenstr. 4 K: Markus Lang , 0361-2622691 K: Thomas Schütz , 0361-416882 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.113065361976624,
-          53.520659341188576
-        ]
-      },
-      "properties": {
-        "description": " Wilhelmshaven, Mi 19.30-23 News Cafe, Börsenstr. 42, 04421-92910 K: Klaus Heine , 04421-44526 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.111606121063232,
-          54.34327462431176
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://server.sportzentrum.uni-kiel.de/sportarten/aktueller_zeitraum/_Go.html\">Kiel</A>, Mi 18-20 Uni-Go-Gruppe, Stadionturm, Olshausenstr. 70 (Während der Vorlesungszeit. In der vorlesungsfreien Zeit Termin evtl. abweichend.) K: Christina Schramm "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.377976,
-          52.5240046
-        ]
-      },
-      "properties": {
-        "description": " </DL><hr><DL> Berlin (Mitte), Mo 17.30-22 Humboldt Universität, Hauptgebäude, Dorotheenstr.  K: Patrick Husmann , 0176-84091779 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.7067318,
-          50.5879123
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://homepages.thm.de/~hg53/go-club-giessen\">Giessen</A>, Do ab 20 Pit's Pinte, Grünberger Str. 31, 0641-47276 K: Hellwig Geisse , 0641-394659 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.7225325,
-          52.3784695
-        ]
-      },
-      "properties": {
-        "description": " </DL><hr><DL> <A HREF=\"http://www.hannover-go.de\">Hannover</A>, Di 19.30-22 Uni, Conti-Hochhaus, Königsworther Platz 1, Etage 13 K: Ralph Tiefenthaler , 0511-8765551 K: Christoph Gerlach , 0511-7000552 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.5535459243189,
-          48.2770031
-        ]
-      },
-      "properties": {
-        "description": " Unterschleissheim, priv. n. V.  K: Paul Freitag , 0151-12318766 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.1083093,
-          49.0084477
-        ]
-      },
-      "properties": {
-        "description": " Regensburg, Mo ab 20 Gaststätte Antoniushaus, Mühlweg 13 K: Erwin Gerstorfer "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.1081236758529,
-          47.8379995864355
-        ]
-      },
-      "properties": {
-        "description": " Rosenheim, priv. n. V.  K: Christoph Sitte , 0176-21643171 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.01963413752123,
-          48.6852145092567
-        ]
-      },
-      "properties": {
-        "description": " Böblingen, priv. n. V.  K: Uli Staber , 07157-65801 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.5366363,
-          52.2739507
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.braunschweig-go.de\">Braunschweig</A>, Mo ab 19 Gebäude Grotrian an der TUBS, Zimmerstr. 24 D K: Björn Meier , 05306-931757 K: Nina Knöchelmann , 0160-4434640 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.0625243,
-          48.5146239
-        ]
-      },
-      "properties": {
-        "description": " Tübingen, Mi ab 18.30 \"Herzog Ulrich\", Ulrichstr. 11 K: Hannes Vogt , 0179-9041687 K: Bernhard Unold, 0176-97412331 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.76925229161359,
-          49.4351088
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www-user.rhrk.uni-kl.de/~pfaff/go.html\">Kaiserslautern</A>, Mi ab 19 Universität, Bau 48 (Mathebau), Raum 582 K: Dr. Thomas Pfaff , 0631-13698 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.999240338802338,
-          53.0856026156619
-        ]
-      },
-      "properties": {
-        "description": " Bispingen, Fr ab 18 privat (bitte vorher kontaktieren) K: Thomas Rohde , 05194-6741 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.01822233200073,
-          53.556364701611614
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://gohh.de/spielabende/\">Hamburg</A>, Mo 19:00 Uhr Schorsch, Steindamm 87,  K: Olga Silber , 04141-7810576 K: Tobias Berben , 040-85157161 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.0952728,
-          50.7262759
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.bonnergozentrum.de/\">Bonn</A>, Do 17-22 Dietrich-Bonhoeffer-Haus, Königstr. 88 K: Andre Sieber , 0151-21151031 K: Rainer Schütze , 0228-658218 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.6537518,
-          49.4138049
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.heidelberg-go.de/\">Heidelberg</A>, Mi 20-24 Neckarschänke Wieblingen, Ludwig-Guttmann-Str. 10, 06221-833347 K: Rolf Hofmann, 06201-46653 K: Hans-Ulrich Teufel , 06221-400625 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.1716536,
-          48.7775884
-        ]
-      },
-      "properties": {
-        "description": " </DL><hr><DL> <A HREF=\"http://www.dgob.de/lv-bw/Stuttgart/index.html\">Stuttgart</A>, Mi ab 19 forum 3, Gymnasiumstr. 21 K: Thomas Schmid , 07127-952213 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.1387933,
-          54.3413523
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://sites.google.com/site/gospielkreiskiel/\">Kiel</A>, Mo ab 19.30 Gaststätte Blücher, Esmarchstr. 44 K: Werner Ente , 0431-677304 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.40081524848938,
-          52.2491324889463
-        ]
-      },
-      "properties": {
-        "description": " Hundisburg, Do ab 20 Schloß-und Gartenverwaltung Hundisburg K: Harald Blanke , 03904-44265 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.3305624,
-          51.8044974
-        ]
-      },
-      "properties": {
-        "description": " Clausthal, Mo+Do ab 20 \"Kellerclub\", Silberstraße 1, 05323-722111 K: Conny Pohle , 05323-722898 (d) "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9542093,
-          52.1500474
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://go-hildesheim.de\">Hildesheim</A>, Sa ab 14 \"Deseo\", Hindenburgplatz 3 (bitte vorher kontaktieren) K: Veronika Lyssenko "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.2981392,
-          51.3620266
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.fh-meschede.de\">Meschede</A>, Mo ab 18 n. V.  Go-Kurs in der FH Südwestfalen, Lindenstr. 53, Raum 8.2 am Foyer, 1. Mo im Monat und n. V.  K: Monika Reimpell , 02934-2453148 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9997099,
-          48.4067632
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.go-ulm.de\">Ulm</A>, Mi ab 19 Cafe Omar, König-Wilhelm Str. 5 K: Gerhard Schmid , 0731-54739 K: Mattias Laage, 0731-57084 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.26975643509378,
-          49.99744505
-        ]
-      },
-      "properties": {
-        "description": " Mainz, Mi ab 20 Lomo, Ballplatz 2 K: Bernhard Herwig , 06131-5701833 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.6441823,
-          49.7583755
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://de.trigo.wikia.com\">Trier</A>, Fr ab 20 Jugendzentrum \"Mergener Hof\", Rindertanzstr. 4 K: Horst Zein , 0651-52711 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.761357903480528,
-          52.36917338787906
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.hannover-go.de\">Hannover</A>, Mo 19.15-22 RSV Geschäftsstelle, Vorraum der dortigen Kegelbahn im Keller der Sporthalle, Am Südbahnhof 7 K: Ralph Tiefenthaler , 0511-8765551 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.040146,
-          52.2744752
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.lagerhalle-osnabrueck.de/\">Osnabrück</A>, Di ab 18.30 \"Lagerhalle\" am Heger Tor, Rolandsmauer 26 K: Michael Stolte , 0541-75049597 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.69543254964762,
-          53.05111175
-        ]
-      },
-      "properties": {
-        "description": " Soltau, priv. n. V.  K: Reinhard Spode , 05195-1259 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9486496,
-          51.5381897
-        ]
-      },
-      "properties": {
-        "description": " Göttingen, Do ab 18 Uni Göttingen, Mathematisches Institut (Hauptgebäude Übungssaal), Bürgerstr. (im Semester) K: Colin-Marius Koch , 0178-2969071 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.8321346,
-          48.379659
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.augsburg-go.de/\">Augsburg</A>, Do ab 19.30 Il Galeone, Steppacher Str. 1 K: Thomas Brückmann "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.797648191452026,
-          52.47704965416954
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.hannover-go.de\">Isernhagen</A>, Do ab 18 Voltmershof, Burgwedeler Str.  K: Winfried Dörholt , 0511-772766 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.518034,
-          48.1803724
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"https://www.google.com/maps/d/edit?mid=zNJ3sfg4D5TM.kDEuGESFYHBM\">München (Moosach)</A>, Sa 14-22 n.V.  Turnhalle der GS an der Jenaer Str. 3, Spieletreff und freies Training von Jonglieren in München e.V.  K: Thomas Furtner , 0160-96261998 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.832128047943115,
-          53.06843246695435
-        ]
-      },
-      "properties": {
-        "description": " Bremen, Di+Fr 19-22 Weserterrassen, Osterdeich 70 b, 0421-549490 K: Uwe Weiß , 0421-74154 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.8944743,
-          48.2964858
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://www.go-erding.de\">Erding</A>, Mo ab 19 Posenerstr. 12, privat K: Klaus Flügge , 08122-902914 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.6728178,
-          48.2680413
-        ]
-      },
-      "properties": {
-        "description": " Garching, Do 14-18 bei München, Boltzmannstr. 3, Fakultät für Mathematik und Informatik der TUM K: Bernhard Werner , 0151-40322940 K: Stephan Schmolke , 0176-47790131 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.0251182,
-          50.8796546
-        ]
-      },
-      "properties": {
-        "description": " Siegen, Do 18-21 BlueBox Siegen, Sandstr. 54 K: Karl Blotnicki , 0176-78753831 K: Hartmud Koch , 0271-7411944 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.9048274,
-          49.9118415
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"https://www.facebook.com/groups/GOspielen.Bamberg/\">Bamberg</A>, Mi 18-(21) wechselnde Lokale in der Austraße (einfach durchschauen) K: Owen Jericho , null162vier502759 K: Andi "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.982995613993,
-          50.9906380955545
-        ]
-      },
-      "properties": {
-        "description": " Mittweida, Mi ab 18 Bierstube in der Mensa der Hochschule, Am Schwanenteich K: H.-D. Pester , 03727-603099 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.6949104,
-          52.1206019
-        ]
-      },
-      "properties": {
-        "description": " Herford, Fr ab 19, 14-tg Mozartstr. 81 a, privat K: Hans Abraham , 05221-84183 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.7538150746101,
-          48.0301967
-        ]
-      },
-      "properties": {
-        "description": " Buchloe, priv. n. V.  K: Bernd Gramlich , 08241-5079996 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.2231562,
-          52.7517865
-        ]
-      },
-      "properties": {
-        "description": " <A HREF=\"http://facebook.com/GoPiraten\">Oranienburg</A>, Fr ab 18 Cafe/Bistro Kaffeetante (im Oranienwerk), Kremmenerstr. 43 K: Wolfgang Walz , 03301-426366 "
       }
     },
     {
@@ -2044,6 +2084,20 @@
       "properties": {
         "name": "26725 Emden",
         "description": "<A HREF=\"http://www.emden-go.de/\" target=\"_blank\">Emden</A>, Mi ab 18.30\nHS Emden-Leer, Haus der Studierenden, Constantiaplatz 4\nK: Ingo Stein , 04921-918168\nK: Christine Dauelsberg , 04921-28977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.999240338802338,
+          53.0856026156619
+        ]
+      },
+      "properties": {
+        "description": "Fr ab 18 privat (bitte vorher kontaktieren) K: Thomas Rohde , 05194-6741 ",
+        "name": "29646 Bispingen"
       }
     },
     {
@@ -2159,6 +2213,20 @@
       "properties": {
         "description": " <A HREF=\"http://go-jena.webnode.com//\">Jena</A>, Mo ab 19 Cafe Immergrün, Jenergasse 6 K: Kevin Sanow , 0176-286 118 14 K: Guido Tautorat , 03641-350454 ",
         "name": "Jena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.308190405368805,
+          52.50342727105151
+        ]
+      },
+      "properties": {
+        "name": "Nakade Go Club @Mommsen Eck",
+        "description": "monthly. every 2nd monday of a month. 6pm - 9pm\n\nabout 5-10 players. more during summer. level 5k-3d. beginners are welcome\n\nContact: Pandau Ting pandau@nakade.de\nContact: Maurice Wohabi mo@nakade.de"
       }
     },
     {
@@ -3411,727 +3479,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.58450460919879,
-          54.7754614303746
-        ]
-      },
-      "properties": {
-        "description": "Durham Meets: Thursday 20:00-22:00 during term-time The Elm Tree pub, Crossgate. Contact Andrew Ambrose-Thurman"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.758857195357585,
-          51.4060111
-        ]
-      },
-      "properties": {
-        "description": "Bracknell Meets: Tuesday 20:00 meets by arrangement only The Green Man, Crowthorne Road. Contact Ian Marsh Tel: 01344 422296"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.2398008,
-          53.4805574
-        ]
-      },
-      "properties": {
-        "description": "Manchester Meets: Thursday 19:45 The Shakespeare pub, 16 Fountain Street. Contact Chris Kirkham Tel: 0161 903 9023"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.78095942978267,
-          51.5565506239891
-        ]
-      },
-      "properties": {
-        "description": "Swindon Meets: Sunday evening The Beehive, Prospect Hill. Contact David King, 21 Windsor Rd, Swindon Tel: 01793 521625"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.83492588,
-          51.55013431
-        ]
-      },
-      "properties": {
-        "description": "Swindon Meets: Wednesday 19:30 Windmill Pub, Freshbrook Village Centre, Worsley Road. Contact David King, 21 Windsor Rd, Swindon Tel: 01793 521625"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.07656,
-          51.89862
-        ]
-      },
-      "properties": {
-        "description": "Cheltenham Meets: Wednesday 19:30 . Contact Adam Watts Tel: 07403 475573"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.7343283,
-          51.5219319
-        ]
-      },
-      "properties": {
-        "description": "Maidenhead Meets: Friday 20:00 . Contact Iain Atwell, Norhurst, Westmorland Rd, Maidenhead, SL6 4HB Tel: 01628 676792"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.27639,
-          54.56458
-        ]
-      },
-      "properties": {
-        "description": "Teesside Meets: Meets by arrangement . Contact Matthew Holton"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.2646228,
-          51.3338915
-        ]
-      },
-      "properties": {
-        "description": "Epsom Meets: Occasionally Epsom. Contact Matthew via mobile: 07752 - 301 096"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.7274482,
-          55.606769
-        ]
-      },
-      "properties": {
-        "description": "Borders Meets: By arrangement Greenwells, Gattonside near Melrose and Galashiels. Contact Ron Bell"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.218773,
-          50.198643
-        ]
-      },
-      "properties": {
-        "description": "Mid-Cornwall Meets: Tuesday 20:00 Penhalurick Barton, Penhalvean, Redruth, Cornwall TR16 6TG. Contact Paul Massey Tel: 07966 474686"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.227139856293309,
-          51.5019641424903
-        ]
-      },
-      "properties": {
-        "description": "London, West Meets: Wednesday 19:00 Young Chelsea Bridge Club, 54 Goldhawk Road. Contact Gerry Gavigan"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7748336,
-          53.8344245
-        ]
-      },
-      "properties": {
-        "description": "Bradford Meets: Wednesday 19:30 The Noble Comb, Quayside, Salts Mill Road, Shipley. Contact Ewen Pearson Tel: 01274 598980"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.2583921,
-          51.19504
-        ]
-      },
-      "properties": {
-        "description": "Tonbridge Meets: Tuesday 19:30 4 Ives Road. Contact Michael Pickles"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.579723,
-          54.7600027
-        ]
-      },
-      "properties": {
-        "description": "Durham Meets: Monday 20:00-22:00 during term time The Bar, Ustinov College, Howlands Farm. Contact Andrew Ambrose-Thurman"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.5303122,
-          50.7208506
-        ]
-      },
-      "properties": {
-        "description": "Exeter Meets: Monday 19:00 White Hart Inn, South Street. Contact David Storkey Tel: 01392 461182"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9576637,
-          51.6152447
-        ]
-      },
-      "properties": {
-        "description": "Swansea Meets: By arrangement The Mill Pub, 75 Brynymor Road. Contact Dylan Carter"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.91064765766123,
-          52.4782216474506
-        ]
-      },
-      "properties": {
-        "description": "Birmingham Meets: Sunday 14:00 Starbucks cafe in the International Convention Centre (ICC). Contact Andrew Russell http://www.brumgo.co.uk/ "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.247745,
-          50.228835
-        ]
-      },
-      "properties": {
-        "description": "Mid-Cornwall Meets: Friday 13:00 - 14:00 Bluefruit Software, Gateway Business Centre, Barncoose, Redruth, Cornwall TR15 3RQ. Contact Paul Massey Tel: 07966 474686"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.331331781603036,
-          51.4419936807984
-        ]
-      },
-      "properties": {
-        "description": "London, Twickenham Meets: Wednesday 19:30 The Alexander Pope Hotel, Cross Deep, Twickenham, West London. Contact Colin Maclennan Tel: 020 8941 1607"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.1264609,
           50.8272903
         ]
       },
       "properties": {
         "description": "Brighton Meets: Tuesday 20:00 The Southover Pub, Southover St. Contact Felix Shardlow tel: 07940 973406 John Allen aka Yogi Tel: 01273 383254 or 07854 218920 Jil Segerman Tel: 07920 865065 or 01273 470346 Felix Shardlow 07940 973406 https://www.facebook.com/groups/brightongoclub/ "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5603331,
-          52.3787168
-        ]
-      },
-      "properties": {
-        "description": "Warwick University Meets: Wednesday 17:00-20:00 during University term Room B2.03 on campus (see website for directions). Contact Philip Leung"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.9931106,
-          56.456211
-        ]
-      },
-      "properties": {
-        "description": "Dundee Meets: Monday from 20:00 during University terms Mennie&#039;s, aka the Speedwell Bar, 165-167 Perth Road. Contact Rich Philp Tel: 01382-666129 Peter Clinch Tel: 01382 665322 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.07514,
-          53.28963
-        ]
-      },
-      "properties": {
-        "description": "Galway Meets: Wednesday 20:00 - players normally present from 19:30 Westwood House Hotel bar. Contact Richard Brennan"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.7981853871402,
-          56.340071512822
-        ]
-      },
-      "properties": {
-        "description": "St Andrews Meets: Tuesday 19:30-23:00 Aikman&#039;s Cellar Bar, 32 Bell Street. Contact Edwin Brady"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.4350939,
-          51.6243999
-        ]
-      },
-      "properties": {
-        "description": "Billericay Meets: Monday 19:30 in term-time 42 Mons Avenue, Billericay, Essex. Contact Guy Footring Tel: 01277 623305"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.711252,
-          52.0242571
-        ]
-      },
-      "properties": {
-        "description": "Milton Keynes Meets: Tuesday 12:15-13:15 The coffee bar in the Catering Hub, The Open University, Walton Hall. Contact Tim Hunt Tel: 07850 119939"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.178857120142765,
-          51.5558438026085
-        ]
-      },
-      "properties": {
-        "description": "London, North Meets: Tuesday 19:30 Allatson Room, Parish Church, Church Row, Hampstead. Contact Michael Webster"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.59758,
-          51.45624
-        ]
-      },
-      "properties": {
-        "description": "Bristol Meets: Wednesday 19:00 Bristol County Sports Club, 40 Colston Street, Bristol. Contact Luke Oram"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.21861448917604,
-          50.1019853
-        ]
-      },
-      "properties": {
-        "description": "West Cornwall Meets: Thursday 20:00 John Culmer&#039;s house, Rose-in-Vale, Gweek, Helston. Contact John Culmer Tel: 01326 573167"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.24886,
-          53.336883
-        ]
-      },
-      "properties": {
-        "description": "Dublin (Collegians Chess and Go Club) Meets: Monday about 20:30-21:00 until midnight most weeks The Baggot Inn, 135 Lower Baggot Street, Dublin 2</venue>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.288999,
-          55.871799
-        ]
-      },
-      "properties": {
-        "description": "Glasgow University Meets: Thursday 18:00 Gilchrist Postgraduate Club, University Avenue, University of Glasgow, G12 8QQ. Contact Seigfried Leher"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.3368138,
-          51.7500809
-        ]
-      },
-      "properties": {
-        "description": "St Albans Meets: Wednesday 20:00 until pub closing The Garibaldi, 61 Albert Street. Contact Secretary: Brian Ellis 01727 872575, Mike Cockburn 01727 834035"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.93305,
-          54.57933
-        ]
-      },
-      "properties": {
-        "description": "Belfast Meets: Thursday 18:30 86 Stranmillis Road. Contact James Hutchinson"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.7692317,
-          52.0384223
-        ]
-      },
-      "properties": {
-        "description": "Milton Keynes Meets: Tuesday 18:15 Wetherspoons, 201 Midsummer Boulevard. Contact Tim Hunt Tel: 07850 119939"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0282214,
-          51.5760603
-        ]
-      },
-      "properties": {
-        "description": "London, East Meets: Thursday 19:00 except August Wanstead House, 21 The Green, Wanstead. Contact Francis Roads Tel: 020 8505 4381"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.138665954407287,
-          52.1973774018734
-        ]
-      },
-      "properties": {
-        "description": "Cambridge City Meets: Sunday 17:30-20:00 . Contact Simon Mader"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.30736,
-          51.0578146
-        ]
-      },
-      "properties": {
-        "description": "Winchester Meets: Wednesday 19:30 The Black Boy Public House, 1 Wharf Hill, Bar End. Contact Mr John Tilley, The Old Cottage, Micheldever, Winchester, Hampshire SO21 3DF Tel: 07824-163776"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.24886,
-          53.336883
-        ]
-      },
-      "properties": {
-        "description": "Dublin (Collegians Chess and Go Club) Meets: Wednesday about 20:30-21:00 until midnight The Baggot Inn, 135 Lower Baggot Street, Dublin 2</venue>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1100581,
-          51.5178439
-        ]
-      },
-      "properties": {
-        "description": "London, Central Meets: Saturday 12:00-20:00 The Inn of Court pub, 18 Holborn. Contact Jonathan Turner Tel: 07968 538881 (mobile). Kiyohiko Tanaka Tel: 07956 594040 KGS: matta"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.1987678,
-          57.4044894
-        ]
-      },
-      "properties": {
-        "description": "Skye Meets: Tuesday 19:30 Givendale Guest House, Heron Place, Portree, Isle of Skye. Contact Carel Goodheir Tel: 01478 611763. Jurriaan Dijkman Tel: 01478 612183, 07554 434215 "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.93037,
-          54.57139
-        ]
-      },
-      "properties": {
-        "description": "Belfast Meets: Monday 19:00 Function Room, Belfast Boat Club, 12 Lockview Road. Contact James Hutchinson"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.8828779,
-          52.2446911
-        ]
-      },
-      "properties": {
-        "description": "Northampton Meets: Wednesday 19:00 Blackcurrent Centre, St Michaels Avenue, Abington, Northampton (www.blackcurrentcentre.org.uk). Contact Thomas Streamer 07926357826"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.5389319,
-          53.2341567
-        ]
-      },
-      "properties": {
-        "description": "Lincoln Meets: Monday 19:00-22:00 (1st Mon) The Wig and Mitre, Steep Hill. Contact Richard Leedham-Green"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.107533097928058,
-          52.2195568237466
-        ]
-      },
-      "properties": {
-        "description": "Cambridge Junior Chess and Go Meets: Wednesday 18:00-19:30 St Augustine&#039;s Church Hall, Richmond Road. Contact Paul Smith Tel: 01223 563932"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.7004613,
-          50.9387109
-        ]
-      },
-      "properties": {
-        "description": "Yeovil Meets: Thursday 19:45 Mason&#039;s Arms, 41 Lower Odcombe, Odcombe. Contact Julian Davies Tel: 01935 423046"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.49208,
-          51.896337
-        ]
-      },
-      "properties": {
-        "description": "Cork (UCC Weiqi Club) Meets: Sunday 20:00 Cork Cricket Club, Mardyke Walk</venue>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.2276028,
-          51.9776758
-        ]
-      },
-      "properties": {
-        "description": "Letchworth Go Club Meets: Thursday 20:00-22:30 during term-time Central Methodist Church, Norton Way South. Contact Alison Bexfield"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.48729028289892,
-          53.382744200046
-        ]
-      },
-      "properties": {
-        "description": "Sheffield University Go Society Meets: Tuesday 18:00-21:00 in term-time Student Union Gallery Eye room, Western Bank. Contact David Philpott"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.39513594148765,
-          51.3790174481156
-        ]
-      },
-      "properties": {
-        "description": "Bath Meets: Tuesday 19:30 Meets various places - check club web site.. Contact Paul Christie Tel: 01225 428995"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.21634470518728,
-          52.9265494728415
-        ]
-      },
-      "properties": {
-        "description": "Nottingham Meets: Wednesday 19:30-22:00 The Last Post, Chilwell Road, Beeston. Contact Brent Cutts Tel: 0115 959 2404"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2305961,
-          52.6291197
-        ]
-      },
-      "properties": {
-        "description": "Leicester Meets: Thursday 19:45 Stephen Bashforth&#039;s house, Mayfield, Station Road, Kirby Muxloe. Contact Toby Manning Tel: 01530 245298"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.103866856481811,
-          52.20529622534
-        ]
-      },
-      "properties": {
-        "description": "Cambridge University Meets: Monday 19:00-22:00 during University terms (possibly on hold this term) Linnett Room, Robinson College. Contact Sean Hao"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0822194,
-          53.9606907
-        ]
-      },
-      "properties": {
-        "description": "York Meets: Tuesdays 19:30 check on Twitter @yorkgoclub Moroccan Room, El Piano, 15 - 17 Grape Lane, York (www.el-piano.com). Contact Chris Maughan"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.8914201982706,
-          53.1886174371442
-        ]
-      },
-      "properties": {
-        "description": "Chester Meets: Wednesday 20:00 - players normally present from 19:30 Ye Olde Custom House Inn, 65-67 Watergate Street. Contact Tony Pitchford Tel: 01925 730583"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.45855,
-          52.83697
-        ]
-      },
-      "properties": {
-        "description": "Hinstock Meets: By arrangement . Contact Roger Huyshe Tel: 01952 550361 for details of local players"
       }
     },
     {
@@ -4152,12 +3505,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.331331781603036,
+          51.4419936807984
+        ]
+      },
+      "properties": {
+        "description": "London, Twickenham Meets: Wednesday 19:30 The Alexander Pope Hotel, Cross Deep, Twickenham, West London. Contact Colin Maclennan Tel: 020 8941 1607"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.05362,
           52.72095
         ]
       },
       "properties": {
         "description": "Barmouth Meets: By arrangement . Contact Baron Allday Tel: 01341 280365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.45855,
+          52.83697
+        ]
+      },
+      "properties": {
+        "description": "Hinstock Meets: By arrangement . Contact Roger Huyshe Tel: 01952 550361 for details of local players"
       }
     },
     {
@@ -4178,12 +3557,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.91064765766123,
+          52.4782216474506
+        ]
+      },
+      "properties": {
+        "description": "Birmingham Meets: Sunday 14:00 Starbucks cafe in the International Convention Centre (ICC). Contact Andrew Russell http://www.brumgo.co.uk/ "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6051602,
           52.2457926
         ]
       },
       "properties": {
         "description": "Leamington Meets: Thursday 19:30, not Easter Thursday 22 Keytes Lane, Barford, Warwickshire. Contact Matthew Macfadyen Tel: 01926 624445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9576637,
+          51.6152447
+        ]
+      },
+      "properties": {
+        "description": "Swansea Meets: By arrangement The Mill Pub, 75 Brynymor Road. Contact Dylan Carter"
       }
     },
     {
@@ -4204,12 +3609,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.5603331,
+          52.3787168
+        ]
+      },
+      "properties": {
+        "description": "Warwick University Meets: Wednesday 17:00-20:00 during University term Room B2.03 on campus (see website for directions). Contact Philip Leung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5303122,
+          50.7208506
+        ]
+      },
+      "properties": {
+        "description": "Exeter Meets: Monday 19:00 White Hart Inn, South Street. Contact David Storkey Tel: 01392 461182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8914201982706,
+          53.1886174371442
+        ]
+      },
+      "properties": {
+        "description": "Chester Meets: Wednesday 20:00 - players normally present from 19:30 Ye Olde Custom House Inn, 65-67 Watergate Street. Contact Tony Pitchford Tel: 01925 730583"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.0534877,
           53.9485036
         ]
       },
       "properties": {
         "description": "York University Meets: Tuesday 18.00 - 21.00 V Bar, Vanburgh College, University of York, Heslington. Contact Leonardo Sandoval"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9931106,
+          56.456211
+        ]
+      },
+      "properties": {
+        "description": "Dundee Meets: Monday from 20:00 during University terms Mennie&#039;s, aka the Speedwell Bar, 165-167 Perth Road. Contact Rich Philp Tel: 01382-666129 Peter Clinch Tel: 01382 665322 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.579723,
+          54.7600027
+        ]
+      },
+      "properties": {
+        "description": "Durham Meets: Monday 20:00-22:00 during term time The Bar, Ustinov College, Howlands Farm. Contact Andrew Ambrose-Thurman"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0822194,
+          53.9606907
+        ]
+      },
+      "properties": {
+        "description": "York Meets: Tuesdays 19:30 check on Twitter @yorkgoclub Moroccan Room, El Piano, 15 - 17 Grape Lane, York (www.el-piano.com). Contact Chris Maughan"
       }
     },
     {
@@ -4230,12 +3713,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -9.07514,
+          53.28963
+        ]
+      },
+      "properties": {
+        "description": "Galway Meets: Wednesday 20:00 - players normally present from 19:30 Westwood House Hotel bar. Contact Richard Brennan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2583921,
+          51.19504
+        ]
+      },
+      "properties": {
+        "description": "Tonbridge Meets: Tuesday 19:30 4 Ives Road. Contact Michael Pickles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.103866856481811,
+          52.20529622534
+        ]
+      },
+      "properties": {
+        "description": "Cambridge University Meets: Monday 19:00-22:00 during University terms (possibly on hold this term) Linnett Room, Robinson College. Contact Sean Hao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.79297358349193,
           54.0466159409838
         ]
       },
       "properties": {
         "description": "Lancaster Meets: Wednesday 20:00 - players normally present from 19:30 Gregson Community Centre, 33 Moorgate. Contact Adrian Abrahams Tel: 01524 34656"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7981853871402,
+          56.340071512822
+        ]
+      },
+      "properties": {
+        "description": "St Andrews Meets: Tuesday 19:30-23:00 Aikman&#039;s Cellar Bar, 32 Bell Street. Contact Edwin Brady"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7748336,
+          53.8344245
+        ]
+      },
+      "properties": {
+        "description": "Bradford Meets: Wednesday 19:30 The Noble Comb, Quayside, Salts Mill Road, Shipley. Contact Ewen Pearson Tel: 01274 598980"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2305961,
+          52.6291197
+        ]
+      },
+      "properties": {
+        "description": "Leicester Meets: Thursday 19:45 Stephen Bashforth&#039;s house, Mayfield, Station Road, Kirby Muxloe. Contact Toby Manning Tel: 01530 245298"
       }
     },
     {
@@ -4256,12 +3817,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.4350939,
+          51.6243999
+        ]
+      },
+      "properties": {
+        "description": "Billericay Meets: Monday 19:30 in term-time 42 Mons Avenue, Billericay, Essex. Contact Guy Footring Tel: 01277 623305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.227139856293309,
+          51.5019641424903
+        ]
+      },
+      "properties": {
+        "description": "London, West Meets: Wednesday 19:00 Young Chelsea Bridge Club, 54 Goldhawk Road. Contact Gerry Gavigan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.21634470518728,
+          52.9265494728415
+        ]
+      },
+      "properties": {
+        "description": "Nottingham Meets: Wednesday 19:30-22:00 The Last Post, Chilwell Road, Beeston. Contact Brent Cutts Tel: 0115 959 2404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.5576355,
           50.8534235
         ]
       },
       "properties": {
         "description": "Arundel Meets: Sunday - last in month, but please ring first to confirm 1 Town Quay, River Rd, Arundel, West Sussex. Contact Sue Paterson Tel: 07549 898376"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.711252,
+          52.0242571
+        ]
+      },
+      "properties": {
+        "description": "Milton Keynes Meets: Tuesday 12:15-13:15 The coffee bar in the Catering Hub, The Open University, Walton Hall. Contact Tim Hunt Tel: 07850 119939"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.218773,
+          50.198643
+        ]
+      },
+      "properties": {
+        "description": "Mid-Cornwall Meets: Tuesday 20:00 Penhalurick Barton, Penhalvean, Redruth, Cornwall TR16 6TG. Contact Paul Massey Tel: 07966 474686"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.39513594148765,
+          51.3790174481156
+        ]
+      },
+      "properties": {
+        "description": "Bath Meets: Tuesday 19:30 Meets various places - check club web site.. Contact Paul Christie Tel: 01225 428995"
       }
     },
     {
@@ -4282,12 +3921,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.178857120142765,
+          51.5558438026085
+        ]
+      },
+      "properties": {
+        "description": "London, North Meets: Tuesday 19:30 Allatson Room, Parish Church, Church Row, Hampstead. Contact Michael Webster"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7274482,
+          55.606769
+        ]
+      },
+      "properties": {
+        "description": "Borders Meets: By arrangement Greenwells, Gattonside near Melrose and Galashiels. Contact Ron Bell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.48729028289892,
+          53.382744200046
+        ]
+      },
+      "properties": {
+        "description": "Sheffield University Go Society Meets: Tuesday 18:00-21:00 in term-time Student Union Gallery Eye room, Western Bank. Contact David Philpott"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.46697,
           54.19823
         ]
       },
       "properties": {
         "description": "Isle of Man Meets: Sunday 20:00 Phone for details. Contact David Phillips, 4 Ivydene Ave, Onchan IM3 3HD Tel: 01624 612294, 07624 473688"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.59758,
+          51.45624
+        ]
+      },
+      "properties": {
+        "description": "Bristol Meets: Wednesday 19:00 Bristol County Sports Club, 40 Colston Street, Bristol. Contact Luke Oram"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2646228,
+          51.3338915
+        ]
+      },
+      "properties": {
+        "description": "Epsom Meets: Occasionally Epsom. Contact Matthew via mobile: 07752 - 301 096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2276028,
+          51.9776758
+        ]
+      },
+      "properties": {
+        "description": "Letchworth Go Club Meets: Thursday 20:00-22:30 during term-time Central Methodist Church, Norton Way South. Contact Alison Bexfield"
       }
     },
     {
@@ -4308,12 +4025,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -5.21861448917604,
+          50.1019853
+        ]
+      },
+      "properties": {
+        "description": "West Cornwall Meets: Thursday 20:00 John Culmer&#039;s house, Rose-in-Vale, Gweek, Helston. Contact John Culmer Tel: 01326 573167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.27639,
+          54.56458
+        ]
+      },
+      "properties": {
+        "description": "Teesside Meets: Meets by arrangement . Contact Matthew Holton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.49208,
+          51.896337
+        ]
+      },
+      "properties": {
+        "description": "Cork (UCC Weiqi Club) Meets: Sunday 20:00 Cork Cricket Club, Mardyke Walk</venue>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.5577702,
           53.8048979
         ]
       },
       "properties": {
         "description": "Leeds University Meets: Tuesday 17:30-20:30 The Faversham, 1-5 Springfield Mount, Leeds. Contact Jitse Niesen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.24886,
+          53.336883
+        ]
+      },
+      "properties": {
+        "description": "Dublin (Collegians Chess and Go Club) Meets: Monday about 20:30-21:00 until midnight most weeks The Baggot Inn, 135 Lower Baggot Street, Dublin 2</venue>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7343283,
+          51.5219319
+        ]
+      },
+      "properties": {
+        "description": "Maidenhead Meets: Friday 20:00 . Contact Iain Atwell, Norhurst, Westmorland Rd, Maidenhead, SL6 4HB Tel: 01628 676792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7004613,
+          50.9387109
+        ]
+      },
+      "properties": {
+        "description": "Yeovil Meets: Thursday 19:45 Mason&#039;s Arms, 41 Lower Odcombe, Odcombe. Contact Julian Davies Tel: 01935 423046"
       }
     },
     {
@@ -4334,12 +4129,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.288999,
+          55.871799
+        ]
+      },
+      "properties": {
+        "description": "Glasgow University Meets: Thursday 18:00 Gilchrist Postgraduate Club, University Avenue, University of Glasgow, G12 8QQ. Contact Seigfried Leher"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.07656,
+          51.89862
+        ]
+      },
+      "properties": {
+        "description": "Cheltenham Meets: Wednesday 19:30 . Contact Adam Watts Tel: 07403 475573"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.107533097928058,
+          52.2195568237466
+        ]
+      },
+      "properties": {
+        "description": "Cambridge Junior Chess and Go Meets: Wednesday 18:00-19:30 St Augustine&#039;s Church Hall, Richmond Road. Contact Paul Smith Tel: 01223 563932"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.348889686595133,
           53.7639521608161
         ]
       },
       "properties": {
         "description": "Hull Meets: Thursday 20:00 12 Fitzroy St, Beverley Rd. Contact Mark Collinson Tel: 01482 341179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3368138,
+          51.7500809
+        ]
+      },
+      "properties": {
+        "description": "St Albans Meets: Wednesday 20:00 until pub closing The Garibaldi, 61 Albert Street. Contact Secretary: Brian Ellis 01727 872575, Mike Cockburn 01727 834035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.83492588,
+          51.55013431
+        ]
+      },
+      "properties": {
+        "description": "Swindon Meets: Wednesday 19:30 Windmill Pub, Freshbrook Village Centre, Worsley Road. Contact David King, 21 Windsor Rd, Swindon Tel: 01793 521625"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5389319,
+          53.2341567
+        ]
+      },
+      "properties": {
+        "description": "Lincoln Meets: Monday 19:00-22:00 (1st Mon) The Wig and Mitre, Steep Hill. Contact Richard Leedham-Green"
       }
     },
     {
@@ -4360,12 +4233,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.8828779,
+          52.2446911
+        ]
+      },
+      "properties": {
+        "description": "Northampton Meets: Wednesday 19:00 Blackcurrent Centre, St Michaels Avenue, Abington, Northampton (www.blackcurrentcentre.org.uk). Contact Thomas Streamer 07926357826"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.78095942978267,
+          51.5565506239891
+        ]
+      },
+      "properties": {
+        "description": "Swindon Meets: Sunday evening The Beehive, Prospect Hill. Contact David King, 21 Windsor Rd, Swindon Tel: 01793 521625"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.93037,
+          54.57139
+        ]
+      },
+      "properties": {
+        "description": "Belfast Meets: Monday 19:00 Function Room, Belfast Boat Club, 12 Lockview Road. Contact James Hutchinson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.20868784881105,
           51.4844325584186
         ]
       },
       "properties": {
         "description": "Cardiff Meets: Tuesday 19:00-23:30 Cafe area of Chapter Arts Centre, Market Road, Cardiff. Contact Dylan Carter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1987678,
+          57.4044894
+        ]
+      },
+      "properties": {
+        "description": "Skye Meets: Tuesday 19:30 Givendale Guest House, Heron Place, Portree, Isle of Skye. Contact Carel Goodheir Tel: 01478 611763. Jurriaan Dijkman Tel: 01478 612183, 07554 434215 "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2398008,
+          53.4805574
+        ]
+      },
+      "properties": {
+        "description": "Manchester Meets: Thursday 19:45 The Shakespeare pub, 16 Fountain Street. Contact Chris Kirkham Tel: 0161 903 9023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1100581,
+          51.5178439
+        ]
+      },
+      "properties": {
+        "description": "London, Central Meets: Saturday 12:00-20:00 The Inn of Court pub, 18 Holborn. Contact Jonathan Turner Tel: 07968 538881 (mobile). Kiyohiko Tanaka Tel: 07956 594040 KGS: matta"
       }
     },
     {
@@ -4386,12 +4337,143 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -5.93305,
+          54.57933
+        ]
+      },
+      "properties": {
+        "description": "Belfast Meets: Thursday 18:30 86 Stranmillis Road. Contact James Hutchinson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.758857195357585,
+          51.4060111
+        ]
+      },
+      "properties": {
+        "description": "Bracknell Meets: Tuesday 20:00 meets by arrangement only The Green Man, Crowthorne Road. Contact Ian Marsh Tel: 01344 422296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.30736,
+          51.0578146
+        ]
+      },
+      "properties": {
+        "description": "Winchester Meets: Wednesday 19:30 The Black Boy Public House, 1 Wharf Hill, Bar End. Contact Mr John Tilley, The Old Cottage, Micheldever, Winchester, Hampshire SO21 3DF Tel: 07824-163776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.87724721565716,
           50.7488004472072
         ]
       },
       "properties": {
         "description": "Bournemouth Meets: Tuesday 20:00 24 Cowper Road, Moordown. Contact Marcus Bennett Tel: 01202 512655"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.138665954407287,
+          52.1973774018734
+        ]
+      },
+      "properties": {
+        "description": "Cambridge City Meets: Sunday 17:30-20:00 . Contact Simon Mader"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.58450460919879,
+          54.7754614303746
+        ]
+      },
+      "properties": {
+        "description": "Durham Meets: Thursday 20:00-22:00 during term-time The Elm Tree pub, Crossgate. Contact Andrew Ambrose-Thurman"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0282214,
+          51.5760603
+        ]
+      },
+      "properties": {
+        "description": "London, East Meets: Thursday 19:00 except August Wanstead House, 21 The Green, Wanstead. Contact Francis Roads Tel: 020 8505 4381"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.24886,
+          53.336883
+        ]
+      },
+      "properties": {
+        "description": "Dublin (Collegians Chess and Go Club) Meets: Wednesday about 20:30-21:00 until midnight The Baggot Inn, 135 Lower Baggot Street, Dublin 2</venue>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7692317,
+          52.0384223
+        ]
+      },
+      "properties": {
+        "description": "Milton Keynes Meets: Tuesday 18:15 Wetherspoons, 201 Midsummer Boulevard. Contact Tim Hunt Tel: 07850 119939"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.247745,
+          50.228835
+        ]
+      },
+      "properties": {
+        "description": "Mid-Cornwall Meets: Friday 13:00 - 14:00 Bluefruit Software, Gateway Business Centre, Barncoose, Redruth, Cornwall TR15 3RQ. Contact Paul Massey Tel: 07966 474686"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.146608114242554,
+          45.79073389839405
+        ]
+      },
+      "properties": {
+        "name": "Asociatia Confucius Go Club Sibiu",
+        "description": "Meetings every Thursday at 5 pm. Come and have fun. :o)"
       }
     },
     {
@@ -6564,34 +6646,6 @@
         "_storage_options": {
           "iconClass": "Ball"
         }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.04350638389587,
-          4.688976997750929
-        ]
-      },
-      "properties": {
-        "description": "Calle 106, número 13-33\nSábados tarde\nContactar con Federico Pareja\nhttps://www.facebook.com/Asociación-Colombiana-de-Go-266936886710738/",
-        "name": "Go Bogota"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.56307435035706,
-          6.2557115321450585
-        ]
-      },
-      "properties": {
-        "description": "Carrera 49 Nº 58-44, Barrio Prado Centro\nDomingos a partir de las 2:00 pm\nContactar con Juan Carlos Pachón\nhttps://www.facebook.com/Asociación-Colombiana-de-Go-266936886710738/",
-        "name": "Go Medellin"
       }
     }
   ]
