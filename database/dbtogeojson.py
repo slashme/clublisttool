@@ -17,6 +17,6 @@ for layer in result:
   result = c.fetchall()
   features=[]
   for row in result:
-      features.append({'geometry': {'type': 'Point', 'coordinates': [row[6],row[5]]}, 'layer': layer[0], 'type': 'Feature', 'properties': {'description': ', '.join(filter(None,row[1:5])), 'name': row[0]}})
+      features.append({'geometry': {'type': 'Point', 'coordinates': [row[6],row[5]]}, 'layer': layer[0], 'type': 'Feature', 'properties': {'description': ' , '.join(filter(None,row[1:5])), 'name': row[0]}})
   result={'type': 'FeatureCollection', 'features': features}
   json.dump(result, outfile, indent=2, ensure_ascii=False)
