@@ -12,7 +12,7 @@
       "layer": "CO", 
       "type": "Feature", 
       "properties": {
-        "description": "https://www.facebook.com/Asociación-Colombiana-de-Go-266936886710738/, Carrera 49 Nº 58-44, Barrio Prado Centro, Domingos a partir de las 14:00, Juan Carlos Pachó", 
+        "description": "https://www.facebook.com/Asociación-Colombiana-de-Go-266936886710738/ , Carrera 49 Nº 58-44, Barrio Prado Centro , Domingos a partir de las 14:00 , Juan Carlos Pachó", 
         "name": "Go Medellin"
       }
     }, 
@@ -27,7 +27,7 @@
       "layer": "CO", 
       "type": "Feature", 
       "properties": {
-        "description": "https://www.facebook.com/Asociación-Colombiana-de-Go-266936886710738/, Calle 106, número 13-33, Sábados tarde, Federico Pareja", 
+        "description": "https://www.facebook.com/Asociación-Colombiana-de-Go-266936886710738/ , Calle 106, número 13-33 , Sábados tarde , Federico Pareja", 
         "name": "Go Bogota"
       }
     }

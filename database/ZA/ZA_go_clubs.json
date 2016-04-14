@@ -72,7 +72,7 @@
       "layer": "ZA", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.sagoclubs.co.za/other-clubs/, There are no clubs in the Eastern Cape. However, anyone there interested in the game can contact William Mapham <william.mapham@gmail.com> or Patrick Lee <alobar@telkomsa.net>", 
+        "description": "http://www.sagoclubs.co.za/other-clubs/ , There are no clubs in the Eastern Cape. However, anyone there interested in the game can contact William Mapham <william.mapham@gmail.com> or Patrick Lee <alobar@telkomsa.net>", 
         "name": "Port Elizabeth"
       }
     }, 
@@ -87,7 +87,7 @@
       "layer": "ZA", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.sagoclubs.co.za/pretoria-club/, Outer Limits Comic and Games shop in Hatfield Square (near News Cafe), Wednesday evenings, Brett Wilson (072 099 9943) or John Leuner (076 226 9975)", 
+        "description": "http://www.sagoclubs.co.za/pretoria-club/ , Outer Limits Comic and Games shop in Hatfield Square (near News Cafe) , Wednesday evenings , Brett Wilson (072 099 9943) or John Leuner (076 226 9975)", 
         "name": "Pretoria Go Club"
       }
     }, 
@@ -102,7 +102,7 @@
       "layer": "ZA", 
       "type": "Feature", 
       "properties": {
-        "description": "House of Coffees in Clearwater Mall, Start 19h00 on Wednesdays, Pablo Casado (e-mail: phmcasado !@! gmail [d-o-t] com)", 
+        "description": "House of Coffees in Clearwater Mall , Start 19h00 on Wednesdays , Pablo Casado (e-mail: phmcasado !@! gmail [d-o-t] com)", 
         "name": "Pretoria Clearwater"
       }
     }, 
@@ -117,7 +117,7 @@
       "layer": "ZA", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.sagoclubs.co.za/soweto-club/, Sipho Mampe: 084 7888 177", 
+        "description": "http://www.sagoclubs.co.za/soweto-club/ , Sipho Mampe: 084 7888 177", 
         "name": "Soweto"
       }
     }, 
@@ -132,7 +132,7 @@
       "layer": "ZA", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.sagoclubs.co.za/stellenbosch-club/, Recently (2015) some of us have been playing at The Guild campus board-gaming society., Gordon Wells", 
+        "description": "http://www.sagoclubs.co.za/stellenbosch-club/ , Recently (2015) some of us have been playing at The Guild campus board-gaming society. , Gordon Wells", 
         "name": "Stellenbosch"
       }
     }, 
@@ -147,7 +147,7 @@
       "layer": "ZA", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.sagoclubs.co.za/uj-club/, Mondays: C-Les 305, 13:00-14:00 Wednesdays: D-Les 411, Mon, Wed: 13:00-14:00", 
+        "description": "http://www.sagoclubs.co.za/uj-club/ , Mondays: C-Les 305, 13:00-14:00 Wednesdays: D-Les 411 , Mon, Wed: 13:00-14:00", 
         "name": "UJ"
       }
     }

@@ -12,7 +12,7 @@
       "layer": "US", 
       "type": "Feature", 
       "properties": {
-        "description": "Bob's Java Hut, 2651 Lyndale Ave S, Minneapolis, MN 55408, Mondays, 18:00-23:00, 612-871-4485", 
+        "description": "Bob's Java Hut, 2651 Lyndale Ave S, Minneapolis, MN 55408 , Mondays, 18:00-23:00 , 612-871-4485", 
         "name": "Twin Cities Go Club (Monday)"
       }
     }, 
@@ -27,7 +27,7 @@
       "layer": "US", 
       "type": "Feature", 
       "properties": {
-        "description": "Hard Times Cafe, 1821 Riverside Avenue, Minneapolis, MN 55454-1034, Thursdays 18:30-22:00", 
+        "description": "Hard Times Cafe, 1821 Riverside Avenue, Minneapolis, MN 55454-1034 , Thursdays 18:30-22:00", 
         "name": "Twin Cities Go Club (Thursday)"
       }
     }, 
@@ -42,7 +42,7 @@
       "layer": "US", 
       "type": "Feature", 
       "properties": {
-        "description": "Coffee Bene, 53 Cleveland Avenue South, Saint Paul, MN 55105, Saturdays, 13:00-17:00, 651-698-2266", 
+        "description": "Coffee Bene, 53 Cleveland Avenue South, Saint Paul, MN 55105 , Saturdays, 13:00-17:00 , 651-698-2266", 
         "name": "Twin Cities Go Club (Saturday)"
       }
     }, 
@@ -87,7 +87,7 @@
       "layer": "US", 
       "type": "Feature", 
       "properties": {
-        "description": "https://www.facebook.com/tampagoclub/ - http://www.meetup.com/Tampa-Bay-Go-Baduk-Players/ , Saturdays", 
+        "description": "https://www.facebook.com/tampagoclub/ - http://www.meetup.com/Tampa-Bay-Go-Baduk-Players/  , Saturdays", 
         "name": "Tampa Go Club"
       }
     }, 
@@ -102,7 +102,7 @@
       "layer": "US", 
       "type": "Feature", 
       "properties": {
-        "description": "Musser Room (we share with the Chess Club), every Saturday 14:00, schlowgo@gmail.com", 
+        "description": "Musser Room (we share with the Chess Club) , every Saturday 14:00 , schlowgo@gmail.com", 
         "name": "Schlow Library Go Club"
       }
     }

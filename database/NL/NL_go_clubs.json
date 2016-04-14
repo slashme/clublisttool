@@ -12,7 +12,7 @@
       "layer": "NL", 
       "type": "Feature", 
       "properties": {
-        "description": "https://gobond.nl/node/2734, Cafe Pelt, Heerlen, Woensdag, vanaf 20.30, Robbert van Sluijs 0455726757", 
+        "description": "https://gobond.nl/node/2734 , Cafe Pelt, Heerlen , Woensdag, vanaf 20.30 , Robbert van Sluijs 0455726757", 
         "name": "Heerlen"
       }
     }, 
@@ -27,7 +27,7 @@
       "layer": "NL", 
       "type": "Feature", 
       "properties": {
-        "description": "https://gobond.nl/node/2741, Almere Buurtcentrum \"de Wieken\" , Wo: 19:00-20:00 jeugd; 20:00-23:00 volwassenen, Rob van Fucht contactpersoon & website beheerder 06-34318824", 
+        "description": "https://gobond.nl/node/2741 , Almere Buurtcentrum \"de Wieken\"  , Wo: 19:00-20:00 jeugd; 20:00-23:00 volwassenen , Rob van Fucht contactpersoon & website beheerder 06-34318824", 
         "name": "Almere"
       }
     }, 
@@ -42,7 +42,7 @@
       "layer": "NL", 
       "type": "Feature", 
       "properties": {
-        "description": "https://gobond.nl/node/2742, Wijkvereniging de Oude Wereld, Oude Wereld 57, Dinsdag 19:45", 
+        "description": "https://gobond.nl/node/2742 , Wijkvereniging de Oude Wereld, Oude Wereld 57 , Dinsdag 19:45", 
         "name": "Alphen aan den Rijn"
       }
     }, 
@@ -57,7 +57,7 @@
       "layer": "NL", 
       "type": "Feature", 
       "properties": {
-        "description": "https://gobond.nl/node/2744, Amstelveen EGCC, Schokland 14, Dinsdag 19:45", 
+        "description": "https://gobond.nl/node/2744 , Amstelveen EGCC, Schokland 14 , Dinsdag 19:45", 
         "name": "De Twee Ogen"
       }
     }, 
@@ -72,7 +72,7 @@
       "layer": "NL", 
       "type": "Feature", 
       "properties": {
-        "description": "https://gobond.nl/node/2745, Café Batavia 1920 tegenover het Centraal Station. Adres: Prins Hendrikkade 85, 1012 AE, Iedere woensdag avond vanaf 20:30, voorzitter@goinamsterdam.nl", 
+        "description": "https://gobond.nl/node/2745 , Café Batavia 1920 tegenover het Centraal Station. Adres: Prins Hendrikkade 85, 1012 AE , Iedere woensdag avond vanaf 20:30 , voorzitter@goinamsterdam.nl", 
         "name": "Amsterdamse Go Club"
       }
     }, 
@@ -87,7 +87,7 @@
       "layer": "NL", 
       "type": "Feature", 
       "properties": {
-        "description": "https://gobond.nl/node/2746, Denksportcentrum Apeldoorn, Dubbelbeek 24, woensdag 20:00, Marten Ubbink apeldoorn@gobond.nl", 
+        "description": "https://gobond.nl/node/2746 , Denksportcentrum Apeldoorn, Dubbelbeek 24 , woensdag 20:00 , Marten Ubbink apeldoorn@gobond.nl", 
         "name": "Nobe No Shinju"
       }
     }, 
@@ -102,7 +102,7 @@
       "layer": "NL", 
       "type": "Feature", 
       "properties": {
-        "description": "https://gobond.nl/node/2747, Restaurant Op de Haven, Helling 7, 4101 AE, Laatste zondag van de maand: 13:00-16:00, Rob Friederichs 06-39783298 culemborg@gobond.nl", 
+        "description": "https://gobond.nl/node/2747 , Restaurant Op de Haven, Helling 7, 4101 AE , Laatste zondag van de maand: 13:00-16:00 , Rob Friederichs 06-39783298 culemborg@gobond.nl", 
         "name": "GC Betuwe"
       }
     }, 
@@ -117,7 +117,7 @@
       "layer": "NL", 
       "type": "Feature", 
       "properties": {
-        "description": "https://gobond.nl/club/go-club-betuwe, Nanne van der Zijpp, Elisabethdreef 5, 4101 KN Culemborg, Tweede woensdag van de maand: 19:30-23:00 uur, Rob Friederichs 06-39783298 culemborg@gobond.nl", 
+        "description": "https://gobond.nl/club/go-club-betuwe , Nanne van der Zijpp, Elisabethdreef 5, 4101 KN Culemborg , Tweede woensdag van de maand: 19:30-23:00 uur , Rob Friederichs 06-39783298 culemborg@gobond.nl", 
         "name": "GC Betuwe"
       }
     }, 
@@ -132,7 +132,7 @@
       "layer": "NL", 
       "type": "Feature", 
       "properties": {
-        "description": "www.goclub-denbosch.nl, Volkstuinvereniging Pastoor Barten, De Herven 70, 5232 NJ ’s-Hertogenbosch, Dinsdagavond, vanaf 20:00 uur, Don Verheijen Voorzitter; Sybo Bruinsma Secretaris denbosch@gobond.nl", 
+        "description": "www.goclub-denbosch.nl , Volkstuinvereniging Pastoor Barten, De Herven 70, 5232 NJ ’s-Hertogenbosch , Dinsdagavond, vanaf 20:00 uur , Don Verheijen Voorzitter; Sybo Bruinsma Secretaris denbosch@gobond.nl", 
         "name": "Goclub Den Bosch"
       }
     }, 
@@ -147,7 +147,7 @@
       "layer": "NL", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.goclubseki.nl, Wijkcentrum Essesteijn, Elzendreef 10, woensdag 19:45, Ming Au voorzitter 0615322616", 
+        "description": "http://www.goclubseki.nl , Wijkcentrum Essesteijn, Elzendreef 10 , woensdag 19:45 , Ming Au voorzitter 0615322616", 
         "name": "GC Seki"
       }
     }, 
@@ -162,7 +162,7 @@
       "layer": "NL", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.goclubsalland.nl/, buurthuis De Fermerie aan het Muggeplein 9 in de binnenstad van Deventer, donderdagavond vanaf 20.00, Gerard Bouwman secretaris 06-83080349", 
+        "description": "http://www.goclubsalland.nl/ , buurthuis De Fermerie aan het Muggeplein 9 in de binnenstad van Deventer , donderdagavond vanaf 20.00 , Gerard Bouwman secretaris 06-83080349", 
         "name": "Go Club Salland"
       }
     }, 
@@ -177,7 +177,7 @@
       "layer": "NL", 
       "type": "Feature", 
       "properties": {
-        "description": "http://eindhoven.gobond.nl/, ontmoetingscentrum 't Bellefort - Iepenlaan 40-42, maandagavond vanaf 19:30, Nicole de Beer voorzitter", 
+        "description": "http://eindhoven.gobond.nl/ , ontmoetingscentrum 't Bellefort - Iepenlaan 40-42 , maandagavond vanaf 19:30 , Nicole de Beer voorzitter", 
         "name": "Eindhovense GC"
       }
     }, 
@@ -192,7 +192,7 @@
       "layer": "NL", 
       "type": "Feature", 
       "properties": {
-        "description": "http://eindhoven.gobond.nl/, The Trafalgar Pub - Dommelstraat 21, donderdagavond vanaf 20:00, Nicole de Beer voorzitter", 
+        "description": "http://eindhoven.gobond.nl/ , The Trafalgar Pub - Dommelstraat 21 , donderdagavond vanaf 20:00 , Nicole de Beer voorzitter", 
         "name": "Eindhovense GC"
       }
     }, 
@@ -207,7 +207,7 @@
       "layer": "NL", 
       "type": "Feature", 
       "properties": {
-        "description": "https://gobond.nl/node/2754, De Hoog Biljart- en Bridgecentrum, Nieuwe Gouwe Oostzijde 11b, Dinsdag 19:45, gouda@gobond.nl", 
+        "description": "https://gobond.nl/node/2754 , De Hoog Biljart- en Bridgecentrum, Nieuwe Gouwe Oostzijde 11b , Dinsdag 19:45 , gouda@gobond.nl", 
         "name": "GC GoGo"
       }
     }, 
@@ -222,7 +222,7 @@
       "layer": "NL", 
       "type": "Feature", 
       "properties": {
-        "description": "https://gobond.nl/node/2755, Café \"Wolthoorn & Co\", Turftorenstraat 6, maandag 20:00, Siu Hong Chung voorzitter 06-52664744", 
+        "description": "https://gobond.nl/node/2755 , Café \"Wolthoorn & Co\", Turftorenstraat 6 , maandag 20:00 , Siu Hong Chung voorzitter 06-52664744", 
         "name": "Groningen"
       }
     }, 
@@ -237,7 +237,7 @@
       "layer": "NL", 
       "type": "Feature", 
       "properties": {
-        "description": "https://gobond.nl/node/2758, Denksportcentrum Leiden, Robijnstraat 4, donderdag 19:45", 
+        "description": "https://gobond.nl/node/2758 , Denksportcentrum Leiden, Robijnstraat 4 , donderdag 19:45", 
         "name": "GC Leiden"
       }
     }, 
@@ -252,7 +252,7 @@
       "layer": "NL", 
       "type": "Feature", 
       "properties": {
-        "description": "https://gobond.nl/node/2759, Wijkcentrum Daalsehof 2, achter Daalseweg 113, Maandag 20:00, nijmegen@gobond.nl", 
+        "description": "https://gobond.nl/node/2759 , Wijkcentrum Daalsehof 2, achter Daalseweg 113 , Maandag 20:00 , nijmegen@gobond.nl", 
         "name": "Nijmeegse Go Club"
       }
     }, 
@@ -267,7 +267,7 @@
       "layer": "NL", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.goclubutrecht.nl/, NDC Den Hommel, Kennedylaan 9, maandag 19:30, Douwe van der Veen secretaris 06-52243622", 
+        "description": "http://www.goclubutrecht.nl/ , NDC Den Hommel, Kennedylaan 9 , maandag 19:30 , Douwe van der Veen secretaris 06-52243622", 
         "name": "Utrechtse goclub"
       }
     }, 
@@ -282,7 +282,7 @@
       "layer": "NL", 
       "type": "Feature", 
       "properties": {
-        "description": "https://gobond.nl/node/2762, Huiskamerpatio van Rob Groeneveld, Scharounlijn 14, Zoetermeer, Dinsdag 19:45", 
+        "description": "https://gobond.nl/node/2762 , Huiskamerpatio van Rob Groeneveld, Scharounlijn 14, Zoetermeer , Dinsdag 19:45", 
         "name": "GC Amai Mizuumi"
       }
     }, 
@@ -297,7 +297,7 @@
       "layer": "NL", 
       "type": "Feature", 
       "properties": {
-        "description": "https://gobond.nl/node/2763, Café de Singel, Groot Weezenland 4, woensdag 20:00", 
+        "description": "https://gobond.nl/node/2763 , Café de Singel, Groot Weezenland 4 , woensdag 20:00", 
         "name": "Zwolle"
       }
     }, 
@@ -312,7 +312,7 @@
       "layer": "NL", 
       "type": "Feature", 
       "properties": {
-        "description": "https://gobond.nl/node/3020, De Graaf van Gelre; centrum Harderwijk, Woensdagavond vanaf 20.00, Sander den Oudsten 06 4224 0945", 
+        "description": "https://gobond.nl/node/3020 , De Graaf van Gelre; centrum Harderwijk , Woensdagavond vanaf 20.00 , Sander den Oudsten 06 4224 0945", 
         "name": "Go Club Harderwijk"
       }
     }

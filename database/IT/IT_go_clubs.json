@@ -27,7 +27,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Cuneo, Andrea Partiti Kgs: kaiou", 
+        "description": "Cuneo , Andrea Partiti Kgs: kaiou", 
         "name": "Cuneo"
       }
     }, 
@@ -42,7 +42,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.facebook.com/pages/Torino-Italy/I-Nodi-di-Bambu-Go-Club-Torino/63509963870, Via Roero di Cortanze, 2C - presso il BENE COSI’ Cafè, Martedì dalle 19.30 alle 23.30; Sabato dalle 14.30 alle 18.30, Ronnie Pizzo - ronniepizzo@gmail.com", 
+        "description": "http://www.facebook.com/pages/Torino-Italy/I-Nodi-di-Bambu-Go-Club-Torino/63509963870 , Via Roero di Cortanze, 2C - presso il BENE COSI’ Cafè , Martedì dalle 19.30 alle 23.30; Sabato dalle 14.30 alle 18.30 , Ronnie Pizzo - ronniepizzo@gmail.com", 
         "name": "Torino"
       }
     }, 
@@ -57,7 +57,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "http://games.groups.yahoo.com/group/GoGenova/, Via Boccardo, 5r presso la Birreria HB Hofbräuhaus, Giovedì e Domenica dalle 20:30 in poi, Carlo Bevegni - carlobevegni@libero.it ; Francesco Robbiano Kgs: Hobbes ", 
+        "description": "http://games.groups.yahoo.com/group/GoGenova/ , Via Boccardo, 5r presso la Birreria HB Hofbräuhaus , Giovedì e Domenica dalle 20:30 in poi , Carlo Bevegni - carlobevegni@libero.it ; Francesco Robbiano Kgs: Hobbes ", 
         "name": "Go Club Genova"
       }
     }, 
@@ -102,7 +102,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Via Cavour, 46/r presso il negozio Higashi no kaze, Martedì dalle 16:00 in poi, Sabrina Travi Tel: 019 8386348 (solo pom.) Cell: 328 7472012", 
+        "description": "Via Cavour, 46/r presso il negozio Higashi no kaze , Martedì dalle 16:00 in poi , Sabrina Travi Tel: 019 8386348 (solo pom.) Cell: 328 7472012", 
         "name": "Savona"
       }
     }, 
@@ -132,7 +132,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "http://go.xplab.net/, Via Cappellini, 4, Brescia presso la \"Aikido Club Brescia\", Claudiu Melenco https://www.facebook.com/groups/147136504167/", 
+        "description": "http://go.xplab.net/ , Via Cappellini, 4, Brescia presso la \"Aikido Club Brescia\" , Claudiu Melenco https://www.facebook.com/groups/147136504167/", 
         "name": "Brixia Go Weiki Baduk Club"
       }
     }, 
@@ -147,7 +147,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "http://milanonogo.altervista.org/, al ristorante-pub il Tempio d’Oro (Via delle Leghe 23, Milano)., Tutti i martedì alle ore 19:30, Aldo Podavini Kgs: minosse", 
+        "description": "http://milanonogo.altervista.org/ , al ristorante-pub il Tempio d’Oro (Via delle Leghe 23, Milano). , Tutti i martedì alle ore 19:30 , Aldo Podavini Kgs: minosse", 
         "name": "Milano No Go"
       }
     }, 
@@ -162,7 +162,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.goclubmilano.org/index.html, Via Sant'Uguzzone, 8 presso l'\"Università Europea degli Sport della Mente\", Mercoledì dalle 21 alle 24 Sabato dalle 15 alle 20, Fernando Fernandez Cell : 347 9386734 (pref. dopo le 17:00)", 
+        "description": "http://www.goclubmilano.org/index.html , Via Sant'Uguzzone, 8 presso l'\"Università Europea degli Sport della Mente\" , Mercoledì dalle 21 alle 24 Sabato dalle 15 alle 20 , Fernando Fernandez Cell : 347 9386734 (pref. dopo le 17:00)", 
         "name": "Go Club Milano"
       }
     }, 
@@ -177,7 +177,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Piazza Brembana, Saverio Castelli Kgs: blackauron", 
+        "description": "Piazza Brembana , Saverio Castelli Kgs: blackauron", 
         "name": "Bergamo"
       }
     }, 
@@ -237,7 +237,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "http://gocosmico.altervista.org/, Largo Lamarmora 2, presso la sede dell'Auser, ogni mercoledì dopo le 21, Giancarlo Sacchi Cell: 338 2217931 https://www.facebook.com/pages/Go-Cosmico/127995643940290", 
+        "description": "http://gocosmico.altervista.org/ , Largo Lamarmora 2, presso la sede dell'Auser , ogni mercoledì dopo le 21 , Giancarlo Sacchi Cell: 338 2217931 https://www.facebook.com/pages/Go-Cosmico/127995643940290", 
         "name": "Treviglio (BG)"
       }
     }, 
@@ -252,7 +252,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Locanda dello Hobbit, Via F. Rossi, 38, Barasso (VA), dalle 20:30 in poi, Ronald Van Uffelen Kgs: Stego93 Cell: +39 335290776", 
+        "description": "Locanda dello Hobbit, Via F. Rossi, 38, Barasso (VA) , dalle 20:30 in poi , Ronald Van Uffelen Kgs: Stego93 Cell: +39 335290776", 
         "name": "Varese"
       }
     }, 
@@ -282,7 +282,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "http://yomoyamabanashi.it/go.php, Piazza Venezia, 37 presso \"Barycentro\", 1° e 3° Giovedì del mese, dalle 17:00 alle 19:00, Federico Odorizzi Kgs: Fede Andrea Gobbi Kgs: andreamath", 
+        "description": "http://yomoyamabanashi.it/go.php , Piazza Venezia, 37 presso \"Barycentro\" , 1° e 3° Giovedì del mese, dalle 17:00 alle 19:00 , Federico Odorizzi Kgs: Fede Andrea Gobbi Kgs: andreamath", 
         "name": "Trentino Go Club"
       }
     }, 
@@ -342,7 +342,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": " http://www.facebook.com/pages/Torino-Italy/I-Nodi-di-Bambu-Go-Club-Torino/63509963870, Via Roero di Cortanze, 2C - presso il BENE COSI’ Cafè, Martedì dalle 19.30 alle 23.30 Sabato dalle 14.30 alle 18.30, Ronnie Pizzo ronniepizzo@gmail.com Cell: +39 338 9514316", 
+        "description": " http://www.facebook.com/pages/Torino-Italy/I-Nodi-di-Bambu-Go-Club-Torino/63509963870 , Via Roero di Cortanze, 2C - presso il BENE COSI’ Cafè , Martedì dalle 19.30 alle 23.30 Sabato dalle 14.30 alle 18.30 , Ronnie Pizzo ronniepizzo@gmail.com Cell: +39 338 9514316", 
         "name": "\"Nodi di Bambù\""
       }
     }, 
@@ -357,7 +357,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": " http://games.groups.yahoo.com/group/GoGenova/ http://www.facebook.com/groups/gogenova/, Via Boccardo, 5r presso la Birreria HB Hofbräuhaus, Giovedì e Domenica dalle 20:30 in poi, Carlo Bevegni carlobevegni@libero.it Francesco Robbiano Kgs: Hobbes", 
+        "description": " http://games.groups.yahoo.com/group/GoGenova/ http://www.facebook.com/groups/gogenova/ , Via Boccardo, 5r presso la Birreria HB Hofbräuhaus , Giovedì e Domenica dalle 20:30 in poi , Carlo Bevegni carlobevegni@libero.it Francesco Robbiano Kgs: Hobbes", 
         "name": "\"Go Club Genova\""
       }
     }, 
@@ -402,7 +402,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Via Cavour, 46/r presso il negozio Higashi no kaze, Martedì dalle 16:00 in poi, Sabrina Travi Tel: 019 8386348 (solo pom.)Cell: 328 7472012", 
+        "description": "Via Cavour, 46/r presso il negozio Higashi no kaze , Martedì dalle 16:00 in poi , Sabrina Travi Tel: 019 8386348 (solo pom.)Cell: 328 7472012", 
         "name": "SAVONA"
       }
     }, 
@@ -432,7 +432,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": " http://go.xplab.net https://www.facebook.com/groups/147136504167/, Via Cappellini, 4 presso la \"Aikido Club Brescia\", Claudiu Melenco", 
+        "description": " http://go.xplab.net https://www.facebook.com/groups/147136504167/ , Via Cappellini, 4 presso la \"Aikido Club Brescia\" , Claudiu Melenco", 
         "name": "\"Brixia Go Weiki Baduk Club\""
       }
     }, 
@@ -447,7 +447,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": " http://milanonogo.altervista.org/ https://www.facebook.com/milanonogo, Tutti i martedì al ristorante-pub il Tempio d’Oro (Via delle Leghe 23, Milano)., Martedì dalle 21 alle 24, Aldo Podavini Kgs : minosse", 
+        "description": " http://milanonogo.altervista.org/ https://www.facebook.com/milanonogo , Tutti i martedì al ristorante-pub il Tempio d’Oro (Via delle Leghe 23, Milano). , Martedì dalle 21 alle 24 , Aldo Podavini Kgs : minosse", 
         "name": "\"Milano No Go\""
       }
     }, 
@@ -462,7 +462,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": " http://www.goclubmilano.org/index.html https://www.facebook.com/pages/Go-Club-Milano/321227357961?ref=ts&amp;fref=ts, Via Sant'Uguzzone, 8 presso l'\"Università Europea degli Sport della Mente\", Mercoledì dalle 21 alle 24 Sabato dalle 15 alle 20, Fernando Fernandez Cell : 347 9386734 (pref. dopo le 17:00)", 
+        "description": " http://www.goclubmilano.org/index.html https://www.facebook.com/pages/Go-Club-Milano/321227357961?ref=ts&amp;fref=ts , Via Sant'Uguzzone, 8 presso l'\"Università Europea degli Sport della Mente\" , Mercoledì dalle 21 alle 24 Sabato dalle 15 alle 20 , Fernando Fernandez Cell : 347 9386734 (pref. dopo le 17:00)", 
         "name": "\"Go Club Milano\""
       }
     }, 
@@ -477,7 +477,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Piazza Brembana, Saverio Castelli Kgs: blackauron", 
+        "description": "Piazza Brembana , Saverio Castelli Kgs: blackauron", 
         "name": "BERGAMO"
       }
     }, 
@@ -552,7 +552,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": " http://gocosmico.altervista.org/ http://www.facebook.com/pages/Go-Cosmico/127995643940290, Largo Lamarmora 2, presso la sede dell'Auser., ogni mercoledì dopo le 21, Giancarlo Sacchi Cell: 338 2217931", 
+        "description": " http://gocosmico.altervista.org/ http://www.facebook.com/pages/Go-Cosmico/127995643940290 , Largo Lamarmora 2, presso la sede dell'Auser. , ogni mercoledì dopo le 21 , Giancarlo Sacchi Cell: 338 2217931", 
         "name": "TREVIGLIO (BG)"
       }
     }, 
@@ -567,7 +567,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Locanda dello Hobbit, Via F. Rossi, 38, Barasso (VA) dalle 20:30 in poi, Ronald Van Uffelen Kgs: Stego93 Cell: +39 335290776", 
+        "description": "Locanda dello Hobbit, Via F. Rossi, 38, Barasso (VA) dalle 20:30 in poi , Ronald Van Uffelen Kgs: Stego93 Cell: +39 335290776", 
         "name": "VARESE"
       }
     }, 
@@ -597,7 +597,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": " http://yomoyamabanashi.it/go.php, Piazza Venezia, 37 presso \"Barycentro\", 1° e 3° Giovedì del mese, dalle 17:00 alle 19:00, Federico Odorizzi Kgs: FedeAndrea Gobbi Kgs: andreamath", 
+        "description": " http://yomoyamabanashi.it/go.php , Piazza Venezia, 37 presso \"Barycentro\" , 1° e 3° Giovedì del mese, dalle 17:00 alle 19:00 , Federico Odorizzi Kgs: FedeAndrea Gobbi Kgs: andreamath", 
         "name": "\"Trentino Go Club\""
       }
     }, 
@@ -627,7 +627,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Ristorante Brasiliano - Via Montà, 49/3, Tutti i Sabato pomeriggio dalle ore 15:30 alle 19:00 Vedere il Calendario o contattare direttamente Leonardo o Liu per maggiori informazioni., Leonardo Giuliato Cell: 3929643299 Kgs: kiruLiu Yan PingCell: 339 4614763", 
+        "description": "Ristorante Brasiliano - Via Montà, 49/3 , Tutti i Sabato pomeriggio dalle ore 15:30 alle 19:00 Vedere il Calendario o contattare direttamente Leonardo o Liu per maggiori informazioni. , Leonardo Giuliato Cell: 3929643299 Kgs: kiruLiu Yan PingCell: 339 4614763", 
         "name": "Go Club \"VenetoGo\" Sez. di Padova"
       }
     }, 
@@ -642,7 +642,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Via Chiesa a Lancenigo di Villorba presso l'Oratorio (non c'è numero civico)., Tutti i Martedì sera (dalle ore 20:30 alle ore 23:30) a Lancenigo, e alcuni sabati a Pieve di Soligo (previo accordo).Il Sabato alla fumetteria \"Shion Art\", Via Marconi 34 Pieve di Soligo (TV).Vedere il Calendario o contattare direttamente Marco per maggiori informazioni., Marco Fava Cell: 328 9432090", 
+        "description": "Via Chiesa a Lancenigo di Villorba presso l'Oratorio (non c'è numero civico). , Tutti i Martedì sera (dalle ore 20:30 alle ore 23:30) a Lancenigo, e alcuni sabati a Pieve di Soligo (previo accordo).Il Sabato alla fumetteria \"Shion Art\", Via Marconi 34 Pieve di Soligo (TV).Vedere il Calendario o contattare direttamente Marco per maggiori informazioni. , Marco Fava Cell: 328 9432090", 
         "name": "Go Club \"VenetoGo\" Sez. di Treviso"
       }
     }, 
@@ -657,7 +657,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Presso Centro culturale Olivolo situato a San Francesco della Vigna in zona arsenale. Per chi non è mai venuto o non ricorda la strada contattateci che ci troviamo prima a San Zaccaria per mostrarvi la strada., Tutti i sabati pomeriggio, l'orario di inizio è intorno le ore 16:00 fino alle ore 19:30/20:00, a seconda dell'affluenza.Vedere il Calendario o contattare direttamente Matteo per conferma., Sandro Dunatov Cell: 335 203010 Matteo Boscolo Cell: 349 7716319", 
+        "description": "Presso Centro culturale Olivolo situato a San Francesco della Vigna in zona arsenale. Per chi non è mai venuto o non ricorda la strada contattateci che ci troviamo prima a San Zaccaria per mostrarvi la strada. , Tutti i sabati pomeriggio, l'orario di inizio è intorno le ore 16:00 fino alle ore 19:30/20:00, a seconda dell'affluenza.Vedere il Calendario o contattare direttamente Matteo per conferma. , Sandro Dunatov Cell: 335 203010 Matteo Boscolo Cell: 349 7716319", 
         "name": "Go Club \"VenetoGo\" Sez. di Venezia"
       }
     }, 
@@ -672,7 +672,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Istituto Pirani-Cremona Via del Museo, 23 - Bassano del Grappa, Tutti i Sabato pomeriggio dalle 17:00 alle 19:00; vedi il Calendario o contatta direttamente Marina, Marina Guarnieri Cell: 335 5812820", 
+        "description": "Istituto Pirani-Cremona Via del Museo, 23 - Bassano del Grappa , Tutti i Sabato pomeriggio dalle 17:00 alle 19:00; vedi il Calendario o contatta direttamente Marina , Marina Guarnieri Cell: 335 5812820", 
         "name": "Go Club \"VenetoGo\" Sez. di Bassano del Grappa"
       }
     }, 
@@ -702,7 +702,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Presso lo spazio giovani della municipalità di Favaro Veneto in Via Altinia 9, Ci troviamo tutti i giovedì sera dalle ore 21:00 circa.Contattare Andrea per la conferma del ritrovo., Andrea ", 
+        "description": "Presso lo spazio giovani della municipalità di Favaro Veneto in Via Altinia 9 , Ci troviamo tutti i giovedì sera dalle ore 21:00 circa.Contattare Andrea per la conferma del ritrovo. , Andrea ", 
         "name": "Go Club Favaro Veneto"
       }
     }, 
@@ -717,7 +717,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "al bar \"Due Mori\" di Schio Via Pasubio, 20 Vicenza. Contattare Carlo per la conferma del ritrovo., Ci troviamo il primo e il terzo martedì del mese (probabilmente diverrà tutti i martedì a breve) dalle ore 20:30 alle 23:30., Carlo Brazzale Cell: 347 5237202", 
+        "description": "al bar \"Due Mori\" di Schio Via Pasubio, 20 Vicenza. Contattare Carlo per la conferma del ritrovo. , Ci troviamo il primo e il terzo martedì del mese (probabilmente diverrà tutti i martedì a breve) dalle ore 20:30 alle 23:30. , Carlo Brazzale Cell: 347 5237202", 
         "name": "Go Club Schio"
       }
     }, 
@@ -732,7 +732,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Via San Floriano n°39, Vigarolo, Ritrovo la prima e la terza domenica di ogni mese dalle 15:00 alle 19:00., Gioele ", 
+        "description": "Via San Floriano n°39, Vigarolo , Ritrovo la prima e la terza domenica di ogni mese dalle 15:00 alle 19:00. , Gioele ", 
         "name": "Go Club \"VenetoGo\" Sez. di Vigarolo"
       }
     }, 
@@ -747,7 +747,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Via Castello San Felice, 9 presso\"Associazione Giochi Antichi\"(nel Parco delle Colombare), Non è stato ancora fissato un giorno prestabilito, contattate Marta o Giulia per sapere quando trovarci., Marta Mantovani adsharta@libero.it", 
+        "description": "Via Castello San Felice, 9 presso\"Associazione Giochi Antichi\"(nel Parco delle Colombare) , Non è stato ancora fissato un giorno prestabilito, contattate Marta o Giulia per sapere quando trovarci. , Marta Mantovani adsharta@libero.it", 
         "name": "Go Club \"VenetoGo\" Sez. di Verona"
       }
     }, 
@@ -762,7 +762,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "L'appuntamento è presso il Ricreatorio parrocchiale \"Mons.O.Foschian\" Via Isonzo 27, Monfalcone (Go). Contattare Michele per maggiori informazioni., ogni 3 settimane, giovedì alle ore 21, Michele Tognon ", 
+        "description": "L'appuntamento è presso il Ricreatorio parrocchiale \"Mons.O.Foschian\" Via Isonzo 27, Monfalcone (Go). Contattare Michele per maggiori informazioni. , ogni 3 settimane, giovedì alle ore 21 , Michele Tognon ", 
         "name": "Go Club \"Higashikita\" Sez. di Gorizia"
       }
     }, 
@@ -777,7 +777,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "c/o fumetteria \"Altrimondi\", via Caboto 20 - Pordenone, ogni due settimane al martedì dalle 20.30 in poi (contattare Davide Rosolen per conferma), Davide Rosolen Kgs: Proffffff", 
+        "description": "c/o fumetteria \"Altrimondi\", via Caboto 20 - Pordenone , ogni due settimane al martedì dalle 20.30 in poi (contattare Davide Rosolen per conferma) , Davide Rosolen Kgs: Proffffff", 
         "name": "Go Club \"Higashikita\" Sez. di Pordenone"
       }
     }, 
@@ -807,7 +807,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "c/o \"Ludomania\", via Svevo 1 (2° piano) - Trieste, ogni giovedì dalle 21.00 in poi., Davide Bertok Cell: 328 3277011", 
+        "description": "c/o \"Ludomania\", via Svevo 1 (2° piano) - Trieste , ogni giovedì dalle 21.00 in poi. , Davide Bertok Cell: 328 3277011", 
         "name": "Go Club \"Higashikita\" Sez. di Trieste"
       }
     }, 
@@ -822,7 +822,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Via Ermes di Colloredo, 14 presso la Ludoteca-Bar \"Quarta Dimensione\", Paolo Driussi Kgs: puhamedve", 
+        "description": "Via Ermes di Colloredo, 14 presso la Ludoteca-Bar \"Quarta Dimensione\" , Paolo Driussi Kgs: puhamedve", 
         "name": "Go Club \"Higashikita\" Sez. di Udine"
       }
     }, 
@@ -837,7 +837,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "presso il Bar \"L'Ortica\", Lunedì dalle 21:00, Cesare Sassoli: Cell: 338 7066454 Kgs:", 
+        "description": "presso il Bar \"L'Ortica\" , Lunedì dalle 21:00 , Cesare Sassoli: Cell: 338 7066454 Kgs:", 
         "name": "Bologna Go Club"
       }
     }, 
@@ -852,7 +852,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Via Salita, 2 presso il \"Circolo dei Franchi Bevitori\", Mercoledì dalle 21:00, Stefano GiurinCell: 392 9260834 Kgs: wildpizza", 
+        "description": "Via Salita, 2 presso il \"Circolo dei Franchi Bevitori\" , Mercoledì dalle 21:00 , Stefano GiurinCell: 392 9260834 Kgs: wildpizza", 
         "name": "GoRomagna"
       }
     }, 
@@ -867,7 +867,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Viale Cavour, 85, 44121 Ferrara FE, Italia presso la Birreria Main street, giovedì sera alle 21:15 (In ogni caso, meglio chiamare per verificare che quel giorno non ci sia qualche intoppo), Paolo Giampetruzzi aji.goclub@gmail.com Cell: +39 3289342753 Kgs: Doc / Damiano Pennini md.carbone@libero.it Kgs: HPN", 
+        "description": "Viale Cavour, 85, 44121 Ferrara FE, Italia presso la Birreria Main street , giovedì sera alle 21:15 (In ogni caso, meglio chiamare per verificare che quel giorno non ci sia qualche intoppo) , Paolo Giampetruzzi aji.goclub@gmail.com Cell: +39 3289342753 Kgs: Doc / Damiano Pennini md.carbone@libero.it Kgs: HPN", 
         "name": "Aji Go Club"
       }
     }, 
@@ -882,7 +882,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Via del Santuario, 3 presso la Birreria \"Stonewall\", Giovedì dalle 21:00(in alternanza con il Go Club di Reggio-Emilia), Andrea Pecorari Cell: 348 4428324", 
+        "description": "Via del Santuario, 3 presso la Birreria \"Stonewall\" , Giovedì dalle 21:00(in alternanza con il Go Club di Reggio-Emilia) , Andrea Pecorari Cell: 348 4428324", 
         "name": "\"Tortellino\" Go Club"
       }
     }, 
@@ -912,7 +912,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Generalmente il martedì sera, Anthony antonioalbano@yahoo.it Kgs: anthonygo - Cell: +39 340 7675932 Gian Maria gmmarconi@gmail.com Kgs: limerik - Cell: +39 346 6665788", 
+        "description": "Generalmente il martedì sera , Anthony antonioalbano@yahoo.it Kgs: anthonygo - Cell: +39 340 7675932 Gian Maria gmmarconi@gmail.com Kgs: limerik - Cell: +39 346 6665788", 
         "name": "Go Club Università degli studi di Parma"
       }
     }, 
@@ -927,7 +927,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Via del Paleotto 11 (nel parco del Paleotto) presso la \"Casa del Paleotto\", Di solito l'ultimo martedì del mese, controllare sul sito", 
+        "description": "Via del Paleotto 11 (nel parco del Paleotto) presso la \"Casa del Paleotto\" , Di solito l'ultimo martedì del mese, controllare sul sito", 
         "name": "\"Paleotto\" Go Club"
       }
     }, 
@@ -942,7 +942,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Via Samoggia, 12 presso il \"Bar Florida\" di Wang Zuo Liang, Giovedì dalle 21:00(in alternanza con il Go Club di Fiorano Modenese), Andrea Pecorari a_peco@libero.it Cell: 348 4428324", 
+        "description": "Via Samoggia, 12 presso il \"Bar Florida\" di Wang Zuo Liang , Giovedì dalle 21:00(in alternanza con il Go Club di Fiorano Modenese) , Andrea Pecorari a_peco@libero.it Cell: 348 4428324", 
         "name": "\"Tortellino\" Go Club"
       }
     }, 
@@ -957,7 +957,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Martedì, Mattia Lannunziata igonzagagoclub@gmail.com", 
+        "description": "Martedì , Mattia Lannunziata igonzagagoclub@gmail.com", 
         "name": "IGOnzaga Go Club"
       }
     }, 
@@ -1002,7 +1002,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Presso la palestra Yanagi in via san Zanobi 57, il Martedì dalle 21:30 in poi, goclubfirenze@gmail.com Alberto Zingoni Cell: +39 338 506 1760", 
+        "description": "Presso la palestra Yanagi in via san Zanobi 57 , il Martedì dalle 21:30 in poi , goclubfirenze@gmail.com Alberto Zingoni Cell: +39 338 506 1760", 
         "name": "Firenze Go Club"
       }
     }, 
@@ -1017,7 +1017,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Via della Posta, 40 presso il pub \"Bad Elf\", Mercoledì dalle 21:30, Andrea Mori wamba85@gmail.com Kgs: Wamba", 
+        "description": "Via della Posta, 40 presso il pub \"Bad Elf\" , Mercoledì dalle 21:30 , Andrea Mori wamba85@gmail.com Kgs: Wamba", 
         "name": "Livorno Go Club"
       }
     }, 
@@ -1032,7 +1032,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Lunedì: via delle Case Dipinte 6 presso pub \"Orzo Bruno\". dalle 21:30 alle 01:00.Giovedì: via Bovio, presso il Mix-Art dalle 21:30 alle 00:00, Dopo le 21:30, Andrea Donati gatto.andrea@inwind.it Cell: 333 9597317 Kgs: suspire Maurizio Parton parton@unich.it Cell: 349 5323199 Kgs: maumau", 
+        "description": "Lunedì: via delle Case Dipinte 6 presso pub \"Orzo Bruno\". dalle 21:30 alle 01:00.Giovedì: via Bovio, presso il Mix-Art dalle 21:30 alle 00:00 , Dopo le 21:30 , Andrea Donati gatto.andrea@inwind.it Cell: 333 9597317 Kgs: suspire Maurizio Parton parton@unich.it Cell: 349 5323199 Kgs: maumau", 
         "name": "Pisa Go Club"
       }
     }, 
@@ -1077,7 +1077,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Comix Cafè, piazza San Michele 4, ogni mercoledì sera dalle 20.30/21.00, Marco Pasto pastopasto@hotmail.it Il club di Grosseto fa parte di ToscanaGo.", 
+        "description": "Comix Cafè, piazza San Michele 4 , ogni mercoledì sera dalle 20.30/21.00 , Marco Pasto pastopasto@hotmail.it Il club di Grosseto fa parte di ToscanaGo.", 
         "name": "Go Club Grosseto (GCG)"
       }
     }, 
@@ -1107,7 +1107,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "presso la birreria Carpe Diem a Loro Ciuffenna., tutti i martedì ore 21.30, Olivier Turquet olivier.turquet@gmail.com Telefono:055969092 Cellulare:3395635202", 
+        "description": "presso la birreria Carpe Diem a Loro Ciuffenna. , tutti i martedì ore 21.30 , Olivier Turquet olivier.turquet@gmail.com Telefono:055969092 Cellulare:3395635202", 
         "name": "VALDARNO"
       }
     }, 
@@ -1122,7 +1122,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Corso Vannucci, 99 presso il bar \"Blitz\", Giovedì dalle 19:00, Alessandro Salpietro a.salpietro@yahoo.it Cell: 333 4037308 Marco Baldoncini marcobaldoncini@libero.it Cell: 333 7339778", 
+        "description": "Corso Vannucci, 99 presso il bar \"Blitz\" , Giovedì dalle 19:00 , Alessandro Salpietro a.salpietro@yahoo.it Cell: 333 4037308 Marco Baldoncini marcobaldoncini@libero.it Cell: 333 7339778", 
         "name": "\"ARGO\" Club"
       }
     }, 
@@ -1137,7 +1137,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Via Cereate, 8 presso la ludoteca \"La Civetta\", Martedì e Giovedì dalle 19:30 in poi, GCR goclubromafujisawashuko@gmail.com?subject=[GO]%20richiesta%20informazioni", 
+        "description": "Via Cereate, 8 presso la ludoteca \"La Civetta\" , Martedì e Giovedì dalle 19:30 in poi , GCR goclubromafujisawashuko@gmail.com?subject=[GO]%20richiesta%20informazioni", 
         "name": "\"Fujisawa Shuko\""
       }
     }, 
@@ -1182,7 +1182,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Piazza San Faustino, 14, VITERBO, (VT), Martedì dalle 21:00 in poi, gojoclubviterbo@yahoo.it Marco Generali marcgen84@yahoo.it Cell: 339 1363616 Kgs: maik123 Riky De Carolis Cell: 320 0627142", 
+        "description": "Piazza San Faustino, 14, VITERBO, (VT) , Martedì dalle 21:00 in poi , gojoclubviterbo@yahoo.it Marco Generali marcgen84@yahoo.it Cell: 339 1363616 Kgs: maik123 Riky De Carolis Cell: 320 0627142", 
         "name": "\"Go'Jo\""
       }
     }, 
@@ -1212,7 +1212,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "S. EGIDIO ALLA VIBRATA (TE), Emiliano Calderoli: hiraokasan@gmail.com", 
+        "description": "S. EGIDIO ALLA VIBRATA (TE) , Emiliano Calderoli: hiraokasan@gmail.com", 
         "name": "\"Yugen\" Go Club"
       }
     }, 
@@ -1257,7 +1257,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Via Bellini, 56 presso il \"Volver Cafè\", Martedì dalle 21:00, Bruno Izzi : br1izzi@hotmail.com", 
+        "description": "Via Bellini, 56 presso il \"Volver Cafè\" , Martedì dalle 21:00 , Bruno Izzi : br1izzi@hotmail.com", 
         "name": "\"Najokata\""
       }
     }, 
@@ -1272,7 +1272,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "Via Seminario, 15 presso \"Belcanto - Art Fusion Cafè\", Dal Martedi al venerdi dalle 21:00 all'01:00, tranne nelle sere in cui è programmato un evento, chiusura settimanale il Lunedi., Ivan Cigliano : cuzzocrea10@libero.it Cell. : 345 4134236", 
+        "description": "Via Seminario, 15 presso \"Belcanto - Art Fusion Cafè\" , Dal Martedi al venerdi dalle 21:00 all'01:00, tranne nelle sere in cui è programmato un evento, chiusura settimanale il Lunedi. , Ivan Cigliano : cuzzocrea10@libero.it Cell. : 345 4134236", 
         "name": "Ischia Ponte"
       }
     }, 
@@ -1302,7 +1302,7 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
-        "description": "presso il Centro Scacchi Palermo in via Enrico Fermi 8, Tutti i martedì dalle ore 16:00 alle ore 20:00, Marco Milone Cell: 3926981326 : milone_m@yahoo.com", 
+        "description": "presso il Centro Scacchi Palermo in via Enrico Fermi 8 , Tutti i martedì dalle ore 16:00 alle ore 20:00 , Marco Milone Cell: 3926981326 : milone_m@yahoo.com", 
         "name": "Il Palermo go club"
       }
     }, 
