@@ -5,22 +5,22 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "13.7222126691801,", 
-          51.06212745
+          9.43665504455566, 
+          54.7841816719325
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.horst-huebner.de , Freiberger Str. 31 im Eigenbetrieb Sportstätten, 4. Etage, Konferenzraum , Mi 18-22 , Horst Hübner, 0351-4712051", 
-        "name": "Dresden"
+        "description": "Grisou, Holmhof 43 , Mi ab 19.30 , Peter Lakemeier, 0461-7703491", 
+        "name": "Flensburg"
       }
     }, 
     {
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "13.7560578,", 
+          13.7560578, 
           51.0696329
         ]
       }, 
@@ -35,7 +35,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "14.2085356682333,", 
+          14.2085356682333, 
           51.5598961
         ]
       }, 
@@ -50,8 +50,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "12.36671358346939,", 
-          51.34202150848297
+          12.3667135834694, 
+          51.342021508483
         ]
       }, 
       "layer": "DE", 
@@ -65,7 +65,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "12.380879136165,", 
+          12.380879136165, 
           51.33881915
         ]
       }, 
@@ -80,7 +80,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "11.973735894186,", 
+          11.973735894186, 
           51.4683192
         ]
       }, 
@@ -95,7 +95,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "11.5864968,", 
+          11.5864968, 
           50.9296751
         ]
       }, 
@@ -110,7 +110,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "12.924034580186,", 
+          12.924034580186, 
           50.8353940036907
         ]
       }, 
@@ -125,22 +125,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "12.982995613993,", 
-          50.9906380955545
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Bierstube in der Mensa der Hochschule, Am Schwanenteich , Mi ab 18 , H.-D. Pester, 03727-603099", 
-        "name": "Mittweida"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          "13.377976,", 
+          13.377976, 
           52.5240046
         ]
       }, 
@@ -155,7 +140,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "13.4143769,", 
+          13.4143769, 
           52.5408877
         ]
       }, 
@@ -170,7 +155,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "13.3283011,", 
+          13.3283011, 
           52.5081789
         ]
       }, 
@@ -185,7 +170,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "13.4388536,", 
+          13.4388536, 
           52.4949173
         ]
       }, 
@@ -200,7 +185,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "13.5069655,", 
+          13.5069655, 
           52.4471763
         ]
       }, 
@@ -215,7 +200,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "13.6271993,", 
+          13.6271993, 
           52.4467378
         ]
       }, 
@@ -230,7 +215,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "13.3972286,", 
+          13.3972286, 
           52.5462212
         ]
       }, 
@@ -245,8 +230,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "13.201985657215117,", 
-          52.537083878489334
+          13.2019856572151, 
+          52.5370838784893
         ]
       }, 
       "layer": "DE", 
@@ -260,7 +245,22 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "13.241466027255,", 
+          9.93535695036284, 
+          51.5355261
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Galerie \"Apex\", Burgstr. 46 , Mo ab 19 , Gerhard Mex, 0551-705056", 
+        "name": "Göttingen"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.241466027255, 
           52.4372333
         ]
       }, 
@@ -275,7 +275,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "13.0108711,", 
+          13.0108711, 
           52.4018765
         ]
       }, 
@@ -290,8 +290,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "13.034183979034424,", 
-          52.396095189086296
+          13.0341839790344, 
+          52.3960951890863
         ]
       }, 
       "layer": "DE", 
@@ -305,8 +305,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "13.846313953399656,", 
-          52.53620778229493
+          13.8463139533997, 
+          52.5362077822949
         ]
       }, 
       "layer": "DE", 
@@ -320,7 +320,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "13.2231562,", 
+          13.2231562, 
           52.7517865
         ]
       }, 
@@ -335,7 +335,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "13.1502135877827,", 
+          13.1502135877827, 
           52.9464193243255
         ]
       }, 
@@ -350,7 +350,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "13.3779334,", 
+          13.3779334, 
           54.0927869
         ]
       }, 
@@ -365,7 +365,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "12.1252848,", 
+          12.1252848, 
           54.0852727
         ]
       }, 
@@ -380,7 +380,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "11.4153397,", 
+          11.4153397, 
           53.6290796
         ]
       }, 
@@ -395,7 +395,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "10.0038509,", 
+          10.0038509, 
           53.5574272
         ]
       }, 
@@ -410,7 +410,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "10.0038509,", 
+          10.0038509, 
           53.5574272
         ]
       }, 
@@ -425,7 +425,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "9.97962391591026,", 
+          9.97962391591026, 
           53.56789125
         ]
       }, 
@@ -440,7 +440,22 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "9.9908152,", 
+          12.982995614, 
+          50.9906380956
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Bierstube in der Mensa der Hochschule, Am Schwanenteich , Mi ab 18 , H.-D. Pester, 03727-603099", 
+        "name": "Mittweida"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.9908152, 
           53.5660034
         ]
       }, 
@@ -455,7 +470,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "9.9864197,", 
+          9.9864197, 
           53.4580076
         ]
       }, 
@@ -470,7 +485,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "10.3844010777478,", 
+          10.3844010777478, 
           53.22281005
         ]
       }, 
@@ -500,7 +515,22 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "10.1669467510192,", 
+          7.1972241, 
+          51.6157493
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.guzumi.de/index.php , \"Drübbelken\", Münsterstr. 5 , Do ab 19 , Martin Langer, 02361-486674", 
+        "name": "Recklinghausen"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.1669467510192, 
           53.60649915
         ]
       }, 
@@ -515,7 +545,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "10.6887673,", 
+          10.6887673, 
           53.8717805
         ]
       }, 
@@ -530,7 +560,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "10.1387933,", 
+          10.1387933, 
           54.3413523
         ]
       }, 
@@ -545,7 +575,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "10.1317026,", 
+          10.1317026, 
           54.3367251
         ]
       }, 
@@ -560,7 +590,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "9.5470302,", 
+          9.5470302, 
           54.5121597
         ]
       }, 
@@ -575,22 +605,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "9.436655044555664,", 
-          54.78418167193253
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Grisou, Holmhof 43 , Mi ab 19.30 , Peter Lakemeier, 0461-7703491", 
-        "name": "Flensburg"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          "8.2085064,", 
+          8.2085064, 
           53.1497295
         ]
       }, 
@@ -605,7 +620,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.1105765,", 
+          8.1105765, 
           53.520833
         ]
       }, 
@@ -620,8 +635,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "7.180815339088439,", 
-          53.36743272754846
+          7.18081533908844, 
+          53.3674327275485
         ]
       }, 
       "layer": "DE", 
@@ -635,7 +650,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.58743436011112,", 
+          8.58743436011112, 
           53.53544055
         ]
       }, 
@@ -650,7 +665,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.8532302,", 
+          8.8532302, 
           53.0649497
         ]
       }, 
@@ -665,7 +680,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "9.69543254964762,", 
+          9.69543254964762, 
           53.05111175
         ]
       }, 
@@ -695,7 +710,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "9.7225325,", 
+          9.7225325, 
           52.3784695
         ]
       }, 
@@ -710,7 +725,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "9.7590527,", 
+          9.7590527, 
           52.3701065
         ]
       }, 
@@ -725,7 +740,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "9.7957567,", 
+          9.7957567, 
           52.4749749
         ]
       }, 
@@ -740,7 +755,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "9.9542093,", 
+          9.9542093, 
           52.1500474
         ]
       }, 
@@ -755,7 +770,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "9.38137,", 
+          9.38137, 
           52.3460724
         ]
       }, 
@@ -770,7 +785,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.6949104,", 
+          8.6949104, 
           52.1206019
         ]
       }, 
@@ -785,7 +800,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.9008426,", 
+          8.9008426, 
           52.0291924
         ]
       }, 
@@ -800,7 +815,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.8811483,", 
+          8.8811483, 
           51.9342601
         ]
       }, 
@@ -815,7 +830,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.75926137769997,", 
+          8.75926137769997, 
           51.7120229
         ]
       }, 
@@ -830,8 +845,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.494641780853271,", 
-          52.03733985771698
+          8.49464178085327, 
+          52.037339857717
         ]
       }, 
       "layer": "DE", 
@@ -845,7 +860,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "9.5018452,", 
+          9.5018452, 
           51.3210372
         ]
       }, 
@@ -860,7 +875,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.7067318,", 
+          8.7067318, 
           50.5879123
         ]
       }, 
@@ -875,22 +890,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "9.93535695036284,", 
-          51.5355261
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Galerie \"Apex\", Burgstr. 46 , Mo ab 19 , Gerhard Mex, 0551-705056", 
-        "name": "Göttingen"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          "9.9486496,", 
+          9.9486496, 
           51.5381897
         ]
       }, 
@@ -905,7 +905,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "10.5427699,", 
+          10.5427699, 
           52.2632964
         ]
       }, 
@@ -920,7 +920,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "10.5366363,", 
+          10.5366363, 
           52.2739507
         ]
       }, 
@@ -935,7 +935,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "10.3305624,", 
+          10.3305624, 
           51.8044974
         ]
       }, 
@@ -950,7 +950,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "11.6400834,", 
+          11.6400834, 
           52.1389773
         ]
       }, 
@@ -965,7 +965,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "11.271080076543,", 
+          11.271080076543, 
           52.23676795
         ]
       }, 
@@ -980,7 +980,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "6.7722202832333,", 
+          6.7722202832333, 
           51.1966518
         ]
       }, 
@@ -995,7 +995,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "6.8407315,", 
+          6.8407315, 
           51.2969523
         ]
       }, 
@@ -1010,7 +1010,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "7.1515081,", 
+          7.1515081, 
           51.242193
         ]
       }, 
@@ -1025,7 +1025,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "7.4654176,", 
+          7.4654176, 
           51.4976693
         ]
       }, 
@@ -1040,7 +1040,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "7.4550586,", 
+          7.4550586, 
           51.5329225
         ]
       }, 
@@ -1055,7 +1055,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "7.4009765,", 
+          7.4009765, 
           51.489429
         ]
       }, 
@@ -1070,7 +1070,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "7.306946,", 
+          7.306946, 
           51.5691882
         ]
       }, 
@@ -1085,7 +1085,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "7.2145793,", 
+          7.2145793, 
           51.4817374
         ]
       }, 
@@ -1115,22 +1115,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "7.1972241,", 
-          51.6157493
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.guzumi.de/index.php , \"Drübbelken\", Münsterstr. 5 , Do ab 19 , Martin Langer, 02361-486674", 
-        "name": "Recklinghausen"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          "6.9054775,", 
+          6.9054775, 
           51.5371173
         ]
       }, 
@@ -1145,7 +1130,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "7.6476565,", 
+          7.6476565, 
           51.9650068
         ]
       }, 
@@ -1160,7 +1145,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "7.02877720225627,", 
+          7.02877720225627, 
           52.18899725
         ]
       }, 
@@ -1175,7 +1160,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.040146,", 
+          8.040146, 
           52.2744752
         ]
       }, 
@@ -1190,7 +1175,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "7.9667856,", 
+          7.9667856, 
           52.2352944
         ]
       }, 
@@ -1205,7 +1190,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "7.33481941986942,", 
+          7.33481941986942, 
           52.5138071835757
         ]
       }, 
@@ -1235,7 +1220,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "6.0813818,", 
+          6.0813818, 
           50.7674876
         ]
       }, 
@@ -1250,7 +1235,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "7.0952728,", 
+          7.0952728, 
           50.7262759
         ]
       }, 
@@ -1265,7 +1250,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "6.6441823,", 
+          6.6441823, 
           49.7583755
         ]
       }, 
@@ -1280,7 +1265,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "6.6920685,", 
+          6.6920685, 
           49.7441331
         ]
       }, 
@@ -1295,7 +1280,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.26975643509378,", 
+          8.26975643509378, 
           49.99744505
         ]
       }, 
@@ -1325,7 +1310,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.0251182,", 
+          8.0251182, 
           50.8796546
         ]
       }, 
@@ -1340,7 +1325,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "7.47749213629262,", 
+          7.47749213629262, 
           51.3577484
         ]
       }, 
@@ -1355,7 +1340,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "7.4747128,", 
+          7.4747128, 
           51.357074
         ]
       }, 
@@ -1370,7 +1355,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "7.476435,", 
+          7.476435, 
           51.3665884
         ]
       }, 
@@ -1385,7 +1370,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "7.69473039297348,", 
+          7.69473039297348, 
           51.53071685
         ]
       }, 
@@ -1400,7 +1385,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.3417027,", 
+          8.3417027, 
           51.6774711
         ]
       }, 
@@ -1415,7 +1400,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.2981392,", 
+          8.2981392, 
           51.3620266
         ]
       }, 
@@ -1445,7 +1430,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.6906603,", 
+          8.6906603, 
           50.1047811
         ]
       }, 
@@ -1460,7 +1445,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.6597034,", 
+          8.6597034, 
           49.8778201
         ]
       }, 
@@ -1475,7 +1460,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.6597034,", 
+          8.6597034, 
           49.8778201
         ]
       }, 
@@ -1490,7 +1475,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.2411949,", 
+          8.2411949, 
           50.0863765
         ]
       }, 
@@ -1505,7 +1490,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "6.99663709023437,", 
+          6.99663709023437, 
           49.2331112
         ]
       }, 
@@ -1520,7 +1505,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "7.76925229161359,", 
+          7.76925229161359, 
           49.4351088
         ]
       }, 
@@ -1535,7 +1520,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.46174147732246,", 
+          8.46174147732246, 
           49.4915185418846
         ]
       }, 
@@ -1550,7 +1535,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.6537518,", 
+          8.6537518, 
           49.4138049
         ]
       }, 
@@ -1565,7 +1550,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.6728312,", 
+          8.6728312, 
           49.546424
         ]
       }, 
@@ -1580,7 +1565,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "9.1716536,", 
+          9.1716536, 
           48.7775884
         ]
       }, 
@@ -1595,7 +1580,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "9.01963413752123,", 
+          9.01963413752123, 
           48.6852145092567
         ]
       }, 
@@ -1610,7 +1595,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "9.22901104422706,", 
+          9.22901104422706, 
           48.89626725
         ]
       }, 
@@ -1625,7 +1610,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "9.0625243,", 
+          9.0625243, 
           48.5146239
         ]
       }, 
@@ -1640,7 +1625,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "9.69049160197639,", 
+          9.69049160197639, 
           48.7190864
         ]
       }, 
@@ -1655,7 +1640,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.4160154,", 
+          8.4160154, 
           49.0056091
         ]
       }, 
@@ -1670,7 +1655,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.4062738,", 
+          8.4062738, 
           49.0103242
         ]
       }, 
@@ -1685,7 +1670,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "7.8831135,", 
+          7.8831135, 
           48.3410737
         ]
       }, 
@@ -1700,7 +1685,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "8.44681080887598,", 
+          8.44681080887598, 
           48.0555458518873
         ]
       }, 
@@ -1715,7 +1700,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "9.17817603944776,", 
+          9.17817603944776, 
           47.6609571
         ]
       }, 
@@ -1730,7 +1715,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "9.1767391,", 
+          9.1767391, 
           47.6903464
         ]
       }, 
@@ -1745,7 +1730,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "7.8141061,", 
+          7.8141061, 
           47.975875
         ]
       }, 
@@ -1760,7 +1745,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "7.90094001771169,", 
+          7.90094001771169, 
           47.96398895
         ]
       }, 
@@ -1775,7 +1760,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "11.5777896,", 
+          11.5777896, 
           48.1805501
         ]
       }, 
@@ -1790,7 +1775,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "11.5777896,", 
+          11.5777896, 
           48.1805501
         ]
       }, 
@@ -1805,7 +1790,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "11.518034,", 
+          11.518034, 
           48.1803724
         ]
       }, 
@@ -1820,7 +1805,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "11.1704637,", 
+          11.1704637, 
           47.9954339
         ]
       }, 
@@ -1835,7 +1820,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "12.1081236758529,", 
+          12.1081236758529, 
           47.8379995864355
         ]
       }, 
@@ -1850,7 +1835,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "12.1655881,", 
+          12.1655881, 
           48.5449693
         ]
       }, 
@@ -1865,7 +1850,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "11.8944743,", 
+          11.8944743, 
           48.2964858
         ]
       }, 
@@ -1880,7 +1865,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "11.5535459243189,", 
+          11.5535459243189, 
           48.2770031
         ]
       }, 
@@ -1895,7 +1880,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "11.6728178,", 
+          11.6728178, 
           48.2680413
         ]
       }, 
@@ -1910,7 +1895,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "10.8321346,", 
+          10.8321346, 
           48.379659
         ]
       }, 
@@ -1925,7 +1910,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "10.7538150746101,", 
+          10.7538150746101, 
           48.0301967
         ]
       }, 
@@ -1940,7 +1925,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "9.9997099,", 
+          9.9997099, 
           48.4067632
         ]
       }, 
@@ -1955,8 +1940,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "11.00780725479126,", 
-          49.468409933230284
+          11.0078072547913, 
+          49.4684099332303
         ]
       }, 
       "layer": "DE", 
@@ -1970,7 +1955,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "11.0108027,", 
+          11.0108027, 
           49.591547
         ]
       }, 
@@ -1985,7 +1970,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "12.1083093,", 
+          12.1083093, 
           49.0084477
         ]
       }, 
@@ -2000,7 +1985,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "10.9048274,", 
+          10.9048274, 
           49.9118415
         ]
       }, 
@@ -2015,7 +2000,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "10.9243951,", 
+          10.9243951, 
           50.6889175
         ]
       }, 
@@ -2030,7 +2015,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "11.0273195,", 
+          11.0273195, 
           50.978905
         ]
       }, 
@@ -2045,7 +2030,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          "10.8013748,", 
+          10.8013748, 
           51.5047085
         ]
       }, 
@@ -2069,6 +2054,21 @@
       "properties": {
         "description": "Mommsen Eck , every 2nd monday of a month 18:00 - 21:00 , Pandau Ting: pandau@nakade.de; Maurice Wohabi: mo@nakade.de", 
         "name": "Nakade Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.7222126692, 
+          51.06212745
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.horst-huebner.de , Freiberger Str. 31 im Eigenbetrieb Sportstätten, 4. Etage, Konferenzraum. , Mi 18-22 , Horst Hübner, 0351-4712051", 
+        "name": "Dresden"
       }
     }
   ]

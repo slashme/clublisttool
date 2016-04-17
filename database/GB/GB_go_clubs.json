@@ -5,6 +5,66 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          -2.7981853871402, 
+          56.340071512822
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3235 , KY16 9UX Aikman's Cellar Bar, 32 Bell Street  , Tuesday 19:30-23:00  , Edwin Brady ", 
+        "name": "St Andrews"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.5389319, 
+          53.2341567
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3195 , LN2 1LU The Wig and Mitre, Steep Hill  , Monday 19:00-22:00 (1st Mon)  , Richard Leedham-Green ", 
+        "name": "Lincoln"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.758857195357585, 
+          51.4060111
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3151 , RG12 7DL The Green Man, Crowthorne Road  , Tuesday 20:00 meets by arrangement only  , Ian Marsh Tel: 01344 422296 ", 
+        "name": "Bracknell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -9.07514, 
+          53.28963
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3180 , Westwood House Hotel bar  , Wednesday 20:00 - players normally present from 19:30  , Richard Brennan ", 
+        "name": "Galway"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           -2.10586390402163, 
           57.1656495732931
         ]
@@ -149,21 +209,6 @@
       "properties": {
         "description": "http://www.britgo.org/node/3153 , BH9 2UJ 24 Cowper Road, Moordown  , Tuesday 20:00  , Marcus Bennett Tel: 01202 512655 ", 
         "name": "Bournemouth"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -0.758857195357585, 
-          51.4060111
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3151 , RG12 7DL The Green Man, Crowthorne Road  , Tuesday 20:00 meets by arrangement only  , Ian Marsh Tel: 01344 422296 ", 
-        "name": "Bracknell"
       }
     }, 
     {
@@ -500,21 +545,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -9.07514, 
-          53.28963
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3180 , Westwood House Hotel bar  , Wednesday 20:00 - players normally present from 19:30  , Richard Brennan ", 
-        "name": "Galway"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           -4.288999, 
           55.871799
         ]
@@ -659,21 +689,6 @@
       "properties": {
         "description": "http://www.britgo.org/node/4212 , SG6 3TR Central Methodist Church, Norton Way South   , Thursday 18:00-19:30 during term-time  , Alison Bexfield ", 
         "name": "Letchworth Junior Chess and Go Club"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -0.5389319, 
-          53.2341567
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3195 , LN2 1LU The Wig and Mitre, Steep Hill  , Monday 19:00-22:00 (1st Mon)  , Richard Leedham-Green ", 
-        "name": "Lincoln"
       }
     }, 
     {
@@ -1034,21 +1049,6 @@
       "properties": {
         "description": "http://www.britgo.org/node/3233 , AL1 1RT The Garibaldi, 61 Albert Street  , Wednesday 20:00 until pub closing  , Secretary: Brian Ellis 01727 872575, Mike Cockburn 01727 834035 ", 
         "name": "St Albans"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -2.7981853871402, 
-          56.340071512822
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3235 , KY16 9UX Aikman's Cellar Bar, 32 Bell Street  , Tuesday 19:30-23:00  , Edwin Brady ", 
-        "name": "St Andrews"
       }
     }, 
     {

@@ -5,81 +5,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          18.468875885009766, 
-          -33.93869593864506
-        ]
-      }, 
-      "layer": "ZA", 
-      "type": "Feature", 
-      "properties": {
-        "description": "", 
-        "name": "The Cape Town club meets on Tuesday evenings from 19h00, but the previous venue has closed: Obz Café and \"That Place\" are possible new venues.\n\nhttp://www.sagoclubs.co.za/cape-town-club/"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          31.038233041763306, 
-          -29.849847434737633
-        ]
-      }, 
-      "layer": "ZA", 
-      "type": "Feature", 
-      "properties": {
-        "description": "", 
-        "name": "(info date: May 2006)\nPeter Charter is at work resuscitating the Durban Go club.\nMeetings: Start 18h30 at the Steers on North Beach, on Tuesdays.\nContact: Peter Charter (cellphone: 082 900 1496) or Tony Clulow (home phone: 031 702 1749)."
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          28.04165706038475, 
-          -26.14647068635603
-        ]
-      }, 
-      "layer": "ZA", 
-      "type": "Feature", 
-      "properties": {
-        "description": "", 
-        "name": "The Joburg club meets weekly, on Sundays (regularly) and on Tuesdays (occasionally):\n\nLocation:\nRosebank Mall – Fourno’s Bakery (Sunday mornings)\nRosebank Mall – Mugg and Bean (Tuesday evenings)\n\nTime:\nSundays from 10:00 to 13:00 (approximately). Tuesdays from 19:00 to 21:00 (approximately).\n\nhttp://www.sagoclubs.co.za/joburg-club/"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          22.15367317199707, 
-          -34.1831750336048
-        ]
-      }, 
-      "layer": "ZA", 
-      "type": "Feature", 
-      "properties": {
-        "description": "", 
-        "name": "There is currently no club in Mossel Bay. However, anyone there interested in the game can contact Candice Barker. She would be happy to meet and play holiday-makers or business visitors in Mossel Bay, introduce the game to prospective new players, or meet other players from Mossel Bay and surrounds.\nMeets: ad hoc\nContact: Candice Barker (phone: 0446905547)"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          25.5323982239, 
-          -33.9437871712
-        ]
-      }, 
-      "layer": "ZA", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.sagoclubs.co.za/other-clubs/ , There are no clubs in the Eastern Cape. However, anyone there interested in the game can contact William Mapham <william.mapham@gmail.com> or Patrick Lee <alobar@telkomsa.net>", 
-        "name": "Port Elizabeth"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           28.2359080017, 
           -25.7509321638
         ]
@@ -149,6 +74,81 @@
       "properties": {
         "description": "http://www.sagoclubs.co.za/uj-club/ , Mondays: C-Les 305, 13:00-14:00 Wednesdays: D-Les 411 , Mon, Wed: 13:00-14:00", 
         "name": "UJ"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          28.0416570604, 
+          -26.1464706864
+        ]
+      }, 
+      "layer": "ZA", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.sagoclubs.co.za/joburg-club/ , Rosebank Mall – Fourno’s Bakery (Sunday mornings) Rosebank Mall – Mugg and Bean (Tuesday evenings) , Sundays (regularly) from 10:00 to 13:00 (approximately). Tuesdays (occasionally) from 19:00 to 21:00 (approximately).", 
+        "name": "Joburg"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          22.153673172, 
+          -34.1831750336
+        ]
+      }, 
+      "layer": "ZA", 
+      "type": "Feature", 
+      "properties": {
+        "description": "There is currently no club in Mossel Bay. However, anyone there interested in the game can contact Candice Barker. She would be happy to meet and play holiday-makers or business visitors in Mossel Bay, introduce the game to prospective new players, or meet other players from Mossel Bay and surrounds. , ad hoc , Candice Barker (phone: 0446905547)", 
+        "name": "Mossel Bay"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          25.5323982239, 
+          -33.9437871712
+        ]
+      }, 
+      "layer": "ZA", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.sagoclubs.co.za/other-clubs/ , There are no clubs in the Eastern Cape. However, anyone there interested in the game can contact William Mapham <william.mapham@gmail.com> or Patrick Lee <alobar@telkomsa.net>", 
+        "name": "Port Elizabeth"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          18.468875885, 
+          -33.9386959386
+        ]
+      }, 
+      "layer": "ZA", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.sagoclubs.co.za/cape-town-club/ , The previous venue has closed: Obz Café and \"That Place\" are possible new venues. , Tuesday evenings from 19h00", 
+        "name": "Cape Town"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          31.0382330418, 
+          -29.8498474347
+        ]
+      }, 
+      "layer": "ZA", 
+      "type": "Feature", 
+      "properties": {
+        "description": "(info date: May 2006) Peter Charter is at work resuscitating the Durban Go club.  Meetings: at the Steers on North Beach, on Tuesdays. , Start 18h30 on Tuesdays , Peter Charter (cellphone: 082 900 1496) or Tony Clulow (home phone: 031 702 1749).", 
+        "name": "Durban Go club"
       }
     }
   ]
