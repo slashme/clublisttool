@@ -1,0 +1,6501 @@
+{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -93.2877659797668, 
+      44.9521573692219
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Bob's Java Hut, 2651 Lyndale Ave S, Minneapolis, MN 55408, Mondays, 18:00-23:00, 612-871-4485", 
+    "name": "Twin Cities Go Club (Monday)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -93.2461702823639, 
+      44.969405538329
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Hard Times Cafe, 1821 Riverside Avenue, Minneapolis, MN 55454-1034, Thursdays 18:30-22:00", 
+    "name": "Twin Cities Go Club (Thursday)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -93.1877517700195, 
+      44.9397114784311
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Coffee Bene, 53 Cleveland Avenue South, Saint Paul, MN 55105, Saturdays, 13:00-17:00, 651-698-2266", 
+    "name": "Twin Cities Go Club (Saturday)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -87.7178800106048, 
+      41.9214748362339
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": "Harridan Go Club (unofficial)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -87.682056427002, 
+      42.0487986889771
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": "Evanston Go club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -82.5732421875, 
+      28.0525908233
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://www.facebook.com/tampagoclub/ - http://www.meetup.com/Tampa-Bay-Go-Baduk-Players/ , Saturdays", 
+    "name": "Tampa Go Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -77.8597855568, 
+      40.7933274655
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Musser Room (we share with the Chess Club), every Saturday 14:00, schlowgo@gmail.com", 
+    "name": "Schlow Library Go Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -75.5630743503571, 
+      6.25571153214506
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://www.facebook.com/Asociación-Colombiana-de-Go-266936886710738/, Carrera 49 Nº 58-44, Barrio Prado Centro, Domingos a partir de las 14:00, Juan Carlos Pachó", 
+    "name": "Go Medellin"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -74.0435063839, 
+      4.68897699775
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://www.facebook.com/Asociación-Colombiana-de-Go-266936886710738/, Calle 106, número 13-33, Sábados tarde, Federico Pareja", 
+    "name": "Go Bogota"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -64.782949090004, 
+      32.2931208778792
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://www.facebook.com/BermudaGo", 
+    "name": "Bermuda Go Society"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -52.3317557, 
+      4.9434517
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Guyane - Club de go Place des Amandiers pl+Auguste+Horth,+CAYENNE les samedi entre 10 heures et 12 heures http://gocayenne.blogspot.com/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -9.15444, 
+      38.73447
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.go-portugal.org/index.php/onde-jogar/55-lisboa, Centro de Bridge de Lisboa,  na Av. António Augusto de Aguiar, 163-4º Esq. (perto do El Corte Ingles)., aos Domingos à tarde, Pedro Carmona - 91 627 0944 p.carmona@go-portugal.org ; Rui Malhado - 91 485 0532 rui.malhado@go-portugal.org ; Vasco Pimenta - 93 426 3497 vasco@go-portugal.org", 
+    "name": "Lisboa"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -9.14295, 
+      39.40331
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.go-portugal.org/index.php/onde-jogar/57-caldas-da-rainha, Centro de Juventude das Caldas da Rainha, R. de Vitorino Frois 22, Sábados às 18:00, Combinar antecipadamente com Francisco Pereira: xikkuh@gmail.com", 
+    "name": "Caldas da Rainha"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -9.07514, 
+      53.28963
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3180, Westwood House Hotel bar , Wednesday 20:00 - players normally present from 19:30 , Richard Brennan ", 
+    "name": "Galway"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -8.6271, 
+      41.1474
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.go-portugal.org/index.php/onde-jogar/56-porto, Crystal Park (o encontro é em frente ao Tropical Burger), Quintas a partir das 21h00, Cristóvão Neto - 93 695 2487 chris@go-portugal.org", 
+    "name": "Porto "
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -8.49208, 
+      51.896337
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3168, Cork Cricket Club, Mardyke Walk  , Sunday 20:00 ", 
+    "name": "Cork (UCC Weiqi Club)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -8.4292, 
+      40.211
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.go-portugal.org/index.php/onde-jogar/64-coimbra, Quem estiver interessado em jogar pode contactar o Pedro - kemedo@hotmail.it", 
+    "name": "Coimbra "
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -8.42008, 
+      41.55126
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://clubegobraga.wordpress.com/, Livraria Centésima Página, avenida central 118-120, 4710-229 braga, portugal, no 2º e 4º sábado de cada mês, às 10h, clubegobraga@gmail.com | https://www.facebook.com/gobraga", 
+    "name": "Clube de Go Braga"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -6.29729032516, 
+      36.5339502547
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://gocadiz.wordpress.com, Casa de la Juventud de Cádiz (C/Cánovas del Castillo, 41 C.P. 11004 Cádiz) , Sábados: Aproximadamente de 10:00 a 13:30, agocamail@gmail.com", 
+    "name": "Asociación de Go de Cádiz "
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -6.24886, 
+      53.336883
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3169, The Baggot Inn, 135 Lower Baggot Street, Dublin 2 , Monday about 20:30-21:00 until midnight most weeks ", 
+    "name": "Dublin (Collegians Chess and Go Club)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -6.24886, 
+      53.336883
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3169, The Baggot Inn, 135 Lower Baggot Street, Dublin 2 , Wednesday about 20:30-21:00 until midnight ", 
+    "name": "Dublin (Collegians Chess and Go Club)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -6.1987678, 
+      57.4044894
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3231, IV51 9GU Givendale Guest House, Heron Place, Portree, Isle of Skye , Tuesday 19:30 , Carel Goodheir Tel: 01478 611763. Jurriaan Dijkman Tel: 01478 612183, 07554 434215 ", 
+    "name": "Skye"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -5.98731279373, 
+      37.3881886426
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.andalucia-go.org/index.php/la-asociacion-de-go-de-andalucia/la-carboneria, La Carbonería, Sábado 20:00", 
+    "name": "Asociación de Go de Andalucía"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -5.93305, 
+      54.57933
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3145, BT9 5FJ Function Room, Belfast Boat Club, 12 Lockview Road , Monday 19:00 , James Hutchinson ", 
+    "name": "Belfast"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -5.93305, 
+      54.57933
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/4563, BT9 5AW 86 Stranmillis Road , Thursday 18:30 , James Hutchinson ", 
+    "name": "Belfast"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -5.247745, 
+      50.228835
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/5195, Bluefruit Software, Gateway Business Centre, Barncoose, Redruth, Cornwall TR15 3RQ , Friday 13:00 - 14:00 , Paul Massey Tel: 07966 474686 ", 
+    "name": "Mid-Cornwall"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -5.218773, 
+      50.198643
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3211, Penhalurick Barton, Penhalvean, Redruth, Cornwall TR16 6TG , Tuesday 20:00 , Paul Massey Tel: 07966 474686 ", 
+    "name": "Mid-Cornwall"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -5.21861448917604, 
+      50.1019853
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3239, TR12 7AD John Culmer's house, Rose-in-Vale, Gweek, Helston  , Thursday 20:00 , John Culmer Tel: 01326 573167 ", 
+    "name": "West Cornwall"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -4.47083473206, 
+      36.7165266779
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://gomalaga.es/la-asociacion/about/, Escuela Tecnica Superior de Informatica , los viernes por la tarde (A partir de las 17:00h, y hasta las 21:00h aproximadamente), gomalaga@gmail.com", 
+    "name": "Asociacion Malagueña de Go"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -4.468688, 
+      48.4041422
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Brest - Tenuki MPT Pen ar Créac%27h 17+rue+Professeur+Chrétien,+29200+Brest le vendredi soir à partir de 20h http://tenuki-brest.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -4.46697, 
+      54.19823
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3191, Phone for details , Sunday 20:00 , David Phillips, 4 Ivydene Ave, Onchan IM3 3HD Tel: 01624 612294, 07624 473688 ", 
+    "name": "Isle of Man"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -4.288999, 
+      55.871799
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3181, Gilchrist Postgraduate Club, University Avenue, University of Glasgow, G12 8QQ , Thursday 18:00 , Seigfried Leher ", 
+    "name": "Glasgow University"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -4.05362, 
+      52.72095
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3142, By arrangement , Baron Allday Tel: 01341 280365 ", 
+    "name": "Barmouth"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -3.9576637, 
+      51.6152447
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3244, SA1 4JJ The Mill Pub, 75 Brynymor Road , By arrangement , Dylan Carter ", 
+    "name": "Swansea"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -3.9129148, 
+      47.8726195
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Concarneau Bar Le Cabestan Ville-Close+Concarneau Le Samedi à 14h30 nosite"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -3.81771683692932, 
+      43.4581135923856
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://canbaduk.wordpress.com, en el Centro Cívico Callealtero, los jueves a las 19:00h", 
+    "name": "Canbaduk"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -3.71191442013, 
+      40.4225648282
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.clubgomadrid.org/, Círculo Catalán, Plaza de España nº6, Madrid, los lunes, jueves y viernes de 19:00 a 22:00, http://es.groups.yahoo.com/group/nam-ban/", 
+    "name": "Nam-Ban"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -3.5303122, 
+      50.7208506
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3177, EX1 1ED White Hart Inn, South Street , Monday 19:00 , David Storkey Tel: 01392 461182 ", 
+    "name": "Exeter"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -3.4580295, 
+      48.736696
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Go&Lan : Club de Go du Trégor Bar %27Les Valseuses%27 1 rue de la Coudraie, 22300 LANNION les JEUDI soirs, A partir de 20h30, Il est prudent de lancer un appel sur la liste avant de venir (surtout en période de vacances scolaires).  http://www.lesvalseuses.net/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -3.3835195, 
+      47.7603015
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Lorient.  Galway Inn 18 rue de Belgique, 56100 Lorient Le mardi à partir de 20h, http://www.pubgalway-lorient.com/accueil.htm"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -3.3586441, 
+      47.7512076
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Lorient.  Cité Allende 12+rue+Colbert,+56100+Lorient Le samedi de 14h à 18h http://goanoriant.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -3.20868784881105, 
+      51.4844325584186
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3164, CF5 1QE Cafe area of Chapter Arts Centre, Market Road, Cardiff , Tuesday 19:00-23:30 , Dylan Carter ", 
+    "name": "Cardiff"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -3.2014957, 
+      55.9443777
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3174, EH3 9JB Edinburgh Games Hub, http://edinburghgamehub.co.uk/ , Thursday 18:30 , Phil Blamire Tel: 0131 663 0678 ", 
+    "name": "Edinburgh"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -2.9931106, 
+      56.456211
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3170, DD2 1AS Mennie's, aka the Speedwell Bar, 165-167 Perth Road , Monday from 20:00 during University terms , Rich Philp Tel: 01382-666129Peter Clinch Tel: 01382 665322 ", 
+    "name": "Dundee"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -2.93065667152, 
+      43.2678625517
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.escueladegodebilbao.com/, Restaurante Larruzz Bilbao (Antiguo Tapelia), en el Paseo de Uribitarte nº 14, de Bilbao, junto al Puente de Calatrava, todos los miércoles entre las 18'30 y las 21'30 horas ", 
+    "name": "Escuela de Go de Bilbao"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -2.8914201982706, 
+      53.1886174371442
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3167, CH1 2LB Ye Olde Custom House Inn, 65-67 Watergate Street , Wednesday 20:00 - players normally present from 19:30 , Tony Pitchford Tel: 01925 730583 ", 
+    "name": "Chester"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -2.7981853871402, 
+      56.340071512822
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3235, KY16 9UX Aikman's Cellar Bar, 32 Bell Street , Tuesday 19:30-23:00 , Edwin Brady ", 
+    "name": "St Andrews"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -2.79297358349193, 
+      54.0466159409838
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3184, LA1 3PY Gregson Community Centre, 33 Moorgate , Wednesday 20:00 - players normally present from 19:30 , Adrian Abrahams Tel: 01524 34656 ", 
+    "name": "Lancaster"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -2.7274482, 
+      55.606769
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3150, TD6 9NP Greenwells, Gattonside near Melrose and Galashiels , By arrangement , Ron Bell ", 
+    "name": "Borders"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -2.7004613, 
+      50.9387109
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3131, BA22 8TX Mason's Arms, 41 Lower Odcombe, Odcombe , Thursday 19:45 , Julian Davies Tel: 01935 423046 ", 
+    "name": "Yeovil"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -2.59758, 
+      51.45624
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3156, BS1 5AE Bristol County Sports Club, 40 Colston Street, Bristol , Wednesday 19:00 , Luke Oram ", 
+    "name": "Bristol"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -2.45855, 
+      52.83697
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3187, By arrangement , Roger Huyshe Tel: 01952 550361 for details of local players ", 
+    "name": "Hinstock"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -2.39513594148765, 
+      51.3790174481156
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3144, BA1 3EN Meets various places - check club web site. , Tuesday 19:30 , Paul Christie Tel: 01225 428995 ", 
+    "name": "Bath"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -2.2398008, 
+      53.4805574
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://www.facebook.com/groups/1752760928343423/1756314767988039/?notif_t=group_activity\" 0=\"a:0:{}, M2 2AA The Shakespeare pub, 16 Fountain Street , Thursday 18:00 , Chris Kirkham Tel: 0161 903 9023 ", 
+    "name": "Manchester"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -2.10586390402163, 
+      57.1656495732931
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3140, AB24 3AA Hardback Cafe, Aberdeen University \"Sir Duncan Rice Library, Bedford Road, Aberdeen , Saturday 11:00 every second one from 19/04/14, but check website , Neil McLean ", 
+    "name": "Aberdeen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -2.07656, 
+      51.89862
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3166, Wednesday 19:30 , Adam Watts Tel: 07403 475573 ", 
+    "name": "Cheltenham"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.91064765766123, 
+      52.4782216474506
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3148, B1 2EA Starbucks cafe in the International Convention Centre (ICC) , Sunday 14:00 , Andrew Russellhttp://www.brumgo.co.uk/ ", 
+    "name": "Birmingham"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.87724721565716, 
+      50.7488004472072
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3153, BH9 2UJ 24 Cowper Road, Moordown , Tuesday 20:00 , Marcus Bennett Tel: 01202 512655 ", 
+    "name": "Bournemouth"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.83492588, 
+      51.55013431
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3241, SN5 8LY Windmill Pub, Freshbrook Village Centre, Worsley Road , Wednesday 19:30 , David King, 21 Windsor Rd, Swindon Tel: 01793 521625 ", 
+    "name": "Swindon"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.78095942978267, 
+      51.5565506239891
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3242, SN1 3JS The Beehive, Prospect Hill , Sunday evening , David King, 21 Windsor Rd, Swindon Tel: 01793 521625 ", 
+    "name": "Swindon"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.7748336, 
+      53.8344245
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3152, BD18 3ST The Noble Comb, Quayside, Salts Mill Road, Shipley , Wednesday 19:30 , Ewen Pearson Tel: 01274 598980 ", 
+    "name": "Bradford"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.6981817, 
+      48.1138233
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Rennes Club Rengo Institut Confucius 17 rue de Brest, 35000 Rennes Les samedis de 15h00 à 18h00 http://rennes.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.6740972, 
+      48.1063566
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Rennes Club Rengo Bar L%27Heure du Jeu 11 Bd Magenta, 35000 Rennes Les lundis de 20h00 à 01H00 http://rennes.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.64359331131, 
+      42.8194862808
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://playinplona.alejostenuki.com/?page_id=32, en el local comunitario de Auzoenea de la asociación de vecinos del centro histórico de Pamplona, los martes de 17.00 a 20.30, playinplona@gmail.com", 
+    "name": "Club de Go de Pamplona"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.6051602, 
+      52.2457926
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3192, CV35 8EP 22 Keytes Lane, Barford, Warwickshire , Thursday 19:30, not Easter Thursday , Matthew Macfadyen Tel: 01926 624445 ", 
+    "name": "Leamington"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.58450460919879, 
+      54.7754614303746
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3172, DH1 4PS The Elm Tree pub, Crossgate , Thursday 20:00-22:00 during term-time , Andrew Ambrose-Thurman ", 
+    "name": "Durham"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.579723, 
+      54.7600027
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3171, DH1 3TQ The Bar, Ustinov College, Howlands Farm , Monday 20:00-22:00 during term time , Andrew Ambrose-Thurman ", 
+    "name": "Durham"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.5603331, 
+      52.3787168
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3238, CV4 7AL Room B2.03 on campus (see website for directions) , Wednesday 17:00-20:00 during University term , Philip Leung ", 
+    "name": "Warwick University"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.5577702, 
+      53.8048979
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3193, LS2 9NG The Faversham, 1-5 Springfield Mount, Leeds , Tuesday 17:30-20:30 , Jitse Niesen ", 
+    "name": "Leeds University"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.5498472, 
+      47.2062504
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " club de go de Nantes Maison des jeux 14 rue Michel Rocher, Nantes le samedi après-midi de 14 heures à 19 heures http://nantes.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.5355901, 
+      47.2217991
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " club de go de Nantes AJFJ 75 rue d’Allonville, Nantes les mardi à partir de 18h30 http://nantes.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.48729028289892, 
+      53.382744200046
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/4456, S10 2TG Student Union Gallery Eye room, Western Bank , Tuesday 18:00-21:00 in term-time , David Philpott ", 
+    "name": "Sheffield University Go Society"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.4720451, 
+      43.4897198
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de go de Bayonne Café des Pyrénées 62 rue Pannecau, Bayonne.  Les Mardis à partir de 18h.  http://bayonne.jeudego.org"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.46276520049956, 
+      53.3782610349486
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3230, S1 2BG (Since October 2015): The Old Queens Head, 40 Pond Hill, Sheffield, South Yorkshire  , Sunday 19:30 , Phil Barker Tel: 0114 255 1440 (home) ", 
+    "name": "Sheffield"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.30736, 
+      51.0578146
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3129, SO23 9NQ The Black Boy Public House, 1 Wharf Hill, Bar End  , Wednesday 19:30 , Mr John Tilley, The Old Cottage, Micheldever, Winchester, Hampshire SO21 3DF Tel: 07824-163776 ", 
+    "name": "Winchester"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.27639, 
+      54.56458
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3212, Meets by arrangement , Matthew Holton ", 
+    "name": "Teesside"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.2637618, 
+      51.7581354
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3222, OX2 6AH Freud's Cafe Restaurant, 119 Walton Street , Tuesday 19:30-23:00 , Harry Fearnley, 38 Henley Street, Oxford OX4 1ES Tel: 01865 248775 (day/eve) ", 
+    "name": "Oxford City"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.25093916090593, 
+      51.7511179
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3223, OX1 4JD Fitzjames 2 in Merton College, Merton Street, Oxford , Thursday 19:30-23:00 - wks 1-8 Oxford Univ term , Toby Cathcart Burn Tel/Text: 07821 199649 ", 
+    "name": "Oxford University"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.2305961, 
+      52.6291197
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3194, LE9 2EN Stephen Bashforth's house, Mayfield, Station Road, Kirby Muxloe , Thursday 19:45 , Toby Manning Tel: 01530 245298 ", 
+    "name": "Leicester"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.21634470518728, 
+      52.9265494728415
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3219, NG9 1AA The Last Post, Chilwell Road, Beeston , Wednesday 19:30-22:00 , Brent Cutts Tel: 0115 959 2404 ", 
+    "name": "Nottingham"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.1485687, 
+      46.1568966
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Go de La Rochelle la grosse boîte 65 Rue Saint-Nicolas, 17000 LA ROCHELLE chaque mardi à partir de 18h00, chaque jeudi à partir de 18H00, chaque samedi à partir de 14H00 http://www.golarochelle.com/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.0822194, 
+      53.9606907
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3135 YO1 7HU Moroccan Room, El Piano (www.el-piano.com), 15 - 17 Grape Lane, York  , Tuesdays 19:30 check on Twitter @yorkgoclub , Chris Maughan ", 
+    "name": "York"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.0534877, 
+      53.9485036
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://yorkgosociety.wordpress.com/ YO10 5DD V Bar, Vanburgh College, University of York, Heslington , Tuesday 18.00 - 21.00 , Leonardo Sandoval ", 
+    "name": "York University"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -1.0462696, 
+      50.8655411
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3226, PO7 5LU Mostly at Peter Wendes's house , Thursday evenings - most weeks , Peter Wendes Tel: 02392 267648 ", 
+    "name": "Purbrook"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.9722766, 
+      51.456639
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3229, RG1 1EU Eclectic Games, 5 Union Street, Reading , Monday 18:30 except bank holidays , Jim Clare, 32-28 Granville Rd, Reading, RG30 3QE Tel: 0118 950 7319 ", 
+    "name": "Reading"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.8828779, 
+      52.2446911
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3450, NN1 4JQ Blackcurrent Centre, St Michaels Avenue, Abington, Northampton (www.blackcurrentcentre.org.uk) , Wednesday 19:00 , Thomas Streamer 07926357826 ", 
+    "name": "Northampton"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.7692317, 
+      52.0384223
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3214, MK9 1EA Wetherspoons, 201 Midsummer Boulevard , Tuesday 18:15 , Tim Hunt Tel: 07850 119939 ", 
+    "name": "Milton Keynes"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.758857195357585, 
+      51.4060111
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3151, RG12 7DL The Green Man, Crowthorne Road , Tuesday 20:00 meets by arrangement only , Ian Marsh Tel: 01344 422296 ", 
+    "name": "Bracknell"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.7343283, 
+      51.5219319
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3208, Friday 20:00 , Iain Atwell, Norhurst, Westmorland Rd, Maidenhead, SL6 4HB Tel: 01628 676792 ", 
+    "name": "Maidenhead"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.711252, 
+      52.0242571
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3213, MK7 6AA The coffee bar in the Catering Hub, The Open University, Walton Hall , Tuesday 12:15-13:15 , Tim Hunt Tel: 07850 119939 ", 
+    "name": "Milton Keynes"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.5714713, 
+      44.8365008
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Bordeaux.  Café jeux Jeux Barjo 12 rue Saint-James, 33000 Bordeaux Le Samedi à 14h30, au http://www.kitani.org"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.5710535, 
+      43.4955325
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Pau MJC du Lau 81+avenue+Loup,+Pau Le Samedi de 14h30 à 18h, à la http://pau.jeudego.org"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.5693456, 
+      44.8352719
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Bordeaux.  La Zone du Dehors 68 cours Victor Hugo - Bordeaux Le jeudi soir entre 18h00 et 22h00 environ à la ZDD http://www.kitani.org"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.5576355, 
+      50.8534235
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3141, BN18 9DF 1 Town Quay, River Rd, Arundel, West Sussex , Sunday - last in month, but please ring first to confirm , Sue Paterson Tel: 07549 898376 ", 
+    "name": "Arundel"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.547897081140346, 
+      47.47355415
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " L%27âge de pierre, club de Go d%27Angers.  Café le Welsh place Imbach, Angers Le Samedi de 17h à 20h http://lagedepierre.over-blog.com/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.5389319, 
+      53.2341567
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3195, LN2 1LU The Wig and Mitre, Steep Hill , Monday 19:00-22:00 (1st Mon) , Richard Leedham-Green ", 
+    "name": "Lincoln"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.4994288, 
+      43.8892157
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Mont de Marsan.  bar l%27Aviator 2 place St Roch, 40000 Mont-de-Marsan Le Jeudi à partir de 20h., au http://marsan.jeudego.org"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.376625061035156, 
+      39.4714502602773
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://www.facebook.com/clubdegovalencia/?fref=ts, los miércoles de 18.00 a 21.00, Adela Ibáñez +34 656 48 11 27", 
+    "name": "Club de go Malvarrosa"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.3741493, 
+      43.2973105
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Pau Librairie-Bar l%27Entropie Rue Bernadotte, 64000 Pau En semaine http://pau.jeudego.org"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.3659699, 
+      49.186748
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Go Club de Caen Le Kitch café 100 Rue de Geôle, 14000 Caen Le Mardi soir http://caen.jeudego.org"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.348889686595133, 
+      53.7639521608161
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3189, HU5 1LL 12 Fitzroy St, Beverley Rd , Thursday 20:00 , Mark Collinson Tel: 01482 341179 ", 
+    "name": "Hull"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.3368138, 
+      51.7500809
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3233, AL1 1RT The Garibaldi, 61 Albert Street , Wednesday 20:00 until pub closing , Secretary: Brian Ellis 01727 872575, Mike Cockburn 01727 834035 ", 
+    "name": "St Albans"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.331331781603036, 
+      51.4419936807984
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3206, TW1 4RB The Alexander Pope Hotel, Cross Deep, Twickenham, West London , Wednesday 19:30 , Colin Maclennan Tel: 020 8941 1607 ", 
+    "name": "London, Twickenham"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.2646228, 
+      51.3338915
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3176, KT19 Epsom , Occasionally , Matthew via mobile: 07752 - 301 096 ", 
+    "name": "Epsom"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.2276028, 
+      51.9776758
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/club/letchworth, SG6 3TR Central Methodist Church, Norton Way South  , Thursday 20:00-22:30 during term-time , Alison Bexfield ", 
+    "name": "Letchworth Go Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.2276028, 
+      51.9776758
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/4212, SG6 3TR Central Methodist Church, Norton Way South  , Thursday 18:00-19:30 during term-time , Alison Bexfield ", 
+    "name": "Letchworth Junior Chess and Go Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.227139856293309, 
+      51.5019641424903
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/5225, W12 8HA Young Chelsea Bridge Club, 54 Goldhawk Road , Monday 19:00 , Gerry Gavigan ", 
+    "name": "London, West"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.227139856293309, 
+      51.5019641424903
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/5236, W12 8HA Young Chelsea Bridge Club, 54 Goldhawk Road , Wednesday 19:00 , Gerry Gavigan ", 
+    "name": "London, West"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.178857120142765, 
+      51.5558438026085
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3202, NW3 6UU Allatson Room, Parish Church, Church Row, Hampstead , Tuesday 19:30 , Michael Webster ", 
+    "name": "London, North"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.1318, 
+      50.8406
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3155, BN1 4SD Druid Arms, 79-81 Ditchling Rd , Wednesday 20:00 , Felix Shardlow tel: 07940 973406John Allen aka \"Yogi\" Tel: 01273 383254 or 07854 218920Jil Segerman Tel: 07920 865065 or 01273 470346 ", 
+    "name": "Brighton"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.1264609, 
+      50.8272903
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/club/brighton, BN2 9UF The Southover Pub, Southover St , Monday 20:00 , Felix Shardlow 07940 973406https://www.facebook.com/groups/brightongoclub/  ", 
+    "name": "Brighton"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.1100581, 
+      51.5178439
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3197, EC1N 2LE The Inn of Court pub, 18 Holborn , Friday 18:00-23:00 , Richard Mullens; Kiyohiko Tanaka Tel: 07956 594040 KGS: matta", 
+    "name": "London City"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      -0.1100581, 
+      51.5178439
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3198, EC1N 2LE The Inn of Court pub, 18 Holborn , Saturday 12:00-20:00 , Jonathan Turner Tel: 07968 538881 (mobile). ", 
+    "name": "London, Central"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      0.0282214, 
+      51.5760603
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3199, E11 2NT Wanstead House, 21 The Green, Wanstead , Thursday 19:00 except August , Francis Roads Tel: 020 8505 4381 ", 
+    "name": "London, East"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      0.0372064959226987, 
+      51.48040805
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3165, SE7 8RE Charlton House, Charlton Road, London , Tuesday 19:30 , Tony Stebbings ", 
+    "name": "Charlton Chess Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      0.0941029, 
+      49.497372
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club du Havre S A M St Vincent Rue+Guillemard,+Le+Havre Le lundi de 18h à 20h30 http://clubdegohavrais.wordpress.com"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      0.0992885, 
+      50.7838979
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/4282, BN25 2QT 149 Princess Drive, Seaford , Thursday 19:00-21:30 (not every week) , Karen van den Zyl tel: 01323 351473 ", 
+    "name": "Seaford"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      0.103866856481811, 
+      52.20529622534
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3159, CB3 9AN Linnett Room, Robinson College , Monday 19:00-22:00 during University terms (possibly on hold this term) , Sean Hao ", 
+    "name": "Cambridge University"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      0.107533097928058, 
+      52.2195568237466
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/club/cambridgejunior, CB4 3PS St Augustine's Church Hall, Richmond Road , Wednesday 18:00-19:30 , Paul Smith Tel: 01223 563932 ", 
+    "name": "Cambridge Junior Chess and Go"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      0.116365110259831, 
+      52.2012165821655
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3160, CB2 1RU University Centre, Mill Lane , Thursday 19:00-21:00 , Sean Hao ", 
+    "name": "Cambridge University"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      0.138665954407287, 
+      52.1973774018734
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3158, CB1 2BH , Sunday 17:30-20:00 , Simon Mader ", 
+    "name": "Cambridge City"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      0.1899502, 
+      48.0076934
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Le Mans Go Le Mans Go 16 rue du Chêne vert, 72000 LE MANS Le mercredi soir à partir de 20H30 http://lemansgo.over-blog.fr"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      0.2583921, 
+      51.19504
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/5190, TN9 1XJ 4 Ives Road , Tuesday 19:30 , Michael Pickles ", 
+    "name": "Tonbridge"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      0.3444278, 
+      46.5828369
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Go du Poitou Au Café des Arts, 5 Place Charles de Gaulle, Poitiers, tous les mardis à 21h00.  http://poitiers.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      0.4350939, 
+      51.6243999
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/3147, CM11 2HQ 42 Mons Avenue, Billericay, Essex , Monday 19:30 in term-time , Guy Footring Tel: 01277 623305 ", 
+    "name": "Billericay"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      0.688085440742972, 
+      47.3954867
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de go de Touraine.  bar-restaurant les Blancs-Manteaux 27 rue Colbert, Tours Le jeudi http://touraine.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      1.012608, 
+      47.4134641
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de go de Touraine.  Amboise, hotel Ibis Chemin+du+Roy,+37400+Amboise Le vendredi http://touraine.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      1.0803548, 
+      49.4279612
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Description : Club de Rouen Maison Saint-Sever Rue Saint-Julien, 76000 Rouen Le Mardi de 20h00 à 24h; Le Samedi de 14H à 18H http://rouen.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      1.09364, 
+      51.27998
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.britgo.org/node/5002, CT2 2JQ Chocolate Cafe in Canterbury, 1 Guildhall Street, Canterbury , Wednesday evenings from about 7.00pm , Andy Renshaw ", 
+    "name": "Canterbury Go Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      1.1572835, 
+      49.0376167
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Évreux A l%27Eure du go 2 Avenue Aristide Briand 27000 Evreux Samedi soir à partir de 17H aleuredugoyahoo.fr"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      1.2797737, 
+      43.6183104
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Toulouse - Club Go Seigen, Section Pibrac salle du 3ème âge Boulevard des Écoles, Pibrac les lundis soir à partir de 21h http://toulouse.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      1.29667416574368, 
+      43.826081
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Toulouse - Club Go Seigen Section Grisolles Ludothèque de Grisolles 11 rue de la Campadou, 82170 Grisolles Les 2nd et 4ème jeudis du mois à 21h http://toulouse.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      1.34, 
+      43.4411
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Toulouse - Club Go Seigen Section Muret Restaurant L’Arche 21 route d’Eaunes, 31600 MURET Le lundi après-midi Le samedi après-midi Horaires d’hiver : Du lundi au mercredi : de 9h00 à 19h00 sans interruption Du jeudi au samedi : de 9h00 à 23h00 sans interruption http://toulouse.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      1.36200135474462, 
+      43.60290985
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Toulouse - Club Go Seigen C.E. C.S.  Europarc à St martin du touch tous les jeudi de 12h15 à 14h http://toulouse.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      1.3638494, 
+      43.6114244
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Toulouse - Club Go Seigen C.E. Airbus Airbus,+Toulouse Les Mardi et Jeudi de 12h15 à 14h http://toulouse.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      1.3834067, 
+      43.5641396
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Toulouse - Club Go Seigen C.E. Thales 105 av. du Général Eisenhower, 31100 Toulouse Le Mardi de 12h30 à 14h, au http://toulouse.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      1.4370899, 
+      43.610843
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Toulouse - Club Go Seigen Le Cactus 13 boulevard Lascrosses, 31000 Toulouse Le Mercredi soir de 19h à 23h http://toulouse.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      1.488117, 
+      43.6128169
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Toulouse - Club Go Seigen Section Balma salle COMPAS 4+rue+des+Jardins,+Balma les jeudis soirs de 20h30 à 23h Et tous les deuxième et 4ème samedi de chaque mois http://fr.groups.yahoo.com/group/section_go_balma/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      1.4940079, 
+      43.5811093
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Toulouse - Club Go Seigen Salle Omega, bâtiment B, C.S.  Rue Brindejonc des Moulinais, 31500 Toulouse Tous les mercredi de 12h15 à 14h, http://toulouse.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      1.5013216, 
+      43.6041831
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Toulouse - Club Go Seigen Ecole de GO 63+Rue+Antoine+de+Saint-Exupéry,+Toulouse Les vendredi soir de 18h à 20h http://toulouse.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      1.5580515, 
+      43.5152281
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " club de go de Nantes Café du commerce 9 pl Commerce les Lundi et Mercredi à partir de 18H http://nantes.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      1.67535031022182, 
+      46.8123575
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Rennes Club Rengo Diapason campus de Beaulieu Les Jeudis entre 12h et 14h http://rennes.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      1.9064219, 
+      47.8989265
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Go d%27Orléans.  Les Becs à Vin 8 place du Châtelet Le mardi soir à partir de 20h30 http://orleans.jeudego.org"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      2.030759, 
+      49.035042
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Le Club de Vauréal à la Maison Vallerand 49.034831, 2.032363 tous les lundis de 21h à 2h; tous les vendredis partir de 20h à 2h http://vaurealgo.jeudego.org"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      2.1316077, 
+      48.8073696
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Versailles Bistro Franco Belge 3 rue de la Pourvoierie Tous les mardis à partir de 20h00.  http://versailles.jeudego.org"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      2.15779423714, 
+      41.3872011759
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://lapedra.org, Av. Roma 159 2º, compartint espai amb el club de Bridge Mayda, els dimarts a partir de les 19:30, lapedra@googlegroups.com", 
+    "name": "Club de Go La Pedra"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      2.1898834, 
+      48.6988112
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Go d%27Orsay Maison des Muses 7+bis+Avenue+Saint+Laurent,+Orsay Mercredi à partir de 20h30 http://orsay.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      2.2370825, 
+      48.8276817
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Boulogne-Billancourt Club de Boulogne Billancourt 17 ALLÉE ROBERT DOISNEAU 92100 BOULOGNE BILLANCOURT Le vendredi de 20h à minuit http://boulogne.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      2.2596328, 
+      48.9314889
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Colombes Association TUMCLASST 2 avenue Jean Jaurès, colombes le second samedi du mois de 15h à 19h au salon de thé - laverie Tout un monde http://www.tumclasst.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      2.2922588, 
+      48.8953403
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club du Jeu de Go, Levallois-Perret.  Maison des Associations 34 rue Pierre Brossolette 92300 Levallois-Perret Samedi de 14h à 17h.  Jeudi à partir de 20h30. Pour savoir si le club est ouvert un jeudi, contacter Rémy NOËL.  http://levallois.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      2.300436, 
+      48.7502414
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Antony 1 Place des Anciens Combattants d'Afrique du Nord 1 Place des Anciens Combattants dAfrique du Nord, 92160 Antony Le jeudi de 19h30 à 23h, Le samedi de 14h à 17h http://antony.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      2.3033547, 
+      48.8372731
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de l%27Ouest Parisien.  Local social du COP 43 rue La Quintinie - Paris-15e Le samedi de 14h30 à 19h, http://cop.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      2.3330426, 
+      48.7963426
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Cercle de Go à la maison Tilly Cercle d Activités Culturelles Cachan, Maison Tilly 3 rue Raspail 94230 Cachan Le Lundi de 19h45 à 21h pour les jeunes et l%27initiation, et de 20h à 23h pour les adultes http://cachan.jeudego.org"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      2.3467261, 
+      48.8324688
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Paris - Observatoire L%27Observatoire Au café Le Monaco 2 rue Vulpian, Paris Permanences le mercredi de 19h à 23h http://www.goclub-observatoire.com/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      2.352208, 
+      48.8628573
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Paris - Club de Go de Paris Ouvert tous les jours de 16h.30 à la fermeture Café-Restaurant Le Djurdjura infogo-paris.org"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      2.3524205, 
+      48.8474706
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Paris - Jussieu Restaurant le Royal Jussieu 1 RUE DES ÉCOLES 75005 PARIS Le Jeudi de 19h à 23h http://gojussieu.free.fr/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      2.3635154, 
+      48.868001
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Chambéry Bar Pause Café 215 Rue République Le jeudi soir de 20h45-21h00 http://chambery.jeudego.org"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      2.3780216, 
+      48.8500447
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Go d%27Aligre (Paris XIIe) Le Troll Café 27 RUE DE COTTE, PARIS le mardi à partir 18H http://www.aligre.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      2.3939591, 
+      48.8717808
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Paris XX Club Pierre Desproges et Dolly Parton Bar «Les Trois-Arts» 21 rue des Rigoles 75020 Paris Le club ne se réunit plus, mais des jeux sont à votre disposotion, demander au bar http://victoire.b.free.fr/Paris20/index.html"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      2.4334228, 
+      48.8579954
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de l%27Est Parisien à Montreuil Centre culturel Jean Lurçat place+du+marché,+93100 Le Jeudi de 20h à 22h30, et le Samedi de 15h00 à 19h http://montreuil-cgep.jeudego.org"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      2.5571053, 
+      48.2573474
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Paris SNCF Club d%27entreprise de la SNCF 9 rue de Chateau-Landon les mercredis de 12h30 à 13h45 http://gorail.wix.com/club-go-rail"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      2.9981239, 
+      43.1855496
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " GO Narbonne Assoc%27épicée 2 quai de lorraine, 11100 NARBONNE Tous les samedis de 14h à 17 http://www.gonarbonne.fr"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      3.0811813, 
+      45.7786471
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Clermont-Ferrand.  BAR LE MAYERLING 4+rue+Saint-Dominique,+CLERMONT-FERRAND LES MARDI ET JEUDI DE 18H30 A MINUIT http://neversgo.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      3.083602, 
+      45.7808856
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Le Lundi à partir de 19h, Groupe Auvergnat de Go Café-Lecture Les Augustes 5 rue sous les Augustins, 63000 Clermont-Ferrand http://graug.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      3.1518447, 
+      46.9875564
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Clermont-Ferrand.  Centre Social VERT-PRE 1+rue+de+VertPré,+58000+Nevers Le Vendredi de 17h15 à 20h15 (et plus ...), au Centre Social de Vert-Pré http://neversgo.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      3.53513046778711, 
+      44.3698055
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club d%27Ispagnac.  Bibliothèque municipale Bibliothèque municipale, 48320 Ispagnac Le Mardi à 21h nosite"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      4.0223333, 
+      49.2511862
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Reims - Reims No Dan bar le kilberry 182 rue de Vesle, 51100 Reims Tous les mardi à partir de 19h http://www.kilberry.fr/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      4.3678704, 
+      52.0842279
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.goclubseki.nl, Wijkcentrum Essesteijn, Elzendreef 10, woensdag 19:45, Ming Au voorzitter 0615322616", 
+    "name": "GC Seki"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      4.3867316, 
+      44.6221146
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://club-go-aubenas.blogspot.de/, Couleur Café 1 PLACE JACQUES ROURE 07200 AUBENAS, Tous les jeudi soirs de 20h30", 
+    "name": "Aubenas - Couleur GO"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      4.3905008, 
+      45.4364026
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Saint Étienne.  Restaurant %27La Friterie%27 9 Rue Georges Dupré, 42000 Saint Etienne le Mercredi soir à partir de 20h à %27La Friterie%27"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      4.4648411, 
+      52.1564348
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://gobond.nl/node/2758, Denksportcentrum Leiden, Robijnstraat 4, donderdag 19:45", 
+    "name": "GC Leiden"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      4.5187534, 
+      52.0763136
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://gobond.nl/node/2762, Huiskamerpatio van Rob Groeneveld, Scharounlijn 14, Zoetermeer, Dinsdag 19:45", 
+    "name": "GC Amai Mizuumi"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      4.5328337, 
+      46.5261652
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Bordeaux.  Le bistroquet 173, Cours de L%27yser Le mardi soir à partir de 20H00 http://www.kitani.org"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      4.6506465, 
+      52.1209021
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://gobond.nl/node/2742, Wijkvereniging de Oude Wereld, Oude Wereld 57, Dinsdag 19:45", 
+    "name": "Alphen aan den Rijn"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      4.6868942, 
+      52.0190099
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://gobond.nl/node/2754, De Hoog Biljart- en Bridgecentrum, Nieuwe Gouwe Oostzijde 11b, Dinsdag 19:45, gouda@gobond.nl", 
+    "name": "GC GoGo"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      4.8364512, 
+      45.7657527
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Go Club Lyon Shinogi Restaurant Hua Yuan Xuan 20 rue Mulet Lyon 1er Lundi 19h - 22h30 http://lyon-shinogi.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      4.8449802, 
+      45.7512558
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Go Club Lyon Shinogi Bistrot Chez Thibault 80 rue Montesquieu Lyon 7e Mercredi 18h30 - 23h http://lyon-shinogi.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      4.8473375, 
+      45.7570833
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Go Club Lyon Shinogi Salle associative 233 rue Vendôme Lyon 3e Samedi 14h - 19h http://lyon-shinogi.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      4.8629475, 
+      45.7691648
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Go Club Lyon Shinogi Espace Lyon-Japon 16 Rue Bellecombe Lyon 6e Jeudi 17h - 19h http://lyon-shinogi.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      4.8633637, 
+      52.3152063
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://gobond.nl/node/2744, Amstelveen EGCC, Schokland 14, Dinsdag 19:45", 
+    "name": "De Twee Ogen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      4.8633637, 
+      52.3152063
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://gobond.nl/node/2745, Café Batavia 1920 tegenover het Centraal Station. Adres: Prins Hendrikkade 85, 1012 AE, Iedere woensdag avond vanaf 20:30, voorzitter@goinamsterdam.nl", 
+    "name": "Amsterdamse Go Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      4.9100484, 
+      44.9236125
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Valence - GONIROKU GONIROKU, MJC GRAND CHARRAN 61 AVENUE DU GRAND CHARRAN 26000 VALENCE Tous les Mercredi à partir de 18h30 http://goniroku.skyrock.com/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      4.9447282, 
+      43.9279198
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Go d%27Avignon Château de la chapelle, 2 ieme étage 84 Châteauneuf de Gadagne, Avignon Le Mercredi de 16h30 à 22h nosite"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      4.9886692, 
+      44.3856017
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Valreas salle Marius, Maison des associations Cours Victor Hugo 84600 Valréas le samedi de 14 à 18 heures http://valreas.jeudego.org"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      5.0056618, 
+      44.3863685
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Valreas Collège Vallis Aéria salle A4 Collège Vallis Aéria, Av. Jean Moulin, 84600 Valréas mardi, vendredi : 13h - 14h http://valreas.jeudego.org"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      5.0823331, 
+      52.0801693
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.goclubutrecht.nl/, NDC Den Hommel, Kennedylaan 9, maandag 19:30, Douwe van der Veen secretaris 06-52243622", 
+    "name": "Utrechtse goclub"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      5.22031316383, 
+      51.96191845
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://gobond.nl/node/2747, Restaurant Op de Haven, Helling 7, 4101 AE, Laatste zondag van de maand: 13:00-16:00, Rob Friederichs 06-39783298 culemborg@gobond.nl", 
+    "name": "GC Betuwe"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      5.22031316383, 
+      51.96191845
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "www.goclub-denbosch.nl, Volkstuinvereniging Pastoor Barten, De Herven 70, 5232 NJ ’s-Hertogenbosch, Dinsdagavond, vanaf 20:00 uur, Don Verheijen Voorzitter; Sybo Bruinsma Secretaris denbosch@gobond.nl", 
+    "name": "Goclub Den Bosch"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      5.2267711, 
+      51.9573743
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://gobond.nl/club/go-club-betuwe, Nanne van der Zijpp, Elisabethdreef 5, 4101 KN Culemborg, Tweede woensdag van de maand: 19:30-23:00 uur, Rob Friederichs 06-39783298 culemborg@gobond.nl", 
+    "name": "GC Betuwe"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      5.2748456, 
+      52.3972869
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://gobond.nl/node/2741, Almere Buurtcentrum \"de Wieken\" , Wo: 19:00-20:00 jeugd; 20:00-23:00 volwassenen, Rob van Fucht contactpersoon & website beheerder 06-34318824", 
+    "name": "Almere"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      5.4449388, 
+      43.5276886
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Le club de Go provençal Au Goût Du Monde 38+rue+des+Bernardines,+Aix-En-Provence Le samedi à partir de 15h30 http://www.aixetgo.fr/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      5.4546846, 
+      43.5285548
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Le club de Go provençal Ecole de Go café culturel et citoyen 23 Boulevard Carnot Aix-En-Provence 2 samedis par mois de 10h00 à 11h30 http://www.aixetgo.fr/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      5.4615582, 
+      51.4408011
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://eindhoven.gobond.nl/, ontmoetingscentrum 't Bellefort - Iepenlaan 40-42, maandagavond vanaf 19:30, Nicole de Beer voorzitter", 
+    "name": "Eindhovense GC"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      5.481, 
+      51.4409831
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://eindhoven.gobond.nl/, The Trafalgar Pub - Dommelstraat 21, donderdagavond vanaf 20:00, Nicole de Beer voorzitter", 
+    "name": "Eindhovense GC"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      5.6180276, 
+      52.349934
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://gobond.nl/node/3020, De Graaf van Gelre; centrum Harderwijk, Woensdagavond vanaf 20.00, Sander den Oudsten 06 4224 0945", 
+    "name": "Go Club Harderwijk"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      5.71819943595166, 
+      45.1920943
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Go de Grenoble ADAJE 8 rue Aristide Bergès Samedi De 14h à 18h http://grenoble.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      5.71834732264151, 
+      45.1894479
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Go de Grenoble Restaurant le PAV SAN 43 Avenue Alsace Lorraine, 38000 Grenoble Mercredi A partir de 20h30 http://grenoble.jeudego.org/pav-san/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      5.7247061, 
+      45.1857722
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Go de Grenoble Bar LA NATATION 32 Boulevard Gambetta, 38000 Grenoble Tournois de Blitz tous les premiers lundi du mois http://grenoble.jeudego.org/la-natation/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      5.7338798, 
+      45.1947015
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Club de Go de Grenoble l’école BIZANET 53 Avenue Maréchal Randon, 38000 Grenoble Mercredi de 14h00 à 16h00 http://grenoble.jeudego.org/informations-horaires/club-scolaire-et-ecole-de-go/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      5.8719893, 
+      51.8408455
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://gobond.nl/node/2759, Wijkcentrum Daalsehof 2, achter Daalseweg 113, Maandag 20:00, nijmegen@gobond.nl", 
+    "name": "Nijmeegse Go Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      5.9253014, 
+      45.5669659
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Chambéry Maison des Associations 67 RUE ST FRANÇOIS DE SALES, 73000 CHAMBÉRY Le mercredi Après-midi de 15h30 à 18h00; Soirée de 18h30 à 22h00; Le samedi Après-midi de 15h à 18h30 en salle B212 http://chambery.jeudego.org"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      5.9294251, 
+      43.1247016
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Toulon - Variation Go Club restaurant « Le Richardi » 25+Rue+de+la+Comédie,+83000+Toulon les Jeudi de 17h30 à 22h00 http://toulon.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      5.9658318, 
+      52.182566
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://gobond.nl/node/2746, Denksportcentrum Apeldoorn, Dubbelbeek 24, woensdag 20:00, Marten Ubbink apeldoorn@gobond.nl", 
+    "name": "Nobe No Shinju"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      5.9802908, 
+      50.8869947
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://gobond.nl/node/2734, Cafe Pelt, Heerlen, Woensdag, vanaf 20.30, Robbert van Sluijs 0455726757", 
+    "name": "Heerlen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.04435, 
+      46.23194
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://games.web.cern.ch/games/, CERN Restaurant No.2, mercredi 12h30-13h30 parfois aussi mardi dès 18h00, Tibor SIMKO 022 767 35 27 tibor.simko@cern.ch", 
+    "name": "CERN"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.0813818, 
+      50.7674876
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "\"Meisenfrei\", Südstr. 25, Di ab 20, Sarah Tegtmeier, 0241-4759651", 
+    "name": "Aachen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.0989139, 
+      52.508075
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://gobond.nl/node/2763, Café de Singel, Groot Weezenland 4, woensdag 20:00", 
+    "name": "Zwolle"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.1221154, 
+      45.8953459
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " MJC ARCHIPEL SUD GYMNASE DES BALMETTES 12 AV LUCIEN BOSCHETTI 74000 ANNECY Le vendredi à partir de 20h30 http://annecy.jeudego.org/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.1302911, 
+      45.9204602
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Annecy Baptiste Chopin 4 RUE DES EDELWEISS 74000 ANNECY Tous les vendredi, de 20h30 à 23h30.  http://annecy.jeudego.org"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.13949, 
+      46.18008
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://geneva.swissgo.org/, Café du Rondeau Place du Rondeau 1, 1227 Carouge, mardi 20h00-24h00, Armel-David WOLFF 079 689 78 27 awolff@worldcom.ch", 
+    "name": "Genève mardi"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.14646, 
+      46.19513
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://geneva.swissgo.org/, Maison de Quartier de Plainpalais 1 Rue de la tour, vendredi 19h00-22h00, Armel-David WOLFF 079 689 78 27 awolff@worldcom.ch", 
+    "name": "Genève vendredi"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.1514605, 
+      52.2536119
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.goclubsalland.nl/, buurthuis De Fermerie aan het Muggeplein 9 in de binnenstad van Deventer, donderdagavond vanaf 20.00, Gerard Bouwman secretaris 06-83080349", 
+    "name": "Go Club Salland"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.15344, 
+      46.17474
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://geneva.swissgo.org/, École de Pinchat 4 ch. de la Tour-de-Pinchat, mercredi 18h00-23h00, Jean-Marc LOUIS 022 784 03 39 079 371 09 52 jmlouis@vtxnet.ch", 
+    "name": "Genève mercredi"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.15785, 
+      46.2913
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Marc DIAS 076 425 02 13 versoix.go.club@gmail.com", 
+    "name": "Versoix"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.22359, 
+      46.60065
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Jean-Jacques GAGNEBIN 079 768 18 78 jj@gagnebin.net", 
+    "name": "Vallée de Joux"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.23199, 
+      46.38249
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Gymnase de Nyon salle L204, mardi 11h45-13h25, John WALCH 076 498 03 75 john_walch8@hotmail.com", 
+    "name": "Nyon"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.5616966, 
+      53.218175
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://gobond.nl/node/2755, Café \"Wolthoorn & Co\", Turftorenstraat 6, maandag 20:00, Siu Hong Chung voorzitter 06-52664744", 
+    "name": "Groningen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.56546, 
+      46.52066
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://ishigo.epfl.ch/igc.php, EPFL - Salle de Go : CM1 121, mercredi 17h15-20h00, Flavien AUBELLE flavien.aubelle@epfl.ch", 
+    "name": "Ishi go club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.62585, 
+      46.51652
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://lausanne.swissgo.org/, Café-Restaurant Le Milan 54 bd de Grancy 021 616 53 43 http://www.lemilan.ch/fr/restaurant-le-milan, mardi 20h00-24h00, Haruna OKANO lausanne@swissgo.org", 
+    "name": "Lausanne"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.63715, 
+      46.78127
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Café \"Le Tempo\" Quai de la Thièle 3 1400 Yverdon-les-Bains, mardi 19h30 à 22h/23h selon l'affluence, Martin 079 795 49 59 martin.python@gmail.com", 
+    "name": "Yverdon"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.6441823, 
+      49.7583755
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://de.trigo.wikia.com, Jugendzentrum \"Mergener Hof\", Rindertanzstr. 4, Fr ab 20, Horst Zein, 0651-52711", 
+    "name": "Trier"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.6920685, 
+      49.7441331
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://de.trigo.wikia.com, Universität Trier, n. V., Marc Oliver Rieger ", 
+    "name": "Trier"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.7722202832333, 
+      51.1966518
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Universität, Café Atempause, Gebäude 25.23, Mi ab 20, Dawid Napora, 0160-6287144", 
+    "name": "Düsseldorf"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.82957, 
+      47.10401
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.gocdf.ch/, Service Jeunesse Serre 12 (1er étage) 2300 La Chaux-de-Fonds, jeudi 20h00-24h00, GO-Club CDF 079 254 88 13 contact@gocdf.ch Marcel SCHWEIZER marcelschweizer@hispeed.ch", 
+    "name": "La Chaux-de-Fonds"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.8407315, 
+      51.2969523
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Haus der Jugend, 1. Etage, Stadionring 9, Do ab 19.30, Wolfgang Klengel, 02102-844711; Helmut Heidrich, 0211-656325", 
+    "name": "Ratingen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.85491, 
+      46.45267
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.museedujeu.ch/fr/animationen/klubs/goklub.html, Musée Suisse du Jeu Au Château 11 Rue du Château, vendredi 19h00-21h00, Rick WERTENBROEK 076 533 40 05 rick.wertenbroek@gmail.com", 
+    "name": "La Tour de Peilz"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.9054775, 
+      51.5371173
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Gasthof Milke, Lindhorststraße 213 A, Do ab 19, Detlef de Jonghe, 02041-97196", 
+    "name": "Bottrop"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.93187, 
+      46.99151
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Bar \"Au 21\" 43 Faubourg du Lac, mercredi 19h30-23/24h00, Thibault PILLON 079 526 74 02 thibault.pillon@gmail.com", 
+    "name": "Neuchâtel"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.949249506, 
+      50.9591312315
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.dgob.de/lv-nrw/koeln/, Cafe Kommödchen, Merheimer Str. 53, Di + Fr 19-23, Michael Ambrosius, 0157-87355348; Pierre Chamot (Email), 02204-65823", 
+    "name": "Köln"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      6.99663709023437, 
+      49.2331112
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Cafe \"Leonardo\", Kappenstr. 1, 0681-3908505, Di ab 19.30, Gregor Mertz, 0681-5847742", 
+    "name": "Saarbrücken"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.02877720225627, 
+      52.18899725
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "privat (bitte vorher kontaktieren), Claus Weyck, 02565-2556,0177-1446465", 
+    "name": "Gronau-Epe, n. V."
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.07785606384277, 
+      51.4469330020792
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.dgob.de/lv-nrw/essen, Kultur-Forum Steele, Dreiringstr. 7, Fr 19-22, Christoph Grotepass, 0178-6153330; Frithjof Janke (Email), 0201-8718554", 
+    "name": "Essen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.0952728, 
+      50.7262759
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.bonnergozentrum.de/, Dietrich-Bonhoeffer-Haus, Königstr. 88, Do 17-22, Andre Sieber, 0151-21151031; Rainer Schütze (Email), 0228-658218", 
+    "name": "Bonn"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.1515081, 
+      51.242193
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://tonshi.de/tonshi2/der_spieleabend/, Universität, Asta-Kneipe, Gauss-Str. 20, Mo ab 19, Erik Schweitzer, 0202-2429133; Hildegard Puttkammer (Email), 02053-40215", 
+    "name": "Wuppertal"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.180815339088439, 
+      53.36743272754846
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.emden-go.de/, HS Emden-Leer, Haus der Studierenden, Constantiaplatz 4, Mi ab 18.30, Ingo Stein, 04921-918168; Christine Dauelsberg (Email), 04921-28977", 
+    "name": "Emden"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.1972241, 
+      51.6157493
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.guzumi.de/index.php, \"Drübbelken\", Münsterstr. 5, Do ab 19, Martin Langer, 02361-486674", 
+    "name": "Recklinghausen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.2145793, 
+      51.4817374
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "www.bochum-go.de, \"Game\", Willy-Brandt-Platz 10, 0234-6406950, Di ab 19, Sascha Hempel, 0173-5419476", 
+    "name": "Bochum"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.2918, 
+      47.09733
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://worben.swissgo.org/, Restaurant Bären Hauptstr. 46, mercredi 14h30-15h30, Alan REES alan.rees@playmorego.com", 
+    "name": "Worben"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.306946, 
+      51.5691882
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Tapas Bar La Sonrisa, Bahnhofstr. 252, Di ab 19.30, Hans-Werner Bressan, 02305-360154", 
+    "name": "Castrop-Rauxel"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.33481941986942, 
+      52.5138071835757
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.go-lingen.de, Grüner Jäger, Di ab 18, Axel Wimmer, 0591-9152870; Christoph Hermes (Email), 0591-90110952", 
+    "name": "Lingen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.4009765, 
+      51.489429
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://dortmund-go.de/index.php/spielabende, Neues Informatik-Gebäude der TU Dortmund, Otto-Hahn-Str. 12, 2. Etage, Raum 2003, Mo 17-19, Lars Gehrke, 01732015374", 
+    "name": "Dortmund"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.43057, 
+      46.95387
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.bernergoclub.ch, Längass-Treff Lerchenweg 33, mardi 19h00-23h00, Alan HELD 031 351 59 64 aeh@vtxfree.ch", 
+    "name": "Bern"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.4550586, 
+      51.5329225
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://dortmund-go.de/index.php/spielabende, \"Depothek\" im Depot, Immermannstraße 29 (U-Bahn: \"Immermannstr./Klinikzentrum\"), Do ab 19.30, Lars Gehrke, 01732015374", 
+    "name": "Dortmund"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.4654176, 
+      51.4976693
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.dortmund-go.de/index.php/spielabende, SIGNAL IDUNA Gruppe, Joseph-Scherer Str. 3, externe Besucher müssen sich vorher anmelden, Mi 16-18.30, 14-tg, Martin Quest, 0231-201945", 
+    "name": "Dortmund"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.4747128, 
+      51.357074
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.allerwelthaus.org/index.html, \"AllerWeltHaus\", Potthofstr. 22, Fr ab 17, Thomas Knop ", 
+    "name": "Hagen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.476435, 
+      51.3665884
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Postsportheim, Am Sportpark 18a, Mi ab 19, Wolfgang Deinert, 02331-302752, 0170-4150674", 
+    "name": "Hagen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.47749213629262, 
+      51.3577484
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Pub \"Jekyll & Hyde\", Kampstr. 24 a, Di ab 20, Wolfgang Deinert, 02331-302752, 0170-4150674; Thomas Knop (Email)", 
+    "name": "Hagen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.5586, 
+      44.41964
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Andrea Partiti Kgs: kaiou", 
+    "name": "CUNEO"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.6476565, 
+      51.9650068
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Cafe Klingklang, Erphostr. 2, Di ab 20.15, Rainer Busch, 0251-784207; Markus Dittberner (Email), 0251-2302783", 
+    "name": "Münster"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.69473039297348, 
+      51.53071685
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.dortmund-go.de, Café Extrablatt Unna, Markt 1, Mo 19.30-23, priv. n.V., Andre Schneider, 0151-27535137", 
+    "name": "Unna"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.6956838, 
+      45.0683208
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": " http://www.facebook.com/pages/Torino-Italy/I-Nodi-di-Bambu-Go-Club-Torino/63509963870, Via Roero di Cortanze, 2C - presso il BENE COSI’ Cafè, Martedì dalle 19.30 alle 23.30 Sabato dalle 14.30 alle 18.30, Ronnie Pizzo ronniepizzo@gmail.com Cell: +39 338 9514316", 
+    "name": "\"Nodi di Bambù\""
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.76925229161359, 
+      49.4351088
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www-user.rhrk.uni-kl.de/~pfaff/go.html, Universität, Bau 48 (Mathebau), Raum 582, Mi ab 19, Dr. Thomas Pfaff, 0631-13698", 
+    "name": "Kaiserslautern"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.8141061, 
+      47.975875
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.Dreisam-Honinbo.de, Enigma, Bergiselstr. 34, Mo ab 19, Christian Haberbosch, 0761-4299652; Kirsten Grimm, 0172-5841455", 
+    "name": "Freiburg"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.8831135, 
+      48.3410737
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "alle 3 Wochen, Thai-Restaurant Patcha-Rawadee, Geroldseckerstr. 92, Mi ab 19, Christian Fehse, 0151-22454517", 
+    "name": "Lahr"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.90094001771169, 
+      47.96398895
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "privat, Am Hagmättle 11, Fr ab 18, Kirsten Grimm, 0172-5841455", 
+    "name": "Freiburg"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.96484112739563, 
+      49.9826596119127
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "priv. n. V. Musikkneipe \"Dudelsack\", Rüdesheimerstr. 44, Danny Shave, 0175-2237753; Janos Sälzer (Email), 0176-24020101", 
+    "name": "Bad Kreuznach"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      7.9667856, 
+      52.2352944
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Zum Ortenbrink 9, Helmut Gorenflo, 05405-1591", 
+    "name": "Hasbergen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.0251182, 
+      50.8796546
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "BlueBox Siegen, Sandstr. 54, Do 18-21, Karl Blotnicki, 0176-78753831; Hartmud Koch (Email), 0271-7411944", 
+    "name": "Siegen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.040146, 
+      52.2744752
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.lagerhalle-osnabrueck.de/, \"Lagerhalle\" am Heger Tor, Rolandsmauer 26, Di ab 18.30, Michael Stolte, 0541-75049597", 
+    "name": "Osnabrück"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.06995, 
+      47.39104
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Stephan BALMER 079 336 84 41 sbalmer@yetnet.ch balmerst@hotmail.com", 
+    "name": "Aarau"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.1105765, 
+      53.520833
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "News Cafe, Börsenstr. 42, 04421-92910, Mi 19.30-23, Klaus Heine, 04421-44526", 
+    "name": "Wilhelmshaven"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.2085064, 
+      53.1497295
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.go-club-oldenburg.de/, Dreieck, Röwekamp 23, Di ab 20, Jens Pankoke, 0441-9333649", 
+    "name": "Oldenburg"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.21278, 
+      44.04891
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Via Cavour, 46/r presso il negozio Higashi no kaze, Martedì dalle 16:00 in poi, Sabrina Travi Tel: 019 8386348 (solo pom.)Cell: 328 7472012", 
+    "name": "SAVONA"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.2411949, 
+      50.0863765
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://wi-go.de, Kulturpalast, Saalgasse 36 (Details siehe http://wi-go.de), Do ab 20, 14-tg, Jana Hollmann, 0611-5802855", 
+    "name": "Wiesbaden"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.26975643509378, 
+      49.99744505
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Lomo, Ballplatz 2, Mi ab 20, Bernhard Herwig, 06131-5701833", 
+    "name": "Mainz"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.2981392, 
+      51.3620266
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.fh-meschede.de, Go-Kurs in der FH Südwestfalen, Lindenstr. 53, Raum 8.2 am Foyer, 1. Mo im Monat und n. V., Mo ab 18 n. V., Monika Reimpell, 02934-2453148", 
+    "name": "Meschede"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.31923, 
+      47.04251
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://luzern.swissgo.org/, Restaurant und Jugendhaus Treibhaus Spelteriniweg 4 http://www.treibhausluzern.ch/index.php?id=29, mardi 18h30-23h00, Dominik MÜLLER 078 838 38 64 luzern@swissgo.org", 
+    "name": "Luzern"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.3417027, 
+      51.6774711
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Mensa des Ostendorf-Gymnasiums, Cappeltor 5, Di 20-22, Andreas Fecke, 02948-322", 
+    "name": "Lippstadt"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.4062738, 
+      49.0103242
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.karlsgo.de/, Begegnungsstätte Gretl Vogt, Adlerstr. 33, Mi ab 19, Wilhelm Bühler, 0151-20904075", 
+    "name": "Karlsruhe"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.4160154, 
+      49.0056091
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Thoule e.V., Ostendstr. 1, Do ab 20, Alexander Wirth ; Birger Holtermann (Email)", 
+    "name": "Karlsruhe"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.44681080887598, 
+      48.0555458518873
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Manfred Götz, 0151-11523830", 
+    "name": "Villingen-Schwenningen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.46174147732246, 
+      49.4915185418846
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.mannheimer-aji.de/, Gaststätte \"Tomate\", B6, 12, Mo ab 19.00, Matthias Armbruster, 0176-20164702", 
+    "name": "Mannheim"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.494641780853271, 
+      52.03733985771698
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.claus-martinheyer.de/go/index.htm, Universität Bielefeld, Raum V3-201, Mi ab 19, Claus-Martin Heyer, 0521-68793", 
+    "name": "Bielefeld"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.54461, 
+      47.36974
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://zurich.swissgo.org/, Zentrum Karl der Grosse Blaues Foyer im 2ten Stock Kirchgasse 14, mercredi dès 18h00, Jonas JERMANN jjermann2@gmail.com", 
+    "name": "Zürich"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.58743436011112, 
+      53.53544055
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "priv. n. V., Mi ab 20, Martin Osthaus, 04747/931334", 
+    "name": "Bremerhaven, Di"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.64645, 
+      44.91686
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Moreno Mantoan qboxx@libero.it", 
+    "name": "ALESSANDRIA"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.64831358194351, 
+      50.1188858214
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Cafe Albatross, Kiesstr. 27 (vorher kontaktieren), So ab 15, Eckhardt Krause, 069-727803", 
+    "name": "Frankfurt"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.6537518, 
+      49.4138049
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.heidelberg-go.de/, Neckarschänke Wieblingen, Ludwig-Guttmann-Str. 10, 06221-833347, Mi 20-24, Rolf Hofmann, 06201-46653; Hans-Ulrich Teufel, 06221-400625", 
+    "name": "Heidelberg"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.6597034, 
+      49.8778201
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "\"Hobbit\", Lauteschlägerstr. 3, Mi ab 19, Klaus Petri, 06151-9674362", 
+    "name": "Darmstadt"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.6597034, 
+      49.8778201
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "\"Hobbit\", Lauteschlägerstr. 3, Mo ab 19.30, Jochen Tappe, 06151-3928560", 
+    "name": "Darmstadt"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.6728312, 
+      49.546424
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.go-weinheim.de/, Bistrorant Tafelspitz, Marktplatz 7, Do ab 19 n. V., Thomas Reinicz, 0172-6371629", 
+    "name": "Weinheim"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.6906603, 
+      50.1047811
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Plateau, Neuer Wall 15, Do ab 20, Nils Blarr ", 
+    "name": "Frankfurt/M."
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.6949104, 
+      52.1206019
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Mozartstr. 81 a, privat, Fr ab 19, 14-tg, Hans Abraham, 05221-84183", 
+    "name": "Herford"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.7067318, 
+      50.5879123
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://homepages.thm.de/~hg53/go-club-giessen, Pit's Pinte, Grünberger Str. 31, 0641-47276, Do ab 20, Hellwig Geisse, 0641-394659", 
+    "name": "Giessen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.72617, 
+      47.49843
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.wintigo.org, Typisch Thai Neumarkt 3 http://www.typischthai.ch, lundi 19h00-22h30, Philipp GRESSLY 052 212 22 15 phi@gressly.ch", 
+    "name": "Winterthur"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.75134, 
+      45.83619
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Locanda dello Hobbit, Via F. Rossi, 38, Barasso (VA) dalle 20:30 in poi, Ronald Van Uffelen Kgs: Stego93 Cell: +39 335290776", 
+    "name": "VARESE"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.75926137769997, 
+      51.7120229
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.ponnuki-paderborn.de, Uni Paderborn, Raum H3.203, Mi ab 19, Martin Hershoff, 05251-760467; Joshua Nowack (Email), n/a", 
+    "name": "Paderborn"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.81281, 
+      46.00323
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Claude ROY 091 608 20 79", 
+    "name": "Sessa"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.83497, 
+      46.17318
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Roberto MORRISON 078 658 66 73 roberto@morrison.ch", 
+    "name": "Locarno"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.8532302, 
+      53.0649497
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Weserterrassen, Osterdeich 70 b, 0421-549490, Di+Fr 19-22, Uwe Weiß, 0421-74154", 
+    "name": "Bremen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.8811483, 
+      51.9342601
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.dgob.de/lv-nrw/detmold/, Asia Palast, Schülerstr. 24, Eingang Grabenstr., Do ab 18, Peter Hagemann, 05231-31629; Rolf Bensel (Email), 0160-5056506", 
+    "name": "Detmold"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.89177, 
+      47.55681
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Daniel LUTZ dlutz@umlaufbahn.net", 
+    "name": "Frauenfeld"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.9008426, 
+      52.0291924
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://sc-stpauli.de/, jeden 2. Montag im Gemeindehaus oder im Bistro (Kirchturm, 2. Etage) der St. Pauli Kirche, Echternstr. 20, Mo 18.30 (14-tägig), Tim Robert Würfel ", 
+    "name": "Lemgo"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.90598, 
+      45.59582
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Davide Stellato Kgs: Stego93", 
+    "name": "LEGNANO (MI)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      8.9352339, 
+      44.4066026
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": " http://games.groups.yahoo.com/group/GoGenova/ http://www.facebook.com/groups/gogenova/, Via Boccardo, 5r presso la Birreria HB Hofbräuhaus, Giovedì e Domenica dalle 20:30 in poi, Carlo Bevegni carlobevegni@libero.it Francesco Robbiano Kgs: Hobbes", 
+    "name": "\"Go Club Genova\""
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.01521, 
+      45.01406
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Bruno Cavanna Kgs: bricabrac", 
+    "name": "VOGHERA"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.01963413752123, 
+      48.6852145092567
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Uli Staber, 07157-65801", 
+    "name": "Böblingen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.05344, 
+      47.46296
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Stjepan LUKAC lastronin@gmx.net", 
+    "name": "Wil SG"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.0625243, 
+      48.5146239
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "\"Herzog Ulrich\", Ulrichstr. 11, Mi ab 18.30, Hannes Vogt, 0179-9041687; Bernhard Unold, 0176-97412331", 
+    "name": "Tübingen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.07579, 
+      45.57378
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Maurizio Melegari goclubgarbagnate@gmail.com Cell: 329 8662550", 
+    "name": "GARBAGNATE (MI)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.09409, 
+      39.22042
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Alessandro Melis : gaudio-go@libero.it Kgs : gaudio Salvatore Sardo : lagunaffviii@hotmail.it", 
+    "name": "CAGLIARI"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.15206, 
+      40.98591
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Manuele Carbini : carbini.manuele@tiscali.it Cell. : 328 6174620 Tel : 079 632524 (ore pasti) Tradurre 7valis7@gmail.com Cell. : 328 5686736", 
+    "name": "TEMPIO PAUSANIA (OT)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.16547, 
+      45.19454
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Roberto Foschi Cell: 329 1590837", 
+    "name": "PAVIA"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.1716536, 
+      48.7775884
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.dgob.de/lv-bw/Stuttgart/index.html, forum 3, Gymnasiumstr. 21, Mi ab 19, Thomas Schmid, 07127-952213", 
+    "name": "Stuttgart"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.1767391, 
+      47.6903464
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Universität Raum G302, Universitätsstr. 10 (im Semester), Di ab 18.45, Christoph Adelsberger, 0171-5255715", 
+    "name": "Konstanz"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.17817603944776, 
+      47.6609571
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "\"Seekuh\" Kneipe, Konzilstr. 1, Mi ab 19, Christoph Adelsberger, 0171-5255715; Norbert Kolassa (Email), 07531-8076906", 
+    "name": "Konstanz"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.21708, 
+      45.4926
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": " http://milanonogo.altervista.org/ https://www.facebook.com/milanonogo, Tutti i martedì al ristorante-pub il Tempio d’Oro (Via delle Leghe 23, Milano)., Martedì dalle 21 alle 24, Aldo Podavini Kgs : minosse", 
+    "name": "\"Milano No Go\""
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.22284, 
+      45.52117
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": " http://www.goclubmilano.org/index.html https://www.facebook.com/pages/Go-Club-Milano/321227357961?ref=ts&amp;fref=ts, Via Sant'Uguzzone, 8 presso l'\"Università Europea degli Sport della Mente\", Mercoledì dalle 21 alle 24 Sabato dalle 15 alle 20, Fernando Fernandez Cell : 347 9386734 (pref. dopo le 17:00)", 
+    "name": "\"Go Club Milano\""
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.22901104422706, 
+      48.89626725
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "in Ludwigsburg-Ossweil, Christopher Doubleday, 07141-918882", 
+    "name": "Ludwigsburg"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.38137, 
+      52.3460724
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Intensofit, Rotrehre 20-22, Mi ab 19.30, Dieter Rasche, 05723-74116; Bernd Barthold, 05723-913528", 
+    "name": "Bad Nenndorf"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.42793, 
+      44.28218
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Mirtha Barbetti Cell: 339 2507741", 
+    "name": "SESTRI LEVANTE"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.436655044555664, 
+      54.78418167193253
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Grisou, Holmhof 43, Mi ab 19.30, Peter Lakemeier, 0461-7703491", 
+    "name": "Flensburg"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.5018452, 
+      51.3210372
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://gokassel.webnode.com, Foto Motel, Wolfhager Str. 53, Mi ab 18.30, Martin Bussas, 0561-81049711", 
+    "name": "Kassel"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.5470302, 
+      54.5121597
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://senseis.xmp.net/?GoClubSchleswig, Café Patio, Lollfuß 3 (Innenhof), Sa ab 17 n. V., Mario Venzlaff, 04621-382823", 
+    "name": "Schleswig"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.60085, 
+      45.51754
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": " http://gocosmico.altervista.org/ http://www.facebook.com/pages/Go-Cosmico/127995643940290, Largo Lamarmora 2, presso la sede dell'Auser., ogni mercoledì dopo le 21, Giancarlo Sacchi Cell: 338 2217931", 
+    "name": "TREVIGLIO (BG)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.66653, 
+      45.69342
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Piazza Brembana, Saverio Castelli Kgs: blackauron", 
+    "name": "BERGAMO"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.69049160197639, 
+      48.7190864
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Haus der Jugend, 2. Stock, Di 18-22, Joachim Pimiskern, 07161-815530", 
+    "name": "Göppingen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.69543254964762, 
+      53.05111175
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Reinhard Spode, 05195-1259", 
+    "name": "Soltau"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.71301, 
+      45.05328
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Gianluca Chiodaroli chiodus@gmail.com", 
+    "name": "PIACENZA"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.7225325, 
+      52.3784695
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.hannover-go.de, Uni, Conti-Hochhaus, Königsworther Platz 1, Etage 13, Di 19.30-22, Ralph Tiefenthaler, 0511-8765551; Christoph Gerlach (Email), 0511-7000552", 
+    "name": "Hannover"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.7590527, 
+      52.3701065
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.hannover-go.de, RSV Geschäftsstelle, Vorraum der dortigen Kegelbahn im Keller der Sporthalle, Am Südbahnhof 7, Mo 19.15-22, Ralph Tiefenthaler, 0511-8765551", 
+    "name": "Hannover"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.7957567, 
+      52.4749749
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.hannover-go.de, Voltmershof, Burgwedeler Str., Do ab 18, Winfried Dörholt, 0511-772766", 
+    "name": "Isernhagen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.8282255, 
+      44.107033
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Elena Rossi Tel: 018 7280028 (solo pom.) Kgs: ele91", 
+    "name": "LA SPEZIA"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.93535695036284, 
+      51.5355261
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Galerie \"Apex\", Burgstr. 46, Mo ab 19, Gerhard Mex, 0551-705056", 
+    "name": "Göttingen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.9486496, 
+      51.5381897
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Uni Göttingen, Mathematisches Institut (Hauptgebäude Übungssaal), Bürgerstr. (im Semester), Do ab 18, Colin-Marius Koch, 0178-2969071", 
+    "name": "Göttingen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.9542093, 
+      52.1500474
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://go-hildesheim.de, \"Deseo\", Hindenburgplatz 3 (bitte vorher kontaktieren), Sa ab 14, Veronika Lyssenko ", 
+    "name": "Hildesheim"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.985091686248778, 
+      53.569281345257465
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.go-in-hamburg.de/?Uni_Go-Gruppe, Uni-Spielabend, Foyer des Pädagogischen Instituts (VMP 8), Do 18-21, Peter Splettstösser, 040-4914818", 
+    "name": "Hamburg"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.9864197, 
+      53.4580076
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://gohh.de/?Clubs_und_Spielgruppen:Go-Gruppe_Harburg, Kulturzentrum \"Rieckhof\", Rieckhoffstr. 12, 040-7662020, Mi 19-22, Jürgen Abels, 04181-4063524; Matthias Palm (Email), 040-76111771", 
+    "name": "Hamburg (Harburg)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.9905526638031, 
+      53.56819183500308
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.ki-hh.de/veranstaltungen/ueberblick, letzter Do im Monat, asiatischer Brettspielabend des Konfuzius Instituts, Chinesisches Teehaus \"Yu Garden\", Feldbrunnenstr. 67, Do 19-21.30, Steffi Hebsacker, 0151-15541415", 
+    "name": "Hamburg"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.9992403388, 
+      53.0993785423
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "29646 Bispingen; privat (bitte vorher kontaktieren), Fr ab 18, Thomas Rohde, 05194-6741", 
+    "name": "Bispingen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      9.9997099, 
+      48.4067632
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.go-ulm.de, Cafe Omar, König-Wilhelm Str. 5, Mi ab 19, Gerhard Schmid, 0731-54739; Mattias Laage, 0731-57084", 
+    "name": "Ulm"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.009376406669617, 
+      53.559270812362996
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://gohh.de/spielabende/, CVJM, An der Alster 40, 040-2840950, Fr ab 18, Olga Silber, 04141-7810576; Tobias Berben (Email), 040-85157161", 
+    "name": "Hamburg"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.01828670501709, 
+      53.55639656794348
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://gohh.de/spielabende/, Hamburger Go-Club im Schorsch Steindamm 87, 040-2840950, Mo 18-24, Olga Silber, 04141-7810576; Tobias Berben (Email), 040-85157161", 
+    "name": "Hamburg"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.0540728, 
+      44.0891829
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Alessandro Salpietro a.salpietro@yahoo.it Cell. : 333 4037308", 
+    "name": "ORTONOVO"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.1317026, 
+      54.3367251
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://server.sportzentrum.uni-kiel.de/sportarten/aktueller_zeitraum/_Go.html, Uni-Go-Gruppe, Stadionturm, Olshausenstr. 70 (Während der Vorlesungszeit. In der vorlesungsfreien Zeit Termin evtl. abweichend.), Mi 18-20, Christina Schramm ", 
+    "name": "Kiel"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.1387933, 
+      54.3413523
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://sites.google.com/site/gospielkreiskiel/, Gaststätte Blücher, Esmarchstr. 44, Mo ab 19.30, Werner Ente, 0431-677304", 
+    "name": "Kiel"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.1669467510192, 
+      53.60649915
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://gohh.de/?Clubs_und_Spielgruppen:Rahlstedter_Go-Club, Gymnasium Oldenfelde, Birrenkovenallee 12, Di 18-22, Patrick Brunner, 0176-488485474; Thomas Nohr (Email), 040-67561446, 0176-57186511", 
+    "name": "Hamburg (Rahlstedt)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.23306, 
+      45.51884
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": " http://go.xplab.net https://www.facebook.com/groups/147136504167/, Via Cappellini, 4 presso la \"Aikido Club Brescia\", Claudiu Melenco", 
+    "name": "\"Brixia Go Weiki Baduk Club\""
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.31087, 
+      43.55247
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Via della Posta, 40 presso il pub \"Bad Elf\", Mercoledì dalle 21:30, Andrea Mori wamba85@gmail.com Kgs: Wamba", 
+    "name": "Livorno Go Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.3305624, 
+      51.8044974
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "\"Kellerclub\", Silberstraße 1, 05323-722111, Mo+Do ab 20, Conny Pohle, 05323-722898 (d)", 
+    "name": "Clausthal"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.3353, 
+      44.80428
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Generalmente il martedì sera, Anthony antonioalbano@yahoo.it Kgs: anthonygo - Cell: +39 340 7675932 Gian Maria gmmarconi@gmail.com Kgs: limerik - Cell: +39 346 6665788", 
+    "name": "Go Club Università degli studi di Parma"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.3377483217865, 
+      53.24993835
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Reppenstedt (layer, bei Lüneburg) Privat, Bitte vorher anrufen, 2. Sonntag / Monat 14:30 - 18:00, Alexander Huber, 04131-395300", 
+    "name": "Lüneburg"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.3844010777478, 
+      53.22281005
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Privat n.V., Ralf Schulz, 0151-65783327", 
+    "name": "Lüneburg"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.40314, 
+      43.71771
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Lunedì: via delle Case Dipinte 6 presso pub \"Orzo Bruno\". dalle 21:30 alle 01:00.Giovedì: via Bovio, presso il Mix-Art dalle 21:30 alle 00:00, Dopo le 21:30, Andrea Donati gatto.andrea@inwind.it Cell: 333 9597317 Kgs: suspire Maurizio Parton parton@unich.it Cell: 349 5323199 Kgs: maumau", 
+    "name": "Pisa Go Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.46825, 
+      43.85885
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Tommaso Pardi tommaso.pardi@gmail.com Mika Straka Cell: +39 340 990 1266 Il club di Lucca fa parte di ToscanaGo.", 
+    "name": "Lucca Go Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.5366363, 
+      52.2739507
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.braunschweig-go.de, Gebäude Grotrian an der TUBS, Zimmerstr. 24 D, Mo ab 19, Björn Meier, 05306-931757; Nina Knöchelmann (Email), 0160-4434640", 
+    "name": "Braunschweig"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.5427699, 
+      52.2632964
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.braunschweig-go.de, Café Fischer, Altewiekring 44, Do ab 19, Joachim Beggerow, 0531-42504; Andreas Szostak (Email), 0176-82167987", 
+    "name": "Braunschweig"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.63262, 
+      44.71209
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Via Samoggia, 12 presso il \"Bar Florida\" di Wang Zuo Liang, Giovedì dalle 21:00(in alternanza con il Go Club di Fiorano Modenese), Andrea Pecorari a_peco@libero.it Cell: 348 4428324", 
+    "name": "\"Tortellino\" Go Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.6887673, 
+      53.8717805
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Tonfink, Gr. Burgstr. 46, Mo 19-23.30, Rüdiger Klehn, 0451-72626", 
+    "name": "Lübeck"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.7538150746101, 
+      48.0301967
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Bernd Gramlich, 08241-5079996", 
+    "name": "Buchloe"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.8013748, 
+      51.5047085
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Thomas-Mann-Klub, Nebelungstr. 39, 03631-983493, Mi ab 17, Dieter Wenske, 03631-987952; Matthias Reimann, 036331-31406", 
+    "name": "Nordhausen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.80139, 
+      44.91268
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Martedì, Mattia Lannunziata igonzagagoclub@gmail.com", 
+    "name": "IGOnzaga Go Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.8051532, 
+      44.5114469
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Stefano Babini el.nabila@alice.it Cell: 333 3091479 Kgs: Bstefano", 
+    "name": "SAN MARINO"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.81296, 
+      44.53838
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Via del Santuario, 3 presso la Birreria \"Stonewall\", Giovedì dalle 21:00(in alternanza con il Go Club di Reggio-Emilia), Andrea Pecorari Cell: 348 4428324", 
+    "name": "\"Tortellino\" Go Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.81359, 
+      45.14441
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Thomas Durante Cell: 339 5672758", 
+    "name": "MANTOVA"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.8321346, 
+      48.379659
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.augsburg-go.de/, Il Galeone, Steppacher Str. 1, Do ab 19.30, Thomas Brückmann ", 
+    "name": "Augsburg"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.9048274, 
+      49.9118415
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://www.facebook.com/groups/GOspielen.Bamberg/, wechselnde Lokale in der Austraße (einfach durchschauen), Mi 18-(21), Owen Jericho, null162vier502759; Andi (Email)", 
+    "name": "Bamberg"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      10.9243951, 
+      50.6889175
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://kunysch.de/go/, Piano, Weimarer Str. 9, Do ab 19, Markus Richert, 03677-466684; Paul Kunysch, 0151-22651019", 
+    "name": "Ilmenau"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.005, 
+      45.45314
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Via Castello San Felice, 9 presso\"Associazione Giochi Antichi\"(nel Parco delle Colombare), Non è stato ancora fissato un giorno prestabilito, contattate Marta o Giulia per sapere quando trovarci., Marta Mantovani adsharta@libero.it", 
+    "name": "Go Club \"VenetoGo\" Sez. di Verona"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.00780725479126, 
+      49.468409933230284
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.gofans.de/Go_Clubs.htm, Kofferfabrik, Lange Str. 81, Fr 20-01, Robert Grüning, 0157-35549462", 
+    "name": "Fürth"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.0108027, 
+      49.591547
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.nefkom.net/martin.bergmann/go, Katholische Hochschul-Stud.-Gem. (KHG), Sieboldstr. 3, Pacelli-Haus, Mo ab 20, Martin Bergmann, 09131-6103700; Horst Schrebe, 09131-481926", 
+    "name": "Erlangen"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.0273195, 
+      50.978905
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.roterelephant.de/, \"Roter Elephant\", Allerheiligenstr. 4, So 19-24, Markus Lang, 0361-2622691; Thomas Schütz (Email), 0361-416882", 
+    "name": "Erfurt"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.09139, 
+      43.8827
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Daniele Pompeo moria31@hotmail.it Cell: 340 7356811", 
+    "name": "PRATO"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.11256, 
+      42.76047
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Comix Cafè, piazza San Michele 4, ogni mercoledì sera dalle 20.30/21.00, Marco Pasto pastopasto@hotmail.it Il club di Grosseto fa parte di ToscanaGo.", 
+    "name": "Go Club Grosseto (GCG)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.12776, 
+      46.06942
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": " http://yomoyamabanashi.it/go.php, Piazza Venezia, 37 presso \"Barycentro\", 1° e 3° Giovedì del mese, dalle 17:00 alle 19:00, Federico Odorizzi Kgs: FedeAndrea Gobbi Kgs: andreamath", 
+    "name": "\"Trentino Go Club\""
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.1704637, 
+      47.9954339
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.ristorante-la-dolce-vita.com/, \"La Dolce Vita\", Seestr. 52 (bitte vorher kontaktieren), Do ab 19, Daniel Altmann, 08152-9040457", 
+    "name": "Herrsching am Ammersee"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.2559, 
+      43.77987
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Presso la palestra Yanagi in via san Zanobi 57, il Martedì dalle 21:30 in poi, goclubfirenze@gmail.com Alberto Zingoni Cell: +39 338 506 1760", 
+    "name": "Firenze Go Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.271080076543, 
+      52.23676795
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Schloß-und Gartenverwaltung Hundisburg, Do ab 20, Harald Blanke, 03904-44265", 
+    "name": "Hundisburg"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.3496, 
+      44.49886
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "presso il Bar \"L'Ortica\", Lunedì dalle 21:00, Cesare Sassoli: Cell: 338 7066454 Kgs:", 
+    "name": "Bologna Go Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.3563, 
+      44.4456
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Via del Paleotto 11 (nel parco del Paleotto) presso la \"Casa del Paleotto\", Di solito l'ultimo martedì del mese, controllare sul sito", 
+    "name": "\"Paleotto\" Go Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.35677, 
+      45.71399
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "al bar \"Due Mori\" di Schio Via Pasubio, 20 Vicenza. Contattare Carlo per la conferma del ritrovo., Ci troviamo il primo e il terzo martedì del mese (probabilmente diverrà tutti i martedì a breve) dalle ore 20:30 alle 23:30., Carlo Brazzale Cell: 347 5237202", 
+    "name": "Go Club Schio"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.4153397, 
+      53.6290796
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.jaaan.de/go-schwerin, Pfarrei St. Nikolai, Puschkinstr. 3 (am Schelfmarkt), Mo ab 19.30, Hubert Marischen, 0385-564210; Heinz Postulka, 0385-3433846", 
+    "name": "Schwerin"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.518034, 
+      48.1803724
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://www.google.com/maps/d/edit?mid=zNJ3sfg4D5TM.kDEuGESFYHBM, Turnhalle der GS an der Jenaer Str. 3, Spieletreff und freies Training von Jonglieren in München e.V., Sa 14-22 n.V., Thomas Furtner, 0160-96261998", 
+    "name": "München (Moosach)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.5535459243189, 
+      48.2770031
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Paul Freitag, 0151-12318766", 
+    "name": "Unterschleissheim"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.5777896, 
+      48.1805501
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.mils-sportrestaurant.de, Mil's, Hans-Denzinger-Str. 2, Di 18-23, Joachim Bitzer, 089-301961; Andreas Mauke (Email), 0177-7455229", 
+    "name": "München"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.5777896, 
+      48.1805501
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.mils-sportrestaurant.de, Mil's, Hans-Denzinger-Str. 2, Mo 18-23, Joachim Bitzer, 089-301961; Philip Hiller (Email), 089-12749237", 
+    "name": "München"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.5864968, 
+      50.9296751
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://go-jena.webnode.com//, Cafe Immergrün, Jenergasse 6, Mo ab 19, Kevin Sanow, 0176-286 118 14; Guido Tautorat (Email), 03641-350454", 
+    "name": "Jena"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.58931, 
+      45.60638
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Via San Floriano n°39, Vigarolo, Ritrovo la prima e la terza domenica di ogni mese dalle 15:00 alle 19:00., Gioele ", 
+    "name": "Go Club \"VenetoGo\" Sez. di Vigarolo"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.61266, 
+      44.84128
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Viale Cavour, 85, 44121 Ferrara FE, Italia presso la Birreria Main street, giovedì sera alle 21:15 (In ogni caso, meglio chiamare per verificare che quel giorno non ci sia qualche intoppo), Paolo Giampetruzzi aji.goclub@gmail.com Cell: +39 3289342753 Kgs: Doc / Damiano Pennini md.carbone@libero.it Kgs: HPN", 
+    "name": "Aji Go Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.63309, 
+      43.5922
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "presso la birreria Carpe Diem a Loro Ciuffenna., tutti i martedì ore 21.30, Olivier Turquet olivier.turquet@gmail.com Telefono:055969092 Cellulare:3395635202", 
+    "name": "VALDARNO"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.6400834, 
+      52.1389773
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Universitätsplatz 2 (Campus), Gebäude 05, R. 210, Nordeingang, Di ab 19, Olaf Salchow, 03949-4488", 
+    "name": "Magdeburg"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.65289, 
+      46.31942
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Vittorio Nocentini Kgs: vittorio", 
+    "name": "PREDAZZO (TN)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.6728178, 
+      48.2680413
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "bei München, Boltzmannstr. 3, Fakultät für Mathematik und Informatik der TUM, Do 14-18, Bernhard Werner, 0151-40322940; Stephan Schmolke (Email), 0176-47790131", 
+    "name": "Garching"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.73688, 
+      45.76513
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Istituto Pirani-Cremona Via del Museo, 23 - Bassano del Grappa, Tutti i Sabato pomeriggio dalle 17:00 alle 19:00; vedi il Calendario o contatta direttamente Marina, Marina Guarnieri Cell: 335 5812820", 
+    "name": "Go Club \"VenetoGo\" Sez. di Bassano del Grappa"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.83361, 
+      45.44261
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Ristorante Brasiliano - Via Montà, 49/3, Tutti i Sabato pomeriggio dalle ore 15:30 alle 19:00 Vedere il Calendario o contattare direttamente Leonardo o Liu per maggiori informazioni., Leonardo Giuliato Cell: 3929643299 Kgs: kiruLiu Yan PingCell: 339 4614763", 
+    "name": "Go Club \"VenetoGo\" Sez. di Padova"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.87633, 
+      44.28595
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Via Salita, 2 presso il \"Circolo dei Franchi Bevitori\", Mercoledì dalle 21:00, Stefano GiurinCell: 392 9260834 Kgs: wildpizza", 
+    "name": "GoRomagna"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.8944743, 
+      48.2964858
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.go-erding.de, Posenerstr. 12, privat, Mo ab 19, Klaus Flügge, 08122-902914", 
+    "name": "Erding"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      11.973735894186, 
+      51.4683192
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Spielehaus, Franckesche Stiftung, Mo 20-24, Dr. Rainer Herter, 0345-5521446", 
+    "name": "Halle (Saale)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      12.05148, 
+      44.03688
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Leonardo Dal ZovoCell: 338 4382995", 
+    "name": "GoRomagna"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      12.10353, 
+      42.42026
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Piazza San Faustino, 14, VITERBO, (VT), Martedì dalle 21:00 in poi, gojoclubviterbo@yahoo.it Marco Generali marcgen84@yahoo.it Cell: 339 1363616 Kgs: maik123 Riky De Carolis Cell: 320 0627142", 
+    "name": "\"Go'Jo\""
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      12.1081236758529, 
+      47.8379995864355
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Christoph Sitte, 0176-21643171", 
+    "name": "Rosenheim"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      12.1083093, 
+      49.0084477
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Gaststätte Antoniushaus, Mühlweg 13, Mo ab 20, Erwin Gerstorfer ", 
+    "name": "Regensburg"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      12.1252848, 
+      54.0852727
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.mvgo.de/spielorte/, Helga's Kitchen, Am Vögenteich 19, www.helgas-kitchen.de, Mi 19-23, Michael Bull, 0179-4674563", 
+    "name": "Rostock"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      12.12992, 
+      43.59035
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Nicola Torrioli Cell: 333 8749827 Ricardo Mancini Cell: 338 6400458", 
+    "name": "Biturgo"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      12.1655881, 
+      48.5449693
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Landshut und Umgebung, Georg Engl, 0172 247 3328", 
+    "name": "Landshut"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      12.21253, 
+      46.13502
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Fabrizio Soppelsa ", 
+    "name": "Go Club \"VenetoGo\" Sez. di Belluno"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      12.28264, 
+      45.50527
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Presso lo spazio giovani della municipalità di Favaro Veneto in Via Altinia 9, Ci troviamo tutti i giovedì sera dalle ore 21:00 circa.Contattare Andrea per la conferma del ritrovo., Andrea ", 
+    "name": "Go Club Favaro Veneto"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      12.34413, 
+      45.43365
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Presso Centro culturale Olivolo situato a San Francesco della Vigna in zona arsenale. Per chi non è mai venuto o non ricorda la strada contattateci che ci troviamo prima a San Zaccaria per mostrarvi la strada., Tutti i sabati pomeriggio, l'orario di inizio è intorno le ore 16:00 fino alle ore 19:30/20:00, a seconda dell'affluenza.Vedere il Calendario o contattare direttamente Matteo per conferma., Sandro Dunatov Cell: 335 203010 Matteo Boscolo Cell: 349 7716319", 
+    "name": "Go Club \"VenetoGo\" Sez. di Venezia"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      12.36671358346939, 
+      51.34202150848297
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Villa e.V., Lessingstr. 7, kleiner Seminarraum, 3. Etage, Di 18.30-22, Hans Zötzsche, 0341-2329228; Jürgen Posselt, 0341-6016724", 
+    "name": "Leipzig"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      12.380879136165, 
+      51.33881915
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Universität Leipzig, Augustusplatz, Raum A314 (im Semester), Do 18-21, Bastian Schütze ; Anke Bremer (Email), 0163-4554310", 
+    "name": "Leipzig"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      12.38811, 
+      43.1096
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Corso Vannucci, 99 presso il bar \"Blitz\", Giovedì dalle 19:00, Alessandro Salpietro a.salpietro@yahoo.it Cell: 333 4037308 Marco Baldoncini marcobaldoncini@libero.it Cell: 333 7339778", 
+    "name": "\"ARGO\" Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      12.50739, 
+      41.88102
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Via Cereate, 8 presso la ludoteca \"La Civetta\", Martedì e Giovedì dalle 19:30 in poi, GCR goclubromafujisawashuko@gmail.com?subject=[GO]%20richiesta%20informazioni", 
+    "name": "\"Fujisawa Shuko\""
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      12.52471, 
+      45.7595
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Via Chiesa a Lancenigo di Villorba presso l'Oratorio (non c'è numero civico)., Tutti i Martedì sera (dalle ore 20:30 alle ore 23:30) a Lancenigo, e alcuni sabati a Pieve di Soligo (previo accordo).Il Sabato alla fumetteria \"Shion Art\", Via Marconi 34 Pieve di Soligo (TV).Vedere il Calendario o contattare direttamente Marco per maggiori informazioni., Marco Fava Cell: 328 9432090", 
+    "name": "Go Club \"VenetoGo\" Sez. di Treviso"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      12.66176, 
+      45.9629
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "c/o fumetteria \"Altrimondi\", via Caboto 20 - Pordenone, ogni due settimane al martedì dalle 20.30 in poi (contattare Davide Rosolen per conferma), Davide Rosolen Kgs: Proffffff", 
+    "name": "Go Club \"Higashikita\" Sez. di Pordenone"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      12.68123, 
+      41.8083
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Alberto Annovi alberto.annovi@gmail.com Cell: 333 6044216", 
+    "name": "Frascati Go Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      12.68123, 
+      41.8083
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Francesco Viti francescovitix@libero.it Cell: +39 339 5808226", 
+    "name": "New Go Club Frascati"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      12.924034580186, 
+      50.8353940036907
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.facebook.com/#!/pages/Go-Gruppe-Chemnitz/255486124499961, bitte vorher Go-Gruppe Chemnitz über Facebook kontaktieren, Mi ab 18, 14-tg, Lars Gebhardt ", 
+    "name": "Chemnitz"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      12.982995613993, 
+      50.9906380955545
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Bierstube in der Mensa der Hochschule, Am Schwanenteich, Mi ab 18, H.-D. Pester, 03727-603099", 
+    "name": "Mittweida"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.00028, 
+      46.16859
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Ivo Clarini Cell: 333 7780344", 
+    "name": "Go Club \"Higashikita\" Sez. di San Daniele del Friuli (UD)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.0108711, 
+      52.4018765
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.planet-nil.de, Nil Keller, Am Neuen Palais 10, Haus 11, www.planet-nil.de, Mi ab 19.30, Stefan Leon, 01520-731 58 21", 
+    "name": "Potsdam"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.034183979034424, 
+      52.396095189086296
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.go-potsdam.de, privat bei Oliver Lenz, Carl-von-Ossietzky-Str. 6, priv. n. V., Oliver Lenz, 0331-902395", 
+    "name": "Potsdam"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.1502135877827, 
+      52.9464193243255
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "priv. n. V., Mo-Do 19-22, Tobias Klatt, 0151-28027524", 
+    "name": "Löwenberg"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.201985657215117, 
+      52.537083878489334
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Cafe Lutetia, Jüdenstr. 11, Do 18-22, Marco Hoffmann ; Andreas Moenck (Email)", 
+    "name": "Berlin (Spandau)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.2231562, 
+      52.7517865
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://facebook.com/GoPiraten, Cafe/Bistro Kaffeetante (im Oranienwerk), Kremmenerstr. 43, Fr ab 18, Wolfgang Walz, 03301-426366", 
+    "name": "Oranienburg"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.23325, 
+      46.07168
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Via Ermes di Colloredo, 14 presso la Ludoteca-Bar \"Quarta Dimensione\", Paolo Driussi Kgs: puhamedve", 
+    "name": "Go Club \"Higashikita\" Sez. di Udine"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.241466027255, 
+      52.4372333
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.slaughterlake.de, direkt an der S-Bahn Linie 1, mit Badesee (Sommer) und Kachelofen (Winter), Di 18-23, Thorsten Bartelt ", 
+    "name": "Berlin (Schlachtensee)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.3081904054, 
+      52.5034272711
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Mommsen Eck, every 2nd monday of a month 18:00 - 21:00, Pandau Ting: pandau@nakade.de; Maurice Wohabi: mo@nakade.de", 
+    "name": "Nakade Go Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.3283011, 
+      52.5081789
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "TU Berlin, Hardenbergstr. 36 (Physikneubau, Raum 114), Fr 18-23, James Brückl, 0157-73867795", 
+    "name": "Berlin (Charlottenburg)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.33642, 
+      38.12709
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "presso il Centro Scacchi Palermo in via Enrico Fermi 8, Tutti i martedì dalle ore 16:00 alle ore 20:00, Marco Milone Cell: 3926981326 : milone_m@yahoo.com", 
+    "name": "Il Palermo go club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.3779334, 
+      54.0927869
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Cafe Koeppen, Bahnhofstr. 4, Di 19.30-23, Carsten Herrmann, 0176-61573271", 
+    "name": "Greifswald"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.377976, 
+      52.5240046
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Humboldt Universität, Hauptgebäude, Dorotheenstr., Mo 17.30-22, Patrick Husmann, 0176-84091779", 
+    "name": "Berlin (Mitte)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.3972286, 
+      52.5462212
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Baduk in der Tortenwerkstatt, Gleimstr. 6, Mi+Sa 18-22, Byoung Seon ; Uwe Hadlich (Email), 0176-61663333", 
+    "name": "Berlin (Wedding)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.4143769, 
+      52.5408877
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "\"Gemeinschaft der 5 Ziegen\", Lychener Str. 63, So ab 20, Michael Sandien, 030-44736848", 
+    "name": "Berlin (Prenzlauer Berg)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.41566, 
+      42.35557
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Keichiro Abe: keiichiro_abe@alice.it Cell. : 348 5177121", 
+    "name": "L'AQUILA"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.4388536, 
+      52.4949173
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://govb.de/e107_plugins/spieltreffs/spieltreffs.php?view.7, Jugendtreff Ev. Martha-Gemeinde, Glogauer Str. 22, Mo+Mi+Fr 17.30-20, Kalli Balduin, 0163-8639064", 
+    "name": "Berlin (Kreuzberg)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.5069655, 
+      52.4471763
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Kiezklub Johannisthal, Sterndamm 102, 1. Etage, Di ab 18, Ralph Drochner ", 
+    "name": "Berlin (Johannisthal)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.5224, 
+      45.80573
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "L'appuntamento è presso il Ricreatorio parrocchiale \"Mons.O.Foschian\" Via Isonzo 27, Monfalcone (Go). Contattare Michele per maggiori informazioni., ogni 3 settimane, giovedì alle ore 21, Michele Tognon ", 
+    "name": "Go Club \"Higashikita\" Sez. di Gorizia"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.6271993, 
+      52.4467378
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Cafe Rabu, Scharnweberstr. 67, Mi 19-22.30, Torsten Vergin, 030-88538010; Stefan Brunn (Email), 0151-41675719", 
+    "name": "Berlin (Friedrichshagen)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.62981, 
+      41.29084
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Enrico Greco: 7valis7@gmail.com Cell. : 328 5686736", 
+    "name": "FORMIA"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.71013, 
+      42.82367
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "S. EGIDIO ALLA VIBRATA (TE), Emiliano Calderoli: hiraokasan@gmail.com", 
+    "name": "\"Yugen\" Go Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.7222126691801, 
+      51.06212745
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.horst-huebner.de, Freiberger Str. 31 im Eigenbetrieb Sportstätten, 4. Etage, Konferenzraum, Mi 18-22, Horst Hübner, 0351-4712051", 
+    "name": "Dresden"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.7560578, 
+      51.0696329
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Barneby, Görlitzer Str. 11, Do ab 18.30, Sascha Giebner, 0151-23232237", 
+    "name": "Dresden"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.78075, 
+      45.62995
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "c/o \"Ludomania\", via Svevo 1 (2° piano) - Trieste, ogni giovedì dalle 21.00 in poi., Davide Bertok Cell: 328 3277011", 
+    "name": "Go Club \"Higashikita\" Sez. di Trieste"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.846313953399656, 
+      52.53620778229493
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.go-club-strausberg.de, Racket Center, Landhausstr. 16-18, Fr 18.30-23, Gerd Eckert, 0170-7812017", 
+    "name": "Strausberg"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      13.95629, 
+      40.73357
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Via Seminario, 15 presso \"Belcanto - Art Fusion Cafè\", Dal Martedi al venerdi dalle 21:00 all'01:00, tranne nelle sere in cui è programmato un evento, chiusura settimanale il Lunedi., Ivan Cigliano : cuzzocrea10@libero.it Cell. : 345 4134236", 
+    "name": "Ischia Ponte"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      14.2085356682333, 
+      51.5598961
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Hartmut Köstner, 035751-15691", 
+    "name": "Welzow"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      14.25064, 
+      40.85058
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Via Bellini, 56 presso il \"Volver Cafè\", Martedì dalle 21:00, Bruno Izzi : br1izzi@hotmail.com", 
+    "name": "\"Najokata\""
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      14.78957, 
+      40.91298
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Gaia Malagoli : gaia.malagoli@gmail.com Cell. : 329 1187140 Kgs : Gaiachan", 
+    "name": "AVELLINO"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      15.03088, 
+      37.46042
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Davide Carlesi : moscarpone@gmail.com Cell. : 340 6947793 Kgs : Gatsu55", 
+    "name": "CATANIA"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      16.87575, 
+      41.09289
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Francesco Cutrone : cutronefrancesco@yahoo.it Kgs : BonoVox club : goclub.bari@libero.it", 
+    "name": "Go Club Bari"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      17.6482862234, 
+      59.8416577728
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://www.facebook.com/groups/8126794587/, kl. 19 i Ekonomikum (f.d. Humanistcentrum) i det allmänna utrymmet vid huvudentrén (\"lokstallarna\"), på Kyrkogårdsgatan, på tisdagar, uppsalago@gmail.com", 
+    "name": "Uppsala go-klubb"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      18.468875885009766, 
+      -33.93869593864506
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": "The Cape Town club meets on Tuesday evenings from 19h00, but the previous venue has closed: Obz Café and \"That Place\" are possible new venues.\n\nhttp://www.sagoclubs.co.za/cape-town-club/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      18.8654243946, 
+      -33.9326430283
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.sagoclubs.co.za/stellenbosch-club/, Recently (2015) some of us have been playing at The Guild campus board-gaming society., Gordon Wells", 
+    "name": "Stellenbosch"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      20.5216133594513, 
+      54.7136921173295
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://vk.com/gokld, в библиотеке им. Снегова (ул. 9 апреля, д. 5), Каждую субботу с 13:00 до 17:00", 
+    "name": "Клуб Го в библиотеке им. Снегова"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      22.15367317199707, 
+      -34.1831750336048
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": "There is currently no club in Mossel Bay. However, anyone there interested in the game can contact Candice Barker. She would be happy to meet and play holiday-makers or business visitors in Mossel Bay, introduce the game to prospective new players, or meet other players from Mossel Bay and surrounds.\nMeets: ad hoc\nContact: Candice Barker (phone: 0446905547)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      24.1466081142426, 
+      45.7907338983941
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "every Thursday at 5 pm", 
+    "name": "Asociatia Confucius Go Club Sibiu"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      25.5323982239, 
+      -33.9437871712
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.sagoclubs.co.za/other-clubs/, There are no clubs in the Eastern Cape. However, anyone there interested in the game can contact William Mapham <william.mapham@gmail.com> or Patrick Lee <alobar@telkomsa.net>", 
+    "name": "Port Elizabeth"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      27.8636026382, 
+      -26.2235711114
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.sagoclubs.co.za/soweto-club/, Sipho Mampe: 084 7888 177", 
+    "name": "Soweto"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      27.9047101736, 
+      -26.1279211892
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "House of Coffees in Clearwater Mall, Start 19h00 on Wednesdays, Pablo Casado (e-mail: phmcasado !@! gmail [d-o-t] com)", 
+    "name": "Pretoria Clearwater"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      27.997187376, 
+      -26.1843539316
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.sagoclubs.co.za/uj-club/, Mondays: C-Les 305, 13:00-14:00 Wednesdays: D-Les 411, Mon, Wed: 13:00-14:00", 
+    "name": "UJ"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      28.04165706038475, 
+      -26.14647068635603
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": "The Joburg club meets weekly, on Sundays (regularly) and on Tuesdays (occasionally):\n\nLocation:\nRosebank Mall – Fourno’s Bakery (Sunday mornings)\nRosebank Mall – Mugg and Bean (Tuesday evenings)\n\nTime:\nSundays from 10:00 to 13:00 (approximately). Tuesdays from 19:00 to 21:00 (approximately).\n\nhttp://www.sagoclubs.co.za/joburg-club/"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      28.2359080017, 
+      -25.7509321638
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://www.sagoclubs.co.za/pretoria-club/, Outer Limits Comic and Games shop in Hatfield Square (near News Cafe), Wednesday evenings, Brett Wilson (072 099 9943) or John Leuner (076 226 9975)", 
+    "name": "Pretoria Go Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      30.2812600136, 
+      59.9405169002
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "в кафе Укроп, 7-я линия В.О., д. 30\\nВХОД СВОБОДНЫЙ, Вторник с 19:00\\nСуббота с 14:00", 
+    "name": "ЗВЕЗДА"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      30.2986112236977, 
+      59.9501579078195
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "в \"Корейском центре\", вторники с 19.00 до 21.30 - воскресенья с 16.00 до 21.30, Саша Ким http://vk.com/id16793582 - телефон 89218682591", 
+    "name": "Клуб НАН"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      30.3206992149353, 
+      59.9253989077468
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Санкт-Петербург, Наб. реки Фонтанки, 91. Метро «Сенная»-»Садовая». Чайный клуб «Море чая»., Пн, Вт, Ср, Чт, с 19:00 до 22:00, Руководитель клуба — президент Федерации Го Санкт-Петербурга Максим Подоляк. Тел. +7 905 206 58 76, email: m.podolyak@gofederation.ru Телефон: 310–84–63 Понедельник, четверг — занятия для начинающих (учебный курс начального уровня) Вторник — занятия для продолжающих (продвинутый курс) Среда — игровой день для всех желающих (игры, разборы, свободное общение).", 
+    "name": "Клуб 天元 Тэнгэн"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      31.038233041763306, 
+      -29.849847434737633
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": "(info date: May 2006)\nPeter Charter is at work resuscitating the Durban Go club.\nMeetings: Start 18h30 at the Steers on North Beach, on Tuesdays.\nContact: Peter Charter (cellphone: 082 900 1496) or Tony Clulow (home phone: 031 702 1749)."
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      32.6989173889, 
+      34.6665348447
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "The Group leader is Jolyon Kay, tel. 25222363. Please contact him for the venue of the meeting because now they meet in member's houses in rotation.", 
+    "name": "Pissouri Go Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      33.3533763885, 
+      35.1420903933
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Arabica Cafe in Nicosia, every Saturday, starting around 17:30", 
+    "name": "Nicosia"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      33.3751934767, 
+      35.1677393623
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Meetings: Postponed Meeting place: Polykentro Neolaias, 14 Tombazi Street, Lykavitos, Nicosia Time: TBA This club is for children of ages 6-13. It is the ideal place for children to discover the game of Go. Parents and teachersare welcome to play with us as well.Information: Call 22 87 75 10 or email Dimitris Regginos: regginos@gmail.com - www.regginos.com", 
+    "name": "Polykentro Neolaias Go Club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      33.9249229431, 
+      35.1315530262
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Magem building, Famagusta, Every Tuesday 18:00, Nurman Aylanc nurmana@hotmail.com (tel. 0090 533 862 9582)", 
+    "name": "Magem Go club"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      34.3596875668, 
+      61.7917553225
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://dtdu.ru/", 
+    "name": "Занятия в Дворце творчества детей и юношества"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      34.3662536144, 
+      61.7920240991
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://csdusshor.ru/ ", 
+    "name": "Центральная спортивная школа города Петрозаводска"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      35.9165811539, 
+      56.8383569987
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Каждый четверг (18:00-21:00) и воскресенье (12:00-16:00)", 
+    "name": "Тверской Го Клуб"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      37.5309276580811, 
+      55.7030442872218
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://vk.com/go_msu, Собираемся в ШК МГУ., Среда - 18:30-23:00 Суббота - 12:00-18:00", 
+    "name": "Го в МГУ им. М.В. Ломоносова"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      37.5559955835, 
+      55.6791723583
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "ул. Архитектора Власова, д.7, корп. 3, +7 926 925 7440 (Санкин Владимир Евгеньевич), +7 916 583 1580 (Санкин Тимур Владимирович)", 
+    "name": "Лидер Го (детский Го клуб)"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      37.5976073742, 
+      54.1715538736
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "пр.Ленина, 93, к.Б,", 
+    "name": " Тульский Государственный Университет, Го Клуб"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      37.6030898094, 
+      55.860730489
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://kaissa-club.ru/, 127273, Москва, ул.Хачатуряна, 16, с 10.00 до 21.00 , elvird@yandex.ru", 
+    "name": "Каисса"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      37.6042672991753, 
+      55.7692816013741
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://territoria-club.ru/, Москва, м. Проспект мира (кольцевая или радиальная), 5 мин. пешком до с.к. Олимпийский, подъезд 9А, 7-й этаж, офис 3/10, по Вт с 19-00 до 21-00 и по Сб с 11-00 до 13-00. Можно выбрать удобное время, +7-916-179-85-24 Михаил", 
+    "name": "Территория"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      37.6170158386, 
+      54.1764521665
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "ул. Кауля, 49б к.1", 
+    "name": "семейный центр «Супердетки»"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      37.631553411483765, 
+      55.758541891280245
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Лучников переулок, д. 4, стр. 1 Игорь Тычко, тел.: +7 926 423-98-45", 
+    "name": "Го-клуб \"Китай-город\""
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      37.648043632507324, 
+      55.759951486532884
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "на территории культурного центра «Покровские ворота» (Чайная высота)", 
+    "name": "Го-клуб \"Тэнуки\""
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      37.6543629169, 
+      55.7337675636
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "г. Москва, Новоспасский переулок, 5 (м. «Таганская», радиальная), СР 16:00 - 21:00 Играем и лекции (100 руб. занятие)СБ 12:00 - 13:30 Детская группа (200 руб. занятие)СБ 13:00 - 18:00 Играем и лекции (100 руб. занятие), Встречи го-клуба \"СЭНТЭ\" в Москве.Вас ждут лекции, игры, сеансы, разборы, чай, сладкое и много игроков!", 
+    "name": "го-клуб  \"СЭНТЭ\""
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      38.0898034573, 
+      55.603281205
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "СР 14:00 - 16:00 Детская группа (абонемент, 300 руб. занятие) ПТ 14:00 - 16:30 Детская группа (абонемент, 300 руб. занятие), Телефон: +7-926-266-43-27 Алексей Кожунков (Neya)", 
+    "name": "г. Жуковский, ул. Солнечная, 6 («Творческая мастерская») "
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      39.068455696106, 
+      45.0243115558866
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://adzi.19lines.ru/, Молодёжный центр, г. Краснодар, ул. Сормовская, д. 12/11 , суббота, 13:00 - 18:00, +7-961-5181893 (Геннадий) +7-918-4157958 (Сергей)", 
+    "name": "Адзи"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      39.2018580436707, 
+      51.6628565757746
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://voronezh.weiqi.ru/, пл. Ленина 10, 2-й корпус ВГУ, Ресурсный Центр, ауд. 108. , вторник с 18.30 до 21.00 , Вахитова Светлана, моб. 8-920-427-00-34, e-mail: svetasoft mail.ru", 
+    "name": "Воронежский го клуб"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      39.6161466836929, 
+      47.2256341306751
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://m.vk.com/page-70558237_50154822, школе при Церкви Святого Георгия Победоносца по адресу: г.Ростов-на-Дону, ул. 339 Стрелковой Дивизии, 33, по воскресеньям с 18:00 до 20:00, мастер Го Константин Злобин 8-905-455-46-31", 
+    "name": "Сюдан - Воскресенье - Дети"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      39.6186518669, 
+      47.2117122248
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://m.vk.com/page-70558237_50154822, Чайная Будду Чай по адресу: г. Ростов-на-Дону, пр.Стачки, 231б., по четвергам с 18:30 до 22:30, мастер Го Антон Корзун 8-988-550-14-81", 
+    "name": "Сюдан - четверг"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      39.629970789, 
+      47.2310219216
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://m.vk.com/page-70558237_50154822, Пространство Теннис Шахматы Танцы по адресу: г.Ростов-на-Дону, ул.Зорге, 70, по воскресеньям с 15:00, мастер Го Алексей Акишин 8-960-452-34-85, 8-960-458-67-47", 
+    "name": "Сюдан - Воскресенье"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      39.7308969498, 
+      54.6121686784
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://vk.com/club13775999", 
+    "name": "Рязанский Го клуб"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      39.8588490486145, 
+      57.6343262680233
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "г. Ярославль, ДК Моторостроителей (им. А. М. Добрынина) - Проспект Ленина 24а", 
+    "name": "Ярославский Го-клуб"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      43.8778066635, 
+      56.2685236856
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Каждую пятницу в 17:30, на Львовской, ауд. 203", 
+    "name": "Клуб Го НИУ ВШЭ"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      44.0111446381, 
+      56.3235841529
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Каждое воскресенье с 11-00 до 14-00 и дольше.", 
+    "name": "Клуб \"Го\" в Нижегородском Циферблате"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      49.1096806526, 
+      55.7957266669
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://vk.com/yaminoyume, Возможные дни - ЧТ с 13-00 до 20-00, СБ и ВС с 11-00 до 17-30. Только по договоренности с Людмилой!, Контактное лицо - Людмила +7-96-56-0111-47", 
+    "name": "Полигон - Клуб любителей интеллектуальных игр"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      49.1411054134, 
+      55.8308483692
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://vk.com/yaminoyume, Контактное лицо - Людмила +7-96-56-0111-47", 
+    "name": "Японский культурный центр «Хато»"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      49.3274116516, 
+      53.5257173055
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://vk.com/club_go_strategia, 5 этаж офис 505, Леонид Сергеевич Бычков, +7 (927) 618 56 99, strateggo@ya.ru", 
+    "name": "Клуб «Стратегия»"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      50.1778945327, 
+      53.2126491333
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "в Студклубе СГАУ (16 корпус), По вторникам и четвергам в 18.00, Контакты: Алексей Курочкин (Rendal) Телефон: 8 927 797 0870 ICQ: 293 215 515", 
+    "name": "Го-клуб СГАУ: \"Полёт мысли\""
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      55.1094818115234, 
+      51.7958765661868
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://vk.com/go_heiko", 
+    "name": "Heiko"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      55.4521915, 
+      -20.8737803
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Saint-Denis Récréateurs, ancienne gare routière de Saint-Denis, sur le front de mer rue+neuve,+saint-denis,+reunion Tous les mardis à 18h00. Prévenez à l%27avance par courriel à clubdego974@gmail.com clubdego974gmail.com"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      55.4776174, 
+      -21.3412979
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": " Tous les mercredis soir Saint-Pierre lieu variable Saint-Pierre nosite"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      59.9758780002594, 
+      57.9268875937451
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://vk.com/vostok_goban, Центр семейно консультации, Восточная 3., По воскресеньям в 16.00.", 
+    "name": "Восточная беседа - воскресенье"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      59.9829483032, 
+      57.9150415302
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://vk.com/vostok_goban, Шахматно-Шашечный Центр, Газетная 109., По субботам в 15.00.", 
+    "name": "Восточная беседа - суббота"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      59.9829483032, 
+      57.9150415302
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Шахматно-Шашечный Центр, Газетная 109, По субботам в 15.00", 
+    "name": "Восточная беседа - суббота"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      60.6150054931641, 
+      56.841320577225
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://vk.com/club8428386, Тургенева, 4. УрГУ Шестой этаж, аудитория 601, Понедельник, среда, пятница с 18:00 до 22:00 ", 
+    "name": "Екатеринбург"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      65.3534817695618, 
+      55.440968139606
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://vk.com/club22095109, Про Играх в художественном музее Максима Горького 129, отдельный вход с лева от центрального, Каждый четверг в 19-00", 
+    "name": "Курган"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      65.5298423767, 
+      57.1590193433
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "Тургенева 9, ауд. 201, каждую субботу в 13:30, Студентам ТюмГУ при себе иметь пропуск, остальным паспорт.", 
+    "name": "Тюменский Го клуб"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      73.36040943861008, 
+      54.99244834071137
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "На площадке \"Дача Онегина\"", 
+    "name": "Омский Го-клуб"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      83.0960261822, 
+      54.846571357
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "в здании нового спортивного комплекса НГУ, 301 аудитория, каждое воскресенье с 13:00 до 17:00, Вход свободный. Академгородок, ул. Пирогова 2 к1 Остановка общественного транспорта – Цветной проезд", 
+    "name": "Го клуб НГУ"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      84.9649572372436, 
+      56.4654511533279
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "http://vk.com/dom_vetra, Библиотека Зелёная Лампа, Красноармейская ул. 89а, Томск, по вторникам с 18:00 до 21:00", 
+    "name": "Дом Ветра"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      92.8892648220062, 
+      56.011062325358
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "https://vk.com/club13717117, в библиотеке им. Ленинского комсомола по адресу ул. К.Маркса, 21., Как правило по воскресеньям c 12:00", 
+    "name": "Красноярский го-клуб"
+  }
+}{
+  "geometry": {
+    "type": "Point", 
+    "coordinates": [
+      117.127895446611, 
+      36.6716050096117
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "description": "", 
+    "name": "济南市"
+  }
+}

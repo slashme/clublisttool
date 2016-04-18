@@ -425,36 +425,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -6.24886, 
-          53.336883
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3169 , The Baggot Inn, 135 Lower Baggot Street, Dublin 2  , Wednesday about 20:30-21:00 until midnight ", 
-        "name": "Dublin (Collegians Chess and Go Club)"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -6.24886, 
-          53.336883
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3169 , The Baggot Inn, 135 Lower Baggot Street, Dublin 2  , Monday about 20:30-21:00 until midnight most weeks ", 
-        "name": "Dublin (Collegians Chess and Go Club)"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           -2.9931106, 
           56.456211
         ]
@@ -764,6 +734,21 @@
       "properties": {
         "description": "http://www.britgo.org/node/3206 , TW1 4RB The Alexander Pope Hotel, Cross Deep, Twickenham, West London  , Wednesday 19:30  , Colin Maclennan Tel: 020 8941 1607 ", 
         "name": "London, Twickenham"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.25243, 
+          53.33777
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.irish-go.org/clubs-tournaments/dublin/ , Toner's Pub,\r\n139 Baggot Street Lower, Dublin 2 , Monday about 20:30-21:00 until midnight most weeks", 
+        "name": "Collegians Go Club"
       }
     }, 
     {
@@ -1229,6 +1214,21 @@
       "properties": {
         "description": "https://www.facebook.com/BermudaGo", 
         "name": "Bermuda Go Society"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.24886, 
+          53.336883
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.irish-go.org/clubs-tournaments/dublin/ , Toner's Pub,\r\n139 Baggot Street Lower, Dublin 2 , Wednesday about 20:30-21:00 until midnight", 
+        "name": "Collegians Go Club"
       }
     }
   ]

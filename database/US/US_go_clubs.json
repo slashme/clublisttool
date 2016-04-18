@@ -105,6 +105,21 @@
         "description": "Musser Room (we share with the Chess Club) , every Saturday 14:00 , schlowgo@gmail.com", 
         "name": "Schlow Library Go Club"
       }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -96.764634, 
+          33.002104
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://dallasgoclub.org , 320 Coit Rd, Plano, TX 75075 , Thursdays 5-10pm , dallasgo@gmail.com", 
+        "name": "Dallas Go Club"
+      }
     }
   ]
 }
