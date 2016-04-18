@@ -5,15 +5,15 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.43665504455566, 
-          54.7841816719325
+          10.7538150746101, 
+          48.0301967
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "Grisou, Holmhof 43 , Mi ab 19.30 , Peter Lakemeier, 0461-7703491", 
-        "name": "Flensburg"
+        "description": "Bernd Gramlich, 08241-5079996", 
+        "name": "Buchloe"
       }
     }, 
     {
@@ -470,21 +470,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.9864197, 
-          53.4580076
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://gohh.de/?Clubs_und_Spielgruppen:Go-Gruppe_Harburg , Kulturzentrum \"Rieckhof\", Rieckhoffstr. 12, 040-7662020 , Mi 19-22 , Jürgen Abels, 04181-4063524; Matthias Palm (Email), 040-76111771", 
-        "name": "Hamburg (Harburg)"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           10.3844010777478, 
           53.22281005
         ]
@@ -599,6 +584,21 @@
       "properties": {
         "description": "http://senseis.xmp.net/?GoClubSchleswig , Café Patio, Lollfuß 3 (Innenhof) , Sa ab 17 n. V. , Mario Venzlaff, 04621-382823", 
         "name": "Schleswig"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.43665504455566, 
+          54.7841816719325
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Grisou, Holmhof 43 , Mi ab 19.30 , Peter Lakemeier, 0461-7703491", 
+        "name": "Flensburg"
       }
     }, 
     {
@@ -749,21 +749,6 @@
       "properties": {
         "description": "http://www.hannover-go.de , Voltmershof, Burgwedeler Str. , Do ab 18 , Winfried Dörholt, 0511-772766", 
         "name": "Isernhagen"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          9.9542093, 
-          52.1500474
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://go-hildesheim.de , \"Deseo\", Hindenburgplatz 3 (bitte vorher kontaktieren) , Sa ab 14 , Veronika Lyssenko ", 
-        "name": "Hildesheim"
       }
     }, 
     {
@@ -1910,21 +1895,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          10.7538150746101, 
-          48.0301967
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Bernd Gramlich, 08241-5079996", 
-        "name": "Buchloe"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           9.9997099, 
           48.4067632
         ]
@@ -2069,6 +2039,36 @@
       "properties": {
         "description": "http://www.horst-huebner.de , Freiberger Str. 31 im Eigenbetrieb Sportstätten, 4. Etage, Konferenzraum. , Mi 18-22 , Horst Hübner, 0351-4712051", 
         "name": "Dresden"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.97962391591026, 
+          53.56789125
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://go-hildesheim.de , \"Deseo\", Hindenburgplatz 3 (bitte vorher kontaktieren) , Sa ab 14 , Veronika Lyssenko", 
+        "name": "Hildesheim"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.9864197, 
+          53.4580076
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://gohh.de/?Clubs_und_Spielgruppen:Go-Gruppe_Harburg , Kulturzentrum \"Rieckhof\", Rieckhoffstr. 12, 040-7662020 , Mi 19-22 , Jürgen Abels, 04181-4063524; Matthias Palm (Email), 040-76111771", 
+        "name": "Hamburg (Harburg)"
       }
     }
   ]
