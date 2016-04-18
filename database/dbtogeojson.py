@@ -17,9 +17,9 @@ for layer in result:
   features=[]
   for row in result:
       if row[7]==7:
-          features.append({'geometry': {'type': 'Point', 'coordinates': [row[6],row[5]]}, 'layer': layer[0], 'type': 'Feature', 'properties': {'description': ' , '.join(filter(None,row[1:5])), 'name': row[0]}, '_storage_options': {'iconClass': 'Ball'}} )
+          features.append({'geometry': {'type': 'Point', 'coordinates': [row[6],row[5]]}, 'layer': layer[0], 'type': 'Feature', 'properties': {'description': ' , '.join(filter(None,row[1:5])), 'name': row[0], '_storage_options': {'iconClass': 'Ball'}}} )
       elif row[8]==2:
-          features.append({'geometry': {'type': 'Point', 'coordinates': [row[6],row[5]]}, 'layer': layer[0], 'type': 'Feature', 'properties': {'description': ' , '.join(filter(None,row[1:5])), 'name': row[0]}, '_storage_options': {'iconClass': 'Circle'}} )
+          features.append({'geometry': {'type': 'Point', 'coordinates': [row[6],row[5]]}, 'layer': layer[0], 'type': 'Feature', 'properties': {'description': ' , '.join(filter(None,row[1:5])), 'name': row[0], '_storage_options': {'iconClass': 'Circle'}}} )
       else:
           features.append({'geometry': {'type': 'Point', 'coordinates': [row[6],row[5]]}, 'layer': layer[0], 'type': 'Feature', 'properties': {'description': ' , '.join(filter(None,row[1:5])), 'name': row[0]}})
   result={'type': 'FeatureCollection', 'features': features}
