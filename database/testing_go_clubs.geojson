@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -72.5427247,
+          46.3417177
+        ]
+      },
+      "properties": {
+        "description": "Nord-Ouest Café\r\n1441, rue Notre-Dame Centre\r\nTrois-Rivières\r\nQuébec , Deux fois par mois , Petit club qui se rencontre deux fois par mois. Les joueurs de tous les niveaux sont les bienvenus ! Pour connaître notre prochaine rencontre, contactez solarbear @ le site de courriels de Google.",
+        "name": "Club de go de Trois-Rivières"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.06995,
           47.39104
         ]
@@ -4024,48 +4038,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.49208,
-          51.896337
-        ]
-      },
-      "properties": {
-        "description": "http://www.britgo.org/node/3168 , Cork Cricket Club, Mardyke Walk   , Sunday 20:00 ",
-        "name": "Cork (UCC Weiqi Club)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.24886,
-          53.336883
-        ]
-      },
-      "properties": {
-        "description": "http://www.britgo.org/node/3169 , The Baggot Inn, 135 Lower Baggot Street, Dublin 2  , Wednesday about 20:30-21:00 until midnight ",
-        "name": "Dublin (Collegians Chess and Go Club)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.24886,
-          53.336883
-        ]
-      },
-      "properties": {
-        "description": "http://www.britgo.org/node/3169 , The Baggot Inn, 135 Lower Baggot Street, Dublin 2  , Monday about 20:30-21:00 until midnight most weeks ",
-        "name": "Dublin (Collegians Chess and Go Club)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.9931106,
           56.456211
         ]
@@ -4143,20 +4115,6 @@
       "properties": {
         "description": "http://www.britgo.org/node/3177 , EX1 1ED White Hart Inn, South Street  , Monday 19:00  , David Storkey Tel: 01392 461182 ",
         "name": "Exeter"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.07514,
-          53.28963
-        ]
-      },
-      "properties": {
-        "description": "http://www.britgo.org/node/3180 , Westwood House Hotel bar  , Wednesday 20:00 - players normally present from 19:30  , Richard Brennan ",
-        "name": "Galway"
       }
     },
     {
@@ -4815,6 +4773,62 @@
       "properties": {
         "description": "https://yorkgosociety.wordpress.com/ , YO10 5DD V Bar, Vanburgh College, University of York, Heslington  , Tuesday 18.00 - 21.00  , Leonardo Sandoval ",
         "name": "York University"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.49208,
+          51.896337
+        ]
+      },
+      "properties": {
+        "description": "http://www.britgo.org/node/3168 , Cork Cricket Club, Mardyke Walk   , Sunday 20:00 ",
+        "name": "Cork (UCC Weiqi Club)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.25247061252594,
+          53.33772331672973
+        ]
+      },
+      "properties": {
+        "description": "http://www.britgo.org/node/3169 , The Baggot Inn, 135 Lower Baggot Street, Dublin 2  , Wednesday about 20:30-21:00 until midnight ",
+        "name": "Dublin (Collegians Chess and Go Club)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2524330615997314,
+          53.33773292596451
+        ]
+      },
+      "properties": {
+        "description": "http://www.britgo.org/node/3169 , The Baggot Inn, 135 Lower Baggot Street, Dublin 2  , Monday about 20:30-21:00 until midnight most weeks ",
+        "name": "Dublin (Collegians Chess and Go Club)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.07514,
+          53.28963
+        ]
+      },
+      "properties": {
+        "description": "http://www.britgo.org/node/3180 , Westwood House Hotel bar  , Wednesday 20:00 - players normally present from 19:30  , Richard Brennan ",
+        "name": "Galway"
       }
     },
     {
