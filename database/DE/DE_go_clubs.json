@@ -395,51 +395,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          10.0038509, 
-          53.5574272
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://gohh.de/?Clubs_und_Spielgruppen:Hamburger_Go-Club , Hamburger Go-Club im CVJM, Schrödersaal, An der Alster 40, 040-2840950 , Mo 18-24 , Olga Silber, 04141-7810576; Tobias Berben (Email), 040-85157161", 
-        "name": "Hamburg"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          10.0038509, 
-          53.5574272
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://gohh.de/?Clubs_und_Spielgruppen:CVJM-Spielabend , CVJM, An der Alster 40, 040-2840950 , Fr ab 18 , Olga Silber, 04141-7810576; Tobias Berben (Email), 040-85157161", 
-        "name": "Hamburg"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          9.97962391591026, 
-          53.56789125
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.go-in-hamburg.de/?Uni_Go-Gruppe , Uni-Spielabend, Foyer des Pädagogischen Instituts (VMP 8) , Do 18-21 , Peter Splettstösser, 040-4914818", 
-        "name": "Hamburg"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           12.982995614, 
           50.9906380956
         ]
@@ -449,21 +404,6 @@
       "properties": {
         "description": "Bierstube in der Mensa der Hochschule, Am Schwanenteich , Mi ab 18 , H.-D. Pester, 03727-603099", 
         "name": "Mittweida"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          9.9908152, 
-          53.5660034
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.ki-hh.de/veranstaltungen/ueberblick , letzter Do im Monat, asiatischer Brettspielabend des Konfuzius Instituts, Chinesisches Teehaus \"Yu Garden\", Feldbrunnenstr. 67 , Do 19-21.30 , Steffi Hebsacker, 0151-15541415", 
-        "name": "Hamburg"
       }
     }, 
     {
@@ -515,15 +455,60 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          10.1669467510192, 
-          53.60649915
+          9.98402416706085, 
+          53.5673603477668
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "http://gohh.de/?Clubs_und_Spielgruppen:Rahlstedter_Go-Club , Gymnasium Oldenfelde, Birrenkovenallee 12 , Di 18-22 , Patrick Brunner, 0176-488485474; Thomas Nohr (Email), 040-67561446, 0176-57186511", 
-        "name": "Hamburg (Rahlstedt)"
+        "description": "http://www.go-in-hamburg.de/?Uni_Go-Gruppe , Uni-Spielabend, Foyer des Pädagogischen Instituts (VMP 8) , Do 18-21 , Peter Splettstösser, 040-4914818", 
+        "name": "Hamburg"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.0096607208252, 
+          53.5590732541404
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://gohh.de/?Clubs_und_Spielgruppen:Hamburger_Go-Club , Hamburger Go-Club im CVJM, Schrödersaal, An der Alster 40, 040-2840950 , Mo 18-24 , Olga Silber, 04141-7810576; Tobias Berben (Email), 040-85157161", 
+        "name": "Hamburg"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.0096607208252, 
+          53.5590732541404
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://gohh.de/?Clubs_und_Spielgruppen:CVJM-Spielabend , CVJM, An der Alster 40, 040-2840950 , Fr ab 18 , Olga Silber, 04141-7810576; Tobias Berben (Email), 040-85157161", 
+        "name": "Hamburg"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.99032735824585, 
+          53.5683001501445
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.ki-hh.de/veranstaltungen/ueberblick , letzter Do im Monat, asiatischer Brettspielabend des Konfuzius Instituts, Chinesisches Teehaus \"Yu Garden\", Feldbrunnenstr. 67 , Do 19-21.30 , Steffi Hebsacker, 0151-15541415", 
+        "name": "Hamburg"
       }
     }, 
     {
@@ -1100,6 +1085,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          10.1594996452332, 
+          53.6105982882876
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://gohh.de/?Clubs_und_Spielgruppen:Rahlstedter_Go-Club , Gymnasium Oldenfelde, Birrenkovenallee 12 , Di 18-22 , Patrick Brunner, 0176-488485474; Thomas Nohr (Email), 040-67561446, 0176-57186511", 
+        "name": "Hamburg (Rahlstedt)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           6.9054775, 
           51.5371173
         ]
@@ -1214,6 +1214,21 @@
       "properties": {
         "description": "\"Meisenfrei\", Südstr. 25 , Di ab 20 , Sarah Tegtmeier, 0241-4759651", 
         "name": "Aachen"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.9997099, 
+          48.4067632
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.go-ulm.de , Cafe Omar, König-Wilhelm Str. 5 , Mi ab 19 , Gerhard Schmid, 0731-54739; Mattias Laage, 0731-57084", 
+        "name": "Ulm"
       }
     }, 
     {
@@ -1895,21 +1910,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.9997099, 
-          48.4067632
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.go-ulm.de , Cafe Omar, König-Wilhelm Str. 5 , Mi ab 19 , Gerhard Schmid, 0731-54739; Mattias Laage, 0731-57084", 
-        "name": "Ulm"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           11.0078072547913, 
           49.4684099332303
         ]
@@ -2060,8 +2060,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.9864197, 
-          53.4580076
+          9.98580515384674, 
+          53.45781022681
         ]
       }, 
       "layer": "DE", 
