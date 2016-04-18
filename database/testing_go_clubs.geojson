@@ -20,6 +20,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          24.826408624649048,
+          60.18916934692833
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "popupTemplate": "Large"
+        },
+        "name": "Polin Go-club",
+        "description": "Game evenings every monday, at least between 18-21. In association room 240-241. https://www.facebook.com/polingokerho/?fref=ts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.06995,
           47.39104
         ]
@@ -1266,36 +1283,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.0038509,
-          53.5574272
-        ]
-      },
-      "properties": {
-        "description": "http://gohh.de/?Clubs_und_Spielgruppen:Hamburger_Go-Club , Hamburger Go-Club im CVJM, Schrödersaal, An der Alster 40, 040-2840950 , Mo 18-24 , Olga Silber, 04141-7810576; Tobias Berben (Email), 040-85157161",
-        "name": "Hamburg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0038509,
-          53.5574272
-        ]
-      },
-      "properties": {
-        "description": "http://gohh.de/?Clubs_und_Spielgruppen:CVJM-Spielabend , CVJM, An der Alster 40, 040-2840950 , Fr ab 18 , Olga Silber, 04141-7810576; Tobias Berben (Email), 040-85157161",
-        "name": "Hamburg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.97962391591026,
-          53.56789125
+          9.98402416706085,
+          53.5673603477668
         ]
       },
       "properties": {
@@ -1308,8 +1297,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.9908152,
-          53.5660034
+          10.018233060836792,
+          53.55637426151367
+        ]
+      },
+      "properties": {
+        "description": "http://gohh.de/spielabende/ , Hamburger Go-Club im Schorsch, Steindamm 87, 3.Stock  , Mo 18-24 , Olga Silber, 04141-7810576; Tobias Berben (Email), 040-85157161",
+        "name": "Hamburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.009698271751404,
+          53.55904457625721
+        ]
+      },
+      "properties": {
+        "description": "http://gohh.de/?Clubs_und_Spielgruppen:CVJM-Spielabend , CVJM, An der Alster 40, 040-2840950 , Fr ab 18 , Olga Silber, 04141-7810576; Tobias Berben (Email), 040-85157161",
+        "name": "Hamburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.99032735824585,
+          53.5683001501445
         ]
       },
       "properties": {
@@ -1322,8 +1339,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.9864197,
-          53.4580076
+          9.98580515384674,
+          53.45781022681
         ]
       },
       "properties": {
@@ -1336,8 +1353,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.1669467510192,
-          53.60649915
+          10.1594996452332,
+          53.6105982882876
         ]
       },
       "properties": {
@@ -1434,12 +1451,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.9542093,
-          52.1500474
+          9.97962391591026,
+          53.56789125
         ]
       },
       "properties": {
-        "description": "http://go-hildesheim.de , \"Deseo\", Hindenburgplatz 3 (bitte vorher kontaktieren) , Sa ab 14 , Veronika Lyssenko ",
+        "description": "http://go-hildesheim.de , \"Deseo\", Hindenburgplatz 3 (bitte vorher kontaktieren) , Sa ab 14 , Veronika Lyssenko",
         "name": "Hildesheim"
       }
     },
@@ -1518,8 +1535,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.4160154,
-          49.0056091
+          8.419271707534788,
+          49.00819926815774
         ]
       },
       "properties": {
@@ -1532,8 +1549,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.4062738,
-          49.0103242
+          8.408317565917969,
+          49.00665097407534
         ]
       },
       "properties": {
@@ -6782,6 +6799,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -96.764634,
+          33.002104
+        ]
+      },
+      "properties": {
+        "description": "http://dallasgoclub.org , 320 Coit Rd, Plano, TX 75075 , Thursdays 5-10pm , dallasgo@gmail.com",
+        "name": "Dallas Go Club"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -87.682056427002,
           42.0487986889771
         ]
@@ -6815,7 +6846,7 @@
         ]
       },
       "properties": {
-        "description": "Musser Room (we share with the Chess Club), every Saturday 14:00, schlowgo@gmail.com",
+        "description": "Musser Room (we share with the Chess Club) , every Saturday 14:00 , schlowgo@gmail.com",
         "name": "Schlow Library Go Club"
       }
     },
@@ -6829,7 +6860,7 @@
         ]
       },
       "properties": {
-        "description": "https://www.facebook.com/tampagoclub/ - http://www.meetup.com/Tampa-Bay-Go-Baduk-Players/ , Saturdays",
+        "description": "https://www.facebook.com/tampagoclub/ - http://www.meetup.com/Tampa-Bay-Go-Baduk-Players/  , Saturdays",
         "name": "Tampa Go Club"
       }
     },
@@ -6843,7 +6874,7 @@
         ]
       },
       "properties": {
-        "description": "Bob's Java Hut, 2651 Lyndale Ave S, Minneapolis, MN 55408, Mondays, 18:00-23:00, 612-871-4485",
+        "description": "Bob's Java Hut, 2651 Lyndale Ave S, Minneapolis, MN 55408 , Mondays, 18:00-23:00 , 612-871-4485",
         "name": "Twin Cities Go Club (Monday)"
       }
     },
@@ -6857,7 +6888,7 @@
         ]
       },
       "properties": {
-        "description": "Coffee Bene, 53 Cleveland Avenue South, Saint Paul, MN 55105, Saturdays, 13:00-17:00, 651-698-2266",
+        "description": "Coffee Bene, 53 Cleveland Avenue South, Saint Paul, MN 55105 , Saturdays, 13:00-17:00 , 651-698-2266",
         "name": "Twin Cities Go Club (Saturday)"
       }
     },
@@ -6871,7 +6902,7 @@
         ]
       },
       "properties": {
-        "description": "Hard Times Cafe, 1821 Riverside Avenue, Minneapolis, MN 55454-1034, Thursdays 18:30-22:00",
+        "description": "Hard Times Cafe, 1821 Riverside Avenue, Minneapolis, MN 55454-1034 , Thursdays 18:30-22:00",
         "name": "Twin Cities Go Club (Thursday)"
       }
     },
