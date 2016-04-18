@@ -5,21 +5,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          10.7538150746101, 
-          48.0301967
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Bernd Gramlich, 08241-5079996", 
-        "name": "Buchloe"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           13.7560578, 
           51.0696329
         ]
@@ -1640,36 +1625,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.4160154, 
-          49.0056091
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Thoule e.V., Ostendstr. 1 , Do ab 20 , Alexander Wirth ; Birger Holtermann (Email)", 
-        "name": "Karlsruhe"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          8.4062738, 
-          49.0103242
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.karlsgo.de/ , Begegnungsstätte Gretl Vogt, Adlerstr. 33 , Mi ab 19 , Wilhelm Bühler, 0151-20904075", 
-        "name": "Karlsruhe"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           7.8831135, 
           48.3410737
         ]
@@ -1790,6 +1745,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          8.41927170753479, 
+          49.0081992681577
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Thoule e.V., Ostendstr. 1 , Do ab 20 , Alexander Wirth ; Birger Holtermann (Email)", 
+        "name": "Karlsruhe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           11.518034, 
           48.1803724
         ]
@@ -1904,6 +1874,21 @@
       "properties": {
         "description": "http://www.augsburg-go.de/ , Il Galeone, Steppacher Str. 1 , Do ab 19.30 , Thomas Brückmann ", 
         "name": "Augsburg"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.7538150746101, 
+          48.0301967
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Bernd Gramlich, 08241-5079996", 
+        "name": "Buchloe"
       }
     }, 
     {
@@ -2069,6 +2054,21 @@
       "properties": {
         "description": "http://gohh.de/?Clubs_und_Spielgruppen:Go-Gruppe_Harburg , Kulturzentrum \"Rieckhof\", Rieckhoffstr. 12, 040-7662020 , Mi 19-22 , Jürgen Abels, 04181-4063524; Matthias Palm (Email), 040-76111771", 
         "name": "Hamburg (Harburg)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.40831756591797, 
+          49.0066509740753
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.karlsgo.de/ , Begegnungsstätte Gretl Vogt, Adlerstr. 33 , Mi ab 19 , Wilhelm Bühler, 0151-20904075", 
+        "name": "Karlsruhe"
       }
     }
   ]
