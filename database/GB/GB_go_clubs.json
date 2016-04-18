@@ -20,6 +20,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          0.116365110259831, 
+          52.2012165821655
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3160 , CB2 1RU University Centre, Mill Lane  , Thursday 19:00-21:00  , Sean Hao ", 
+        "name": "Cambridge University"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           -0.5389319, 
           53.2341567
         ]
@@ -298,21 +313,6 @@
       "type": "Feature", 
       "properties": {
         "description": "http://www.britgo.org/node/3159 , CB3 9AN Linnett Room, Robinson College  , Monday 19:00-22:00 during University terms (possibly on hold this term)  , Sean Hao ", 
-        "name": "Cambridge University"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          0.116365110259831, 
-          52.2012165821655
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3160 , CB2 1RU University Centre, Mill Lane  , Thursday 19:00-21:00  , Sean Hao ", 
         "name": "Cambridge University"
       }
     }, 

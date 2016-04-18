@@ -35,21 +35,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.13949, 
-          46.18008
-        ]
-      }, 
-      "layer": "CH", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://geneva.swissgo.org/ , Café du Rondeau Place du Rondeau 1, 1227 Carouge , mardi 20h00-24h00 , Armel-David WOLFF 079 689 78 27 awolff@worldcom.ch", 
-        "name": "Genève mardi"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           6.14646, 
           46.19513
         ]
@@ -74,21 +59,6 @@
       "properties": {
         "description": "http://geneva.swissgo.org/ , École de Pinchat 4 ch. de la Tour-de-Pinchat , mercredi 18h00-23h00 , Jean-Marc LOUIS 022 784 03 39 079 371 09 52 jmlouis@vtxnet.ch", 
         "name": "Genève mercredi"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          6.82957, 
-          47.10401
-        ]
-      }, 
-      "layer": "CH", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.gocdf.ch/ , Service Jeunesse Serre 12 (1er étage) 2300 La Chaux-de-Fonds , jeudi 20h00-24h00 , GO-Club CDF 079 254 88 13 contact@gocdf.ch Marcel SCHWEIZER marcelschweizer@hispeed.ch", 
-        "name": "La Chaux-de-Fonds"
       }
     }, 
     {
@@ -209,21 +179,6 @@
       "properties": {
         "description": "http://worben.swissgo.org/ , Restaurant Bären Hauptstr. 46 , mercredi 14h30-15h30 , Alan REES alan.rees@playmorego.com", 
         "name": "Worben"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          6.63715, 
-          46.78127
-        ]
-      }, 
-      "layer": "CH", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Café \"Le Tempo\" Quai de la Thièle 3 1400 Yverdon-les-Bains , mardi 19h30 à 22h/23h selon l'affluence , Martin 079 795 49 59 martin.python@gmail.com", 
-        "name": "Yverdon"
       }
     }, 
     {
@@ -365,6 +320,51 @@
         }, 
         "description": "Stjepan LUKAC lastronin@gmx.net", 
         "name": "Wil SG"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.82957, 
+          47.10401
+        ]
+      }, 
+      "layer": "CH", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.gocdf.ch/ , Service Jeunesse Serre 12 (1er étage) 2300 La Chaux-de-Fonds , jeudi 20h00-24h00 , GO-Club CDF 079 254 88 13 contact@gocdf.ch Marcel SCHWEIZER marcelschweizer@hispeed.ch", 
+        "name": "La Chaux-de-Fonds"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.63715, 
+          46.78127
+        ]
+      }, 
+      "layer": "CH", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Café \"Le Tempo\" Quai de la Thièle 3 1400 Yverdon-les-Bains , mardi 19h30 à 22h/23h selon l'affluence , Martin 079 795 49 59 martin.python@gmail.com", 
+        "name": "Yverdon"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.13949, 
+          46.18008
+        ]
+      }, 
+      "layer": "CH", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://geneva.swissgo.org/ , Café du Rondeau Place du Rondeau 1, 1227 Carouge , mardi 20h00-24h00 , Armel-David WOLFF 079 689 78 27 awolff@worldcom.ch", 
+        "name": "Genève mardi"
       }
     }
   ]
