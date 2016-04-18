@@ -5,38 +5,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          13.7560578, 
-          51.0696329
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Barneby, Görlitzer Str. 11 , Do ab 18.30 , Sascha Giebner, 0151-23232237", 
-        "name": "Dresden"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          14.2085356682333, 
-          51.5598961
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Hartmut Köstner, 035751-15691", 
-        "name": "Welzow"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          12.3667135834694, 
-          51.342021508483
+          12.3667135835, 
+          51.3420215085
         ]
       }, 
       "layer": "DE", 
@@ -50,7 +20,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          12.380879136165, 
+          12.3808791362, 
           51.33881915
         ]
       }, 
@@ -65,7 +35,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          11.973735894186, 
+          11.9737358942, 
           51.4683192
         ]
       }, 
@@ -80,29 +50,14 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          11.5864968, 
-          50.9296751
+          12.9240345802, 
+          50.8353940037
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "http://go-jena.webnode.com// , Cafe Immergrün, Jenergasse 6 , Mo ab 19 , Kevin Sanow, 0176-286 118 14; Guido Tautorat (Email), 03641-350454", 
-        "name": "Jena"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          12.924034580186, 
-          50.8353940036907
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.facebook.com/#!/pages/Go-Gruppe-Chemnitz/255486124499961 , bitte vorher Go-Gruppe Chemnitz über Facebook kontaktieren , Mi ab 18, 14-tg , Lars Gebhardt ", 
+        "description": "http://www.facebook.com/#!/pages/Go-Gruppe-Chemnitz/255486124499961 , bitte vorher Go-Gruppe Chemnitz über Facebook kontaktieren , Mi ab 18, 14-tg , Lars Gebhardt", 
         "name": "Chemnitz"
       }
     }, 
@@ -177,7 +132,7 @@
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "Kiezklub Johannisthal, Sterndamm 102, 1. Etage , Di ab 18 , Ralph Drochner ", 
+        "description": "Kiezklub Johannisthal, Sterndamm 102, 1. Etage , Di ab 18 , Ralph Drochner", 
         "name": "Berlin (Johannisthal)"
       }
     }, 
@@ -215,8 +170,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          13.2019856572151, 
-          52.5370838784893
+          13.2019856572, 
+          52.5370838785
         ]
       }, 
       "layer": "DE", 
@@ -230,7 +185,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.93535695036284, 
+          9.93535695036, 
           51.5355261
         ]
       }, 
@@ -245,14 +200,14 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          13.241466027255, 
+          13.2414660273, 
           52.4372333
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.slaughterlake.de , direkt an der S-Bahn Linie 1, mit Badesee (Sommer) und Kachelofen (Winter) , Di 18-23 , Thorsten Bartelt ", 
+        "description": "http://www.slaughterlake.de , direkt an der S-Bahn Linie 1, mit Badesee (Sommer) und Kachelofen (Winter) , Di 18-23 , Thorsten Bartelt", 
         "name": "Berlin (Schlachtensee)"
       }
     }, 
@@ -275,13 +230,16 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          13.0341839790344, 
-          52.3960951890863
+          13.034183979, 
+          52.3960951891
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "http://www.go-potsdam.de , privat bei Oliver Lenz, Carl-von-Ossietzky-Str. 6 , priv. n. V. , Oliver Lenz, 0331-902395", 
         "name": "Potsdam"
       }
@@ -290,8 +248,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          13.8463139533997, 
-          52.5362077822949
+          13.8463139534, 
+          52.5362077823
         ]
       }, 
       "layer": "DE", 
@@ -320,13 +278,16 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          13.1502135877827, 
-          52.9464193243255
+          13.1502135878, 
+          52.9464193243
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "priv. n. V. , Mo-Do 19-22 , Tobias Klatt, 0151-28027524", 
         "name": "Löwenberg"
       }
@@ -365,21 +326,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          11.4153397, 
-          53.6290796
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.jaaan.de/go-schwerin , Pfarrei St. Nikolai, Puschkinstr. 3 (am Schelfmarkt) , Mo ab 19.30 , Hubert Marischen, 0385-564210; Heinz Postulka, 0385-3433846", 
-        "name": "Schwerin"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           12.982995614, 
           50.9906380956
         ]
@@ -395,13 +341,16 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          10.3844010777478, 
+          10.3844010777, 
           53.22281005
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Privat n.V. , Ralf Schulz, 0151-65783327", 
         "name": "Lüneburg"
       }
@@ -410,7 +359,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          10.3377483217865, 
+          10.3377483218, 
           53.24993835
         ]
       }, 
@@ -440,8 +389,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.98402416706085, 
-          53.5673603477668
+          9.98402416706, 
+          53.5673603478
         ]
       }, 
       "layer": "DE", 
@@ -455,8 +404,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          10.0096607208252, 
-          53.5590732541404
+          10.0096607208, 
+          53.5590732541
         ]
       }, 
       "layer": "DE", 
@@ -470,8 +419,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          10.0096607208252, 
-          53.5590732541404
+          10.0096607208, 
+          53.5590732541
         ]
       }, 
       "layer": "DE", 
@@ -485,14 +434,14 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.99032735824585, 
-          53.5683001501445
+          9.99032735825, 
+          53.5683001501
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.ki-hh.de/veranstaltungen/ueberblick , letzter Do im Monat, asiatischer Brettspielabend des Konfuzius Instituts, Chinesisches Teehaus \"Yu Garden\", Feldbrunnenstr. 67 , Do 19-21.30 , Steffi Hebsacker, 0151-15541415", 
+        "description": "http://www.ki-hh.de/veranstaltungen/ueberblick , Asiatischer Brettspielabend des Konfuzius Instituts, Chinesisches Teehaus \"Yu Garden\", Feldbrunnenstr. 67 , letzter Do im Monat, 19-21.30 , Steffi Hebsacker, 0151-15541415", 
         "name": "Hamburg"
       }
     }, 
@@ -507,7 +456,7 @@
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "Tonfink, Gr. Burgstr. 46 , Mo 19-23.30 , Rüdiger Klehn, 0451-72626", 
+        "description": "Tonfink, Gr. Burgstr. 46 , Mo 19:00-23:30 , Rüdiger Klehn, 0451-72626", 
         "name": "Lübeck"
       }
     }, 
@@ -537,7 +486,7 @@
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "http://server.sportzentrum.uni-kiel.de/sportarten/aktueller_zeitraum/_Go.html , Uni-Go-Gruppe, Stadionturm, Olshausenstr. 70 (Während der Vorlesungszeit. In der vorlesungsfreien Zeit Termin evtl. abweichend.) , Mi 18-20 , Christina Schramm ", 
+        "description": "http://server.sportzentrum.uni-kiel.de/sportarten/aktueller_zeitraum/_Go.html , Uni-Go-Gruppe, Stadionturm, Olshausenstr. 70 (Während der Vorlesungszeit. In der vorlesungsfreien Zeit Termin evtl. abweichend.) , Mi 18-20 , Christina Schramm", 
         "name": "Kiel"
       }
     }, 
@@ -560,8 +509,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.43665504455566, 
-          54.7841816719325
+          9.43665504456, 
+          54.7841816719
         ]
       }, 
       "layer": "DE", 
@@ -605,28 +554,34 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.18081533908844, 
-          53.3674327275485
+          14.2085356682, 
+          51.5598961
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.emden-go.de/ , HS Emden-Leer, Haus der Studierenden, Constantiaplatz 4 , Mi ab 18.30 , Ingo Stein, 04921-918168; Christine Dauelsberg (Email), 04921-28977", 
-        "name": "Emden"
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "Hartmut Köstner, 035751-15691", 
+        "name": "Welzow"
       }
     }, 
     {
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.58743436011112, 
+          8.58743436011, 
           53.53544055
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "priv. n. V. , Mi ab 20 , Martin Osthaus, 04747/931334", 
         "name": "Bremerhaven, Di"
       }
@@ -650,13 +605,16 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.69543254964762, 
+          9.69543254965, 
           53.05111175
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Reinhard Spode, 05195-1259", 
         "name": "Soltau"
       }
@@ -680,21 +638,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.7225325, 
-          52.3784695
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.hannover-go.de , Uni, Conti-Hochhaus, Königsworther Platz 1, Etage 13 , Di 19.30-22 , Ralph Tiefenthaler, 0511-8765551; Christoph Gerlach (Email), 0511-7000552", 
-        "name": "Hannover"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           9.7590527, 
           52.3701065
         ]
@@ -710,21 +653,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.7957567, 
-          52.4749749
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.hannover-go.de , Voltmershof, Burgwedeler Str. , Do ab 18 , Winfried Dörholt, 0511-772766", 
-        "name": "Isernhagen"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           9.38137, 
           52.3460724
         ]
@@ -734,6 +662,21 @@
       "properties": {
         "description": "Intensofit, Rotrehre 20-22 , Mi ab 19.30 , Dieter Rasche, 05723-74116; Bernd Barthold, 05723-913528", 
         "name": "Bad Nenndorf"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.7957567, 
+          52.4749749
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.hannover-go.de , Voltmershof, Burgwedeler Str. , Do ab 18 , Winfried Dörholt, 0511-772766", 
+        "name": "Isernhagen"
       }
     }, 
     {
@@ -762,7 +705,7 @@
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "http://sc-stpauli.de/ , jeden 2. Montag im Gemeindehaus oder im Bistro (Kirchturm, 2. Etage) der St. Pauli Kirche, Echternstr. 20 , Mo 18.30 (14-tägig) , Tim Robert Würfel ", 
+        "description": "http://sc-stpauli.de/ , jeden 2. Montag im Gemeindehaus oder im Bistro (Kirchturm, 2. Etage) der St. Pauli Kirche, Echternstr. 20 , Mo 18.30 (14-tägig) , Tim Robert Würfel", 
         "name": "Lemgo"
       }
     }, 
@@ -785,7 +728,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.75926137769997, 
+          8.7592613777, 
           51.7120229
         ]
       }, 
@@ -800,8 +743,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.49464178085327, 
-          52.037339857717
+          8.49464178085, 
+          52.0373398577
         ]
       }, 
       "layer": "DE", 
@@ -920,7 +863,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          11.271080076543, 
+          11.2710800765, 
           52.23676795
         ]
       }, 
@@ -935,7 +878,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.7722202832333, 
+          6.77222028323, 
           51.1966518
         ]
       }, 
@@ -974,21 +917,6 @@
       "properties": {
         "description": "http://tonshi.de/tonshi2/der_spieleabend/ , Universität, Asta-Kneipe, Gauss-Str. 20 , Mo ab 19 , Erik Schweitzer, 0202-2429133; Hildegard Puttkammer (Email), 02053-40215", 
         "name": "Wuppertal"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          7.4654176, 
-          51.4976693
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.dortmund-go.de/index.php/spielabende , SIGNAL IDUNA Gruppe, Joseph-Scherer Str. 3, externe Besucher müssen sich vorher anmelden , Mi 16-18.30, 14-tg , Martin Quest, 0231-201945", 
-        "name": "Dortmund"
       }
     }, 
     {
@@ -1047,7 +975,7 @@
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "www.bochum-go.de , \"Game\", Willy-Brandt-Platz 10, 0234-6406950 , Di ab 19 , Sascha Hempel, 0173-5419476", 
+        "description": "http://www.bochum-go.de , \"Game\", Willy-Brandt-Platz 10, 0234-6406950 , Di ab 19 , Sascha Hempel, 0173-5419476", 
         "name": "Bochum"
       }
     }, 
@@ -1055,8 +983,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.07785606384277, 
-          51.4469330020792
+          7.07785606384, 
+          51.4469330021
         ]
       }, 
       "layer": "DE", 
@@ -1070,8 +998,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          10.1594996452332, 
-          53.6105982882876
+          10.1594996452, 
+          53.6105982883
         ]
       }, 
       "layer": "DE", 
@@ -1115,13 +1043,16 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.02877720225627, 
+          7.02877720226, 
           52.18899725
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "privat (bitte vorher kontaktieren) , Claus Weyck, 02565-2556,0177-1446465", 
         "name": "Gronau-Epe, n. V."
       }
@@ -1152,6 +1083,9 @@
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Zum Ortenbrink 9 , Helmut Gorenflo, 05405-1591", 
         "name": "Hasbergen"
       }
@@ -1160,8 +1094,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.33481941986942, 
-          52.5138071835757
+          7.33481941987, 
+          52.5138071836
         ]
       }, 
       "layer": "DE", 
@@ -1220,21 +1154,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.0952728, 
-          50.7262759
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.bonnergozentrum.de/ , Dietrich-Bonhoeffer-Haus, Königstr. 88 , Do 17-22 , Andre Sieber, 0151-21151031; Rainer Schütze (Email), 0228-658218", 
-        "name": "Bonn"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           6.6441823, 
           49.7583755
         ]
@@ -1257,7 +1176,7 @@
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "http://de.trigo.wikia.com , Universität Trier , n. V. , Marc Oliver Rieger ", 
+        "description": "http://de.trigo.wikia.com , Universität Trier , n. V. , Marc Oliver Rieger", 
         "name": "Trier"
       }
     }, 
@@ -1265,7 +1184,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.26975643509378, 
+          8.26975643509, 
           49.99744505
         ]
       }, 
@@ -1280,13 +1199,16 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.96484112739563, 
-          49.9826596119127
+          7.9648411274, 
+          49.9826596119
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "priv. n. V. Musikkneipe \"Dudelsack\", Rüdesheimerstr. 44 , Danny Shave, 0175-2237753; Janos Sälzer (Email), 0176-24020101", 
         "name": "Bad Kreuznach"
       }
@@ -1310,7 +1232,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.47749213629262, 
+          7.47749213629, 
           51.3577484
         ]
       }, 
@@ -1332,7 +1254,7 @@
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.allerwelthaus.org/index.html , \"AllerWeltHaus\", Potthofstr. 22 , Fr ab 17 , Thomas Knop ", 
+        "description": "http://www.allerwelthaus.org/index.html , \"AllerWeltHaus\", Potthofstr. 22 , Fr ab 17 , Thomas Knop", 
         "name": "Hagen"
       }
     }, 
@@ -1355,7 +1277,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.69473039297348, 
+          7.69473039297, 
           51.53071685
         ]
       }, 
@@ -1385,22 +1307,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.2981392, 
-          51.3620266
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.fh-meschede.de , Go-Kurs in der FH Südwestfalen, Lindenstr. 53, Raum 8.2 am Foyer, 1. Mo im Monat und n. V. , Mo ab 18 n. V. , Monika Reimpell, 02934-2453148", 
-        "name": "Meschede"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          8.64831358194351, 
+          8.64831358194, 
           50.1188858214
         ]
       }, 
@@ -1422,7 +1329,7 @@
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "Plateau, Neuer Wall 15 , Do ab 20 , Nils Blarr ", 
+        "description": "Plateau, Neuer Wall 15 , Do ab 20 , Nils Blarr", 
         "name": "Frankfurt/M."
       }
     }, 
@@ -1475,7 +1382,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.99663709023437, 
+          6.99663709023, 
           49.2331112
         ]
       }, 
@@ -1490,7 +1397,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.76925229161359, 
+          7.76925229161, 
           49.4351088
         ]
       }, 
@@ -1505,8 +1412,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.46174147732246, 
-          49.4915185418846
+          8.46174147732, 
+          49.4915185419
         ]
       }, 
       "layer": "DE", 
@@ -1565,13 +1472,16 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.01963413752123, 
-          48.6852145092567
+          9.01963413752, 
+          48.6852145093
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Uli Staber, 07157-65801", 
         "name": "Böblingen"
       }
@@ -1580,13 +1490,16 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.22901104422706, 
+          9.22901104423, 
           48.89626725
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "in Ludwigsburg-Ossweil , Christopher Doubleday, 07141-918882", 
         "name": "Ludwigsburg"
       }
@@ -1610,7 +1523,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.69049160197639, 
+          9.69049160198, 
           48.7190864
         ]
       }, 
@@ -1640,13 +1553,16 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.44681080887598, 
-          48.0555458518873
+          8.44681080888, 
+          48.0555458519
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Manfred Götz, 0151-11523830", 
         "name": "Villingen-Schwenningen"
       }
@@ -1655,7 +1571,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.17817603944776, 
+          9.17817603945, 
           47.6609571
         ]
       }, 
@@ -1700,13 +1616,16 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.90094001771169, 
+          7.90094001771, 
           47.96398895
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "privat, Am Hagmättle 11 , Fr ab 18 , Kirsten Grimm, 0172-5841455", 
         "name": "Freiburg"
       }
@@ -1745,8 +1664,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.41927170753479, 
-          49.0081992681577
+          8.41927170753, 
+          49.0081992682
         ]
       }, 
       "layer": "DE", 
@@ -1754,21 +1673,6 @@
       "properties": {
         "description": "Thoule e.V., Ostendstr. 1 , Do ab 20 , Alexander Wirth ; Birger Holtermann (Email)", 
         "name": "Karlsruhe"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          11.518034, 
-          48.1803724
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "https://www.google.com/maps/d/edit?mid=zNJ3sfg4D5TM.kDEuGESFYHBM , Turnhalle der GS an der Jenaer Str. 3, Spieletreff und freies Training von Jonglieren in München e.V. , Sa 14-22 n.V. , Thomas Furtner, 0160-96261998", 
-        "name": "München (Moosach)"
       }
     }, 
     {
@@ -1790,13 +1694,16 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          12.1081236758529, 
-          47.8379995864355
+          12.1081236759, 
+          47.8379995864
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Christoph Sitte, 0176-21643171", 
         "name": "Rosenheim"
       }
@@ -1812,6 +1719,9 @@
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Landshut und Umgebung , Georg Engl, 0172 247 3328", 
         "name": "Landshut"
       }
@@ -1835,13 +1745,16 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          11.5535459243189, 
+          11.5535459243, 
           48.2770031
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Paul Freitag, 0151-12318766", 
         "name": "Unterschleissheim"
       }
@@ -1872,7 +1785,7 @@
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.augsburg-go.de/ , Il Galeone, Steppacher Str. 1 , Do ab 19.30 , Thomas Brückmann ", 
+        "description": "http://www.augsburg-go.de/ , Il Galeone, Steppacher Str. 1 , Do ab 19.30 , Thomas Brückmann", 
         "name": "Augsburg"
       }
     }, 
@@ -1880,30 +1793,18 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          10.7538150746101, 
+          10.7538150746, 
           48.0301967
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Bernd Gramlich, 08241-5079996", 
         "name": "Buchloe"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          11.0078072547913, 
-          49.4684099332303
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.gofans.de/Go_Clubs.htm , Kofferfabrik, Lange Str. 81 , Fr 20-01 , Robert Grüning, 0157-35549462", 
-        "name": "Fürth"
       }
     }, 
     {
@@ -1932,7 +1833,7 @@
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "Gaststätte Antoniushaus, Mühlweg 13 , Mo ab 20 , Erwin Gerstorfer ", 
+        "description": "Gaststätte Antoniushaus, Mühlweg 13 , Mo ab 20 , Erwin Gerstorfer", 
         "name": "Regensburg"
       }
     }, 
@@ -2000,21 +1901,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          13.3081904054, 
-          52.5034272711
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Mommsen Eck , every 2nd monday of a month 18:00 - 21:00 , Pandau Ting: pandau@nakade.de; Maurice Wohabi: mo@nakade.de", 
-        "name": "Nakade Go Club"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           13.7222126692, 
           51.06212745
         ]
@@ -2030,7 +1916,172 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.97962391591026, 
+          13.7560578, 
+          51.0696329
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Barneby, Görlitzer Str. 11 , Do ab 18.30 , Sascha Giebner, 0151-23232237", 
+        "name": "Dresden"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.5864968, 
+          50.9296751
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://go-jena.webnode.com// , Cafe Immergrün, Jenergasse 6 , Mo ab 19 , Kevin Sanow, 0176-286 118 14; Guido Tautorat (Email), 03641-350454", 
+        "name": "Jena"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.4153397, 
+          53.6290796
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.jaaan.de/go-schwerin , Pfarrei St. Nikolai, Puschkinstr. 3 (am Schelfmarkt) , Mo ab 19.30 , Hubert Marischen, 0385-564210; Heinz Postulka, 0385-3433846", 
+        "name": "Schwerin"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.18081533909, 
+          53.3674327275
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.emden-go.de/ , HS Emden-Leer, Haus der Studierenden, Constantiaplatz 4 , Mi ab 18.30 , Ingo Stein, 04921-918168; Christine Dauelsberg (Email), 04921-28977", 
+        "name": "Emden"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.7225325, 
+          52.3784695
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.hannover-go.de , Uni, Conti-Hochhaus, Königsworther Platz 1, Etage 13 , Di 19.30-22 , Ralph Tiefenthaler, 0511-8765551; Christoph Gerlach (Email), 0511-7000552", 
+        "name": "Hannover"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.4654176, 
+          51.4976693
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.dortmund-go.de/index.php/spielabende , SIGNAL IDUNA Gruppe, Joseph-Scherer Str. 3, externe Besucher müssen sich vorher anmelden , Mi 16-18.30, 14-tg , Martin Quest, 0231-201945", 
+        "name": "Dortmund"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.0952728, 
+          50.7262759
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.bonnergozentrum.de/ , Dietrich-Bonhoeffer-Haus, Königstr. 88 , Do 17-22 , Andre Sieber, 0151-21151031; Rainer Schütze (Email), 0228-658218", 
+        "name": "Bonn"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.2981392, 
+          51.3620266
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.fh-meschede.de , Go-Kurs in der FH Südwestfalen, Lindenstr. 53, Raum 8.2 am Foyer, 1. Mo im Monat und n. V. , Mo ab 18 n. V. , Monika Reimpell, 02934-2453148", 
+        "name": "Meschede"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.518034, 
+          48.1803724
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "https://www.google.com/maps/d/edit?mid=zNJ3sfg4D5TM.kDEuGESFYHBM , Turnhalle der GS an der Jenaer Str. 3, Spieletreff und freies Training von Jonglieren in München e.V. , Sa 14-22 n.V. , Thomas Furtner, 0160-96261998", 
+        "name": "München (Moosach)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.0078072548, 
+          49.4684099332
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.gofans.de/Go_Clubs.htm , Kofferfabrik, Lange Str. 81 , Fr 20-01 , Robert Grüning, 0157-35549462", 
+        "name": "Fürth"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.3081904054, 
+          52.5034272711
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Mommsen Eck, Mommsenstraße 45, Berlin , every 2nd monday of a month 18:00 - 21:00 , Pandau Ting: pandau@nakade.de; Maurice Wohabi: mo@nakade.de", 
+        "name": "Nakade Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.97962391591, 
           53.56789125
         ]
       }, 
@@ -2045,8 +2096,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.98580515384674, 
-          53.45781022681
+          9.98580515385, 
+          53.4578102268
         ]
       }, 
       "layer": "DE", 
@@ -2060,8 +2111,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.40831756591797, 
-          49.0066509740753
+          8.40831756592, 
+          49.0066509741
         ]
       }, 
       "layer": "DE", 

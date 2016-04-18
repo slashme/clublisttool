@@ -282,6 +282,9 @@
       "layer": "FR", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Circle"
+        }, 
         "description": "http://victoire.b.free.fr/Paris20/index.html , Bar «Les Trois-Arts» 21 rue des Rigoles 75020 Paris , Le club ne se réunit plus, mais des jeux sont à votre disposotion, demander au bar", 
         "name": "Paris XX Club Pierre Desproges et Dolly Parton"
       }

@@ -27,6 +27,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Gianluca Chiodaroli chiodus@gmail.com", 
         "name": "PIACENZA"
       }
@@ -57,6 +60,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Moreno Mantoan qboxx@libero.it", 
         "name": "ALESSANDRIA"
       }
@@ -72,6 +78,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Andrea Partiti Kgs: kaiou", 
         "name": "CUNEO"
       }
@@ -117,6 +126,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Elena Rossi Tel: 018 7280028 (solo pom.) Kgs: ele91", 
         "name": "LA SPEZIA"
       }
@@ -132,6 +144,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Alessandro Salpietro a.salpietro@yahoo.it Cell. : 333 4037308", 
         "name": "ORTONOVO"
       }
@@ -147,6 +162,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Via Cavour, 46/r presso il negozio Higashi no kaze , Martedì dalle 16:00 in poi , Sabrina Travi Tel: 019 8386348 (solo pom.)Cell: 328 7472012", 
         "name": "SAVONA"
       }
@@ -162,6 +180,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Mirtha Barbetti Cell: 339 2507741", 
         "name": "SESTRI LEVANTE"
       }
@@ -207,6 +228,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Stefano Babini el.nabila@alice.it Cell: 333 3091479 Kgs: Bstefano", 
         "name": "SAN MARINO"
       }
@@ -237,6 +261,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Piazza Brembana , Saverio Castelli Kgs: blackauron", 
         "name": "BERGAMO"
       }
@@ -252,6 +279,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Davide Stellato Kgs: Stego93", 
         "name": "LEGNANO (MI)"
       }
@@ -267,6 +297,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Maurizio Melegari goclubgarbagnate@gmail.com Cell: 329 8662550", 
         "name": "GARBAGNATE (MI)"
       }
@@ -282,6 +315,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Thomas Durante Cell: 339 5672758", 
         "name": "MANTOVA"
       }
@@ -297,6 +333,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Roberto Foschi Cell: 329 1590837", 
         "name": "PAVIA"
       }
@@ -312,6 +351,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": " http://gocosmico.altervista.org/ http://www.facebook.com/pages/Go-Cosmico/127995643940290 , Largo Lamarmora 2, presso la sede dell'Auser. , ogni mercoledì dopo le 21 , Giancarlo Sacchi Cell: 338 2217931", 
         "name": "TREVIGLIO (BG)"
       }
@@ -327,6 +369,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Locanda dello Hobbit, Via F. Rossi, 38, Barasso (VA) dalle 20:30 in poi , Ronald Van Uffelen Kgs: Stego93 Cell: +39 335290776", 
         "name": "VARESE"
       }
@@ -342,6 +387,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Bruno Cavanna Kgs: bricabrac", 
         "name": "VOGHERA"
       }
@@ -372,6 +420,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Vittorio Nocentini Kgs: vittorio", 
         "name": "PREDAZZO (TN)"
       }
@@ -792,6 +843,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Daniele Pompeo moria31@hotmail.it Cell: 340 7356811", 
         "name": "PRATO"
       }
@@ -822,6 +876,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Nicola Torrioli Cell: 333 8749827 Ricardo Mancini Cell: 338 6400458", 
         "name": "Biturgo"
       }
@@ -837,6 +894,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "presso la birreria Carpe Diem a Loro Ciuffenna. , tutti i martedì ore 21.30 , Olivier Turquet olivier.turquet@gmail.com Telefono:055969092 Cellulare:3395635202", 
         "name": "VALDARNO"
       }
@@ -897,6 +957,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Enrico Greco: 7valis7@gmail.com Cell. : 328 5686736", 
         "name": "FORMIA"
       }
@@ -927,6 +990,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Keichiro Abe: keiichiro_abe@alice.it Cell. : 348 5177121", 
         "name": "L'AQUILA"
       }
@@ -987,6 +1053,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Gaia Malagoli : gaia.malagoli@gmail.com Cell. : 329 1187140 Kgs : Gaiachan", 
         "name": "AVELLINO"
       }
@@ -1017,6 +1086,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Davide Carlesi : moscarpone@gmail.com Cell. : 340 6947793 Kgs : Gatsu55", 
         "name": "CATANIA"
       }
@@ -1032,6 +1104,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Alessandro Melis : gaudio-go@libero.it Kgs : gaudio Salvatore Sardo : lagunaffviii@hotmail.it", 
         "name": "CAGLIARI"
       }
@@ -1047,6 +1122,9 @@
       "layer": "IT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Manuele Carbini : carbini.manuele@tiscali.it Cell. : 328 6174620 Tel : 079 632524 (ore pasti) Tradurre 7valis7@gmail.com Cell. : 328 5686736", 
         "name": "TEMPIO PAUSANIA (OT)"
       }

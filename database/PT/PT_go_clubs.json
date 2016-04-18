@@ -72,6 +72,9 @@
       "layer": "PT", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "http://www.go-portugal.org/index.php/onde-jogar/64-coimbra , Quem estiver interessado em jogar pode contactar o Pedro - kemedo@hotmail.it", 
         "name": "Coimbra "
       }

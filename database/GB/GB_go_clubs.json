@@ -1167,6 +1167,9 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "https://www.facebook.com/BermudaGo", 
         "name": "Bermuda Go Society"
       }

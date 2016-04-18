@@ -57,6 +57,9 @@
       "layer": "US", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "", 
         "name": "Harridan Go Club (unofficial)"
       }

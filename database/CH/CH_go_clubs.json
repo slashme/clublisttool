@@ -252,6 +252,9 @@
       "layer": "CH", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Stephan BALMER 079 336 84 41 sbalmer@yetnet.ch balmerst@hotmail.com", 
         "name": "Aarau"
       }
@@ -267,6 +270,9 @@
       "layer": "CH", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Daniel LUTZ dlutz@umlaufbahn.net", 
         "name": "Frauenfeld"
       }
@@ -282,6 +288,9 @@
       "layer": "CH", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Roberto MORRISON 078 658 66 73 roberto@morrison.ch", 
         "name": "Locarno"
       }
@@ -297,6 +306,9 @@
       "layer": "CH", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Claude ROY 091 608 20 79", 
         "name": "Sessa"
       }
@@ -312,6 +324,9 @@
       "layer": "CH", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Jean-Jacques GAGNEBIN 079 768 18 78 jj@gagnebin.net", 
         "name": "Vallée de Joux"
       }
@@ -327,6 +342,9 @@
       "layer": "CH", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Marc DIAS 076 425 02 13 versoix.go.club@gmail.com", 
         "name": "Versoix"
       }
@@ -342,6 +360,9 @@
       "layer": "CH", 
       "type": "Feature", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
         "description": "Stjepan LUKAC lastronin@gmx.net", 
         "name": "Wil SG"
       }
