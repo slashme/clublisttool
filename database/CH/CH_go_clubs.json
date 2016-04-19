@@ -5,53 +5,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.43057, 
-          46.95387
-        ]
-      }, 
-      "layer": "CH", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.bernergoclub.ch , Längass-Treff Lerchenweg 33 , mardi 19h00-23h00 , Alan HELD 031 351 59 64 aeh@vtxfree.ch", 
-        "name": "Bern"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          6.04435, 
-          46.23194
-        ]
-      }, 
-      "layer": "CH", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://games.web.cern.ch/games/ , CERN Restaurant No.2 , mercredi 12h30-13h30 parfois aussi mardi dès 18h00 , Tibor SIMKO 022 767 35 27 tibor.simko@cern.ch", 
-        "name": "CERN"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          6.14646, 
-          46.19513
-        ]
-      }, 
-      "layer": "CH", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://geneva.swissgo.org/ , Maison de Quartier de Plainpalais 1 Rue de la tour , vendredi 19h00-22h00 , Armel-David WOLFF 079 689 78 27 awolff@worldcom.ch", 
-        "name": "Genève vendredi"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          6.15344, 
-          46.17474
+          6.15356338161471, 
+          46.1748640692117
         ]
       }, 
       "layer": "CH", 
@@ -59,141 +14,6 @@
       "properties": {
         "description": "http://geneva.swissgo.org/ , École de Pinchat 4 ch. de la Tour-de-Pinchat , mercredi 18h00-23h00 , Jean-Marc LOUIS 022 784 03 39 079 371 09 52 jmlouis@vtxnet.ch", 
         "name": "Genève mercredi"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          6.85491, 
-          46.45267
-        ]
-      }, 
-      "layer": "CH", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.museedujeu.ch/fr/animationen/klubs/goklub.html , Musée Suisse du Jeu Au Château 11 Rue du Château , vendredi 19h00-21h00 , Rick WERTENBROEK 076 533 40 05 rick.wertenbroek@gmail.com", 
-        "name": "La Tour de Peilz"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          6.62585, 
-          46.51652
-        ]
-      }, 
-      "layer": "CH", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://lausanne.swissgo.org/ , Café-Restaurant Le Milan 54 bd de Grancy 021 616 53 43 http://www.lemilan.ch/fr/restaurant-le-milan , mardi 20h00-24h00 , Haruna OKANO lausanne@swissgo.org", 
-        "name": "Lausanne"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          6.56546, 
-          46.52066
-        ]
-      }, 
-      "layer": "CH", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://ishigo.epfl.ch/igc.php , EPFL - Salle de Go : CM1 121 , mercredi 17h15-20h00 , Flavien AUBELLE flavien.aubelle@epfl.ch", 
-        "name": "Ishi go club"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          8.31923, 
-          47.04251
-        ]
-      }, 
-      "layer": "CH", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://luzern.swissgo.org/ , Restaurant und Jugendhaus Treibhaus Spelteriniweg 4 http://www.treibhausluzern.ch/index.php?id=29 , mardi 18h30-23h00 , Dominik MÜLLER 078 838 38 64 luzern@swissgo.org", 
-        "name": "Luzern"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          6.23199, 
-          46.38249
-        ]
-      }, 
-      "layer": "CH", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Gymnase de Nyon salle L204 , mardi 11h45-13h25 , John WALCH 076 498 03 75 john_walch8@hotmail.com", 
-        "name": "Nyon"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          6.93187, 
-          46.99151
-        ]
-      }, 
-      "layer": "CH", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Bar \"Au 21\" 43 Faubourg du Lac , mercredi 19h30-23/24h00 , Thibault PILLON 079 526 74 02 thibault.pillon@gmail.com", 
-        "name": "Neuchâtel"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          8.72617, 
-          47.49843
-        ]
-      }, 
-      "layer": "CH", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.wintigo.org , Typisch Thai Neumarkt 3 http://www.typischthai.ch , lundi 19h00-22h30 , Philipp GRESSLY 052 212 22 15 phi@gressly.ch", 
-        "name": "Winterthur"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          7.2918, 
-          47.09733
-        ]
-      }, 
-      "layer": "CH", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://worben.swissgo.org/ , Restaurant Bären Hauptstr. 46 , mercredi 14h30-15h30 , Alan REES alan.rees@playmorego.com", 
-        "name": "Worben"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          8.54461, 
-          47.36974
-        ]
-      }, 
-      "layer": "CH", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://zurich.swissgo.org/ , Zentrum Karl der Grosse Blaues Foyer im 2ten Stock Kirchgasse 14 , mercredi dès 18h00 , Jonas JERMANN jjermann2@gmail.com", 
-        "name": "Zürich"
       }
     }, 
     {
@@ -356,6 +176,156 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          6.85486172023777, 
+          46.4525716906822
+        ]
+      }, 
+      "layer": "CH", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.museedujeu.ch/fr/animationen/klubs/goklub.html , Musée Suisse du Jeu Au Château 11 Rue du Château , vendredi 19h00-21h00 , Rick WERTENBROEK 076 533 40 05 rick.wertenbroek@gmail.com", 
+        "name": "La Tour de Peilz"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.62583927116401, 
+          46.5165236914993
+        ]
+      }, 
+      "layer": "CH", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://lausanne.swissgo.org/ , Café-Restaurant Le Milan 54 bd de Grancy 021 616 53 43 http://www.lemilan.ch/fr/restaurant-le-milan , mardi 20h00-24h00 , Haruna OKANO lausanne@swissgo.org", 
+        "name": "Lausanne"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.56544927116401, 
+          46.5206600000001
+        ]
+      }, 
+      "layer": "CH", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://ishigo.epfl.ch/igc.php , EPFL - Salle de Go : CM1 121 , mercredi 17h15-20h00 , Flavien AUBELLE flavien.aubelle@epfl.ch", 
+        "name": "Ishi go club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.31922999999998, 
+          47.0425063443871
+        ]
+      }, 
+      "layer": "CH", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://luzern.swissgo.org/ , Restaurant und Jugendhaus Treibhaus Spelteriniweg 4 http://www.treibhausluzern.ch/index.php?id=29 , mardi 18h30-23h00 , Dominik MÜLLER 078 838 38 64 luzern@swissgo.org", 
+        "name": "Luzern"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.23174860118865, 
+          46.3826950125308
+        ]
+      }, 
+      "layer": "CH", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Gymnase de Nyon salle L204 , mardi 11h45-13h25 , John WALCH 076 498 03 75 john_walch8@hotmail.com", 
+        "name": "Nyon"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.54461536441802, 
+          47.3697414532302
+        ]
+      }, 
+      "layer": "CH", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://zurich.swissgo.org/ , Zentrum Karl der Grosse Blaues Foyer im 2ten Stock Kirchgasse 14 , mercredi dès 18h00 , Jonas JERMANN jjermann2@gmail.com", 
+        "name": "Zürich"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.93193973743431, 
+          46.991566350174
+        ]
+      }, 
+      "layer": "CH", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Bar \"Au 21\" 43 Faubourg du Lac , mercredi 19h30-23/24h00 , Thibault PILLON 079 526 74 02 thibault.pillon@gmail.com", 
+        "name": "Neuchâtel"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.72612708465573, 
+          47.4984118787136
+        ]
+      }, 
+      "layer": "CH", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.wintigo.org , Typisch Thai Neumarkt 3 http://www.typischthai.ch , lundi 19h00-22h30 , Philipp GRESSLY 052 212 22 15 phi@gressly.ch", 
+        "name": "Winterthur"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.28953621559145, 
+          47.09728763845
+        ]
+      }, 
+      "layer": "CH", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://worben.swissgo.org/ , Restaurant Bären Hauptstr. 46 , mercredi 14h30-15h30 , Alan REES alan.rees@playmorego.com", 
+        "name": "Worben"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.4306719239425, 
+          46.9538992934468
+        ]
+      }, 
+      "layer": "CH", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.bernergoclub.ch , Längass-Treff Lerchenweg 33 , mardi 19h00-23h00 , Alan HELD 031 351 59 64 aeh@vtxfree.ch", 
+        "name": "Bern"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           6.13949, 
           46.18008
         ]
@@ -365,6 +335,36 @@
       "properties": {
         "description": "http://geneva.swissgo.org/ , Café du Rondeau Place du Rondeau 1, 1227 Carouge , mardi 20h00-24h00 , Armel-David WOLFF 079 689 78 27 awolff@worldcom.ch", 
         "name": "Genève mardi"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.04476306018827, 
+          46.2318101223236
+        ]
+      }, 
+      "layer": "CH", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://games.web.cern.ch/games/ , CERN Restaurant No.2 , mercredi 12h30-13h30 parfois aussi mardi dès 18h00 , Tibor SIMKO 022 767 35 27 tibor.simko@cern.ch", 
+        "name": "CERN"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.14653510185235, 
+          46.1951708460029
+        ]
+      }, 
+      "layer": "CH", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://geneva.swissgo.org/ , Maison de Quartier de Plainpalais 1 Rue de la tour , vendredi 19h00-22h00 , Armel-David WOLFF 079 689 78 27 awolff@worldcom.ch", 
+        "name": "Genève vendredi"
       }
     }
   ]

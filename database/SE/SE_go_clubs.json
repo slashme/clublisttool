@@ -5,8 +5,68 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          17.6482862234, 
-          59.8416577728
+          11.957506, 
+          57.697696
+        ]
+      }, 
+      "layer": "SE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://gbg.goforbundet.se/ , Skolgatan 21, Göteborg , Wednesday 6 PM , gbg.goklubb@gmail.com\r\nhttps://www.facebook.com/groups/123111635590/", 
+        "name": "Göteborgs go-klubb"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          18.046523, 
+          59.331774
+        ]
+      }, 
+      "layer": "SE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://stockholm.goforbundet.se , Piperska Grottan, Pipersgatan 26, T-Rådhuset, Kungsholmen , Thursday 6 PM and sometimes Sunday 1 PM , http://stockholm.goforbundet.se/node/8", 
+        "name": "Stockholms go-klubb"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          16.47486, 
+          59.59792
+        ]
+      }, 
+      "layer": "SE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.vgo.se/ , Café Koppar, Culturen, Sintervägen 6, Västerås , Thursday 5 PM , info@vgo.se", 
+        "name": "Västerås Goklubb"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.0038585355816, 
+          55.5927743186611
+        ]
+      }, 
+      "layer": "SE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://minutopi.se/go/ , Möllevången , Every second Wednesday , http://minutopi.se/go/kontakt/", 
+        "name": "Malmö Goklubb"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          17.648168206204, 
+          59.8416011769617
         ]
       }, 
       "layer": "SE", 

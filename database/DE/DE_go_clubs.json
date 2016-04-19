@@ -20,6 +20,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          9.9486496, 
+          51.5381897
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Uni Göttingen, Mathematisches Institut (Hauptgebäude Übungssaal), Bürgerstr. (im Semester) , Do ab 18:00 , Colin-Marius Koch, 0178-2969071", 
+        "name": "Göttingen Uni"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           9.99032735825, 
           53.5683001501
         ]
@@ -29,21 +44,6 @@
       "properties": {
         "description": "http://www.ki-hh.de/veranstaltungen/ueberblick , letzter Do im Monat, asiatischer Brettspielabend des Konfuzius Instituts, Chinesisches Teehaus \"Yu Garden\", Feldbrunnenstr. 67 , Do 19-21.30 , Steffi Hebsacker, 0151-15541415", 
         "name": "Hamburg Asiatischer Brettspielabend"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          11.5777896, 
-          48.1805501
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.mils-sportrestaurant.de , Mil's, Hans-Denzinger-Str. 2 , Mo u. Di 18:00-23:00 , Joachim Bitzer, 089-301961; Philip Hiller (Email), 089-12749237", 
-        "name": "München"
       }
     }, 
     {
@@ -68,15 +68,15 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.9486496, 
-          51.5381897
+          11.5777896, 
+          48.1805501
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "Uni Göttingen, Mathematisches Institut (Hauptgebäude Übungssaal), Bürgerstr. (im Semester) , Do ab 18:00 , Colin-Marius Koch, 0178-2969071", 
-        "name": "Göttingen Uni"
+        "description": "http://www.mils-sportrestaurant.de , Mil's, Hans-Denzinger-Str. 2 , Mo u. Di 18:00-23:00 , Joachim Bitzer, 089-301961; Philip Hiller (Email), 089-12749237", 
+        "name": "München"
       }
     }, 
     {
@@ -170,21 +170,6 @@
       "properties": {
         "description": "http://www.go-ulm.de , Cafe Omar, König-Wilhelm Str. 5 , Mi ab 19 , Gerhard Schmid, 0731-54739; Mattias Laage, 0731-57084", 
         "name": "Ulm"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          8.41927170753479, 
-          49.0081992681577
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Thoule e.V., Ostendstr. 1 , Do ab 20 , Alexander Wirth ; Birger Holtermann (Email)", 
-        "name": "Karlsruhe"
       }
     }, 
     {
@@ -1727,6 +1712,21 @@
         }, 
         "description": "privat, Am Hagmättle 11 , Fr ab 18 , Kirsten Grimm, 0172-5841455", 
         "name": "Freiburg"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.41927170753479, 
+          49.0081992681577
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Thoule e.V., Ostendstr. 1 , Do ab 20 , Alexander Wirth ; Birger Holtermann (Email)", 
+        "name": "Karlsruhe"
       }
     }, 
     {
