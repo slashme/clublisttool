@@ -5,6 +5,24 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          10.7538150746101, 
+          48.0301967
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "Bernd Gramlich, 08241-5079996", 
+        "name": "Buchloe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           10.0096607208, 
           53.5590732541
         ]
@@ -20,15 +38,18 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          13.3779334, 
-          54.0927869
+          13.1502135877827, 
+          52.9464193243255
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "Cafe Koeppen, Bahnhofstr. 4 , Di 19.30-23 , Carsten Herrmann, 0176-61573271", 
-        "name": "Greifswald"
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "priv. n. V. , Mo-Do 19-22 , Tobias Klatt, 0151-28027524", 
+        "name": "Löwenberg"
       }
     }, 
     {
@@ -44,6 +65,21 @@
       "properties": {
         "description": "http://www.ki-hh.de/veranstaltungen/ueberblick , letzter Do im Monat, asiatischer Brettspielabend des Konfuzius Instituts, Chinesisches Teehaus \"Yu Garden\", Feldbrunnenstr. 67 , Do 19-21.30 , Steffi Hebsacker, 0151-15541415", 
         "name": "Hamburg Asiatischer Brettspielabend"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.5777896, 
+          48.1805501
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.mils-sportrestaurant.de , Mil's, Hans-Denzinger-Str. 2 , Mo u. Di 18-23 , Joachim Bitzer, 089-301961; Philip Hiller (Email), 089-12749237", 
+        "name": "München"
       }
     }, 
     {
@@ -461,18 +497,15 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          13.1502135877827, 
-          52.9464193243255
+          13.3779334, 
+          54.0927869
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "description": "priv. n. V. , Mo-Do 19-22 , Tobias Klatt, 0151-28027524", 
-        "name": "Löwenberg"
+        "description": "Cafe Koeppen, Bahnhofstr. 4 , Di 19.30-23 , Carsten Herrmann, 0176-61573271", 
+        "name": "Greifswald"
       }
     }, 
     {
@@ -1061,6 +1094,21 @@
       "properties": {
         "description": "http://www.dgob.de/lv-nrw/essen , Kultur-Forum Steele, Dreiringstr. 7 , Fr 19-22 , Christoph Grotepass, 0178-6153330; Frithjof Janke (Email), 0201-8718554", 
         "name": "Essen"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.8321346, 
+          48.379659
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.augsburg-go.de/ , Il Galeone, Steppacher Str. 1 , Do ab 19.30 , Thomas Brückmann ", 
+        "name": "Augsburg"
       }
     }, 
     {
@@ -1673,36 +1721,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          11.5777896, 
-          48.1805501
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.mils-sportrestaurant.de , Mil's, Hans-Denzinger-Str. 2 , Mo 18-23 , Joachim Bitzer, 089-301961; Philip Hiller (Email), 089-12749237", 
-        "name": "München"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          11.5777896, 
-          48.1805501
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.mils-sportrestaurant.de , Mil's, Hans-Denzinger-Str. 2 , Di 18-23 , Joachim Bitzer, 089-301961; Andreas Mauke (Email), 0177-7455229", 
-        "name": "München"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           8.41927170753479, 
           49.0081992681577
         ]
@@ -1811,39 +1829,6 @@
       "properties": {
         "description": "bei München, Boltzmannstr. 3, Fakultät für Mathematik und Informatik der TUM , Do 14-18 , Bernhard Werner, 0151-40322940; Stephan Schmolke (Email), 0176-47790131", 
         "name": "Garching"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          10.8321346, 
-          48.379659
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.augsburg-go.de/ , Il Galeone, Steppacher Str. 1 , Do ab 19.30 , Thomas Brückmann ", 
-        "name": "Augsburg"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          10.7538150746101, 
-          48.0301967
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "description": "Bernd Gramlich, 08241-5079996", 
-        "name": "Buchloe"
       }
     }, 
     {
