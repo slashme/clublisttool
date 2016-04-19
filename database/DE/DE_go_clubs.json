@@ -5,6 +5,51 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          10.0096607208, 
+          53.5590732541
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://gohh.de/spielabende/ , Hamburger Go-Club im CVJM, Schrödersaal, An der Alster 40, 040-2840950 , Mo 18-24 , Olga Silber, 04141-7810576; Tobias Berben (Email), 040-85157161", 
+        "name": "Hamburg CVJM"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.3779334, 
+          54.0927869
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Cafe Koeppen, Bahnhofstr. 4 , Di 19.30-23 , Carsten Herrmann, 0176-61573271", 
+        "name": "Greifswald"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.99032735825, 
+          53.5683001501
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.ki-hh.de/veranstaltungen/ueberblick , letzter Do im Monat, asiatischer Brettspielabend des Konfuzius Instituts, Chinesisches Teehaus \"Yu Garden\", Feldbrunnenstr. 67 , Do 19-21.30 , Steffi Hebsacker, 0151-15541415", 
+        "name": "Hamburg Asiatischer Brettspielabend"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           14.2085356682333, 
           51.5598961
         ]
@@ -86,6 +131,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          9.98580515385, 
+          53.4578102268
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://gohh.de/spielabende/ , Kulturzentrum \"Rieckhof\", Rieckhoffstr. 12, 040-7662020 , Mi 19-22 , Jürgen Abels, 04181-4063524; Matthias Palm (Email), 040-76111771", 
+        "name": "Hamburg (Harburg)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           13.7222126692, 
           51.06212745
         ]
@@ -95,6 +155,21 @@
       "properties": {
         "description": "http://www.horst-huebner.de , Freiberger Str. 31 im Eigenbetrieb Sportstätten, 4. Etage, Konferenzraum. , Mi 18-22 , Horst Hübner, 0351-4712051", 
         "name": "Dresden"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.95370304798855, 
+          52.1501914541714
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://go-hildesheim.de , \"Deseo\", Hindenburgplatz 3 (bitte vorher kontaktieren) , Sa ab 14 , Veronika Lyssenko", 
+        "name": "Hildesheim"
       }
     }, 
     {
@@ -170,36 +245,6 @@
       "properties": {
         "description": "Mommsen Eck , every 2nd monday of a month 18:00 - 21:00 , Pandau Ting: pandau@nakade.de; Maurice Wohabi: mo@nakade.de", 
         "name": "Nakade Go Club"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          9.97962391591026, 
-          53.56789125
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://go-hildesheim.de , \"Deseo\", Hindenburgplatz 3 (bitte vorher kontaktieren) , Sa ab 14 , Veronika Lyssenko", 
-        "name": "Hildesheim"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          9.98580515384674, 
-          53.45781022681
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://gohh.de/?Clubs_und_Spielgruppen:Go-Gruppe_Harburg , Kulturzentrum \"Rieckhof\", Rieckhoffstr. 12, 040-7662020 , Mi 19-22 , Jürgen Abels, 04181-4063524; Matthias Palm (Email), 040-76111771", 
-        "name": "Hamburg (Harburg)"
       }
     }, 
     {
@@ -434,21 +479,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          13.3779334, 
-          54.0927869
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Cafe Koeppen, Bahnhofstr. 4 , Di 19.30-23 , Carsten Herrmann, 0176-61573271", 
-        "name": "Greifswald"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           12.1252848, 
           54.0852727
         ]
@@ -521,66 +551,6 @@
       "properties": {
         "description": "http://www.guzumi.de/index.php , \"Drübbelken\", Münsterstr. 5 , Do ab 19 , Martin Langer, 02361-486674", 
         "name": "Recklinghausen"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          9.98402416706085, 
-          53.5673603477668
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.go-in-hamburg.de/?Uni_Go-Gruppe , Uni-Spielabend, Foyer des Pädagogischen Instituts (VMP 8) , Do 18-21 , Peter Splettstösser, 040-4914818", 
-        "name": "Hamburg"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          10.0096607208252, 
-          53.5590732541404
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://gohh.de/?Clubs_und_Spielgruppen:Hamburger_Go-Club , Hamburger Go-Club im CVJM, Schrödersaal, An der Alster 40, 040-2840950 , Mo 18-24 , Olga Silber, 04141-7810576; Tobias Berben (Email), 040-85157161", 
-        "name": "Hamburg"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          10.0096607208252, 
-          53.5590732541404
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://gohh.de/?Clubs_und_Spielgruppen:CVJM-Spielabend , CVJM, An der Alster 40, 040-2840950 , Fr ab 18 , Olga Silber, 04141-7810576; Tobias Berben (Email), 040-85157161", 
-        "name": "Hamburg"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          9.99032735824585, 
-          53.5683001501445
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.ki-hh.de/veranstaltungen/ueberblick , letzter Do im Monat, asiatischer Brettspielabend des Konfuzius Instituts, Chinesisches Teehaus \"Yu Garden\", Feldbrunnenstr. 67 , Do 19-21.30 , Steffi Hebsacker, 0151-15541415", 
-        "name": "Hamburg"
       }
     }, 
     {
@@ -821,6 +791,21 @@
       "properties": {
         "description": "http://www.ponnuki-paderborn.de , Uni Paderborn, Raum H3.203 , Mi ab 19 , Martin Hershoff, 05251-760467; Joshua Nowack (Email), n/a", 
         "name": "Paderborn"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.98402416706, 
+          53.5673603478
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.go-in-hamburg.de/?Uni_Go-Gruppe , Uni-Spielabend, Foyer des Pädagogischen Instituts (VMP 8) , Do 18-21 , Peter Splettstösser, 040-4914818", 
+        "name": "Hamburg Uni-Go-Gruppe"
       }
     }, 
     {

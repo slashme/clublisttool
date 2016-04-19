@@ -5,6 +5,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          -82.5732421875, 
+          28.0525908233
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "https://www.facebook.com/tampagoclub/ , Saturdays , http://www.meetup.com/Tampa-Bay-Go-Baduk-Players/", 
+        "name": "Tampa Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           -93.2877659797668, 
           44.9521573692219
         ]
@@ -77,21 +92,6 @@
       "properties": {
         "description": "", 
         "name": "Evanston Go club"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -82.5732421875, 
-          28.0525908233
-        ]
-      }, 
-      "layer": "US", 
-      "type": "Feature", 
-      "properties": {
-        "description": "https://www.facebook.com/tampagoclub/ - http://www.meetup.com/Tampa-Bay-Go-Baduk-Players/  , Saturdays", 
-        "name": "Tampa Go Club"
       }
     }, 
     {
