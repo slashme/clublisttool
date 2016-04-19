@@ -5,24 +5,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          10.7538150746101, 
-          48.0301967
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "description": "Bernd Gramlich, 08241-5079996", 
-        "name": "Buchloe"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           10.0096607208, 
           53.5590732541
         ]
@@ -32,24 +14,6 @@
       "properties": {
         "description": "http://gohh.de/spielabende/ , Hamburger Go-Club im CVJM, Schrödersaal, An der Alster 40, 040-2840950 , Mo 18-24 , Olga Silber, 04141-7810576; Tobias Berben (Email), 040-85157161", 
         "name": "Hamburg CVJM"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          13.1502135877827, 
-          52.9464193243255
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "description": "priv. n. V. , Mo-Do 19-22 , Tobias Klatt, 0151-28027524", 
-        "name": "Löwenberg"
       }
     }, 
     {
@@ -78,7 +42,7 @@
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.mils-sportrestaurant.de , Mil's, Hans-Denzinger-Str. 2 , Mo u. Di 18-23 , Joachim Bitzer, 089-301961; Philip Hiller (Email), 089-12749237", 
+        "description": "http://www.mils-sportrestaurant.de , Mil's, Hans-Denzinger-Str. 2 , Mo u. Di 18:00-23:00 , Joachim Bitzer, 089-301961; Philip Hiller (Email), 089-12749237", 
         "name": "München"
       }
     }, 
@@ -98,6 +62,21 @@
         }, 
         "description": "Hartmut Köstner, 035751-15691", 
         "name": "Welzow"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.9486496, 
+          51.5381897
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Uni Göttingen, Mathematisches Institut (Hauptgebäude Übungssaal), Bürgerstr. (im Semester) , Do ab 18:00 , Colin-Marius Koch, 0178-2969071", 
+        "name": "Göttingen Uni"
       }
     }, 
     {
@@ -137,6 +116,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          10.01824, 
+          53.55636
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://gohh.de/spielabende/ , \"Schorsch\", Steindamm 87, 3. Stock, 20099 Hamburg , Montags, 17:00-19:00 offene Jugendgruppe, 19:00-23:00 Uhr Spielabend , Olga Silber, olga.silber@gmail.com, Tobias Berben, tobias@berben.org", 
+        "name": "Spielabend im 'Schorsch'"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           6.9054775, 
           51.5371173
         ]
@@ -152,6 +146,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          9.1414189338669, 
+          47.7704476106267
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.knallaktiv.de , Obere Bahnhofstraße 18 , Montag 17-18 Uhr, einmal monatlich in der Monatsmitte , Rainer Rosenthal, Goldbacher Straße 19, 88662 Überlingen. Tel. 07551-66626, eMail r.rosenthal@web.de", 
+        "name": "Überlingen"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           9.9997099, 
           48.4067632
         ]
@@ -161,6 +170,21 @@
       "properties": {
         "description": "http://www.go-ulm.de , Cafe Omar, König-Wilhelm Str. 5 , Mi ab 19 , Gerhard Schmid, 0731-54739; Mattias Laage, 0731-57084", 
         "name": "Ulm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.41927170753479, 
+          49.0081992681577
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Thoule e.V., Ostendstr. 1 , Do ab 20 , Alexander Wirth ; Birger Holtermann (Email)", 
+        "name": "Karlsruhe"
       }
     }, 
     {
@@ -497,6 +521,24 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          13.1502135877827, 
+          52.9464193243255
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "priv. n. V. , Mo-Do 19-22 , Tobias Klatt, 0151-28027524", 
+        "name": "Löwenberg"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           13.3779334, 
           54.0927869
         ]
@@ -605,21 +647,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          10.1317026, 
-          54.3367251
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://server.sportzentrum.uni-kiel.de/sportarten/aktueller_zeitraum/_Go.html , Uni-Go-Gruppe, Stadionturm, Olshausenstr. 70 (Während der Vorlesungszeit. In der vorlesungsfreien Zeit Termin evtl. abweichend.) , Mi 18-20 , Christina Schramm ", 
-        "name": "Kiel"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           9.5470302, 
           54.5121597
         ]
@@ -704,21 +731,6 @@
       "properties": {
         "description": "Weserterrassen, Osterdeich 70 b, 0421-549490 , Di+Fr 19-22 , Uwe Weiß, 0421-74154", 
         "name": "Bremen"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          9.9992403388, 
-          53.0993785423
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "29646 Bispingen; privat (bitte vorher kontaktieren) , Fr ab 18 , Thomas Rohde, 05194-6741", 
-        "name": "Bispingen"
       }
     }, 
     {
@@ -830,6 +842,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          10.1131524424529, 
+          54.3421942234782
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://server.sportzentrum.uni-kiel.de/sportarten/aktueller_zeitraum/_Go.html , Uni-Go-Gruppe, Stadionturm, Olshausenstr. 70 (Während der Vorlesungszeit. In der vorlesungsfreien Zeit Termin evtl. abweichend.) , Mi 18-20 , Christina Schramm", 
+        "name": "Kiel"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           9.98402416706, 
           53.5673603478
         ]
@@ -839,6 +866,21 @@
       "properties": {
         "description": "http://www.go-in-hamburg.de/?Uni_Go-Gruppe , Uni-Spielabend, Foyer des Pädagogischen Instituts (VMP 8) , Do 18-21 , Peter Splettstösser, 040-4914818", 
         "name": "Hamburg Uni-Go-Gruppe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.99937981367, 
+          53.0855068888
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "29646 Bispingen; privat (bitte vorher kontaktieren) , Fr ab 18 , Thomas Rohde, 05194-6741 • Google+: http://bit.ly/trohdegplus • Facebook: http://bit.ly/trohdefbk • OGS: trohde • L19/DGoB-Forum: Bonobo", 
+        "name": "Bata-Bata Bispingen"
       }
     }, 
     {
@@ -884,21 +926,6 @@
       "properties": {
         "description": "http://homepages.thm.de/~hg53/go-club-giessen , Pit's Pinte, Grünberger Str. 31, 0641-47276 , Do ab 20 , Hellwig Geisse, 0641-394659", 
         "name": "Giessen"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          9.9486496, 
-          51.5381897
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Uni Göttingen, Mathematisches Institut (Hauptgebäude Übungssaal), Bürgerstr. (im Semester) , Do ab 18 , Colin-Marius Koch, 0178-2969071", 
-        "name": "Göttingen"
       }
     }, 
     {
@@ -1094,21 +1121,6 @@
       "properties": {
         "description": "http://www.dgob.de/lv-nrw/essen , Kultur-Forum Steele, Dreiringstr. 7 , Fr 19-22 , Christoph Grotepass, 0178-6153330; Frithjof Janke (Email), 0201-8718554", 
         "name": "Essen"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          10.8321346, 
-          48.379659
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.augsburg-go.de/ , Il Galeone, Steppacher Str. 1 , Do ab 19.30 , Thomas Brückmann ", 
-        "name": "Augsburg"
       }
     }, 
     {
@@ -1721,21 +1733,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.41927170753479, 
-          49.0081992681577
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Thoule e.V., Ostendstr. 1 , Do ab 20 , Alexander Wirth ; Birger Holtermann (Email)", 
-        "name": "Karlsruhe"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           11.1704637, 
           47.9954339
         ]
@@ -1829,6 +1826,39 @@
       "properties": {
         "description": "bei München, Boltzmannstr. 3, Fakultät für Mathematik und Informatik der TUM , Do 14-18 , Bernhard Werner, 0151-40322940; Stephan Schmolke (Email), 0176-47790131", 
         "name": "Garching"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.8321346, 
+          48.379659
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.augsburg-go.de/ , Il Galeone, Steppacher Str. 1 , Do ab 19.30 , Thomas Brückmann ", 
+        "name": "Augsburg"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.7538150746101, 
+          48.0301967
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "Bernd Gramlich, 08241-5079996", 
+        "name": "Buchloe"
       }
     }, 
     {
