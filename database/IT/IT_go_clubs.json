@@ -521,6 +521,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          13.33642, 
+          38.12709
+        ]
+      }, 
+      "layer": "IT", 
+      "type": "Feature", 
+      "properties": {
+        "description": "presso il Centro Scacchi Palermo in via Enrico Fermi 8 , Tutti i martedì dalle ore 16:00 alle ore 20:00 , Marco Milone Cell: 3926981326 : milone_m@yahoo.com", 
+        "name": "Il Palermo go club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           12.28264, 
           45.50527
         ]
@@ -1058,21 +1073,6 @@
         }, 
         "description": "Gaia Malagoli : gaia.malagoli@gmail.com Cell. : 329 1187140 Kgs : Gaiachan", 
         "name": "AVELLINO"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          13.33642, 
-          38.12709
-        ]
-      }, 
-      "layer": "IT", 
-      "type": "Feature", 
-      "properties": {
-        "description": "presso il Centro Scacchi Palermo in via Enrico Fermi 8 , Tutti i martedì dalle ore 16:00 alle ore 20:00 , Marco Milone Cell: 3926981326 : milone_m@yahoo.com", 
-        "name": "Il Palermo go club"
       }
     }, 
     {
