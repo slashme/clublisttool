@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          151.212274432172, 
+          -33.8779559705013
+        ]
+      }, 
+      "layer": "AU", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.sydneygoclub.org , 1st Floor, Philas House, 17 Brisbane Street, Surry Hills , Every Friday from 5:00pm , secretary@sydney.baduk.org.au", 
+        "name": "Sydney Go Club"
+      }
+    }
+  ]
+}
