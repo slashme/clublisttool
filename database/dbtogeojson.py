@@ -10,7 +10,7 @@ c = conn.cursor()
 #FIXME: Need to add handling for club type and status
 c.execute("SELECT name, id FROM goclubdb_layer;")
 result = c.fetchall()
-for layer in result:
+for layer in sorted(result):
   outfile=codecs.open(layer[0]+"_go_clubs.json",'w', encoding="utf-8")
   c.execute("SELECT name, website, meetplace, meettime, contact, lat, lon, clubtype_id, clubstatus_id FROM goclubdb_club WHERE layer_id = %s;", (layer[1],))
   result = c.fetchall()
