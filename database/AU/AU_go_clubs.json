@@ -98,14 +98,17 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          144.963916184455, 
+          144.963916184, 
           -37.79887285
         ]
       }, 
       "layer": "AU", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.spgo.org.au/ , Sidney Myer Asia Centre, University of Melbourne , Room 120 (Mondays 1pm to 3pm), Room 117 (noon to 2pm) , mail@spgo.org.au ; http://groups.google.com/group/students-playing-go/", 
+        "_storage_options": {
+          "iconClass": "Circle"
+        }, 
+        "description": "Sidney Myer Asia Centre, University of Melbourne , Club seems to be inactive. Used to be Room 120 (Mondays 1pm to 3pm), Room 117 (noon to 2pm) , http://groups.google.com/group/students-playing-go/", 
         "name": "Melbourne University Students Playing Go"
       }
     }, 
@@ -113,14 +116,14 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          151.225215465331, 
+          151.225215465, 
           -33.9169833
         ]
       }, 
       "layer": "AU", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.unswgoclub.org/ , University of New South Wales, Kensington\r\nMain library seminary rooms 209/210, (Thursdays), Australian School of Business Theatre 119 (Wednesdays) , Thu. and Wed. 1pm to 6pm , Kevin Yee (info@unswgoclub.org)\r\nhttps://www.facebook.com/groups/unswgoclub2012/", 
+        "description": "http://www.unswgoclub.org/ , University of New South Wales, Kensington\r\nMain library seminary rooms 209/210, (Thursdays), Australian School of Business Theatre 119 (Wednesdays) , Thu. and Wed. 1pm to 6pm , https://www.facebook.com/groups/unswgoclub2012/", 
         "name": "UNSW Go Club"
       }
     }, 
