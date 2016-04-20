@@ -5,6 +5,174 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          153.300538651093, 
+          -28.8188634
+        ]
+      }, 
+      "layer": "AU", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Southern Cross University, Lismore , email for details , Robin Garner, robin.garner@gmail.com", 
+        "name": "SCU/Lismore Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          153.0462092, 
+          -27.5079546
+        ]
+      }, 
+      "layer": "AU", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://brisbane.go.org.au/ , Stones Corner Plaza, Greenslopes, Brisbane , Tuesday evening 18:00 to 22:00 , https://www.facebook.com/groups/brisbane.go.players", 
+        "name": "Brisbane Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          147.323974284704, 
+          -42.88000865
+        ]
+      }, 
+      "layer": "AU", 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Circle"
+        }, 
+        "description": "https://www.facebook.com/pages/Tasmanian-Go-Club/196649457046277?fref=ts , Since the closure of Chado last year we have lost our regular meeting spot and we are now meeting only semi-regularly at members' houses. , Semi-regular - see Facebook group , Michael Cromer (mccromer@postoffice.utas.edu.au)", 
+        "name": "Tasmanian Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          115.8583386, 
+          -31.9365203
+        ]
+      }, 
+      "layer": "AU", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://perth.go.org.au/ , Tzu Chi Australia, 247 Fitzgerald Street, West Perth , Saturdays from 1pm to 4pm , Clive Hunt (clivehunt@bigpond.com)\r\n\r\nPerth Go Players (perth@go.org.au), members only posting, contact Peiran Guo to be added to the list.", 
+        "name": "Perth Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          149.12115167219, 
+          -35.2797551449527
+        ]
+      }, 
+      "layer": "AU", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://canberra.go.org.au/ , Ground floor, Asian Studies building, Australian National University campus - entrance off Ellery Circuit , Wednesday evenings from 6.30pm til late , Neville Smythe, 02 6232 7277 (H); email Neville.Smythe@optusnet.com.au", 
+        "name": "Canberra Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          145.1121762, 
+          -37.8739558
+        ]
+      }, 
+      "layer": "AU", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://senseis.xmp.net/?VictorianGoClub , Xin Jin Shan Chinese Library, Level 2, 13A Windsor Ave., Mt Waverley , Thursday evenings 7:00pm - 10:30pm , James Kaaden: victorian.go.club@gmail.com", 
+        "name": "Victorian Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          144.963916184455, 
+          -37.79887285
+        ]
+      }, 
+      "layer": "AU", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.spgo.org.au/ , Sidney Myer Asia Centre, University of Melbourne , Room 120 (Mondays 1pm to 3pm), Room 117 (noon to 2pm) , mail@spgo.org.au ; http://groups.google.com/group/students-playing-go/", 
+        "name": "Melbourne University Students Playing Go"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          151.225215465331, 
+          -33.9169833
+        ]
+      }, 
+      "layer": "AU", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.unswgoclub.org/ , University of New South Wales, Kensington\r\nMain library seminary rooms 209/210, (Thursdays), Australian School of Business Theatre 119 (Wednesdays) , Thu. and Wed. 1pm to 6pm , Kevin Yee (info@unswgoclub.org)\r\nhttps://www.facebook.com/groups/unswgoclub2012/", 
+        "name": "UNSW Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          153.343018121565, 
+          -27.9331081
+        ]
+      }, 
+      "layer": "AU", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://goldcoast.go.org.au/ , Gold Coast Country Club, Helensvale , last Sunday of each month from 1pm , Yoko Usami, goldcoast@go.org.au\r\nMailing list: gold-coast-players@go.org.au, members only posting, contact Yoko to be added to the list", 
+        "name": "Gold Coast Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          151.2115744, 
+          -33.8794743
+        ]
+      }, 
+      "layer": "AU", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://sydney.go.org.au/ , Philas House, 17 Brisbane Street, Surry Hills , Friday nights 5pm to 10pm , David Mitchell; email daviidgmitchell@outlook.com", 
+        "name": "Sydney Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          151.6526044, 
+          -30.5096451
+        ]
+      }, 
+      "layer": "AU", 
+      "type": "Feature", 
+      "properties": {
+        "description": "https://groups.google.com/forum/?fromgroups#!forum/armidalegoclub , 91 Beardy Street, Armidale, New South Wales , Wednesday evenings from 6pm till late , Alan Joynt (0422 536 533, adjoynt@gmail.com) or Geert Geesink (0439 423 873)\r\nhttp://australiango.asn.au/armidalegoclub@googlegroups.com", 
+        "name": "Armidale Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           151.212274432172, 
           -33.8779559705013
         ]

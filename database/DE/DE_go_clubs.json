@@ -20,15 +20,18 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.6597034, 
-          49.8778201
+          7.02877720225627, 
+          52.18899725
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "\"Hobbit\", Lauteschlägerstr. 3 , Mo ab 19.30 , Jochen Tappe, 06151-3928560", 
-        "name": "Darmstadt"
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "privat (bitte vorher kontaktieren) , Claus Weyck, 02565-2556,0177-1446465", 
+        "name": "Gronau-Epe, n. V."
       }
     }, 
     {
@@ -176,21 +179,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.6597034, 
-          49.8778201
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "\"Hobbit\", Lauteschlägerstr. 3 , Mi ab 19 , Klaus Petri, 06151-9674362", 
-        "name": "Darmstadt"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           9.9997099, 
           48.4067632
         ]
@@ -200,6 +188,21 @@
       "properties": {
         "description": "http://www.go-ulm.de , Cafe Omar, König-Wilhelm Str. 5 , Mi ab 19 , Gerhard Schmid, 0731-54739; Mattias Laage, 0731-57084", 
         "name": "Ulm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.3779334, 
+          54.0927869
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Cafe Koeppen, Bahnhofstr. 4 , Di 19.30-23 , Carsten Herrmann, 0176-61573271", 
+        "name": "Greifswald"
       }
     }, 
     {
@@ -548,21 +551,6 @@
         }, 
         "description": "priv. n. V. , Mo-Do 19-22 , Tobias Klatt, 0151-28027524", 
         "name": "Löwenberg"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          13.3779334, 
-          54.0927869
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Cafe Koeppen, Bahnhofstr. 4 , Di 19.30-23 , Carsten Herrmann, 0176-61573271", 
-        "name": "Greifswald"
       }
     }, 
     {
@@ -1172,24 +1160,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.02877720225627, 
-          52.18899725
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "description": "privat (bitte vorher kontaktieren) , Claus Weyck, 02565-2556,0177-1446465", 
-        "name": "Gronau-Epe, n. V."
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           8.040146, 
           52.2744752
         ]
@@ -1445,6 +1415,36 @@
       "properties": {
         "description": "Plateau, Neuer Wall 15 , Do ab 20 , Nils Blarr ", 
         "name": "Frankfurt/M."
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.6597034, 
+          49.8778201
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "\"Hobbit\", Lauteschlägerstr. 3 , Mo ab 19.30 , Jochen Tappe, 06151-3928560", 
+        "name": "Darmstadt"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.6597034, 
+          49.8778201
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "\"Hobbit\", Lauteschlägerstr. 3 , Mi ab 19 , Klaus Petri, 06151-9674362", 
+        "name": "Darmstadt"
       }
     }, 
     {
