@@ -20,6 +20,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          8.6597034, 
+          49.8778201
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "\"Hobbit\", Lauteschlägerstr. 3 , Mo ab 19.30 , Jochen Tappe, 06151-3928560", 
+        "name": "Darmstadt"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           11.5777896, 
           48.1805501
         ]
@@ -62,21 +77,6 @@
       "properties": {
         "description": "Uni Göttingen, Mathematisches Institut (Hauptgebäude Übungssaal), Bürgerstr. (im Semester) , Do ab 18:00 , Colin-Marius Koch, 0178-2969071", 
         "name": "Göttingen Uni"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          8.6597034, 
-          49.8778201
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "\"Hobbit\", Lauteschlägerstr. 3 , Mo ab 19.30 , Jochen Tappe, 06151-3928560", 
-        "name": "Darmstadt"
       }
     }, 
     {

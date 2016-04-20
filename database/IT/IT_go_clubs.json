@@ -521,21 +521,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          13.33642, 
-          38.12709
-        ]
-      }, 
-      "layer": "IT", 
-      "type": "Feature", 
-      "properties": {
-        "description": "presso il Centro Scacchi Palermo in via Enrico Fermi 8 , Tutti i martedì dalle ore 16:00 alle ore 20:00 , Marco Milone Cell: 3926981326 : milone_m@yahoo.com", 
-        "name": "Il Palermo go club"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           12.28264, 
           45.50527
         ]
@@ -545,6 +530,24 @@
       "properties": {
         "description": "Presso lo spazio giovani della municipalità di Favaro Veneto in Via Altinia 9 , Ci troviamo tutti i giovedì sera dalle ore 21:00 circa.Contattare Andrea per la conferma del ritrovo. , Andrea ", 
         "name": "Go Club Favaro Veneto"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.09409, 
+          39.22042
+        ]
+      }, 
+      "layer": "IT", 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "Alessandro Melis : gaudio-go@libero.it Kgs : gaudio Salvatore Sardo : lagunaffviii@hotmail.it", 
+        "name": "CAGLIARI"
       }
     }, 
     {
@@ -1079,6 +1082,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          13.33642, 
+          38.12709
+        ]
+      }, 
+      "layer": "IT", 
+      "type": "Feature", 
+      "properties": {
+        "description": "presso il Centro Scacchi Palermo in via Enrico Fermi 8 , Tutti i martedì dalle ore 16:00 alle ore 20:00 , Marco Milone Cell: 3926981326 : milone_m@yahoo.com", 
+        "name": "Il Palermo go club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           15.03088, 
           37.46042
         ]
@@ -1091,24 +1109,6 @@
         }, 
         "description": "Davide Carlesi : moscarpone@gmail.com Cell. : 340 6947793 Kgs : Gatsu55", 
         "name": "CATANIA"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          9.09409, 
-          39.22042
-        ]
-      }, 
-      "layer": "IT", 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "description": "Alessandro Melis : gaudio-go@libero.it Kgs : gaudio Salvatore Sardo : lagunaffviii@hotmail.it", 
-        "name": "CAGLIARI"
       }
     }, 
     {

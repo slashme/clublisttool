@@ -5,15 +5,90 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          4.3867316, 
-          44.6221146
+          2.2596328, 
+          48.9314889
         ]
       }, 
       "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://club-go-aubenas.blogspot.de/ , Couleur Café 1 PLACE JACQUES ROURE 07200 AUBENAS , Tous les jeudi soirs de 20h30", 
-        "name": "Aubenas - Couleur GO"
+        "description": "http://www.tumclasst.org/ , Association TUMCLASST 2 avenue Jean Jaurès, colombes au salon de thé - laverie Tout un monde , le second samedi du mois de 15h à 19h", 
+        "name": "Club de Colombes"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.2922588, 
+          48.8953403
+        ]
+      }, 
+      "layer": "FR", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://levallois.jeudego.org/ , .  Maison des Associations 34 rue Pierre Brossolette 92300 Levallois-Perret , Samedi de 14h à 17h.  Jeudi à partir de 20h30. Pour savoir si le club est ouvert un jeudi, contacter Rémy NOËL.", 
+        "name": "Levallois-Perret"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.352208, 
+          48.8628573
+        ]
+      }, 
+      "layer": "FR", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.go-paris.org/info.php , Café-Restaurant Le Djurdjura , Ouvert tous les jours de 16h.30 à la fermeture", 
+        "name": "Club de Go de Paris"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.3467261, 
+          48.8324688
+        ]
+      }, 
+      "layer": "FR", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.goclub-observatoire.com/ , L'Observatoire Au café Le Monaco 2 rue Vulpian, Paris , Permanences le mercredi de 19h à 23h", 
+        "name": "Paris - Observatoire"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          1.9064219, 
+          47.8989265
+        ]
+      }, 
+      "layer": "FR", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://orleans.jeudego.org , Les Becs à Vin 8 place du Châtelet , Le mardi soir à partir de 20h30", 
+        "name": "Club de Go d'Orléans"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.1898834, 
+          48.6988112
+        ]
+      }, 
+      "layer": "FR", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://orsay.jeudego.org/ , Maison des Muses 7 bis Avenue Saint Laurent, Orsay , Mercredi à partir de 20h30", 
+        "name": "Club de Go d'Orsay"
       }
     }, 
     {
@@ -287,96 +362,6 @@
         }, 
         "description": "http://victoire.b.free.fr/Paris20/index.html , Bar «Les Trois-Arts» 21 rue des Rigoles 75020 Paris , Le club ne se réunit plus, mais des jeux sont à votre disposotion, demander au bar", 
         "name": "Paris XX Club Pierre Desproges et Dolly Parton"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          2.2596328, 
-          48.9314889
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.tumclasst.org/ , Association TUMCLASST 2 avenue Jean Jaurès, colombes au salon de thé - laverie Tout un monde , le second samedi du mois de 15h à 19h", 
-        "name": "Club de Colombes"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          2.2922588, 
-          48.8953403
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://levallois.jeudego.org/ , .  Maison des Associations 34 rue Pierre Brossolette 92300 Levallois-Perret , Samedi de 14h à 17h.  Jeudi à partir de 20h30. Pour savoir si le club est ouvert un jeudi, contacter Rémy NOËL.", 
-        "name": "Levallois-Perret"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          2.352208, 
-          48.8628573
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.go-paris.org/info.php , Café-Restaurant Le Djurdjura , Ouvert tous les jours de 16h.30 à la fermeture", 
-        "name": "Club de Go de Paris"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          2.3467261, 
-          48.8324688
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.goclub-observatoire.com/ , L'Observatoire Au café Le Monaco 2 rue Vulpian, Paris , Permanences le mercredi de 19h à 23h", 
-        "name": "Paris - Observatoire"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          1.9064219, 
-          47.8989265
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://orleans.jeudego.org , Les Becs à Vin 8 place du Châtelet , Le mardi soir à partir de 20h30", 
-        "name": "Club de Go d'Orléans"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          2.1898834, 
-          48.6988112
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://orsay.jeudego.org/ , Maison des Muses 7 bis Avenue Saint Laurent, Orsay , Mercredi à partir de 20h30", 
-        "name": "Club de Go d'Orsay"
       }
     }, 
     {
@@ -1202,6 +1187,21 @@
       "properties": {
         "description": "http://valreas.jeudego.org , Salle A4 Collège Vallis Aéria, Av. Jean Moulin, 84600 Valréas , mardi, vendredi : 13h - 14h", 
         "name": "Club de Valreas Collège Vallis Aéria"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          4.3867316, 
+          44.6221146
+        ]
+      }, 
+      "layer": "FR", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://club-go-aubenas.blogspot.de/ , Couleur Café 1 PLACE JACQUES ROURE 07200 AUBENAS , Tous les jeudi soirs de 20h30", 
+        "name": "Aubenas - Couleur GO"
       }
     }, 
     {
