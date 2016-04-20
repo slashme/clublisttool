@@ -20,15 +20,15 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.9486496, 
-          51.5381897
+          11.0078072547913, 
+          49.4684099332303
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "Uni Göttingen, Mathematisches Institut (Hauptgebäude Übungssaal), Bürgerstr. (im Semester) , Do ab 18:00 , Colin-Marius Koch, 0178-2969071", 
-        "name": "Göttingen Uni"
+        "description": "http://www.gofans.de/Go_Clubs.htm , Kofferfabrik, Lange Str. 81 , Fr 20-01 , Robert Grüning, 0157-35549462", 
+        "name": "Fürth"
       }
     }, 
     {
@@ -44,6 +44,21 @@
       "properties": {
         "description": "http://www.ki-hh.de/veranstaltungen/ueberblick , letzter Do im Monat, asiatischer Brettspielabend des Konfuzius Instituts, Chinesisches Teehaus \"Yu Garden\", Feldbrunnenstr. 67 , Do 19-21.30 , Steffi Hebsacker, 0151-15541415", 
         "name": "Hamburg Asiatischer Brettspielabend"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.5777896, 
+          48.1805501
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.mils-sportrestaurant.de , Mil's, Hans-Denzinger-Str. 2 , Mo u. Di 18:00-23:00 , Joachim Bitzer, 089-301961; Philip Hiller (Email), 089-12749237", 
+        "name": "München"
       }
     }, 
     {
@@ -68,15 +83,15 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          11.5777896, 
-          48.1805501
+          9.9486496, 
+          51.5381897
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.mils-sportrestaurant.de , Mil's, Hans-Denzinger-Str. 2 , Mo u. Di 18:00-23:00 , Joachim Bitzer, 089-301961; Philip Hiller (Email), 089-12749237", 
-        "name": "München"
+        "description": "Uni Göttingen, Mathematisches Institut (Hauptgebäude Übungssaal), Bürgerstr. (im Semester) , Do ab 18:00 , Colin-Marius Koch, 0178-2969071", 
+        "name": "Göttingen Uni"
       }
     }, 
     {
@@ -812,6 +827,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          8.6597034, 
+          49.8778201
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "\"Hobbit\", Lauteschlägerstr. 3 , Mi ab 19 , Klaus Petri, 06151-9674362", 
+        "name": "Darmstadt"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           8.75926137769997, 
           51.7120229
         ]
@@ -1429,21 +1459,6 @@
       "type": "Feature", 
       "properties": {
         "description": "\"Hobbit\", Lauteschlägerstr. 3 , Mo ab 19.30 , Jochen Tappe, 06151-3928560", 
-        "name": "Darmstadt"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          8.6597034, 
-          49.8778201
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "\"Hobbit\", Lauteschlägerstr. 3 , Mi ab 19 , Klaus Petri, 06151-9674362", 
         "name": "Darmstadt"
       }
     }, 
@@ -2084,21 +2099,6 @@
       "properties": {
         "description": "https://www.google.com/maps/d/edit?mid=zNJ3sfg4D5TM.kDEuGESFYHBM , Turnhalle der GS an der Jenaer Str. 3, Spieletreff und freies Training von Jonglieren in München e.V. , Sa 14-22 n.V. , Thomas Furtner, 0160-96261998", 
         "name": "München (Moosach)"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          11.0078072547913, 
-          49.4684099332303
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.gofans.de/Go_Clubs.htm , Kofferfabrik, Lange Str. 81 , Fr 20-01 , Robert Grüning, 0157-35549462", 
-        "name": "Fürth"
       }
     }, 
     {

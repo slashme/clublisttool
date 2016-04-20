@@ -326,21 +326,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.13949, 
-          46.18008
-        ]
-      }, 
-      "layer": "CH", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://geneva.swissgo.org/ , Café du Rondeau Place du Rondeau 1, 1227 Carouge , mardi 20h00-24h00 , Armel-David WOLFF 079 689 78 27 awolff@worldcom.ch", 
-        "name": "Genève mardi"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           6.04476306018827, 
           46.2318101223236
         ]
@@ -350,6 +335,21 @@
       "properties": {
         "description": "http://games.web.cern.ch/games/ , CERN Restaurant No.2 , mercredi 12h30-13h30 parfois aussi mardi dès 18h00 , Tibor SIMKO 022 767 35 27 tibor.simko@cern.ch", 
         "name": "CERN"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.13949, 
+          46.18008
+        ]
+      }, 
+      "layer": "CH", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://geneva.swissgo.org/ , Café du Rondeau Place du Rondeau 1, 1227 Carouge , mardi 20h00-24h00 , Armel-David WOLFF 079 689 78 27 awolff@worldcom.ch", 
+        "name": "Genève mardi"
       }
     }, 
     {

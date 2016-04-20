@@ -5,24 +5,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          28.2359080017, 
-          -25.7509321638
-        ]
-      }, 
-      "layer": "ZA", 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "description": "http://www.sagoclubs.co.za/pretoria-club/ , Outer Limits Comic and Games shop in Hatfield Square (near News Cafe) , Wednesday evenings , Brett Wilson (072 099 9943) or John Leuner (076 226 9975)", 
-        "name": "Pretoria Go Club"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           27.9047101736, 
           -26.1279211892
         ]
@@ -53,57 +35,6 @@
         }, 
         "description": "http://www.sagoclubs.co.za/soweto-club/ , Sipho Mampe: 084 7888 177", 
         "name": "Soweto"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          18.8654243946, 
-          -33.9326430283
-        ]
-      }, 
-      "layer": "ZA", 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "description": "http://www.sagoclubs.co.za/stellenbosch-club/ , Recently (2015) some of us have been playing at The Guild campus board-gaming society. , Gordon Wells", 
-        "name": "Stellenbosch"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          27.997187376, 
-          -26.1843539316
-        ]
-      }, 
-      "layer": "ZA", 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Circle"
-        }, 
-        "description": "http://www.sagoclubs.co.za/uj-club/ , Mondays: C-Les 305, 13:00-14:00 Wednesdays: D-Les 411 , Mon, Wed: 13:00-14:00", 
-        "name": "UJ"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          28.0416570604, 
-          -26.1464706864
-        ]
-      }, 
-      "layer": "ZA", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.sagoclubs.co.za/joburg-club/ , Rosebank Mall – Fourno’s Bakery (Sunday mornings) Rosebank Mall – Mugg and Bean (Tuesday evenings) , Sundays (regularly) from 10:00 to 13:00 (approximately). Tuesdays (occasionally) from 19:00 to 21:00 (approximately).", 
-        "name": "Joburg"
       }
     }, 
     {
@@ -146,6 +77,75 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          27.9972346055688, 
+          -26.1844162036828
+        ]
+      }, 
+      "layer": "ZA", 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Circle"
+        }, 
+        "description": "http://www.sagoclubs.co.za/uj-club/ , Mondays: C-Les 305, 13:00-14:00 Wednesdays: D-Les 411 , Mon, Wed: 13:00-14:00", 
+        "name": "UJ"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          18.8653730452936, 
+          -33.9326332577489
+        ]
+      }, 
+      "layer": "ZA", 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "http://www.sagoclubs.co.za/stellenbosch-club/ , Recently (2015) some of us have been playing at The Guild campus board-gaming society. , Gordon Wells", 
+        "name": "Stellenbosch"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          28.2359846933316, 
+          -25.7509314067854
+        ]
+      }, 
+      "layer": "ZA", 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "http://www.sagoclubs.co.za/pretoria-club/ , Outer Limits Comic and Games shop in Hatfield Square (near News Cafe) , Wednesday evenings , Brett Wilson (072 099 9943) or John Leuner (076 226 9975)", 
+        "name": "Pretoria Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          28.0431931027642, 
+          -26.1454447737055
+        ]
+      }, 
+      "layer": "ZA", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.sagoclubs.co.za/joburg-club/ , Rosebank Mall – Fourno’s Bakery (Sunday mornings) Rosebank Mall – Mugg and Bean (Tuesday evenings) , Sundays (regularly) from 10:00 to 13:00 (approximately). Tuesdays (occasionally) from 19:00 to 21:00 (approximately).", 
+        "name": "Joburg"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           18.468875885, 
           -33.9386959386
         ]
@@ -161,8 +161,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          31.0382330418, 
-          -29.8498474347
+          31.0382473064244, 
+          -29.8497979100608
         ]
       }, 
       "layer": "ZA", 
