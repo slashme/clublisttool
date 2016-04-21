@@ -5,6 +5,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          24.9452567472222, 
+          60.169088587917
+        ]
+      }, 
+      "layer": "FI", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.suomigo.net/wiki/HelsinginGoKerho , Natural Flavour Tea House, Mikonkatu 8 , Tiistai klo 17.30", 
+        "name": "Helsingin go-kerho"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           24.825915098141, 
           60.1893357582746
         ]
