@@ -35,6 +35,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          -58.4531931048939, 
+          -34.5425684229716
+        ]
+      }, 
+      "layer": "AR", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.go.org.ar/clubes.php?club=exactas , Sala Roberto Arlt, SEGBE, Pabellón II, Ciudad Universitaria, Núñez, Ciudad de Buenos Aires , Martes a partir de las 19hs , https://www.facebook.com/groups/154810424914820/\r\nhttps://groups.google.com/forum/#!forum/goexactas\r\nAgustín Santiago Gutiérrez - http://www.go.org.ar/jugadores/mensaje.php?cod=1118", 
+        "name": "Exactas"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           -58.5209439, 
           -34.6004396142857
         ]
@@ -44,6 +59,24 @@
       "properties": {
         "description": "http://www.go.org.ar/clubes.php?club=fenix , Andrés Vallejos 4516, Villa Devoto, Buenos Aires , Jueves a partir de las 18hs , Horacio Giménez http://www.go.org.ar/jugadores/mensaje.php?cod=101", 
         "name": "Fenix"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -63.2444562, 
+          -32.4110651
+        ]
+      }, 
+      "layer": "AR", 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Circle"
+        }, 
+        "description": "http://www.go.org.ar/clubes.php?club=jugadoresCordoba , Villa María, Córdoba , Diego Ramírez - http://www.go.org.ar/jugadores/mensaje.php?cod=1133\r\nhttps://www.facebook.com/groups/177275092330250/", 
+        "name": "Jugadores de go en Córdoba"
       }
     }, 
     {

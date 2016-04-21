@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          19.0478096251465, 
+          49.8280346
+        ]
+      }, 
+      "layer": "PL", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://bielsko.meijin.pl/ , w \"Strefie gry\", Bielsko-Biała ul. Gazownicza 21 , Spotkania odbywają się raz w tygodniu, we wtorki od godziny 17. Spotkania zwykle trwają 3-4 godziny. , Janusz Gindera tel. 609 057 120\r\nAndrzej Gęga tel. 721 131 880, e-mail a_gega@wp.pl, gg 5011013", 
+        "name": "Bielski klub Go Igoyama"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          18.0118082, 
+          53.1280735
+        ]
+      }, 
+      "layer": "PL", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://bydgoszcz.go.art.pl/ , VI LO, ul. Staszica 4, Bydgoszcz , poniedziałki 16-20, czwartki 16-19 , bydgoszczMAŁPAgo.art.pl \r\nhttp://groups.yahoo.com/groups/jakotako/", 
+        "name": "Bydgoski Klub"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          18.6131325, 
+          54.3747487
+        ]
+      }, 
+      "layer": "PL", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://gdansk.go.art.pl/kontakt , sklep Rebel, ul. Matejki 6 (wejście od Sienkiewicza) , czwartki, 16-18", 
+        "name": "Gdański Klub Go \"Dango\""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          18.6835402418513, 
+          50.2953831210294
+        ]
+      }, 
+      "layer": "PL", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://gliwice.go.art.pl/index.php?page=kontakt , GCOP, ul. Jagiellońska 21 , wtorki, 16-20 , gliwice@go.art.pl", 
+        "name": "Gliwice"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          20.6395396, 
+          50.9034564
+        ]
+      }, 
+      "layer": "PL", 
+      "type": "Feature", 
+      "properties": {
+        "description": "WSH w Kielcach, ul. Peryferyjna 15; budynek A, sala 105 , czwartki 17-19", 
+        "name": "Kielce"
+      }
+    }
+  ]
+}
