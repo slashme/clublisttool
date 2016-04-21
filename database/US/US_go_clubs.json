@@ -65,6 +65,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          -90.131136, 
+          29.948106
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "https://www.facebook.com/Cranes-Nest-GO-Club-140027432709789/ , Z'otz Cafe, 8210 Oak St, New Orleans, LA , Wednesdays, 6-10pm", 
+        "name": "Crane's Nest Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           -96.764634, 
           33.002104
         ]
