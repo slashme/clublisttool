@@ -15,7 +15,7 @@ for layer in sorted(result):
   c.execute("SELECT name, website, meetplace, meettime, contact, lat, lon, clubtype_id, clubstatus_id FROM goclubdb_club WHERE layer_id = %s;", (layer[1],))
   result = c.fetchall()
   features=[]
-  for row in result:
+  for row in sorted(result):
       if row[7]==7:
           features.append({'geometry': {'type': 'Point', 'coordinates': [row[6],row[5]]}, 'layer': layer[0], 'type': 'Feature', 'properties': {'description': ' , '.join(filter(None,row[1:5])), 'name': row[0], '_storage_options': {'iconClass': 'Ball'}}} )
       elif row[8]==2:
