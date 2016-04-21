@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          16.3479559011876, 
+          48.1981305
+        ]
+      }, 
+      "layer": "AT", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://goverband.at/wp2/go7/ , Spiellokal des Go-Verbandes, Mariahilferstraße 82, U3- Station Zieglergasse, Aufgang Andreasgasse , Mo, Mi: 17:00-22:00, Sa: 15:00-20:00", 
+        "name": "Go7"
+      }
+    }
+  ]
+}

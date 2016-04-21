@@ -5,14 +5,14 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -2.7981853871402, 
-          56.340071512822
+          -2.79818538714, 
+          56.3400715128
         ]
       }, 
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.britgo.org/node/3235 , KY16 9UX Aikman's Cellar Bar, 32 Bell Street  , Tuesday 19:30-23:00  , Edwin Brady ", 
+        "description": "http://www.britgo.org/node/3235 , Aikman's Cellar Bar, 32 Bell Street , Tuesday 19:30-23:00 , Edwin Brady", 
         "name": "St Andrews"
       }
     }, 
@@ -27,7 +27,7 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.britgo.org/node/3195 , LN2 1LU The Wig and Mitre, Steep Hill  , Monday 19:00-22:00 (1st Mon)  , Richard Leedham-Green ", 
+        "description": "http://www.britgo.org/node/3195 , The Wig and Mitre, Steep Hill , Monday 19:00-22:00 (1st Mon) , Richard Leedham-Green", 
         "name": "Lincoln"
       }
     }, 
@@ -35,14 +35,14 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -0.758857195357585, 
-          51.4060111
+          -0.7590057431305, 
+          51.4066504557614
         ]
       }, 
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.britgo.org/node/3151 , RG12 7DL The Green Man, Crowthorne Road  , Tuesday 20:00 meets by arrangement only  , Ian Marsh Tel: 01344 422296 ", 
+        "description": "http://www.britgo.org/node/3151 , Crowthorne Road, RG12 7DL , Tuesday 20:00 meets by arrangement only , Ian Marsh Tel: 01344 422296", 
         "name": "Bracknell"
       }
     }, 
@@ -50,14 +50,32 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -2.10586390402163, 
-          57.1656495732931
+          -64.782949090004, 
+          32.2931208778792
         ]
       }, 
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.britgo.org/node/3140 , AB24 3AA Hardback Cafe, Aberdeen University \"Sir Duncan Rice Library, Bedford Road, Aberdeen  , Saturday 11:00 every second one from 19/04/14, but check website  , Neil McLean ", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "https://www.facebook.com/BermudaGo", 
+        "name": "Bermuda Go Society"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -2.10586390402, 
+          57.1656495733
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3140 , Hardback Cafe, Aberdeen University \"Sir Duncan Rice Library, Bedford Road, Aberdeen , Saturday 11:00 every second one from 19/04/14, but check website , Neil McLean", 
         "name": "Aberdeen"
       }
     }, 
@@ -65,14 +83,14 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -0.5576355, 
-          50.8534235
+          -0.553582682178482, 
+          50.853619921907
         ]
       }, 
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.britgo.org/node/3141 , BN18 9DF 1 Town Quay, River Rd, Arundel, West Sussex  , Sunday - last in month, but please ring first to confirm  , Sue Paterson Tel: 07549 898376 ", 
+        "description": "http://www.britgo.org/node/3141 , 1 Town Quay, River Rd, Arundel, West Sussex , Sunday - last in month, but please ring first to confirm , Sue Paterson Tel: 07549 898376", 
         "name": "Arundel"
       }
     }, 
@@ -87,7 +105,10 @@
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.britgo.org/node/3142 , By arrangement  , Baron Allday Tel: 01341 280365 ", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "http://www.britgo.org/node/3142 , By arrangement , Baron Allday Tel: 01341 280365", 
         "name": "Barmouth"
       }
     }, 
@@ -95,90 +116,15 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -2.39513594148765, 
-          51.3790174481156
+          -2.39513594149, 
+          51.3790174481
         ]
       }, 
       "layer": "GB", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.britgo.org/node/3144 , BA1 3EN Meets various places - check club web site.  , Tuesday 19:30  , Paul Christie Tel: 01225 428995 ", 
+        "description": "http://www.britgo.org/node/3144 , Meets various places - check club web site. , Tuesday 19:30 , Paul Christie Tel: 01225 428995", 
         "name": "Bath"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -5.93305, 
-          54.57933
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3145 , BT9 5FJ Function Room, Belfast Boat Club, 12 Lockview Road  , Monday 19:00  , James Hutchinson ", 
-        "name": "Belfast"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -5.93305, 
-          54.57933
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.britgo.org/node/4563 , BT9 5AW 86 Stranmillis Road  , Thursday 18:30  , James Hutchinson ", 
-        "name": "Belfast"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          0.4350939, 
-          51.6243999
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3147 , CM11 2HQ 42 Mons Avenue, Billericay, Essex  , Monday 19:30 in term-time  , Guy Footring Tel: 01277 623305 ", 
-        "name": "Billericay"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -1.91064765766123, 
-          52.4782216474506
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3148 , B1 2EA Starbucks cafe in the International Convention Centre (ICC)  , Sunday 14:00  , Andrew Russellhttp://www.brumgo.co.uk/ ", 
-        "name": "Birmingham"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -2.7274482, 
-          55.606769
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3150 , TD6 9NP Greenwells, Gattonside near Melrose and Galashiels  , By arrangement  , Ron Bell ", 
-        "name": "Borders"
       }
     }, 
     {
@@ -194,6 +140,81 @@
       "properties": {
         "description": "http://www.britgo.org/node/3153 , BH9 2UJ 24 Cowper Road, Moordown  , Tuesday 20:00  , Marcus Bennett Tel: 01202 512655 ", 
         "name": "Bournemouth"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -5.9298685, 
+          54.5726437
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3145 , Function Room, Belfast Boat Club, 12 Lockview Road , Monday 19:00 , James Hutchinson", 
+        "name": "Belfast Monday"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -5.9352958, 
+          54.5802696
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/4563 , 86 Stranmillis Road, Belfast BT9 5AW , Thursday 18:30 , James Hutchinson", 
+        "name": "Belfast Thursday"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.4344761, 
+          51.6257112
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3147 , 42 Mons Avenue, Billericay, Essex , Monday 19:30 in term-time , Guy Footring Tel: 01277 623305", 
+        "name": "Billericay"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -1.91094750934004, 
+          52.47906255
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3148 , Starbucks cafe in the International Convention Centre (ICC) , Sunday 14:00 , Andrew Russellhttp://www.brumgo.co.uk/", 
+        "name": "Birmingham"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -2.7274482, 
+          55.606769
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3150 , Greenwells, Gattonside near Melrose and Galashiels , By arrangement , Ron Bell", 
+        "name": "Borders"
       }
     }, 
     {
@@ -1154,24 +1175,6 @@
       "properties": {
         "description": "https://yorkgosociety.wordpress.com/ , YO10 5DD V Bar, Vanburgh College, University of York, Heslington  , Tuesday 18.00 - 21.00  , Leonardo Sandoval ", 
         "name": "York University"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -64.782949090004, 
-          32.2931208778792
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "description": "https://www.facebook.com/BermudaGo", 
-        "name": "Bermuda Go Society"
       }
     }
   ]

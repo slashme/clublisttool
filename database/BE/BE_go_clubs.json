@@ -95,15 +95,15 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          5.34317292273068, 
-          50.9302672205937
+          5.34317292273, 
+          50.9302672206
         ]
       }, 
       "layer": "BE", 
       "type": "Feature", 
       "properties": {
-        "description": "Café De Linck (Isn't it now called \"Carpe Diem\"?)\r\nMaastrichterstraat 107 , Thursday at 20:00 , club_hasselt@gofed.be", 
-        "name": "Go Club Hasselt"
+        "description": "Café De Linck\r\nMaastrichterstraat 107 , Thursday at 20:00 , club_hasselt@gofed.be", 
+        "name": "Hasselt"
       }
     }, 
     {

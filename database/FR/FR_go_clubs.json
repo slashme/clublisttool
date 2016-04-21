@@ -95,6 +95,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          4.84443302936088, 
+          45.7525022568637
+        ]
+      }, 
+      "layer": "FR", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://lyon-shinogi.jeudego.org/ , Trollune 25 rue Sébastien Gryphe, 69007 LYON , Mardi 18:30 - 23:00", 
+        "name": "Lyon Shinogi"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           6.1302911, 
           45.9204602
         ]
@@ -163,21 +178,6 @@
       "type": "Feature", 
       "properties": {
         "description": "http://lyon-shinogi.jeudego.org/ , Restaurant Hua Yuan Xuan 20 rue Mulet, Lyon , 1er Lundi 19h - 22h30", 
-        "name": "Lyon Shinogi"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          4.8449802, 
-          45.7512558
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://lyon-shinogi.jeudego.org/ , Bistrot Chez Thibault 80 rue Montesquieu Lyon 7e , Mercredi 18:30 - 23:00", 
         "name": "Lyon Shinogi"
       }
     }, 
@@ -1202,6 +1202,24 @@
       "properties": {
         "description": "http://club-go-aubenas.blogspot.de/ , Couleur Café 1 PLACE JACQUES ROURE 07200 AUBENAS , Tous les jeudi soirs de 20h30", 
         "name": "Aubenas - Couleur GO"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.14795589447, 
+          43.9273429169
+        ]
+      }, 
+      "layer": "FR", 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=330 , Chez Yves France Lanord , No regular meeting , Yves France-Lanord\r\nyves.france-lanord@orange.fr", 
+        "name": "Albi"
       }
     }, 
     {

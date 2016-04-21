@@ -20,21 +20,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          153.0462092, 
-          -27.5079546
-        ]
-      }, 
-      "layer": "AU", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://brisbane.go.org.au/ , Stones Corner Plaza, Greenslopes, Brisbane , Tuesday evening 18:00 to 22:00 , https://www.facebook.com/groups/brisbane.go.players", 
-        "name": "Brisbane Go Club"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           147.323974284704, 
           -42.88000865
         ]
@@ -125,6 +110,21 @@
       "properties": {
         "description": "http://www.unswgoclub.org/ , University of New South Wales, Kensington\r\nMain library seminary rooms 209/210, (Thursdays), Australian School of Business Theatre 119 (Wednesdays) , Thu. and Wed. 1pm to 6pm , https://www.facebook.com/groups/unswgoclub2012/", 
         "name": "UNSW Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          153.0462092, 
+          -27.5079546
+        ]
+      }, 
+      "layer": "AU", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://brisbane.go.org.au/ , Stones Corner Plaza, Greenslopes, Brisbane , Tuesday evening 18:00 to 22:00 , https://www.facebook.com/groups/brisbane.go.players", 
+        "name": "Brisbane Go Club"
       }
     }, 
     {

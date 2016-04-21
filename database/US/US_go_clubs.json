@@ -20,8 +20,113 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -93.2877659797668, 
-          44.9521573692219
+          -111.926202661538, 
+          33.4231647384615
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://azgoclub.org/ , IHOP, Corner of Rural and University - 705 S Rural Road, Tempe , Tuesday 7PM , William Gundberg bill@azgoclub.org\r\n480-831-5567 H\r\n480-429-0300 W", 
+        "name": "Arizona Go Club Tempe - Tuesday"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -88.0342, 
+          42.0405
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://schaumburggoclub.org/ , Starbucks (Sts of Woodfield)\r\n601 N Martingale Road\r\nSchaumburg, IL , Thursday 6:30-10:30 PM", 
+        "name": "Schamburg Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -111.9205551, 
+          33.4187288
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://azgoclub.org/ , Arizona State University Memorial Union, 301 E. Orange St., Tempe on the ground floor (in the southeast section of the building in the raised dining area near the Taco Bell). , Saturday 1PM , William Gundberg bill@azgoclub.org 480-831-5567 H 480-429-0300 W", 
+        "name": "Arizona Go Club Tempe - Saturday"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -86.8284003, 
+          33.3620295
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "We play at different places around the Hoover area. , Louis Gutenschwager <louis@bhamgo.org> 205-903-0688", 
+        "name": "Birmingham Go Association"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -149.9093484, 
+          61.1946237
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.anchoragegoclub.com/ , Title Wave books\r\n1360 West Northern Lights Blvd , Thursday 7:30\r\nSaturday 5:00 pm-9:00 pm , Robert E. Stoller stoller@alaska.net\r\n907-522-2299", 
+        "name": "Anchorage Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -110.8632228, 
+          32.221633125
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "https://www.facebook.com/groups/4616488521/ , Panera Bread, 6129 E Broadway Blvd, Tucson, AZ , Sundays starting between 4pm and 5pm and going till the place closes around 8pm. , Martin Lebl \r\nChapter Representative\r\n520-850-9213 martinlebl@gmail.com", 
+        "name": "Tucson"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -86.6263974356908, 
+          34.7120213384609
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Patton Rd, Huntsville AL , Noon-4 PM , http://www.facebook.com/groups/rocketcitygo\r\nchonas009@hotmail.com", 
+        "name": "Rocket City Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -93.2877659798, 
+          44.9521573692
         ]
       }, 
       "layer": "US", 
@@ -35,8 +140,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -93.2461702823639, 
-          44.969405538329
+          -93.2461702824, 
+          44.9694055383
         ]
       }, 
       "layer": "US", 
@@ -50,8 +155,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -93.1877517700195, 
-          44.9397114784311
+          -93.18775177, 
+          44.9397114784
         ]
       }, 
       "layer": "US", 
@@ -65,8 +170,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -87.7178800106048, 
-          41.9214748362339
+          -87.7178800106, 
+          41.9214748362
         ]
       }, 
       "layer": "US", 
@@ -83,8 +188,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -87.682056427002, 
-          42.0487986889771
+          -87.682056427, 
+          42.048798689
         ]
       }, 
       "layer": "US", 
