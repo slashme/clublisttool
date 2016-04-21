@@ -5,15 +5,15 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -9.15444, 
-          38.73447
+          -9.14295, 
+          39.40331
         ]
       }, 
       "layer": "PT", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.go-portugal.org/index.php/onde-jogar/55-lisboa , Centro de Bridge de Lisboa,  na Av. António Augusto de Aguiar, 163-4º Esq. (perto do El Corte Ingles). , aos Domingos à tarde , Pedro Carmona - 91 627 0944 p.carmona@go-portugal.org ; Vasco Pimenta - 93 426 3497 vasco@go-portugal.org", 
-        "name": "Lisboa"
+        "description": "http://www.go-portugal.org/index.php/onde-jogar/57-caldas-da-rainha , Centro de Juventude das Caldas da Rainha, R. de Vitorino Frois 22 , Sábados às 18:00 , Combinar antecipadamente com Francisco Pereira: xikkuh@gmail.com", 
+        "name": "Caldas da Rainha"
       }
     }, 
     {
@@ -35,36 +35,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -8.6271, 
-          41.1474
-        ]
-      }, 
-      "layer": "PT", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.go-portugal.org/index.php/onde-jogar/56-porto , Crystal Park (o encontro é em frente ao Tropical Burger) , Quintas a partir das 21h00 , Cristóvão Neto - 93 695 2487 chris@go-portugal.org", 
-        "name": "Porto "
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -9.14295, 
-          39.40331
-        ]
-      }, 
-      "layer": "PT", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.go-portugal.org/index.php/onde-jogar/57-caldas-da-rainha , Centro de Juventude das Caldas da Rainha, R. de Vitorino Frois 22 , Sábados às 18:00 , Combinar antecipadamente com Francisco Pereira: xikkuh@gmail.com", 
-        "name": "Caldas da Rainha"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           -8.4292, 
           40.211
         ]
@@ -77,6 +47,36 @@
         }, 
         "description": "http://www.go-portugal.org/index.php/onde-jogar/64-coimbra , Quem estiver interessado em jogar pode contactar o Pedro - kemedo@hotmail.it", 
         "name": "Coimbra "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -9.15444, 
+          38.73447
+        ]
+      }, 
+      "layer": "PT", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.go-portugal.org/index.php/onde-jogar/55-lisboa , Centro de Bridge de Lisboa,  na Av. António Augusto de Aguiar, 163-4º Esq. (perto do El Corte Ingles). , aos Domingos à tarde , Pedro Carmona - 91 627 0944 p.carmona@go-portugal.org ; Vasco Pimenta - 93 426 3497 vasco@go-portugal.org", 
+        "name": "Lisboa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -8.6271, 
+          41.1474
+        ]
+      }, 
+      "layer": "PT", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.go-portugal.org/index.php/onde-jogar/56-porto , Crystal Park (o encontro é em frente ao Tropical Burger) , Quintas a partir das 21h00 , Cristóvão Neto - 93 695 2487 chris@go-portugal.org", 
+        "name": "Porto "
       }
     }
   ]

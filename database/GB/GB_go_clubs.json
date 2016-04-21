@@ -5,81 +5,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -2.79818538714, 
-          56.3400715128
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3235 , Aikman's Cellar Bar, 32 Bell Street , Tuesday 19:30-23:00 , Edwin Brady", 
-        "name": "St Andrews"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -1.2305961, 
-          52.6291197
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3194 , LE9 2EN Stephen Bashforth's house, Mayfield, Station Road, Kirby Muxloe  , Thursday 19:45  , Toby Manning Tel: 01530 245298 ", 
-        "name": "Leicester"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -0.5389319, 
-          53.2341567
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3195 , The Wig and Mitre, Steep Hill , Monday 19:00-22:00 (1st Mon) , Richard Leedham-Green", 
-        "name": "Lincoln"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -0.2276028, 
-          51.9776758
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.britgo.org/club/letchworth , SG6 3TR Central Methodist Church, Norton Way South   , Thursday 20:00-22:30 during term-time  , Alison Bexfield ", 
-        "name": "Letchworth Go Club"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -0.7590057431305, 
-          51.4066504557614
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3151 , Crowthorne Road, RG12 7DL , Tuesday 20:00 meets by arrangement only , Ian Marsh Tel: 01344 422296", 
-        "name": "Bracknell"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           -2.10586390402, 
           57.1656495733
         ]
@@ -143,21 +68,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -1.87724721565716, 
-          50.7488004472072
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3153 , BH9 2UJ 24 Cowper Road, Moordown  , Tuesday 20:00  , Marcus Bennett Tel: 01202 512655 ", 
-        "name": "Bournemouth"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           -5.9298685, 
           54.5726437
         ]
@@ -182,6 +92,24 @@
       "properties": {
         "description": "http://www.britgo.org/node/4563 , 86 Stranmillis Road, Belfast BT9 5AW , Thursday 18:30 , James Hutchinson", 
         "name": "Belfast Thursday"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -64.782949090004, 
+          32.2931208778792
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "https://www.facebook.com/BermudaGo", 
+        "name": "Bermuda Go Society"
       }
     }, 
     {
@@ -233,6 +161,36 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          -1.87724721565716, 
+          50.7488004472072
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3153 , BH9 2UJ 24 Cowper Road, Moordown  , Tuesday 20:00  , Marcus Bennett Tel: 01202 512655 ", 
+        "name": "Bournemouth"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.7590057431305, 
+          51.4066504557614
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3151 , Crowthorne Road, RG12 7DL , Tuesday 20:00 meets by arrangement only , Ian Marsh Tel: 01344 422296", 
+        "name": "Bracknell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           -1.7748336, 
           53.8344245
         ]
@@ -248,21 +206,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -0.1318, 
-          50.8406
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3155 , BN1 4SD Druid Arms, 79-81 Ditchling Rd  , Wednesday 20:00  , Felix Shardlow tel: 07940 973406John Allen aka \"Yogi\" Tel: 01273 383254 or 07854 218920Jil Segerman Tel: 07920 865065 or 01273 470346 ", 
-        "name": "Brighton"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           -0.1264609, 
           50.8272903
         ]
@@ -271,6 +214,21 @@
       "type": "Feature", 
       "properties": {
         "description": "http://www.britgo.org/club/brighton , BN2 9UF The Southover Pub, Southover St  , Monday 20:00  , Felix Shardlow 07940 973406https://www.facebook.com/groups/brightongoclub/  ", 
+        "name": "Brighton"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.1318, 
+          50.8406
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3155 , BN1 4SD Druid Arms, 79-81 Ditchling Rd  , Wednesday 20:00  , Felix Shardlow tel: 07940 973406John Allen aka \"Yogi\" Tel: 01273 383254 or 07854 218920Jil Segerman Tel: 07920 865065 or 01273 470346 ", 
         "name": "Brighton"
       }
     }, 
@@ -623,6 +581,36 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          -1.2305961, 
+          52.6291197
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3194 , LE9 2EN Stephen Bashforth's house, Mayfield, Station Road, Kirby Muxloe  , Thursday 19:45  , Toby Manning Tel: 01530 245298 ", 
+        "name": "Leicester"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.2276028, 
+          51.9776758
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/club/letchworth , SG6 3TR Central Methodist Church, Norton Way South   , Thursday 20:00-22:30 during term-time  , Alison Bexfield ", 
+        "name": "Letchworth Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           -0.2276028, 
           51.9776758
         ]
@@ -632,6 +620,21 @@
       "properties": {
         "description": "http://www.britgo.org/node/4212 , SG6 3TR Central Methodist Church, Norton Way South   , Thursday 18:00-19:30 during term-time  , Alison Bexfield ", 
         "name": "Letchworth Junior Chess and Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.5389319, 
+          53.2341567
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3195 , The Wig and Mitre, Steep Hill , Monday 19:00-22:00 (1st Mon) , Richard Leedham-Green", 
+        "name": "Lincoln"
       }
     }, 
     {
@@ -998,6 +1001,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          -2.79818538714, 
+          56.3400715128
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3235 , Aikman's Cellar Bar, 32 Bell Street , Tuesday 19:30-23:00 , Edwin Brady", 
+        "name": "St Andrews"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           -3.9576637, 
           51.6152447
         ]
@@ -1157,24 +1175,6 @@
       "properties": {
         "description": "https://yorkgosociety.wordpress.com/ , YO10 5DD V Bar, Vanburgh College, University of York, Heslington  , Tuesday 18.00 - 21.00  , Leonardo Sandoval ", 
         "name": "York University"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -64.782949090004, 
-          32.2931208778792
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "description": "https://www.facebook.com/BermudaGo", 
-        "name": "Bermuda Go Society"
       }
     }
   ]

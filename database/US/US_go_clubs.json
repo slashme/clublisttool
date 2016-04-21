@@ -5,45 +5,15 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -82.5732421875, 
-          28.0525908233
+          -149.9093484, 
+          61.1946237
         ]
       }, 
       "layer": "US", 
       "type": "Feature", 
       "properties": {
-        "description": "https://www.facebook.com/tampagoclub/ , Saturdays , http://www.meetup.com/Tampa-Bay-Go-Baduk-Players/", 
-        "name": "Tampa Go Club"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -111.926202661538, 
-          33.4231647384615
-        ]
-      }, 
-      "layer": "US", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://azgoclub.org/ , IHOP, Corner of Rural and University - 705 S Rural Road, Tempe , Tuesday 7PM , William Gundberg bill@azgoclub.org\r\n480-831-5567 H\r\n480-429-0300 W", 
-        "name": "Arizona Go Club Tempe - Tuesday"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -88.0342, 
-          42.0405
-        ]
-      }, 
-      "layer": "US", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://schaumburggoclub.org/ , Starbucks (Sts of Woodfield)\r\n601 N Martingale Road\r\nSchaumburg, IL , Thursday 6:30-10:30 PM", 
-        "name": "Schamburg Go Club"
+        "description": "http://www.anchoragegoclub.com/ , Title Wave books\r\n1360 West Northern Lights Blvd , Thursday 7:30\r\nSaturday 5:00 pm-9:00 pm , Robert E. Stoller stoller@alaska.net\r\n907-522-2299", 
+        "name": "Anchorage Go Club"
       }
     }, 
     {
@@ -65,6 +35,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          -111.926202661538, 
+          33.4231647384615
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://azgoclub.org/ , IHOP, Corner of Rural and University - 705 S Rural Road, Tempe , Tuesday 7PM , William Gundberg bill@azgoclub.org\r\n480-831-5567 H\r\n480-429-0300 W", 
+        "name": "Arizona Go Club Tempe - Tuesday"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           -86.8284003, 
           33.3620295
         ]
@@ -80,90 +65,30 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -149.9093484, 
-          61.1946237
+          -96.764634, 
+          33.002104
         ]
       }, 
       "layer": "US", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.anchoragegoclub.com/ , Title Wave books\r\n1360 West Northern Lights Blvd , Thursday 7:30\r\nSaturday 5:00 pm-9:00 pm , Robert E. Stoller stoller@alaska.net\r\n907-522-2299", 
-        "name": "Anchorage Go Club"
+        "description": "http://dallasgoclub.org , 320 Coit Rd, Plano, TX 75075 , Thursdays 5-10pm , dallasgo@gmail.com", 
+        "name": "Dallas Go Club"
       }
     }, 
     {
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -110.8632228, 
-          32.221633125
+          -87.682056427, 
+          42.048798689
         ]
       }, 
       "layer": "US", 
       "type": "Feature", 
       "properties": {
-        "description": "https://www.facebook.com/groups/4616488521/ , Panera Bread, 6129 E Broadway Blvd, Tucson, AZ , Sundays starting between 4pm and 5pm and going till the place closes around 8pm. , Martin Lebl \r\nChapter Representative\r\n520-850-9213 martinlebl@gmail.com", 
-        "name": "Tucson"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -86.6263974356908, 
-          34.7120213384609
-        ]
-      }, 
-      "layer": "US", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Patton Rd, Huntsville AL , Noon-4 PM , http://www.facebook.com/groups/rocketcitygo\r\nchonas009@hotmail.com", 
-        "name": "Rocket City Go Club"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -93.2877659798, 
-          44.9521573692
-        ]
-      }, 
-      "layer": "US", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Bob's Java Hut, 2651 Lyndale Ave S, Minneapolis, MN 55408 , Mondays, 18:00-23:00 , 612-871-4485", 
-        "name": "Twin Cities Go Club (Monday)"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -93.2461702824, 
-          44.9694055383
-        ]
-      }, 
-      "layer": "US", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Hard Times Cafe, 1821 Riverside Avenue, Minneapolis, MN 55454-1034 , Thursdays 18:30-22:00", 
-        "name": "Twin Cities Go Club (Thursday)"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -93.18775177, 
-          44.9397114784
-        ]
-      }, 
-      "layer": "US", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Coffee Bene, 53 Cleveland Avenue South, Saint Paul, MN 55105 , Saturdays, 13:00-17:00 , 651-698-2266", 
-        "name": "Twin Cities Go Club (Saturday)"
+        "description": "", 
+        "name": "Evanston Go club"
       }
     }, 
     {
@@ -188,15 +113,30 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -87.682056427, 
-          42.048798689
+          -86.6263974356908, 
+          34.7120213384609
         ]
       }, 
       "layer": "US", 
       "type": "Feature", 
       "properties": {
-        "description": "", 
-        "name": "Evanston Go club"
+        "description": "Patton Rd, Huntsville AL , Noon-4 PM , http://www.facebook.com/groups/rocketcitygo\r\nchonas009@hotmail.com", 
+        "name": "Rocket City Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -88.0342, 
+          42.0405
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://schaumburggoclub.org/ , Starbucks (Sts of Woodfield)\r\n601 N Martingale Road\r\nSchaumburg, IL , Thursday 6:30-10:30 PM", 
+        "name": "Schamburg Go Club"
       }
     }, 
     {
@@ -218,15 +158,75 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -96.764634, 
-          33.002104
+          -82.5732421875, 
+          28.0525908233
         ]
       }, 
       "layer": "US", 
       "type": "Feature", 
       "properties": {
-        "description": "http://dallasgoclub.org , 320 Coit Rd, Plano, TX 75075 , Thursdays 5-10pm , dallasgo@gmail.com", 
-        "name": "Dallas Go Club"
+        "description": "https://www.facebook.com/tampagoclub/ , Saturdays , http://www.meetup.com/Tampa-Bay-Go-Baduk-Players/", 
+        "name": "Tampa Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -110.8632228, 
+          32.221633125
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "https://www.facebook.com/groups/4616488521/ , Panera Bread, 6129 E Broadway Blvd, Tucson, AZ , Sundays starting between 4pm and 5pm and going till the place closes around 8pm. , Martin Lebl \r\nChapter Representative\r\n520-850-9213 martinlebl@gmail.com", 
+        "name": "Tucson"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -93.2877659798, 
+          44.9521573692
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Bob's Java Hut, 2651 Lyndale Ave S, Minneapolis, MN 55408 , Mondays, 18:00-23:00 , 612-871-4485", 
+        "name": "Twin Cities Go Club (Monday)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -93.18775177, 
+          44.9397114784
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Coffee Bene, 53 Cleveland Avenue South, Saint Paul, MN 55105 , Saturdays, 13:00-17:00 , 651-698-2266", 
+        "name": "Twin Cities Go Club (Saturday)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -93.2461702824, 
+          44.9694055383
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Hard Times Cafe, 1821 Riverside Avenue, Minneapolis, MN 55454-1034 , Thursdays 18:30-22:00", 
+        "name": "Twin Cities Go Club (Thursday)"
       }
     }
   ]

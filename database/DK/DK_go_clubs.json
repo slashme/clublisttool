@@ -5,6 +5,24 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          10.1117595, 
+          56.1780842
+        ]
+      }, 
+      "layer": "DK", 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Circle"
+        }, 
+        "description": "aarhusgoklub@gmail.com", 
+        "name": "Aarhus Go Klub"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           12.5123907, 
           55.664811
         ]
@@ -44,24 +62,6 @@
       "properties": {
         "description": "http://ringsted-go-klub.dk , Cafe Vivaldi - Sct. Hansgade 18, Ringsted , Saturdays in weeks with even week numbers, 2:30 PM , kasserer@ringsted-go-klub.dk", 
         "name": "Ringsted Go Klub"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          10.1117595, 
-          56.1780842
-        ]
-      }, 
-      "layer": "DK", 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Circle"
-        }, 
-        "description": "aarhusgoklub@gmail.com", 
-        "name": "Aarhus Go Klub"
       }
     }
   ]

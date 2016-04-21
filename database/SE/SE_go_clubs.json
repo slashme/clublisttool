@@ -20,36 +20,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          18.046523, 
-          59.331774
-        ]
-      }, 
-      "layer": "SE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://stockholm.goforbundet.se , Piperska Grottan, Pipersgatan 26, T-Rådhuset, Kungsholmen , Thursday 6 PM and sometimes Sunday 1 PM , http://stockholm.goforbundet.se/node/8", 
-        "name": "Stockholms go-klubb"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          16.47486, 
-          59.59792
-        ]
-      }, 
-      "layer": "SE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.vgo.se/ , Café Koppar, Culturen, Sintervägen 6, Västerås , Thursday 5 PM , info@vgo.se", 
-        "name": "Västerås Goklubb"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           13.0038585355816, 
           55.5927743186611
         ]
@@ -65,6 +35,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          18.046523, 
+          59.331774
+        ]
+      }, 
+      "layer": "SE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://stockholm.goforbundet.se , Piperska Grottan, Pipersgatan 26, T-Rådhuset, Kungsholmen , Thursday 6 PM and sometimes Sunday 1 PM , http://stockholm.goforbundet.se/node/8", 
+        "name": "Stockholms go-klubb"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           17.648168206204, 
           59.8416011769617
         ]
@@ -74,6 +59,21 @@
       "properties": {
         "description": "https://www.facebook.com/groups/8126794587/ , kl. 19 i Ekonomikum (f.d. Humanistcentrum) i det allmänna utrymmet vid huvudentrén (\"lokstallarna\"), på Kyrkogårdsgatan , på tisdagar , uppsalago@gmail.com", 
         "name": "Uppsala go-klubb"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          16.47486, 
+          59.59792
+        ]
+      }, 
+      "layer": "SE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.vgo.se/ , Café Koppar, Culturen, Sintervägen 6, Västerås , Thursday 5 PM , info@vgo.se", 
+        "name": "Västerås Goklubb"
       }
     }
   ]
