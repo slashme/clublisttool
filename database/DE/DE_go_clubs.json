@@ -20,21 +20,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.9054775, 
-          51.5371173
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Gasthof Milke, Lindhorststraße 213 A , Do ab 19 , Detlef de Jonghe, 02041-97196", 
-        "name": "Bottrop"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           11.5777896, 
           48.1805501
         ]
@@ -131,6 +116,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          6.9054775, 
+          51.5371173
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Gasthof Milke, Lindhorststraße 213 A , Do ab 19 , Detlef de Jonghe, 02041-97196", 
+        "name": "Bottrop"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           9.1414189338669, 
           47.7704476106267
         ]
@@ -176,15 +176,15 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          11.271080076543, 
-          52.23676795
+          8.6597034, 
+          49.8778201
         ]
       }, 
       "layer": "DE", 
       "type": "Feature", 
       "properties": {
-        "description": "Schloß-und Gartenverwaltung Hundisburg , Do ab 20 , Harald Blanke, 03904-44265", 
-        "name": "Hundisburg"
+        "description": "\"Hobbit\", Lauteschlägerstr. 3 , Mi ab 19 , Klaus Petri, 06151-9674362", 
+        "name": "Darmstadt"
       }
     }, 
     {
@@ -311,6 +311,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          8.2411949, 
+          50.0863765
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://wi-go.de , Kulturpalast, Saalgasse 36 (Details siehe http://wi-go.de) , Do ab 20, 14-tg , Jana Hollmann, 0611-5802855", 
+        "name": "Wiesbaden"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           13.377976, 
           52.5240046
         ]
@@ -350,21 +365,6 @@
       "properties": {
         "description": "TU Berlin, Hardenbergstr. 36 (Physikneubau, Raum 114) , Fr 18-23 , James Brückl, 0157-73867795", 
         "name": "Berlin (Charlottenburg)"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          11.6400834, 
-          52.1389773
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Universitätsplatz 2 (Campus), Gebäude 05, R. 210, Nordeingang , Di ab 19 , Olaf Salchow, 03949-4488", 
-        "name": "Magdeburg"
       }
     }, 
     {
@@ -992,6 +992,36 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          11.6400834, 
+          52.1389773
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Universitätsplatz 2 (Campus), Gebäude 05, R. 210, Nordeingang , Di ab 19 , Olaf Salchow, 03949-4488", 
+        "name": "Magdeburg"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.271080076543, 
+          52.23676795
+        ]
+      }, 
+      "layer": "DE", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Schloß-und Gartenverwaltung Hundisburg , Do ab 20 , Harald Blanke, 03904-44265", 
+        "name": "Hundisburg"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           6.7722202832333, 
           51.1966518
         ]
@@ -1430,36 +1460,6 @@
       "properties": {
         "description": "\"Hobbit\", Lauteschlägerstr. 3 , Mo ab 19.30 , Jochen Tappe, 06151-3928560", 
         "name": "Darmstadt"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          8.6597034, 
-          49.8778201
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "\"Hobbit\", Lauteschlägerstr. 3 , Mi ab 19 , Klaus Petri, 06151-9674362", 
-        "name": "Darmstadt"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          8.2411949, 
-          50.0863765
-        ]
-      }, 
-      "layer": "DE", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://wi-go.de , Kulturpalast, Saalgasse 36 (Details siehe http://wi-go.de) , Do ab 20, 14-tg , Jana Hollmann, 0611-5802855", 
-        "name": "Wiesbaden"
       }
     }, 
     {

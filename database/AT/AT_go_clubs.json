@@ -5,6 +5,105 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          16.3783796, 
+          48.2196582
+        ]
+      }, 
+      "layer": "AT", 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Circle"
+        }, 
+        "description": "http://www.wiener-kaffeehaus.at/stammblatt.aspx?kaffeehausid=171 , Große Sperlgasse 41 , Spielmaterial vorhanden, kein fester Spielabend.", 
+        "name": "Cafe Sperlhof"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          16.3425866, 
+          48.2150499
+        ]
+      }, 
+      "layer": "AT", 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Circle"
+        }, 
+        "description": "http://www.cafebenno.at/ , Cafe Benno: Alserstraße 67, Wien , Spielmaterial vorhanden, kein fester Spielabend", 
+        "name": "Cafe Benno"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          15.635604789141, 
+          48.41296025
+        ]
+      }, 
+      "layer": "AT", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Hofrat-Erben-Straße 1, Krems-Lerchenfeld,  gegenüber Hotel „Orange Wings“ , 1. und 3. Dienstag im Monat, jeweils ab 19:30 , Johann Braunschweig, joweig@gmx.at, 0664/7368 6264", 
+        "name": "Krems"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          16.3365093, 
+          48.2043224
+        ]
+      }, 
+      "layer": "AT", 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Circle"
+        }, 
+        "description": "http://www.facebook.com/pages/Cafe-Weidinger/205114116166204 , Cafe Weidinger: Lerchenfeldergürtel 1, 1070 Wien, vis á vis Lugner City , Spielmaterial vorhanden, kein fester Spielabend.", 
+        "name": "Cafe Weidinger"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.77236804037, 
+          46.83192125
+        ]
+      }, 
+      "layer": "AT", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Kärntnerstraße 26, 10. Stock, Linz , Donnerstag an Schultagen, 18:30-21:30", 
+        "name": "Wissensturm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          14.28916, 
+          48.3066333
+        ]
+      }, 
+      "layer": "AT", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://linz.goverband.at/ , Pfarrplatz 7, Linz , Jeden Donnerstag ab 21:00, im Sommer ab 19:00 , linz@goverband.at", 
+        "name": "Cafe-Meier"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           16.3479559011876, 
           48.1981305
         ]
@@ -14,6 +113,54 @@
       "properties": {
         "description": "http://goverband.at/wp2/go7/ , Spiellokal des Go-Verbandes, Mariahilferstraße 82, U3- Station Zieglergasse, Aufgang Andreasgasse , Mo, Mi: 17:00-22:00, Sa: 15:00-20:00", 
         "name": "Go7"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          16.3551424, 
+          48.1953663
+        ]
+      }, 
+      "layer": "AT", 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Circle"
+        }, 
+        "description": "http://www.kaffeesieder.at/jart/prj3/kwk/main.jart?rel=de&reserve-mode=active&content-id=1213111916923&kwk_mitglieder_id=1218679097019 , Cafe Rüdigerhof, Hamburgerstraße 20, Wien , Spielmaterial vorhanden, kein fester Spielabend.", 
+        "name": "Cafe Rüdigerhof"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          16.3636196, 
+          48.1914651
+        ]
+      }, 
+      "layer": "AT", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Rudi’s Cafe Bar, Mittersteig 11, Wien , jeden Freitag ab 20 Uhr", 
+        "name": "Rudi’s Cafe Bar"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          16.370057, 
+          48.1975588
+        ]
+      }, 
+      "layer": "AT", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://tuwien.goverband.at/ , Cafe Nelsons, 2. Innenhof der TU-Wien, Karlsplatz, derzeit in den unteren Räumlichkeiten , Jeden Freitag während Unibetrieb ab 15 Uhr", 
+        "name": "TU Wien"
       }
     }
   ]

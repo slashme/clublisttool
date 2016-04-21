@@ -20,6 +20,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          -1.2305961, 
+          52.6291197
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3194 , LE9 2EN Stephen Bashforth's house, Mayfield, Station Road, Kirby Muxloe  , Thursday 19:45  , Toby Manning Tel: 01530 245298 ", 
+        "name": "Leicester"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           -0.5389319, 
           53.2341567
         ]
@@ -35,6 +50,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          -0.2276028, 
+          51.9776758
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/club/letchworth , SG6 3TR Central Methodist Church, Norton Way South   , Thursday 20:00-22:30 during term-time  , Alison Bexfield ", 
+        "name": "Letchworth Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           -0.7590057431305, 
           51.4066504557614
         ]
@@ -44,24 +74,6 @@
       "properties": {
         "description": "http://www.britgo.org/node/3151 , Crowthorne Road, RG12 7DL , Tuesday 20:00 meets by arrangement only , Ian Marsh Tel: 01344 422296", 
         "name": "Bracknell"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -64.782949090004, 
-          32.2931208778792
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "description": "https://www.facebook.com/BermudaGo", 
-        "name": "Bermuda Go Society"
       }
     }, 
     {
@@ -611,36 +623,6 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -1.2305961, 
-          52.6291197
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3194 , LE9 2EN Stephen Bashforth's house, Mayfield, Station Road, Kirby Muxloe  , Thursday 19:45  , Toby Manning Tel: 01530 245298 ", 
-        "name": "Leicester"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -0.2276028, 
-          51.9776758
-        ]
-      }, 
-      "layer": "GB", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.britgo.org/club/letchworth , SG6 3TR Central Methodist Church, Norton Way South   , Thursday 20:00-22:30 during term-time  , Alison Bexfield ", 
-        "name": "Letchworth Go Club"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           -0.2276028, 
           51.9776758
         ]
@@ -1175,6 +1157,24 @@
       "properties": {
         "description": "https://yorkgosociety.wordpress.com/ , YO10 5DD V Bar, Vanburgh College, University of York, Heslington  , Tuesday 18.00 - 21.00  , Leonardo Sandoval ", 
         "name": "York University"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -64.782949090004, 
+          32.2931208778792
+        ]
+      }, 
+      "layer": "GB", 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "https://www.facebook.com/BermudaGo", 
+        "name": "Bermuda Go Society"
       }
     }
   ]
