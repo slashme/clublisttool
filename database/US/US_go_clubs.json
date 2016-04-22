@@ -50,6 +50,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          -122.268072077, 
+          37.8701935782
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.berkeleygoclub.org/ , Berkeley Go Club Clubroom: 2161 Shattuck Avenue (at Center), 2nd floor, Suite 222 , Fridays 6:00 PM - 9:00 PM\r\nSaturdays: 2:00 pm onward\r\nSundays: 2:00 pm onward\r\nCall 510-501-8314 to be let in if front door is locked.", 
+        "name": "Berkeley Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           -86.8284003, 
           33.3620295
         ]
@@ -104,6 +119,21 @@
       "properties": {
         "description": "", 
         "name": "Evanston Go club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.27924392945, 
+          37.8744356684629
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.berkeleygoclub.org/ , Games of Berkeley, 2151 Shattuck Avenue, Berkeley in the center of the store on Mondays; in the downstairs game rooms at the same times on Thursday evenings , 6PM - 9 PM", 
+        "name": "Games of Berkeley"
       }
     }, 
     {

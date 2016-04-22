@@ -30,6 +30,21 @@
         "description": "https://www.facebook.com/polingokerho/?fref=ts , In association room 240-241. , Every monday, at least between 18-21", 
         "name": "Polin Go-club"
       }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          25.7399421930297, 
+          62.2387011578637
+        ]
+      }, 
+      "layer": "FI", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.suomigo.net/wiki/Tengen , Bar Vakiopaine, Kauppakatu 6 , Wednesdays 18:00 onwards", 
+        "name": "Tengen Jyväskylä"
+      }
     }
   ]
 }
