@@ -158,6 +158,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          -112.045117191444, 
+          33.5079157799959
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "https://www.facebook.com/Phoenixgoclub/ , Duck and Decanter\r\n1651 E Camelback Road\r\nPhoenix, AZ 85016 , Every other Sunday 1pm , Contact through Facebook", 
+        "name": "Phoenixgoclub"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           -86.6263974356908, 
           34.7120213384609
         ]
