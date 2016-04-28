@@ -173,14 +173,14 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -86.6263974356908, 
-          34.7120213384609
+          -86.6263974357, 
+          34.7120213385
         ]
       }, 
       "layer": "US", 
       "type": "Feature", 
       "properties": {
-        "description": "Patton Rd, Huntsville AL , Noon-4 PM , http://www.facebook.com/groups/rocketcitygo\r\nchonas009@hotmail.com", 
+        "description": "Patton Rd, Huntsville AL , Noon-4 PM , http://www.facebook.com/groups/rocketcitygo\r\nemail: chonas009@hotmail.com", 
         "name": "Rocket City Go Club"
       }
     }, 
