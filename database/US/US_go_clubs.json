@@ -173,6 +173,96 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          -121.935830788418, 
+          37.3569764807581
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.meetup.com/GameKastleGoClub/ , Game Kastle, 1350 Coleman Ave, Santa Clara, CA , Saturdays: 1:00 pm to 3:00 pm; Please check website, as some holidays we may not meet. , Tom S. (Organizer) http://www.meetup.com/GameKastleGoClub/members/186613133/ , and Dave W. (Assistant Organizer) http://www.meetup.com/GameKastleGoClub/members/197276756/", 
+        "name": "Kastle Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -121.7697841, 
+          37.6811682
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Panama Red Coffee Co.\r\n2115 First Street, Livermore, CA , First and third Saturdays: 2:00 pm onward , Lynda L. LoDestro - lodestro1@llnl.gov", 
+        "name": "Livermore Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.143827964942, 
+          37.4270298
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.mayfieldgoclub.com/ , Antonio's Nut House, 321 S. California Avenue, Palo Alto, CA , Wednesdays: 8:30 pm onward , http://mayfieldgoclub.com/contact/", 
+        "name": "Mayfield Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.267143315789, 
+          37.8191727368421
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.meetup.com/North-Oakland-Go-Club/ , Black Spring Coffee Co., 2930 Telegraph Avenue, Oakland, CA , Sundays: 10:00 am to 5:00 pm , Tom S. http://www.meetup.com/North-Oakland-Go-Club/members/186613133/", 
+        "name": "North Oakland Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.274594478261, 
+          37.8015712826087
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.meetup.com/North-Oakland-Go-Club/ , Endgame Cafe, 917 Washington St. (@10th St.) Oakland, CA , Tuesdays: 7:00 pm to 10:00 pm", 
+        "name": "North Oakland Go Club at Endgame"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.1872249, 
+          37.4507104
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Ing Goe Foundation, \r\n887 Oak Grove Road, Suite 203\r\nMenlo Park, CA , Saturdays: 1:00 pm to 4:00 pm,\r\nThe club is open Wednesday evenings from 8:00 pm for a free game review session with Mingjiu Jiang 7P", 
+        "name": "Palo Alto Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           -112.045117191444, 
           33.5079157799959
         ]
@@ -218,6 +308,36 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          -122.429100285714, 
+          37.788611244898
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.sfgoclub.com , Nichiren Hokke Buddhist Church\r\n2016 Pine Street (near Laguna)\r\nSan Francisco, CA , Thursdays: 7:00 pm to 10:00 pm\r\nSundays: 1:00 pm to 5:30 pm\r\nThe club is only open on certain Thursdays and Sundays. Please check club website for exceptions to the normal schedule. , https://www.facebook.com/sfgoclub/", 
+        "name": "San Francisco Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -121.995764595386, 
+          37.323042606557
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.gohappycup.com/club-when-where.shtml , Close to Stevens Creek Blvd & Lawrence Expressway, Santa Clara, CA. , Saturdays: 7:00 pm to 9:00 pm. Every child is welcome, even if you don't know how to play Go! , yanp.zhao@gmail.com", 
+        "name": "Santa Clara Youth Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           -88.0342, 
           42.0405
         ]
@@ -242,6 +362,21 @@
       "properties": {
         "description": "Musser Room (we share with the Chess Club) , every Saturday 14:00 , schlowgo@gmail.com", 
         "name": "Schlow Library Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.048601512496, 
+          37.241178431825
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "https://silivalleygoclub.wordpress.com/ , 15555 Bohlman Rd, Saratoga , We meet in Saratoga almost every Tuesday evening at 7:30. I send out an email every Monday to verify or cancel the club, but there are very few cancellations. Fill out the contact form on the website to be added to the mailing list.", 
+        "name": "SiliValley Go Club"
       }
     }, 
     {
