@@ -383,6 +383,36 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          -122.718181995147, 
+          38.3485916132
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Sonoma Valley Bagel & Cafe, 350 Rohnert Park Expressway, Rohnert Park, CA , Sundays: 10:30 am to 4:00 pm , Contact Joanne and Ned Phipps 707-585-0669", 
+        "name": "Sonoma County Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.170810245751, 
+          37.42421595
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://web.stanford.edu/group/go/ , Tresidder Union, 59 Lagunita Dr.\r\nStanford University, Stanford, CA , Sundays: 2:00 to 4:00 pm when school is in session , Active mailing list at https://mailman.stanford.edu/pipermail/go-club-chat/", 
+        "name": "Stanford University Cardinal Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           -82.5732421875, 
           28.0525908233
         ]
@@ -452,6 +482,21 @@
       "properties": {
         "description": "Hard Times Cafe, 1821 Riverside Avenue, Minneapolis, MN 55454-1034 , Thursdays 18:30-22:00", 
         "name": "Twin Cities Go Club (Thursday)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.348098271844, 
+          39.3906947307103
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "Super Taco - Evergreen Shopping Center, 1726 S Main St. #A, Willits, CA , Tuesdays: 6:00 to 9:00 pm , Contact Brian Ferri-Taylor 707-459-9628", 
+        "name": "Willits Go Club"
       }
     }
   ]
