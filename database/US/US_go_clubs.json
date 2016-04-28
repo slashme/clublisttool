@@ -110,6 +110,21 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          -121.740198756529, 
+          38.5453527
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.davissacramentogoclub.org/ , Steve's Pizza, 314 F Street, Davis, CA , Thursdays: 6:00 pm to 10:00 pm", 
+        "name": "Davis Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           -87.682056427, 
           42.048798689
         ]
@@ -182,6 +197,21 @@
       "properties": {
         "description": "Patton Rd, Huntsville AL , Noon-4 PM , http://www.facebook.com/groups/rocketcitygo\r\nemail: chonas009@hotmail.com", 
         "name": "Rocket City Go Club"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -121.426803193663, 
+          38.6012558633896
+        ]
+      }, 
+      "layer": "US", 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.davissacramentogoclub.org , Market Square at Arden Fair in the Food Court near the Barnes and Noble Bookstore, 1725 Arden Way, Sacramento, CA , Mondays from 6-10pm", 
+        "name": "Sacramento go club"
       }
     }, 
     {
