@@ -2,177 +2,177 @@
   "type": "FeatureCollection", 
   "features": [
     {
+      "layer": "ZA", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           18.4694891775, 
           -33.9388170244
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "ZA", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.sagoclubs.co.za/cape-town-club/ , A Touch of Madness, 12 Nuttall Road. Under new management. The club will meet there for now, but will review. , Tuesday evenings from 19h00", 
-        "name": "Cape Town"
+        "name": "Cape Town", 
+        "description": "http://www.sagoclubs.co.za/cape-town-club/ , A Touch of Madness, 12 Nuttall Road. Under new management. The club will meet there for now, but will review. , Tuesday evenings from 19h00"
       }
     }, 
     {
+      "layer": "ZA", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           31.0382473064244, 
           -29.8497979100608
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "ZA", 
       "type": "Feature", 
       "properties": {
         "_storage_options": {
           "iconClass": "Circle"
         }, 
-        "description": "(info date: May 2006) Peter Charter is at work resuscitating the Durban Go club.  Meetings: at the Steers on North Beach, on Tuesdays. , Start 18h30 on Tuesdays , Peter Charter (cellphone: 082 900 1496) or Tony Clulow (home phone: 031 702 1749).", 
-        "name": "Durban Go club"
+        "name": "Durban Go club", 
+        "description": "(info date: May 2006) Peter Charter is at work resuscitating the Durban Go club.  Meetings: at the Steers on North Beach, on Tuesdays. , Start 18h30 on Tuesdays , Peter Charter (cellphone: 082 900 1496) or Tony Clulow (home phone: 031 702 1749)."
       }
     }, 
     {
+      "layer": "ZA", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           28.0431931027642, 
           -26.1454447737055
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "ZA", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.sagoclubs.co.za/joburg-club/ , Rosebank Mall – Fourno’s Bakery (Sunday mornings) Rosebank Mall – Mugg and Bean (Tuesday evenings) , Sundays (regularly) from 10:00 to 13:00 (approximately). Tuesdays (occasionally) from 19:00 to 21:00 (approximately).", 
-        "name": "Joburg"
+        "name": "Joburg", 
+        "description": "http://www.sagoclubs.co.za/joburg-club/ , Rosebank Mall – Fourno’s Bakery (Sunday mornings) Rosebank Mall – Mugg and Bean (Tuesday evenings) , Sundays (regularly) from 10:00 to 13:00 (approximately). Tuesdays (occasionally) from 19:00 to 21:00 (approximately)."
       }
     }, 
     {
+      "layer": "ZA", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           22.153673172, 
           -34.1831750336
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "ZA", 
       "type": "Feature", 
       "properties": {
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": "There is currently no club in Mossel Bay. However, anyone there interested in the game can contact Candice Barker. She would be happy to meet and play holiday-makers or business visitors in Mossel Bay, introduce the game to prospective new players, or meet other players from Mossel Bay and surrounds. , ad hoc , Candice Barker (phone: 0446905547)", 
-        "name": "Mossel Bay"
+        "name": "Mossel Bay", 
+        "description": "There is currently no club in Mossel Bay. However, anyone there interested in the game can contact Candice Barker. She would be happy to meet and play holiday-makers or business visitors in Mossel Bay, introduce the game to prospective new players, or meet other players from Mossel Bay and surrounds. , ad hoc , Candice Barker (phone: 0446905547)"
       }
     }, 
     {
+      "layer": "ZA", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           25.5323982239, 
           -33.9437871712
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "ZA", 
       "type": "Feature", 
       "properties": {
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": "http://www.sagoclubs.co.za/other-clubs/ , There are no clubs in the Eastern Cape. However, anyone there interested in the game can contact William Mapham <william.mapham@gmail.com> or Patrick Lee <alobar@telkomsa.net>", 
-        "name": "Port Elizabeth"
+        "name": "Port Elizabeth", 
+        "description": "http://www.sagoclubs.co.za/other-clubs/ , There are no clubs in the Eastern Cape. However, anyone there interested in the game can contact William Mapham <william.mapham@gmail.com> or Patrick Lee <alobar@telkomsa.net>"
       }
     }, 
     {
+      "layer": "ZA", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           27.9047101736, 
           -26.1279211892
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "ZA", 
       "type": "Feature", 
       "properties": {
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": "House of Coffees in Clearwater Mall , Start 19h00 on Wednesdays , Pablo Casado (e-mail: phmcasado !@! gmail [d-o-t] com)", 
-        "name": "Pretoria Clearwater"
+        "name": "Pretoria Clearwater", 
+        "description": "House of Coffees in Clearwater Mall , Start 19h00 on Wednesdays , Pablo Casado (e-mail: phmcasado !@! gmail [d-o-t] com)"
       }
     }, 
     {
+      "layer": "ZA", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           28.2359846933316, 
           -25.7509314067854
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "ZA", 
       "type": "Feature", 
       "properties": {
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": "http://www.sagoclubs.co.za/pretoria-club/ , Outer Limits Comic and Games shop in Hatfield Square (near News Cafe) , Wednesday evenings , Brett Wilson (072 099 9943) or John Leuner (076 226 9975)", 
-        "name": "Pretoria Go Club"
+        "name": "Pretoria Go Club", 
+        "description": "http://www.sagoclubs.co.za/pretoria-club/ , Outer Limits Comic and Games shop in Hatfield Square (near News Cafe) , Wednesday evenings , Brett Wilson (072 099 9943) or John Leuner (076 226 9975)"
       }
     }, 
     {
+      "layer": "ZA", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           27.8636026382, 
           -26.2235711114
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "ZA", 
       "type": "Feature", 
       "properties": {
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": "http://www.sagoclubs.co.za/soweto-club/ , Sipho Mampe: 084 7888 177", 
-        "name": "Soweto"
+        "name": "Soweto", 
+        "description": "http://www.sagoclubs.co.za/soweto-club/ , Sipho Mampe: 084 7888 177"
       }
     }, 
     {
+      "layer": "ZA", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           18.8653730452936, 
           -33.9326332577489
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "ZA", 
       "type": "Feature", 
       "properties": {
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": "http://www.sagoclubs.co.za/stellenbosch-club/ , Recently (2015) some of us have been playing at The Guild campus board-gaming society. , Gordon Wells", 
-        "name": "Stellenbosch"
+        "name": "Stellenbosch", 
+        "description": "http://www.sagoclubs.co.za/stellenbosch-club/ , Recently (2015) some of us have been playing at The Guild campus board-gaming society. , Gordon Wells"
       }
     }, 
     {
+      "layer": "ZA", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           27.9972346055688, 
           -26.1844162036828
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "ZA", 
       "type": "Feature", 
       "properties": {
         "_storage_options": {
           "iconClass": "Circle"
         }, 
-        "description": "http://www.sagoclubs.co.za/uj-club/ , Mondays: C-Les 305, 13:00-14:00 Wednesdays: D-Les 411 , Mon, Wed: 13:00-14:00", 
-        "name": "UJ"
+        "name": "UJ", 
+        "description": "http://www.sagoclubs.co.za/uj-club/ , Mondays: C-Les 305, 13:00-14:00 Wednesdays: D-Les 411 , Mon, Wed: 13:00-14:00"
       }
     }
   ]

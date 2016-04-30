@@ -2,168 +2,168 @@
   "type": "FeatureCollection", 
   "features": [
     {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          4.43050369620318, 
-          51.2070480768326
-        ]
-      }, 
       "layer": "BE", 
+      "geometry": {
+        "coordinates": [
+          4.4305036962, 
+          51.2070480768
+        ], 
+        "type": "Point"
+      }, 
       "type": "Feature", 
       "properties": {
-        "description": "http://goclubantwerpen.be , De Nieuwe Zurenborger\r\nDageraadplaats 4 , Thursday at 20:00 , club_antwerpen@gofed.be", 
-        "name": "Antwerpen"
+        "name": "Antwerpen", 
+        "description": "http://goclubantwerpen.be , De Nieuwe Zurenborger\r\nDageraadplaats 4 , Thursday at 20:00 , club_antwerpen@gofed.be"
       }
     }, 
     {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          3.78049582242943, 
-          50.6279554392911
-        ]
-      }, 
       "layer": "BE", 
+      "geometry": {
+        "coordinates": [
+          3.78049582243, 
+          50.6279554393
+        ], 
+        "type": "Point"
+      }, 
       "type": "Feature", 
       "properties": {
-        "description": "Café Donquichotte De La Dendre\r\nRue de France 38 , Wednesday 20:15 , club_ath@gofed.be", 
-        "name": "Ath"
+        "name": "Ath", 
+        "description": "Café Donquichotte De La Dendre\r\nRue de France 38 , Wednesday 20:15 , club_ath@gofed.be"
       }
     }, 
     {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          3.7270259857177, 
-          51.0372787470197
-        ]
-      }, 
       "layer": "BE", 
+      "geometry": {
+        "coordinates": [
+          3.72702598572, 
+          51.037278747
+        ], 
+        "type": "Point"
+      }, 
       "type": "Feature", 
       "properties": {
-        "description": "The Outpost\r\nOttergemsesteenweg 13 , Tuesday at 19:00 , club_gent@gofed.be", 
-        "name": "Gents Go Genootschap"
+        "name": "Gents Go Genootschap", 
+        "description": "The Outpost\r\nOttergemsesteenweg 13 , Tuesday at 19:00 , club_gent@gofed.be"
       }
     }, 
     {
+      "layer": "BE", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           5.34317292273, 
           50.9302672206
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "BE", 
       "type": "Feature", 
       "properties": {
-        "description": "Café De Linck\r\nMaastrichterstraat 107 , Thursday at 20:00 , club_hasselt@gofed.be", 
-        "name": "Hasselt"
+        "name": "Hasselt", 
+        "description": "Café De Linck\r\nMaastrichterstraat 107 , Thursday at 20:00 , club_hasselt@gofed.be"
       }
     }, 
     {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          4.37093518674361, 
-          50.8281308158459
-        ]
-      }, 
       "layer": "BE", 
+      "geometry": {
+        "coordinates": [
+          4.37093518674, 
+          50.8281308158
+        ], 
+        "type": "Point"
+      }, 
       "type": "Feature", 
       "properties": {
-        "description": "Le Pantin, ch. d'Ixelles 355 , Monday 17:00 - 20:00 , club_pantin@gofed.be", 
-        "name": "Le Pantin - Monday"
+        "name": "Le Pantin - Monday", 
+        "description": "Le Pantin, ch. d'Ixelles 355 , Monday 17:00 - 20:00 , club_pantin@gofed.be"
       }
     }, 
     {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          4.34806868433972, 
-          50.8367874464521
-        ]
-      }, 
       "layer": "BE", 
+      "geometry": {
+        "coordinates": [
+          4.34806868434, 
+          50.8367874465
+        ], 
+        "type": "Point"
+      }, 
       "type": "Feature", 
       "properties": {
-        "description": "L'Eau Chaude, Rue des renards, 25 , 16:00-20:00 , club_pantin@gofed.be", 
-        "name": "Le Pantin - Saturday"
+        "name": "Le Pantin - Saturday", 
+        "description": "L'Eau Chaude, Rue des renards, 25 , 16:00-20:00 , club_pantin@gofed.be"
       }
     }, 
     {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          4.71393942832951, 
-          50.8814172861367
-        ]
-      }, 
       "layer": "BE", 
+      "geometry": {
+        "coordinates": [
+          4.71393942833, 
+          50.8814172861
+        ], 
+        "type": "Point"
+      }, 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.goclubleuven.be/ , Cafe Sport\r\nMartelarenplein 13 , Tuesdays at 20:15 , club_leuven@gofed.be", 
-        "name": "Leuven"
+        "name": "Leuven", 
+        "description": "http://www.goclubleuven.be/ , Cafe Sport\r\nMartelarenplein 13 , Tuesdays at 20:15 , club_leuven@gofed.be"
       }
     }, 
     {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          5.58223955333238, 
-          50.6425798376091
-        ]
-      }, 
       "layer": "BE", 
+      "geometry": {
+        "coordinates": [
+          5.58223955333, 
+          50.6425798376
+        ], 
+        "type": "Point"
+      }, 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.goliege.be/ , Le Toussaint\r\nRue Ernest de Bavière 1 , Thursday at 18:30 , club_liege@gofed.be", 
-        "name": "Liège"
+        "name": "Liège", 
+        "description": "http://www.goliege.be/ , Le Toussaint\r\nRue Ernest de Bavière 1 , Thursday at 18:30 , club_liege@gofed.be"
       }
     }, 
     {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          4.61615681648259, 
-          50.6683581504676
-        ]
-      }, 
       "layer": "BE", 
+      "geometry": {
+        "coordinates": [
+          4.61615681648, 
+          50.6683581505
+        ], 
+        "type": "Point"
+      }, 
       "type": "Feature", 
       "properties": {
-        "description": "Café Altérez-Vous\r\nPlace des Brabançons 6A , Tuesday at 20:30 , club_lln@gofed.be", 
-        "name": "Louvain-La-Neuve"
+        "name": "Louvain-La-Neuve", 
+        "description": "Café Altérez-Vous\r\nPlace des Brabançons 6A , Tuesday at 20:30 , club_lln@gofed.be"
       }
     }, 
     {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          4.86108010789566, 
-          50.4645612954951
-        ]
-      }, 
       "layer": "BE", 
+      "geometry": {
+        "coordinates": [
+          4.8610801079, 
+          50.4645612955
+        ], 
+        "type": "Point"
+      }, 
       "type": "Feature", 
       "properties": {
-        "description": "http://membres.lycos.fr/namurgoclub , La Fontaine\r\nPlace St Aubain , Tuesday at 20:00 , club_namur@gofed.be", 
-        "name": "Namur"
+        "name": "Namur", 
+        "description": "http://membres.lycos.fr/namurgoclub , La Fontaine\r\nPlace St Aubain , Tuesday at 20:00 , club_namur@gofed.be"
       }
     }, 
     {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          4.36522141098965, 
-          50.8487194446635
-        ]
-      }, 
       "layer": "BE", 
+      "geometry": {
+        "coordinates": [
+          4.36522141099, 
+          50.8487194447
+        ], 
+        "type": "Point"
+      }, 
       "type": "Feature", 
       "properties": {
-        "description": "https://gophenix.wordpress.com , Outpost game center\r\nRue de la Tribune,8 , Wednesday 19:00 - 24:00 , club_phenix@gofed.be", 
-        "name": "Phénix GO Club"
+        "name": "Phénix GO Club", 
+        "description": "https://gophenix.wordpress.com , Outpost game center\r\nRue de la Tribune,8 , Wednesday 19:00 - 24:00 , club_phenix@gofed.be"
       }
     }
   ]

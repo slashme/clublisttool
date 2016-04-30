@@ -2,18 +2,18 @@
   "type": "FeatureCollection", 
   "features": [
     {
+      "layer": "RO", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           24.1466081142, 
           45.7907338984
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "RO", 
       "type": "Feature", 
       "properties": {
-        "description": "every Thursday at 5 pm", 
-        "name": "Asociatia Confucius Go Club Sibiu"
+        "name": "Asociatia Confucius Go Club Sibiu", 
+        "description": "every Thursday at 5 pm"
       }
     }
   ]

@@ -2,33 +2,33 @@
   "type": "FeatureCollection", 
   "features": [
     {
+      "layer": "RS", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           20.9121108055106, 
           44.0125554291428
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "RS", 
       "type": "Feature", 
       "properties": {
-        "description": "TC Prostor, prvi sprat , Wednesday evening and during weekends , dubakovic@gmail.com", 
-        "name": "Radnicki Kragujevac"
+        "name": "Radnicki Kragujevac", 
+        "description": "TC Prostor, prvi sprat , Wednesday evening and during weekends , dubakovic@gmail.com"
       }
     }, 
     {
+      "layer": "RS", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           19.6651732921581, 
           46.1048952468232
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "RS", 
       "type": "Feature", 
       "properties": {
-        "description": "Tuesday evening and Thursday evening", 
-        "name": "Spartak Subotica"
+        "name": "Spartak Subotica", 
+        "description": "Tuesday evening and Thursday evening"
       }
     }
   ]

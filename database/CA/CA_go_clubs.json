@@ -2,18 +2,18 @@
   "type": "FeatureCollection", 
   "features": [
     {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -72.5425530386226, 
-          46.3419043488636
-        ]
-      }, 
       "layer": "CA", 
+      "geometry": {
+        "coordinates": [
+          -72.5425530386, 
+          46.3419043489
+        ], 
+        "type": "Point"
+      }, 
       "type": "Feature", 
       "properties": {
-        "description": "Nord-Ouest Café\r\n1441, rue Notre-Dame Centre\r\nTrois-Rivières\r\nQuébec , Deux fois par mois , Petit club qui se rencontre deux fois par mois. Les joueurs de tous les niveaux sont les bienvenus ! Pour connaître notre prochaine rencontre, contactez solarbear @ le site de courriels de Google.", 
-        "name": "Club de go de Trois-Rivières"
+        "name": "Club de go de Trois-Rivières", 
+        "description": "Nord-Ouest Café\r\n1441, rue Notre-Dame Centre\r\nTrois-Rivières\r\nQuébec , Deux fois par mois , Petit club qui se rencontre deux fois par mois. Les joueurs de tous les niveaux sont les bienvenus ! Pour connaître notre prochaine rencontre, contactez solarbear @ le site de courriels de Google."
       }
     }
   ]

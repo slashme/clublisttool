@@ -2,1299 +2,1299 @@
   "type": "FeatureCollection", 
   "features": [
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           2.14795589447, 
           43.9273429169
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": "http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=330 , Chez Yves France Lanord , No regular meeting , Yves France-Lanord\r\nyves.france-lanord@orange.fr", 
-        "name": "Albi"
+        "name": "Albi", 
+        "description": "http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=330 , Chez Yves France Lanord , No regular meeting , Yves France-Lanord\r\nyves.france-lanord@orange.fr"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           2.3780216, 
           48.8500447
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.aligre.org/ , Le Troll Café 27 RUE DE COTTE, PARIS , le mardi à partir 18H", 
-        "name": "Aligre (Paris XIIe)"
+        "name": "Aligre (Paris XIIe)", 
+        "description": "http://www.aligre.org/ , Le Troll Café 27 RUE DE COTTE, PARIS , le mardi à partir 18H"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           6.1302911, 
           45.9204602
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://annecy.jeudego.org , Baptiste Chopin 4 RUE DES EDELWEISS 74000 ANNECY , Tous les vendredi, de 20h30 à 23h30.", 
-        "name": "Annecy"
+        "name": "Annecy", 
+        "description": "http://annecy.jeudego.org , Baptiste Chopin 4 RUE DES EDELWEISS 74000 ANNECY , Tous les vendredi, de 20h30 à 23h30."
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           2.300436, 
           48.7502414
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://antony.jeudego.org/ , 1 Place des Anciens Combattants dAfrique du Nord, 92160 Antony , Le jeudi de 19h30 à 23h, Le samedi de 14h à 17h", 
-        "name": "Antony"
+        "name": "Antony", 
+        "description": "http://antony.jeudego.org/ , 1 Place des Anciens Combattants dAfrique du Nord, 92160 Antony , Le jeudi de 19h30 à 23h, Le samedi de 14h à 17h"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           4.3867316, 
           44.6221146
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://club-go-aubenas.blogspot.de/ , Couleur Café 1 PLACE JACQUES ROURE 07200 AUBENAS , Tous les jeudi soirs de 20h30", 
-        "name": "Aubenas - Couleur GO"
+        "name": "Aubenas - Couleur GO", 
+        "description": "http://club-go-aubenas.blogspot.de/ , Couleur Café 1 PLACE JACQUES ROURE, AUBENAS , Tous les jeudi soirs de 20h30"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           2.2370825, 
           48.8276817
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://boulogne.jeudego.org/ , 17 ALLÉE ROBERT DOISNEAU 92100 BOULOGNE BILLANCOURT , Le vendredi de 20h à minuit", 
-        "name": "Boulogne-Billancourt"
+        "name": "Boulogne-Billancourt", 
+        "description": "http://boulogne.jeudego.org/ , 17 ALLÉE ROBERT DOISNEAU 92100 BOULOGNE BILLANCOURT , Le vendredi de 20h à minuit"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           -4.468688, 
           48.4041422
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://tenuki-brest.jeudego.org/ , MPT Pen ar Créac'h 17 rue Professeur Chrétien, 29200 Brest , le vendredi soir à partir de 20h", 
-        "name": "Brest - Tenuki"
+        "name": "Brest - Tenuki", 
+        "description": "http://tenuki-brest.jeudego.org/ , MPT Pen ar Créac'h 17 rue Professeur Chrétien, 29200 Brest , le vendredi soir à partir de 20h"
       }
     }, 
     {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          5.9253014, 
-          45.5669659
-        ]
-      }, 
       "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://chambery.jeudego.org , Chambéry Maison des Associations 67 RUE ST FRANÇOIS DE SALES , Le mercredi Après-midi de 15h30 à 18h00; Soirée de 18h30 à 22h00; Le samedi Après-midi de 15h à 18h30 en salle B212", 
-        "name": "CHAMBÉRY"
-      }
-    }, 
-    {
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           -0.3659699, 
           49.186748
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://caen.jeudego.org , Le Kitch café 100 Rue de Geôle, 14000 Caen , Le Mardi soir", 
-        "name": "Caen"
+        "name": "Caen", 
+        "description": "http://caen.jeudego.org , Le Kitch café 100 Rue de Geôle, 14000 Caen , Le Mardi soir"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           2.3330426, 
           48.7963426
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://cachan.jeudego.org , Cercle d Activités Culturelles Cachan, Maison Tilly 3 rue Raspail 94230 Cachan , Le Lundi de 19h45 à 21h pour les jeunes et l'initiation, et de 20h à 23h pour les adultes", 
-        "name": "Cercle de Go à la maison Tilly"
+        "name": "Cercle de Go à la maison Tilly", 
+        "description": "http://cachan.jeudego.org , Cercle d Activités Culturelles Cachan, Maison Tilly 3 rue Raspail 94230 Cachan , Le Lundi de 19h45 à 21h pour les jeunes et l'initiation, et de 20h à 23h pour les adultes"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           2.3635154, 
           48.868001
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://chambery.jeudego.org , Chambéry Bar Pause Café 215 Rue République , Le jeudi soir de 20h45-21h00", 
-        "name": "Chambéry"
+        "name": "Chambéry", 
+        "description": "http://chambery.jeudego.org , Chambéry Bar Pause Café 215 Rue République , Le jeudi soir de 20h45-21h00"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
-          -1.6740972, 
-          48.1063566
-        ]
+          5.9253014, 
+          45.5669659
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://rennes.jeudego.org/ , Bar L'Heure du Jeu 11 Bd Magenta, 35000 Rennes , Les lundis de 20h00 à 01H00", 
-        "name": "Club Rengo"
+        "name": "CHAMBÉRY", 
+        "description": "http://chambery.jeudego.org , Chambéry Maison des Associations 67 RUE ST FRANÇOIS DE SALES , Le mercredi Après-midi de 15h30 à 18h00; Soirée de 18h30 à 22h00; Le samedi Après-midi de 15h à 18h30 en salle B212"
       }
     }, 
     {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -1.6981817, 
-          48.1138233
-        ]
-      }, 
       "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://rennes.jeudego.org/ , Institut Confucius 17 rue de Brest, 35000 Rennes , Les samedis de 15h00 à 18h00", 
-        "name": "Club Rengo"
-      }
-    }, 
-    {
       "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          3.53513046779, 
-          44.3698055
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Bibliothèque municipale, 48320 Ispagnac , Le Mardi à 21h", 
-        "name": "Club d'Ispagnac"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -0.5714713, 
-          44.8365008
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.kitani.org , Café jeux Jeux Barjo 12 rue Saint-James, 33000 Bordeaux , Le Samedi à 14h30", 
-        "name": "Club de Bordeaux"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
         "coordinates": [
           -0.5693456, 
           44.8352719
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.kitani.org , La Zone du Dehors 68 cours Victor Hugo - Bordeaux environ à la ZDD , Le jeudi soir entre 18h00 et 22h00", 
-        "name": "Club de Bordeaux"
+        "name": "Club de Bordeaux", 
+        "description": "http://www.kitani.org , La Zone du Dehors 68 cours Victor Hugo - Bordeaux environ à la ZDD , Le jeudi soir entre 18h00 et 22h00"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
+        "coordinates": [
+          -0.5714713, 
+          44.8365008
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Club de Bordeaux", 
+        "description": "http://www.kitani.org , Café jeux Jeux Barjo 12 rue Saint-James, 33000 Bordeaux , Le Samedi à 14h30"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
         "coordinates": [
           4.5328337, 
           46.5261652
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.kitani.org , Le bistroquet 173, Cours de L'yser , Le mardi soir à partir de 20H00", 
-        "name": "Club de Bordeaux"
+        "name": "Club de Bordeaux", 
+        "description": "http://www.kitani.org , Le bistroquet 173, Cours de L'yser , Le mardi soir à partir de 20H00"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           3.0811813, 
           45.7786471
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://neversgo.jeudego.org/ , BAR LE MAYERLING 4 rue Saint-Dominique, CLERMONT-FERRAND , LES MARDI ET JEUDI DE 18H30 A MINUIT", 
-        "name": "Club de Clermont-Ferrand"
+        "name": "Club de Clermont-Ferrand", 
+        "description": "http://neversgo.jeudego.org/ , BAR LE MAYERLING 4 rue Saint-Dominique, CLERMONT-FERRAND , LES MARDI ET JEUDI DE 18H30 A MINUIT"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           3.1518447, 
           46.9875564
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://neversgo.jeudego.org/ , Centre Social VERT-PRE 1 rue de Vert-Pré, 58000 Nevers au Centre Social de Vert-Pré , Le Vendredi de 17h15 à 20h15 (et plus ...)", 
-        "name": "Club de Clermont-Ferrand"
+        "name": "Club de Clermont-Ferrand", 
+        "description": "http://neversgo.jeudego.org/ , Centre Social VERT-PRE 1 rue de Vert-Pré, 58000 Nevers au Centre Social de Vert-Pré , Le Vendredi de 17h15 à 20h15 (et plus ...)"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           2.2596328, 
           48.9314889
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.tumclasst.org/ , Association TUMCLASST 2 avenue Jean Jaurès, colombes au salon de thé - laverie Tout un monde , le second samedi du mois de 15h à 19h", 
-        "name": "Club de Colombes"
+        "name": "Club de Colombes", 
+        "description": "http://www.tumclasst.org/ , Association TUMCLASST 2 avenue Jean Jaurès, colombes au salon de thé - laverie Tout un monde , le second samedi du mois de 15h à 19h"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           -3.9129148, 
           47.8726195
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "Bar Le Cabestan Ville-Close Concarneau , Le Samedi à 14h30", 
-        "name": "Club de Concarneau"
+        "name": "Club de Concarneau", 
+        "description": "Bar Le Cabestan Ville-Close Concarneau , Le Samedi à 14h30"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           4.9447282, 
           43.9279198
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "Château de la chapelle, 2 ieme étage 84 Château neuf de Gadagne, Avignon , Le Mercredi de 16h30 à 22h", 
-        "name": "Club de Go d'Avignon"
+        "name": "Club de Go d'Avignon", 
+        "description": "Château de la chapelle, 2 ieme étage 84 Château neuf de Gadagne, Avignon , Le Mercredi de 16h30 à 22h"
       }
     }, 
     {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          1.9064219, 
-          47.8989265
-        ]
-      }, 
       "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://orleans.jeudego.org , Les Becs à Vin 8 place du Châtelet , Le mardi soir à partir de 20h30", 
-        "name": "Club de Go d'Orléans"
-      }
-    }, 
-    {
       "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          2.1898834, 
-          48.6988112
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://orsay.jeudego.org/ , Maison des Muses 7 bis Avenue Saint Laurent, Orsay , Mercredi à partir de 20h30", 
-        "name": "Club de Go d'Orsay"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -1.1485687, 
-          46.1568966
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.golarochelle.com/ , La grosse boîte 65 Rue Saint-Nicolas, 17000 LA ROCHELLE , chaque mardi à partir de 18h00, chaque jeudi à partir de 18H00, chaque samedi à partir de 14H00", 
-        "name": "Club de Go de La Rochelle"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          2.352208, 
-          48.8628573
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.go-paris.org/info.php , Café-Restaurant Le Djurdjura , Ouvert tous les jours de 16h.30 à la fermeture", 
-        "name": "Club de Go de Paris"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -3.3586441, 
-          47.7512076
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://goanoriant.org/ , Cité Allende 12 rue Colbert, 56100 Lorient , Le samedi de 14h à 18h", 
-        "name": "Club de Lorient"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -3.3835195, 
-          47.7603015
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://www.pubgalway-lorient.com/accueil.htm , Galway Inn 18 rue de Belgique, 56100 Lorient , Le mardi à partir de 20h", 
-        "name": "Club de Lorient"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -0.4994288, 
-          43.8892157
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://marsan.jeudego.org , Bar l'Aviator 2 place St Roch, 40000 Mont-de-Marsan , Le Jeudi à partir de 20h.", 
-        "name": "Club de Mont de Marsan"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          2.3524205, 
-          48.8474706
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://gojussieu.free.fr/ , Restaurant le Royal Jussieu 1 RUE DES ÉCOLES , Le Jeudi de 19h à 23h", 
-        "name": "Club de Paris - Jussieu"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          1.0803548, 
-          49.4279612
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://rouen.jeudego.org/ , Maison Saint-Sever Rue Saint-Julien, 76000 Rouen , Le Mardi de 20h00 à 24h; Le Samedi de 14H à 18H", 
-        "name": "Club de Rouen Maison Saint-Sever"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          4.3905008, 
-          45.4364026
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "Restaurant 'La Friterie' 9 Rue Georges Dupré, 42000 Saint Etienne , le Mercredi soir à partir de 20h", 
-        "name": "Club de Saint Étienne à 'La Friterie'"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          5.0056618, 
-          44.3863685
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://valreas.jeudego.org , Salle A4 Collège Vallis Aéria, Av. Jean Moulin, 84600 Valréas , mardi, vendredi : 13h - 14h", 
-        "name": "Club de Valreas Collège Vallis Aéria"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          4.9886692, 
-          44.3856017
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://valreas.jeudego.org , Maison des associations Cours Victor Hugo 84600 Valréas , le samedi de 14 à 18 heures", 
-        "name": "Club de Valreas salle Marius"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          2.1316077, 
-          48.8073696
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://versailles.jeudego.org , Bistro Franco Belge 3 rue de la Pourvoierie , Tous les mardis à partir de 20h00.", 
-        "name": "Club de Versailles"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
         "coordinates": [
           -1.4720451, 
           43.4897198
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://bayonne.jeudego.org , Café des Pyrénées 62 rue Pannecau, Bayonne. , Les Mardis à partir de 18h", 
-        "name": "Club de go de Bayonne"
+        "name": "Club de go de Bayonne", 
+        "description": "http://bayonne.jeudego.org , Café des Pyrénées 62 rue Pannecau, Bayonne. , Les Mardis à partir de 18h"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
+        "coordinates": [
+          -1.1485687, 
+          46.1568966
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Club de Go de La Rochelle", 
+        "description": "http://www.golarochelle.com/ , La grosse boîte 65 Rue Saint-Nicolas, 17000 LA ROCHELLE , chaque mardi à partir de 18h00, chaque jeudi à partir de 18H00, chaque samedi à partir de 14H00"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
+        "coordinates": [
+          2.352208, 
+          48.8628573
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Club de Go de Paris", 
+        "description": "http://www.go-paris.org/info.php , Café-Restaurant Le Djurdjura , Ouvert tous les jours de 16h.30 à la fermeture"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
+        "coordinates": [
+          1.9064219, 
+          47.8989265
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Club de Go d'Orléans", 
+        "description": "http://orleans.jeudego.org , Les Becs à Vin 8 place du Châtelet , Le mardi soir à partir de 20h30"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
+        "coordinates": [
+          2.1898834, 
+          48.6988112
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Club de Go d'Orsay", 
+        "description": "http://orsay.jeudego.org/ , Maison des Muses 7 bis Avenue Saint Laurent, Orsay , Mercredi à partir de 20h30"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
         "coordinates": [
           2.4334228, 
           48.8579954
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://montreuil-cgep.jeudego.org , Centre culturel Jean Lurçat place du marché, 93100 , Le Jeudi de 20h à 22h30, et le Samedi de 15h00 à 19h", 
-        "name": "Club de l'Est Parisien à Montreuil"
+        "name": "Club de l'Est Parisien à Montreuil", 
+        "description": "http://montreuil-cgep.jeudego.org , Centre culturel Jean Lurçat place du marché, 93100 , Le Jeudi de 20h à 22h30, et le Samedi de 15h00 à 19h"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
+        "coordinates": [
+          -3.3835195, 
+          47.7603015
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Club de Lorient", 
+        "description": "http://www.pubgalway-lorient.com/accueil.htm , Galway Inn 18 rue de Belgique, 56100 Lorient , Le mardi à partir de 20h"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
+        "coordinates": [
+          -3.3586441, 
+          47.7512076
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Club de Lorient", 
+        "description": "http://goanoriant.org/ , Cité Allende 12 rue Colbert, 56100 Lorient , Le samedi de 14h à 18h"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
         "coordinates": [
           2.3033547, 
           48.8372731
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://cop.jeudego.org/ , Local social du COP 43 rue La Quintinie - Paris-15e , Le samedi de 14h30 à 19h", 
-        "name": "Club de l'Ouest Parisien"
+        "name": "Club de l'Ouest Parisien", 
+        "description": "http://cop.jeudego.org/ , Local social du COP 43 rue La Quintinie - Paris-15e , Le samedi de 14h30 à 19h"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
+        "coordinates": [
+          -0.4994288, 
+          43.8892157
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Club de Mont de Marsan", 
+        "description": "http://marsan.jeudego.org , Bar l'Aviator 2 place St Roch, 40000 Mont-de-Marsan , Le Jeudi à partir de 20h."
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
+        "coordinates": [
+          2.3524205, 
+          48.8474706
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Club de Paris - Jussieu", 
+        "description": "http://gojussieu.free.fr/ , Restaurant le Royal Jussieu 1 RUE DES ÉCOLES , Le Jeudi de 19h à 23h"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
+        "coordinates": [
+          1.0803548, 
+          49.4279612
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Club de Rouen Maison Saint-Sever", 
+        "description": "http://rouen.jeudego.org/ , Maison Saint-Sever Rue Saint-Julien, 76000 Rouen , Le Mardi de 20h00 à 24h; Le Samedi de 14H à 18H"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
+        "coordinates": [
+          4.3905008, 
+          45.4364026
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Club de Saint Étienne à 'La Friterie'", 
+        "description": "Restaurant 'La Friterie' 9 Rue Georges Dupré, 42000 Saint Etienne , le Mercredi soir à partir de 20h"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
+        "coordinates": [
+          5.0056618, 
+          44.3863685
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Club de Valreas Collège Vallis Aéria", 
+        "description": "http://valreas.jeudego.org , Salle A4 Collège Vallis Aéria, Av. Jean Moulin, Valréas , mardi, vendredi : 13h - 14h"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
+        "coordinates": [
+          4.9886692, 
+          44.3856017
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Club de Valreas salle Marius", 
+        "description": "http://valreas.jeudego.org , Maison des associations Cours Victor Hugo, Valréas , le samedi de 14 à 18 heures"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
+        "coordinates": [
+          2.1316077, 
+          48.8073696
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Club de Versailles", 
+        "description": "http://versailles.jeudego.org , Bistro Franco Belge 3 rue de la Pourvoierie , Tous les mardis à partir de 20h00."
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
+        "coordinates": [
+          3.53513046779, 
+          44.3698055
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Club d'Ispagnac", 
+        "description": "Bibliothèque municipale, Ispagnac , Le Mardi à 21h"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
         "coordinates": [
           0.0941029, 
           49.497372
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://clubdegohavrais.wordpress.com , S A M St Vincent Rue Guillemard, Le Havre , Le lundi de 18h à 20h30", 
-        "name": "Club du Havre"
+        "name": "Club du Havre", 
+        "description": "http://clubdegohavrais.wordpress.com , S A M St Vincent Rue Guillemard, Le Havre , Le lundi de 18h à 20h30"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
-          2.9981239, 
-          43.1855496
-        ]
+          -1.6740972, 
+          48.1063566
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.gonarbonne.fr , Assoc'épicée 2 quai de lorraine, 11100 NARBONNE , Tous les samedis de 14h à 17", 
-        "name": "GO Narbonne"
+        "name": "Club Rengo", 
+        "description": "http://rennes.jeudego.org/ , Bar L'Heure du Jeu 11 Bd Magenta, 35000 Rennes , Les lundis de 20h00 à 01H00"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
+        "coordinates": [
+          -1.6981817, 
+          48.1138233
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Club Rengo", 
+        "description": "http://rennes.jeudego.org/ , Institut Confucius 17 rue de Brest, 35000 Rennes , Les samedis de 15h00 à 18h00"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
+        "coordinates": [
+          1.1572835, 
+          49.0376167
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Évreux A l'Eure du go", 
+        "description": "2 Avenue Aristide Briand 27000 Evreux , Samedi soir à partir de 17H , Jessica Souchay aleuredugo@yahoo.fr"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
         "coordinates": [
           -3.4580295, 
           48.736696
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.lesvalseuses.net/ , Bar \"Les Valseuses\" 1 rue de la Coudraie, 22300 LANNION , les JEUDI soirs, A partir de 20h30, Il est prudent de lancer un appel sur la liste avant de venir (surtout en période de vacances scolaires).", 
-        "name": "Go&Lan: Club de Go du Trégor"
+        "name": "Go&Lan: Club de Go du Trégor", 
+        "description": "http://www.lesvalseuses.net/ , Bar \"Les Valseuses\" 1 rue de la Coudraie, 22300 LANNION , les JEUDI soirs, A partir de 20h30, Il est prudent de lancer un appel sur la liste avant de venir (surtout en période de vacances scolaires)."
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
+        "coordinates": [
+          2.9981239, 
+          43.1855496
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "GO Narbonne", 
+        "description": "http://www.gonarbonne.fr , Assoc'épicée 2 quai de lorraine, NARBONNE , Tous les samedis de 14h à 17"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
         "coordinates": [
           5.71819943595, 
           45.1920943
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://grenoble.jeudego.org/ , ADAJE 8 rue Aristide Bergès , Samedi De 14h à 18h", 
-        "name": "Grenoble"
+        "name": "Grenoble", 
+        "description": "http://grenoble.jeudego.org/ , ADAJE 8 rue Aristide Bergès , Samedi De 14h à 18h"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           5.7247061, 
           45.1857722
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://grenoble.jeudego.org/la-natation/ , Bar LA NATATION 32 Boulevard Gambetta, Grenoble , Tournois de Blitz tous les premiers lundi du mois", 
-        "name": "Grenoble Bar LA NATATION"
+        "name": "Grenoble Bar LA NATATION", 
+        "description": "http://grenoble.jeudego.org/la-natation/ , Bar LA NATATION 32 Boulevard Gambetta, Grenoble , Tournois de Blitz tous les premiers lundi du mois"
       }
     }, 
     {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          5.71834732264, 
-          45.1894479
-        ]
-      }, 
       "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://grenoble.jeudego.org/pav-san/ , Restaurant le PAV SAN 43 Avenue Alsace Lorraine, Grenoble , Mercredi A partir de 20h30", 
-        "name": "Grenoble PAV SAN"
-      }
-    }, 
-    {
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           5.7338798, 
           45.1947015
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://grenoble.jeudego.org/informations-horaires/club-scolaire-et-ecole-de-go/ , L’école BIZANET 53 Avenue Maréchal Randon , Mercredi de 14h00 à 16h00", 
-        "name": "Grenoble l’école BIZANET"
+        "name": "Grenoble l’école BIZANET", 
+        "description": "http://grenoble.jeudego.org/informations-horaires/club-scolaire-et-ecole-de-go/ , L’école BIZANET 53 Avenue Maréchal Randon , Mercredi de 14h00 à 16h00"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
+        "coordinates": [
+          5.71834732264, 
+          45.1894479
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Grenoble PAV SAN", 
+        "description": "http://grenoble.jeudego.org/pav-san/ , Restaurant le PAV SAN 43 Avenue Alsace Lorraine, Grenoble , Mercredi A partir de 20h30"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
         "coordinates": [
           3.083602, 
           45.7808856
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://graug.jeudego.org/ , Café-Lecture Les Augustes 5 rue sous les Augustins, 63000 Clermont-Ferrand , Le Lundi à partir de 19h", 
-        "name": "Groupe Auvergnat de Go"
+        "name": "Groupe Auvergnat de Go", 
+        "description": "http://graug.jeudego.org/ , Café-Lecture Les Augustes 5 rue sous les Augustins, 63000 Clermont-Ferrand , Le Lundi à partir de 19h"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           -52.3317557, 
           4.9434517
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://gocayenne.blogspot.com/ , Place des Amandiers pl Auguste Horth, CAYENNE , Les samedi entre 10 heures et 12 heures", 
-        "name": "Guyane"
+        "name": "Guyane", 
+        "description": "http://gocayenne.blogspot.com/ , Place des Amandiers pl Auguste Horth, CAYENNE , Les samedi entre 10 heures et 12 heures"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           -0.54789708114, 
           47.47355415
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://lagedepierre.over-blog.com/ , Café le Welsh place Imbach, Angers , Le Samedi de 17h à 20h", 
-        "name": "L'âge de pierre"
+        "name": "L'âge de pierre", 
+        "description": "http://lagedepierre.over-blog.com/ , Café le Welsh place Imbach, Angers , Le Samedi de 17h à 20h"
       }
     }, 
     {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          2.030759, 
-          49.035042
-        ]
-      }, 
       "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://vaurealgo.jeudego.org , à la Maison Vallerand , Tous les lundis de 21h à 2h; tous les vendredis partir de 20h à 2h", 
-        "name": "Le Club de Vauréal"
-      }
-    }, 
-    {
       "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          0.1899502, 
-          48.0076934
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://lemansgo.over-blog.fr , 16 rue du Chêne vert, 72000 LE MANS , Le mercredi soir à partir de 20H30", 
-        "name": "Le Mans Go"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
         "coordinates": [
           5.4449388, 
           43.5276886
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.aixetgo.fr/ , Au Goût Du Monde 38 rue des Bernardines, Aix-En-Provence , Le samedi à partir de 15h30", 
-        "name": "Le club de Go provençal"
+        "name": "Le club de Go provençal", 
+        "description": "http://www.aixetgo.fr/ , Au Goût Du Monde 38 rue des Bernardines, Aix-En-Provence , Le samedi à partir de 15h30"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           5.4546846, 
           43.5285548
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.aixetgo.fr/ , Ecole de Go café culturel et citoyen 23 Boulevard Carnot Aix-En-Provence , 2 samedis par mois de 10h00 à 11h30", 
-        "name": "Le club de Go provençal"
+        "name": "Le club de Go provençal", 
+        "description": "http://www.aixetgo.fr/ , Ecole de Go café culturel et citoyen 23 Boulevard Carnot Aix-En-Provence , 2 samedis par mois de 10h00 à 11h30"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
+        "coordinates": [
+          2.030759, 
+          49.035042
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Le Club de Vauréal", 
+        "description": "http://vaurealgo.jeudego.org , à la Maison Vallerand , Tous les lundis de 21h à 2h; tous les vendredis partir de 20h à 2h"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
+        "coordinates": [
+          0.1899502, 
+          48.0076934
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Le Mans Go", 
+        "description": "http://lemansgo.over-blog.fr , 16 rue du Chêne vert, 72000 LE MANS , Le mercredi soir à partir de 20H30"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
         "coordinates": [
           2.2922588, 
           48.8953403
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://levallois.jeudego.org/ , .  Maison des Associations 34 rue Pierre Brossolette 92300 Levallois-Perret , Samedi de 14h à 17h.  Jeudi à partir de 20h30. Pour savoir si le club est ouvert un jeudi, contacter Rémy NOËL.", 
-        "name": "Levallois-Perret"
+        "name": "Levallois-Perret", 
+        "description": "http://levallois.jeudego.org/ , .  Maison des Associations 34 rue Pierre Brossolette 92300 Levallois-Perret , Samedi de 14h à 17h.  Jeudi à partir de 20h30. Pour savoir si le club est ouvert un jeudi, contacter Rémy NOËL."
       }
     }, 
     {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          4.8629475, 
-          45.7691648
-        ]
-      }, 
       "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://lyon-shinogi.jeudego.org/ , Espace Lyon-Japon 16 Rue Bellecombe Lyon 6e , Jeudi 17h - 19h", 
-        "name": "Lyon Shinogi"
-      }
-    }, 
-    {
       "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          4.8364512, 
-          45.7657527
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://lyon-shinogi.jeudego.org/ , Restaurant Hua Yuan Xuan 20 rue Mulet, Lyon , 1er Lundi 19h - 22h30", 
-        "name": "Lyon Shinogi"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
         "coordinates": [
           4.8473375, 
           45.7570833
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://lyon-shinogi.jeudego.org/ , Salle associative 233 rue Vendôme Lyon 3e , Samedi 14h - 19h", 
-        "name": "Lyon Shinogi"
+        "name": "Lyon Shinogi", 
+        "description": "http://lyon-shinogi.jeudego.org/ , Salle associative 233 rue Vendôme Lyon 3e , Samedi 14h - 19h"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
-          4.84443302936088, 
-          45.7525022568637
-        ]
+          4.8629475, 
+          45.7691648
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://lyon-shinogi.jeudego.org/ , Trollune 25 rue Sébastien Gryphe, 69007 LYON , Mardi 18:30 - 23:00", 
-        "name": "Lyon Shinogi"
+        "name": "Lyon Shinogi", 
+        "description": "http://lyon-shinogi.jeudego.org/ , Espace Lyon-Japon 16 Rue Bellecombe Lyon 6e , Jeudi 17h - 19h"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
+        "coordinates": [
+          4.8364512, 
+          45.7657527
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Lyon Shinogi", 
+        "description": "http://lyon-shinogi.jeudego.org/ , Restaurant Hua Yuan Xuan 20 rue Mulet, Lyon , 1er Lundi 19h - 22h30"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
+        "coordinates": [
+          4.84443302936, 
+          45.7525022569
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Lyon Shinogi", 
+        "description": "http://lyon-shinogi.jeudego.org/ , Trollune 25 rue Sébastien Gryphe, 69007 LYON , Mardi 18:30 - 23:00"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
         "coordinates": [
           6.1221154, 
           45.8953459
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://annecy.jeudego.org/ , GYMNASE DES BALMETTES 12 AV LUCIEN BOSCHETTI 74000 ANNECY , Le vendredi à partir de 20h30", 
-        "name": "MJC ARCHIPEL SUD"
+        "name": "MJC ARCHIPEL SUD", 
+        "description": "http://annecy.jeudego.org/ , GYMNASE DES BALMETTES 12 AV LUCIEN BOSCHETTI, ANNECY , Le vendredi à partir de 20h30"
       }
     }, 
     {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          1.5580515, 
-          43.5152281
-        ]
-      }, 
       "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://nantes.jeudego.org/ , Café du commerce 9 pl Commerce , Les Lundi et Mercredi à partir de 18H", 
-        "name": "Nantes"
-      }
-    }, 
-    {
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           -1.5498472, 
           47.2062504
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://nantes.jeudego.org/ , Maison des jeux 14 rue Michel Rocher, Nantes , Le samedi après-midi de 14 heures à 19 heures", 
-        "name": "Nantes"
+        "name": "Nantes", 
+        "description": "http://nantes.jeudego.org/ , Maison des jeux 14 rue Michel Rocher, Nantes , Le samedi après-midi de 14 heures à 19 heures"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
+        "coordinates": [
+          1.5580515, 
+          43.5152281
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Nantes", 
+        "description": "http://nantes.jeudego.org/ , Café du commerce 9 pl Commerce , Les Lundi et Mercredi à partir de 18H"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
         "coordinates": [
           -1.5355901, 
           47.2217991
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://nantes.jeudego.org/ , 75 rue d’Allonville, Nantes , les mardi à partir de 18h30", 
-        "name": "Nantes AJFJ"
+        "name": "Nantes AJFJ", 
+        "description": "http://nantes.jeudego.org/ , 75 rue d’Allonville, Nantes , les mardi à partir de 18h30"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           2.3467261, 
           48.8324688
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.goclub-observatoire.com/ , L'Observatoire Au café Le Monaco 2 rue Vulpian, Paris , Permanences le mercredi de 19h à 23h", 
-        "name": "Paris - Observatoire"
+        "name": "Paris - Observatoire", 
+        "description": "http://www.goclub-observatoire.com/ , L'Observatoire Au café Le Monaco 2 rue Vulpian, Paris , Permanences le mercredi de 19h à 23h"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           2.5571053, 
           48.2573474
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://gorail.wix.com/club-go-rail , Club d'entreprise de la SNCF 9 rue de Chateau-Landon , les mercredis de 12h30 à 13h45", 
-        "name": "Paris SNCF"
+        "name": "Paris SNCF", 
+        "description": "http://gorail.wix.com/club-go-rail , Club d'entreprise de la SNCF 9 rue de Chateau-Landon , les mercredis de 12h30 à 13h45"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           2.3939591, 
           48.8717808
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
         "_storage_options": {
           "iconClass": "Circle"
         }, 
-        "description": "http://victoire.b.free.fr/Paris20/index.html , Bar «Les Trois-Arts» 21 rue des Rigoles 75020 Paris , Le club ne se réunit plus, mais des jeux sont à votre disposotion, demander au bar", 
-        "name": "Paris XX Club Pierre Desproges et Dolly Parton"
+        "name": "Paris XX Club Pierre Desproges et Dolly Parton", 
+        "description": "http://victoire.b.free.fr/Paris20/index.html , Bar «Les Trois-Arts» 21 rue des Rigoles 75020 Paris , Le club ne se réunit plus, mais des jeux sont à votre disposotion, demander au bar"
       }
     }, 
     {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          -0.3741493, 
-          43.2973105
-        ]
-      }, 
       "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://pau.jeudego.org , Librairie-Bar l%27Entropie Rue Bernadotte, 64000 Pau , En semaine", 
-        "name": "Pau"
-      }
-    }, 
-    {
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           -0.5710535, 
           43.4955325
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://pau.jeudego.org , MJC du Lau 81 avenue Loup, Pau , Le Samedi de 14h30 à 18h", 
-        "name": "Pau"
+        "name": "Pau", 
+        "description": "http://pau.jeudego.org , MJC du Lau 81 avenue Loup, Pau , Le Samedi de 14h30 à 18h"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
+        "coordinates": [
+          -0.3741493, 
+          43.2973105
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Pau", 
+        "description": "http://pau.jeudego.org , Librairie-Bar l%27Entropie Rue Bernadotte, 64000 Pau , En semaine"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
         "coordinates": [
           0.3444278, 
           46.5828369
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://poitiers.jeudego.org/ , Au Café des Arts, 5 Place Charles de Gaulle, Poitiers , tous les mardis à 21h00", 
-        "name": "Poitou"
+        "name": "Poitou", 
+        "description": "http://poitiers.jeudego.org/ , Au Café des Arts, 5 Place Charles de Gaulle, Poitiers , tous les mardis à 21h00"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           4.0223333, 
           49.2511862
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://www.kilberry.fr/ , Bar le kilberry 182 rue de Vesle, 51100 Reims , Tous les mardi à partir de 19h", 
-        "name": "Reims No Dan"
+        "name": "Reims No Dan", 
+        "description": "http://www.kilberry.fr/ , Bar le kilberry 182 rue de Vesle, Reims , Tous les mardi à partir de 19h"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           1.67535031022, 
           46.8123575
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://rennes.jeudego.org/ , Diapason campus de Beaulieu , Les Jeudis entre 12h et 14h", 
-        "name": "Rennes Club Rengo"
+        "name": "Rennes Club Rengo", 
+        "description": "http://rennes.jeudego.org/ , Diapason campus de Beaulieu , Les Jeudis entre 12h et 14h"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           55.4521915, 
           -20.8737803
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "Ancienne gare routière de Saint-Denis, sur le front de mer rue neuve, saint-denis, reunion , Tous les mardis à 18h00. Prévenez à l'avance par courriel , clubdego974gmail.com", 
-        "name": "Saint-Denis Récréateurs"
+        "name": "Saint-Denis Récréateurs", 
+        "description": "Ancienne gare routière de Saint-Denis, sur le front de mer rue neuve, saint-denis, reunion , Tous les mardis à 18h00. Prévenez à l'avance par courriel , clubdego974gmail.com"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           55.4776174, 
           -21.3412979
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "Saint-Pierre, lieu variable , Tous les mercredis soir", 
-        "name": "Saint-Pierre"
+        "name": "Saint-Pierre", 
+        "description": "Saint-Pierre, lieu variable , Tous les mercredis soir"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           5.9294251, 
           43.1247016
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://toulon.jeudego.org/ , Restaurant «Le Richardi» 25 Rue de la Comédie, 83000 Toulon , les Jeudi de 17h30 à 22h00", 
-        "name": "Toulon - Variation Go Club"
+        "name": "Toulon - Variation Go Club", 
+        "description": "http://toulon.jeudego.org/ , Restaurant «Le Richardi» 25 Rue de la Comédie, 83000 Toulon , les Jeudi de 17h30 à 22h00"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           1.3638494, 
           43.6114244
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://toulouse.jeudego.org/ , C.E. Airbus, Toulouse , Les Mardi et Jeudi de 12h15 à 14h", 
-        "name": "Toulouse - Club Go Seigen"
+        "name": "Toulouse - Club Go Seigen", 
+        "description": "http://toulouse.jeudego.org/ , C.E. Airbus, Toulouse , Les Mardi et Jeudi de 12h15 à 14h"
       }
     }, 
     {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          1.36200135474, 
-          43.60290985
-        ]
-      }, 
       "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://toulouse.jeudego.org/ , C.E. C.S. Europarc à St martin du touch , tous les jeudi de 12h15 à 14h", 
-        "name": "Toulouse - Club Go Seigen"
-      }
-    }, 
-    {
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           1.3834067, 
           43.5641396
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://toulouse.jeudego.org/ , C.E. Thales 105 av. du Général Eisenhower, 31100 Toulouse , Le Mardi de 12h30 à 14h", 
-        "name": "Toulouse - Club Go Seigen"
+        "name": "Toulouse - Club Go Seigen", 
+        "description": "http://toulouse.jeudego.org/ , C.E. Thales 105 av. du Général Eisenhower, 31100 Toulouse , Le Mardi de 12h30 à 14h"
       }
     }, 
     {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          1.5013216, 
-          43.6041831
-        ]
-      }, 
       "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://toulouse.jeudego.org/ , Ecole de GO 63 Rue Antoine de Saint-Exupéry, Toulouse , Les vendredi soir de 18h à 20h", 
-        "name": "Toulouse - Club Go Seigen"
-      }
-    }, 
-    {
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           1.4370899, 
           43.610843
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://toulouse.jeudego.org/ , Le Cactus 13 boulevard Lascrosses, 31000 Toulouse , Le Mercredi soir de 19h à 23h", 
-        "name": "Toulouse - Club Go Seigen"
+        "name": "Toulouse - Club Go Seigen", 
+        "description": "http://toulouse.jeudego.org/ , Le Cactus 13 boulevard Lascrosses, 31000 Toulouse , Le Mercredi soir de 19h à 23h"
       }
     }, 
     {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          1.4940079, 
-          43.5811093
-        ]
-      }, 
       "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://toulouse.jeudego.org/ , Salle Omega, bâtiment B, C.S.  Rue Brindejonc des Moulinais, 31500 Toulouse , Tous les mercredi de 12h15 à 14h", 
-        "name": "Toulouse - Club Go Seigen"
-      }
-    }, 
-    {
       "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          1.34, 
-          43.4411
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "http://toulouse.jeudego.org/ , Section Muret Restaurant L’Arche 21 route d’Eaunes, 31600 MURET , Le lundi après-midi Le samedi après-midi Horaires d’hiver : Du lundi au mercredi : de 9h00 à 19h00 sans interruption Du jeudi au samedi : de 9h00 à 23h00 sans interruption", 
-        "name": "Toulouse - Club Go Seigen"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
         "coordinates": [
           1.2797737, 
           43.6183104
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://toulouse.jeudego.org/ , Section Pibrac salle du 3ème âge Boulevard des Écoles, Pibrac , les lundis soir à partir de 21h", 
-        "name": "Toulouse - Club Go Seigen"
+        "name": "Toulouse - Club Go Seigen", 
+        "description": "http://toulouse.jeudego.org/ , Section Pibrac salle du 3ème âge Boulevard des Écoles, Pibrac , les lundis soir à partir de 21h"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
+        "coordinates": [
+          1.4940079, 
+          43.5811093
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Toulouse - Club Go Seigen", 
+        "description": "http://toulouse.jeudego.org/ , Salle Omega, bâtiment B, C.S.  Rue Brindejonc des Moulinais, 31500 Toulouse , Tous les mercredi de 12h15 à 14h"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
+        "coordinates": [
+          1.36200135474, 
+          43.60290985
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Toulouse - Club Go Seigen", 
+        "description": "http://toulouse.jeudego.org/ , C.E. C.S. Europarc à St martin du touch , tous les jeudi de 12h15 à 14h"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
+        "coordinates": [
+          1.5013216, 
+          43.6041831
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Toulouse - Club Go Seigen", 
+        "description": "http://toulouse.jeudego.org/ , Ecole de GO 63 Rue Antoine de Saint-Exupéry, Toulouse , Les vendredi soir de 18h à 20h"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
+        "coordinates": [
+          1.34, 
+          43.4411
+        ], 
+        "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Toulouse - Club Go Seigen", 
+        "description": "http://toulouse.jeudego.org/ , Section Muret Restaurant L’Arche 21 route d’Eaunes, 31600 MURET , Le lundi après-midi Le samedi après-midi Horaires d’hiver : Du lundi au mercredi : de 9h00 à 19h00 sans interruption Du jeudi au samedi : de 9h00 à 23h00 sans interruption"
+      }
+    }, 
+    {
+      "layer": "FR", 
+      "geometry": {
         "coordinates": [
           1.488117, 
           43.6128169
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://fr.groups.yahoo.com/group/section_go_balma/ , salle COMPAS 4 rue des Jardins, Balma , les jeudis soirs de 20h30 à 23h Et tous les deuxième et 4ème samedi de chaque mois", 
-        "name": "Toulouse - Club Go Seigen Section Balma"
+        "name": "Toulouse - Club Go Seigen Section Balma", 
+        "description": "http://fr.groups.yahoo.com/group/section_go_balma/ , salle COMPAS 4 rue des Jardins, Balma , les jeudis soirs de 20h30 à 23h Et tous les deuxième et 4ème samedi de chaque mois"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           1.29667416574, 
           43.826081
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://toulouse.jeudego.org/ , Ludothèque de Grisolles 11 rue de la Campadou, 82170 Grisolles , Les 2nd et 4ème jeudis du mois à 21h", 
-        "name": "Toulouse - Club Go Seigen Section Grisolles"
+        "name": "Toulouse - Club Go Seigen Section Grisolles", 
+        "description": "http://toulouse.jeudego.org/ , Ludothèque de Grisolles 11 rue de la Campadou, 82170 Grisolles , Les 2nd et 4ème jeudis du mois à 21h"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           1.012608, 
           47.4134641
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://touraine.jeudego.org/ , Amboise, hotel Ibis Chemin du Roy, 37400 Amboise , Le vendredi", 
-        "name": "Touraine"
+        "name": "Touraine", 
+        "description": "http://touraine.jeudego.org/ , Amboise, hotel Ibis Chemin du Roy, 37400 Amboise , Le vendredi"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           0.688085440743, 
           47.3954867
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://touraine.jeudego.org/ , Bar-restaurant les Blancs-Manteaux 27 rue Colbert, Tours , Le jeudi", 
-        "name": "Touraine"
+        "name": "Touraine", 
+        "description": "http://touraine.jeudego.org/ , Bar-restaurant les Blancs-Manteaux 27 rue Colbert, Tours , Le jeudi"
       }
     }, 
     {
+      "layer": "FR", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           4.9100484, 
           44.9236125
-        ]
+        ], 
+        "type": "Point"
       }, 
-      "layer": "FR", 
       "type": "Feature", 
       "properties": {
-        "description": "http://goniroku.skyrock.com/ , MJC GRAND CHARRAN 61 AVENUE DU GRAND CHARRAN 26000 VALENCE , Tous les Mercredi à partir de 18h30", 
-        "name": "Valence - GONIROKU GONIROKU"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
-          1.1572835, 
-          49.0376167
-        ]
-      }, 
-      "layer": "FR", 
-      "type": "Feature", 
-      "properties": {
-        "description": "2 Avenue Aristide Briand 27000 Evreux , Samedi soir à partir de 17H , Jessica Souchay aleuredugo@yahoo.fr", 
-        "name": "Évreux A l'Eure du go"
+        "name": "Valence - GONIROKU GONIROKU", 
+        "description": "http://goniroku.skyrock.com/ , MJC GRAND CHARRAN 61 AVENUE DU GRAND CHARRAN, VALENCE , Tous les Mercredi à partir de 18h30"
       }
     }
   ]
