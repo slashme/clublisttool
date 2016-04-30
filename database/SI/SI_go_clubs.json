@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "properties": {
+        "name": "Go delavnica za začetnike", 
+        "description": "http://www.mkk.si/2016/05/03/igra-go-65/ , Mestna knjižnica Kranj, Gregorčičeva ulica 1, Kranj , vsak torek od 18. do 20. ure , kranj@go-zveza.si , edit: https://goclubdb.herokuapp.com/club/99/"
+      }, 
+      "layer": "SI", 
+      "type": "Feature", 
+      "geometry": {
+        "coordinates": [
+          14.3566843, 
+          46.2416906
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Go društvo Kranj", 
+        "description": "http://www.go-zveza.si/za-igralce/go-v-sloveniji , Bar Mitnica,Tavčarjeva 35, Kranj , vsak torek od 20. ure dalje , kranj@go-zveza.si , edit: https://goclubdb.herokuapp.com/club/98/"
+      }, 
+      "layer": "SI", 
+      "type": "Feature", 
+      "geometry": {
+        "coordinates": [
+          14.3563471, 
+          46.2391151
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Go društvo Ljubljana", 
+        "description": "http://www.go-zveza.si/za-igralce/go-v-sloveniji , caffe Delfin, Hacquetova ulica 6, Ljubljana , vsak drugi četrtek od 20. ure dalje , ljubljana@go-zveza.si , edit: https://goclubdb.herokuapp.com/club/100/"
+      }, 
+      "layer": "SI", 
+      "type": "Feature", 
+      "geometry": {
+        "coordinates": [
+          14.5154516, 
+          46.0603983
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Go društvo Maribor", 
+        "description": "http://www.go-zveza.si/za-igralce/go-v-sloveniji , Zlati lev, Vodnikov trg, Maribor , vsak torek od 20. ure dalje , maribor@go-zveza.si , edit: https://goclubdb.herokuapp.com/club/101/"
+      }, 
+      "layer": "SI", 
+      "type": "Feature", 
+      "geometry": {
+        "coordinates": [
+          15.6409197, 
+          46.5580571
+        ], 
+        "type": "Point"
+      }
+    }
+  ], 
+  "type": "FeatureCollection"
+}
