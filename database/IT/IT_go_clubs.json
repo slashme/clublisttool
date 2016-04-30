@@ -1,1133 +1,1133 @@
 {
-  "type": "FeatureCollection", 
   "features": [
     {
+      "properties": {
+        "name": "Aji Go Club", 
+        "description": "Viale Cavour, 85, 44121 Ferrara FE, Italia presso la Birreria Main street , giovedì sera alle 21:15 (In ogni caso, meglio chiamare per verificare che quel giorno non ci sia qualche intoppo) , Paolo Giampetruzzi aji.goclub@gmail.com Cell: +39 3289342753 Kgs: Doc / Damiano Pennini md.carbone@libero.it Kgs: HPN , edit: https://goclubdb.herokuapp.com/club/1023/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           11.61266, 
           44.84128
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Aji Go Club", 
-        "description": "Viale Cavour, 85, 44121 Ferrara FE, Italia presso la Birreria Main street , giovedì sera alle 21:15 (In ogni caso, meglio chiamare per verificare che quel giorno non ci sia qualche intoppo) , Paolo Giampetruzzi aji.goclub@gmail.com Cell: +39 3289342753 Kgs: Doc / Damiano Pennini md.carbone@libero.it Kgs: HPN"
       }
     }, 
     {
+      "properties": {
+        "name": "ALESSANDRIA", 
+        "description": "Moreno Mantoan qboxx@libero.it , edit: https://goclubdb.herokuapp.com/club/986/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           8.64645, 
           44.91686
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "ALESSANDRIA", 
-        "description": "Moreno Mantoan qboxx@libero.it"
       }
     }, 
     {
+      "properties": {
+        "name": "\"ARGO\" Club", 
+        "description": "Corso Vannucci, 99 presso il bar \"Blitz\" , Giovedì dalle 19:00 , Alessandro Salpietro a.salpietro@yahoo.it Cell: 333 4037308 Marco Baldoncini marcobaldoncini@libero.it Cell: 333 7339778 , edit: https://goclubdb.herokuapp.com/club/1040/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           12.38811, 
           43.1096
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "\"ARGO\" Club", 
-        "description": "Corso Vannucci, 99 presso il bar \"Blitz\" , Giovedì dalle 19:00 , Alessandro Salpietro a.salpietro@yahoo.it Cell: 333 4037308 Marco Baldoncini marcobaldoncini@libero.it Cell: 333 7339778"
       }
     }, 
     {
+      "properties": {
+        "name": "AVELLINO", 
+        "description": "Gaia Malagoli : gaia.malagoli@gmail.com Cell. : 329 1187140 Kgs : Gaiachan , edit: https://goclubdb.herokuapp.com/club/1051/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           14.78957, 
           40.91298
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "AVELLINO", 
-        "description": "Gaia Malagoli : gaia.malagoli@gmail.com Cell. : 329 1187140 Kgs : Gaiachan"
       }
     }, 
     {
+      "properties": {
+        "name": "BERGAMO", 
+        "description": "Piazza Brembana , Saverio Castelli Kgs: blackauron , edit: https://goclubdb.herokuapp.com/club/997/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           9.66653, 
           45.69342
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "BERGAMO", 
-        "description": "Piazza Brembana , Saverio Castelli Kgs: blackauron"
       }
     }, 
     {
+      "properties": {
+        "name": "Biturgo", 
+        "description": "Nicola Torrioli Cell: 333 8749827 Ricardo Mancini Cell: 338 6400458 , edit: https://goclubdb.herokuapp.com/club/1038/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           12.12992, 
           43.59035
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "Biturgo", 
-        "description": "Nicola Torrioli Cell: 333 8749827 Ricardo Mancini Cell: 338 6400458"
       }
     }, 
     {
+      "properties": {
+        "name": "Bologna Go Club", 
+        "description": "presso il Bar \"L'Ortica\" , Lunedì dalle 21:00 , Cesare Sassoli: Cell: 338 7066454 Kgs: , edit: https://goclubdb.herokuapp.com/club/1021/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           11.3496, 
           44.49886
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Bologna Go Club", 
-        "description": "presso il Bar \"L'Ortica\" , Lunedì dalle 21:00 , Cesare Sassoli: Cell: 338 7066454 Kgs:"
       }
     }, 
     {
+      "properties": {
+        "name": "\"Brixia Go Weiki Baduk Club\"", 
+        "description": " http://go.xplab.net https://www.facebook.com/groups/147136504167/ , Via Cappellini, 4 presso la \"Aikido Club Brescia\" , Claudiu Melenco , edit: https://goclubdb.herokuapp.com/club/994/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           10.23306, 
           45.51884
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "\"Brixia Go Weiki Baduk Club\"", 
-        "description": " http://go.xplab.net https://www.facebook.com/groups/147136504167/ , Via Cappellini, 4 presso la \"Aikido Club Brescia\" , Claudiu Melenco"
       }
     }, 
     {
+      "properties": {
+        "name": "CAGLIARI", 
+        "description": "Alessandro Melis : gaudio-go@libero.it Kgs : gaudio Salvatore Sardo : lagunaffviii@hotmail.it , edit: https://goclubdb.herokuapp.com/club/1054/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           9.09409, 
           39.22042
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "CAGLIARI", 
-        "description": "Alessandro Melis : gaudio-go@libero.it Kgs : gaudio Salvatore Sardo : lagunaffviii@hotmail.it"
       }
     }, 
     {
+      "properties": {
+        "name": "CATANIA", 
+        "description": "Davide Carlesi : moscarpone@gmail.com Cell. : 340 6947793 Kgs : Gatsu55 , edit: https://goclubdb.herokuapp.com/club/1053/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           15.03088, 
           37.46042
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "CATANIA", 
-        "description": "Davide Carlesi : moscarpone@gmail.com Cell. : 340 6947793 Kgs : Gatsu55"
       }
     }, 
     {
+      "properties": {
+        "name": "CUNEO", 
+        "description": "Andrea Partiti Kgs: kaiou , edit: https://goclubdb.herokuapp.com/club/987/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           7.5586, 
           44.41964
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "CUNEO", 
-        "description": "Andrea Partiti Kgs: kaiou"
       }
     }, 
     {
+      "properties": {
+        "name": "Firenze Go Club", 
+        "description": "Presso la palestra Yanagi in via san Zanobi 57 , il Martedì dalle 21:30 in poi , goclubfirenze@gmail.com Alberto Zingoni Cell: +39 338 506 1760 , edit: https://goclubdb.herokuapp.com/club/1032/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           11.2559, 
           43.77987
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Firenze Go Club", 
-        "description": "Presso la palestra Yanagi in via san Zanobi 57 , il Martedì dalle 21:30 in poi , goclubfirenze@gmail.com Alberto Zingoni Cell: +39 338 506 1760"
       }
     }, 
     {
+      "properties": {
+        "name": "FORMIA", 
+        "description": "Enrico Greco: 7valis7@gmail.com Cell. : 328 5686736 , edit: https://goclubdb.herokuapp.com/club/1045/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           13.62981, 
           41.29084
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "FORMIA", 
-        "description": "Enrico Greco: 7valis7@gmail.com Cell. : 328 5686736"
       }
     }, 
     {
+      "properties": {
+        "name": "Frascati Go Club", 
+        "description": "Alberto Annovi alberto.annovi@gmail.com Cell: 333 6044216 , edit: https://goclubdb.herokuapp.com/club/1042/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           12.68123, 
           41.8083
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Frascati Go Club", 
-        "description": "Alberto Annovi alberto.annovi@gmail.com Cell: 333 6044216"
       }
     }, 
     {
+      "properties": {
+        "name": "\"Fujisawa Shuko\"", 
+        "description": "Via Cereate, 8 presso la ludoteca \"La Civetta\" , Martedì e Giovedì dalle 19:30 in poi , GCR goclubromafujisawashuko@gmail.com?subject=[GO]%20richiesta%20informazioni , edit: https://goclubdb.herokuapp.com/club/1041/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           12.50739, 
           41.88102
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "\"Fujisawa Shuko\"", 
-        "description": "Via Cereate, 8 presso la ludoteca \"La Civetta\" , Martedì e Giovedì dalle 19:30 in poi , GCR goclubromafujisawashuko@gmail.com?subject=[GO]%20richiesta%20informazioni"
       }
     }, 
     {
+      "properties": {
+        "name": "GARBAGNATE (MI)", 
+        "description": "Maurizio Melegari goclubgarbagnate@gmail.com Cell: 329 8662550 , edit: https://goclubdb.herokuapp.com/club/999/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           9.07579, 
           45.57378
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "GARBAGNATE (MI)", 
-        "description": "Maurizio Melegari goclubgarbagnate@gmail.com Cell: 329 8662550"
       }
     }, 
     {
+      "properties": {
+        "name": "Go Club Bari", 
+        "description": "Francesco Cutrone : cutronefrancesco@yahoo.it Kgs : BonoVox club : goclub.bari@libero.it , edit: https://goclubdb.herokuapp.com/club/1048/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           16.87575, 
           41.09289
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Go Club Bari", 
-        "description": "Francesco Cutrone : cutronefrancesco@yahoo.it Kgs : BonoVox club : goclub.bari@libero.it"
       }
     }, 
     {
+      "properties": {
+        "name": "Go Club Favaro Veneto", 
+        "description": "Presso lo spazio giovani della municipalità di Favaro Veneto in Via Altinia 9 , Ci troviamo tutti i giovedì sera dalle ore 21:00 circa.Contattare Andrea per la conferma del ritrovo. , Andrea  , edit: https://goclubdb.herokuapp.com/club/1012/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           12.28264, 
           45.50527
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Go Club Favaro Veneto", 
-        "description": "Presso lo spazio giovani della municipalità di Favaro Veneto in Via Altinia 9 , Ci troviamo tutti i giovedì sera dalle ore 21:00 circa.Contattare Andrea per la conferma del ritrovo. , Andrea "
       }
     }, 
     {
+      "properties": {
+        "name": "\"Go Club Genova\"", 
+        "description": " http://games.groups.yahoo.com/group/GoGenova/ http://www.facebook.com/groups/gogenova/ , Via Boccardo, 5r presso la Birreria HB Hofbräuhaus , Giovedì e Domenica dalle 20:30 in poi , Carlo Bevegni carlobevegni@libero.it Francesco Robbiano Kgs: Hobbes , edit: https://goclubdb.herokuapp.com/club/989/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           8.9352339, 
           44.4066026
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "\"Go Club Genova\"", 
-        "description": " http://games.groups.yahoo.com/group/GoGenova/ http://www.facebook.com/groups/gogenova/ , Via Boccardo, 5r presso la Birreria HB Hofbräuhaus , Giovedì e Domenica dalle 20:30 in poi , Carlo Bevegni carlobevegni@libero.it Francesco Robbiano Kgs: Hobbes"
       }
     }, 
     {
+      "properties": {
+        "name": "Go Club Grosseto (GCG)", 
+        "description": "Comix Cafè, piazza San Michele 4 , ogni mercoledì sera dalle 20.30/21.00 , Marco Pasto pastopasto@hotmail.it Il club di Grosseto fa parte di ToscanaGo. , edit: https://goclubdb.herokuapp.com/club/1037/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           11.11256, 
           42.76047
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Go Club Grosseto (GCG)", 
-        "description": "Comix Cafè, piazza San Michele 4 , ogni mercoledì sera dalle 20.30/21.00 , Marco Pasto pastopasto@hotmail.it Il club di Grosseto fa parte di ToscanaGo."
       }
     }, 
     {
+      "properties": {
+        "name": "Go Club \"Higashikita\" Sez. di Gorizia", 
+        "description": "L'appuntamento è presso il Ricreatorio parrocchiale \"Mons.O.Foschian\" Via Isonzo 27, Monfalcone (Go). Contattare Michele per maggiori informazioni. , ogni 3 settimane, giovedì alle ore 21 , Michele Tognon  , edit: https://goclubdb.herokuapp.com/club/1016/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           13.5224, 
           45.80573
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Go Club \"Higashikita\" Sez. di Gorizia", 
-        "description": "L'appuntamento è presso il Ricreatorio parrocchiale \"Mons.O.Foschian\" Via Isonzo 27, Monfalcone (Go). Contattare Michele per maggiori informazioni. , ogni 3 settimane, giovedì alle ore 21 , Michele Tognon "
       }
     }, 
     {
+      "properties": {
+        "name": "Go Club \"Higashikita\" Sez. di Pordenone", 
+        "description": "c/o fumetteria \"Altrimondi\", via Caboto 20 - Pordenone , ogni due settimane al martedì dalle 20.30 in poi (contattare Davide Rosolen per conferma) , Davide Rosolen Kgs: Proffffff , edit: https://goclubdb.herokuapp.com/club/1017/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           12.66176, 
           45.9629
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Go Club \"Higashikita\" Sez. di Pordenone", 
-        "description": "c/o fumetteria \"Altrimondi\", via Caboto 20 - Pordenone , ogni due settimane al martedì dalle 20.30 in poi (contattare Davide Rosolen per conferma) , Davide Rosolen Kgs: Proffffff"
       }
     }, 
     {
+      "properties": {
+        "name": "Go Club \"Higashikita\" Sez. di San Daniele del Friuli (UD)", 
+        "description": "Ivo Clarini Cell: 333 7780344 , edit: https://goclubdb.herokuapp.com/club/1018/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           13.00028, 
           46.16859
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Go Club \"Higashikita\" Sez. di San Daniele del Friuli (UD)", 
-        "description": "Ivo Clarini Cell: 333 7780344"
       }
     }, 
     {
+      "properties": {
+        "name": "Go Club \"Higashikita\" Sez. di Trieste", 
+        "description": "c/o \"Ludomania\", via Svevo 1 (2° piano) - Trieste , ogni giovedì dalle 21.00 in poi. , Davide Bertok Cell: 328 3277011 , edit: https://goclubdb.herokuapp.com/club/1019/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           13.78075, 
           45.62995
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Go Club \"Higashikita\" Sez. di Trieste", 
-        "description": "c/o \"Ludomania\", via Svevo 1 (2° piano) - Trieste , ogni giovedì dalle 21.00 in poi. , Davide Bertok Cell: 328 3277011"
       }
     }, 
     {
+      "properties": {
+        "name": "Go Club \"Higashikita\" Sez. di Udine", 
+        "description": "Via Ermes di Colloredo, 14 presso la Ludoteca-Bar \"Quarta Dimensione\" , Paolo Driussi Kgs: puhamedve , edit: https://goclubdb.herokuapp.com/club/1020/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           13.23325, 
           46.07168
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Go Club \"Higashikita\" Sez. di Udine", 
-        "description": "Via Ermes di Colloredo, 14 presso la Ludoteca-Bar \"Quarta Dimensione\" , Paolo Driussi Kgs: puhamedve"
       }
     }, 
     {
+      "properties": {
+        "name": "\"Go Club Milano\"", 
+        "description": " http://www.goclubmilano.org/index.html https://www.facebook.com/pages/Go-Club-Milano/321227357961?ref=ts&amp;fref=ts , Via Sant'Uguzzone, 8 presso l'\"Università Europea degli Sport della Mente\" , Mercoledì dalle 21 alle 24 Sabato dalle 15 alle 20 , Fernando Fernandez Cell : 347 9386734 (pref. dopo le 17:00) , edit: https://goclubdb.herokuapp.com/club/996/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           9.22284, 
           45.52117
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "\"Go Club Milano\"", 
-        "description": " http://www.goclubmilano.org/index.html https://www.facebook.com/pages/Go-Club-Milano/321227357961?ref=ts&amp;fref=ts , Via Sant'Uguzzone, 8 presso l'\"Università Europea degli Sport della Mente\" , Mercoledì dalle 21 alle 24 Sabato dalle 15 alle 20 , Fernando Fernandez Cell : 347 9386734 (pref. dopo le 17:00)"
       }
     }, 
     {
+      "properties": {
+        "name": "Go Club Schio", 
+        "description": "al bar \"Due Mori\" di Schio Via Pasubio, 20 Vicenza. Contattare Carlo per la conferma del ritrovo. , Ci troviamo il primo e il terzo martedì del mese (probabilmente diverrà tutti i martedì a breve) dalle ore 20:30 alle 23:30. , Carlo Brazzale Cell: 347 5237202 , edit: https://goclubdb.herokuapp.com/club/1013/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           11.35677, 
           45.71399
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Go Club Schio", 
-        "description": "al bar \"Due Mori\" di Schio Via Pasubio, 20 Vicenza. Contattare Carlo per la conferma del ritrovo. , Ci troviamo il primo e il terzo martedì del mese (probabilmente diverrà tutti i martedì a breve) dalle ore 20:30 alle 23:30. , Carlo Brazzale Cell: 347 5237202"
       }
     }, 
     {
+      "properties": {
+        "name": "Go Club Università degli studi di Parma", 
+        "description": "Generalmente il martedì sera , Anthony antonioalbano@yahoo.it Kgs: anthonygo - Cell: +39 340 7675932 Gian Maria gmmarconi@gmail.com Kgs: limerik - Cell: +39 346 6665788 , edit: https://goclubdb.herokuapp.com/club/1026/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           10.3353, 
           44.80428
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Go Club Università degli studi di Parma", 
-        "description": "Generalmente il martedì sera , Anthony antonioalbano@yahoo.it Kgs: anthonygo - Cell: +39 340 7675932 Gian Maria gmmarconi@gmail.com Kgs: limerik - Cell: +39 346 6665788"
       }
     }, 
     {
+      "properties": {
+        "name": "Go Club \"VenetoGo\" Sez. di Bassano del Grappa", 
+        "description": "Istituto Pirani-Cremona Via del Museo, 23 - Bassano del Grappa , Tutti i Sabato pomeriggio dalle 17:00 alle 19:00; vedi il Calendario o contatta direttamente Marina , Marina Guarnieri Cell: 335 5812820 , edit: https://goclubdb.herokuapp.com/club/1010/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           11.73688, 
           45.76513
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Go Club \"VenetoGo\" Sez. di Bassano del Grappa", 
-        "description": "Istituto Pirani-Cremona Via del Museo, 23 - Bassano del Grappa , Tutti i Sabato pomeriggio dalle 17:00 alle 19:00; vedi il Calendario o contatta direttamente Marina , Marina Guarnieri Cell: 335 5812820"
       }
     }, 
     {
+      "properties": {
+        "name": "Go Club \"VenetoGo\" Sez. di Belluno", 
+        "description": "Fabrizio Soppelsa  , edit: https://goclubdb.herokuapp.com/club/1011/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           12.21253, 
           46.13502
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Go Club \"VenetoGo\" Sez. di Belluno", 
-        "description": "Fabrizio Soppelsa "
       }
     }, 
     {
+      "properties": {
+        "name": "Go Club \"VenetoGo\" Sez. di Padova", 
+        "description": "Ristorante Brasiliano - Via Montà, 49/3 , Tutti i Sabato pomeriggio dalle ore 15:30 alle 19:00 Vedere il Calendario o contattare direttamente Leonardo o Liu per maggiori informazioni. , Leonardo Giuliato Cell: 3929643299 Kgs: kiruLiu Yan PingCell: 339 4614763 , edit: https://goclubdb.herokuapp.com/club/1007/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           11.83361, 
           45.44261
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Go Club \"VenetoGo\" Sez. di Padova", 
-        "description": "Ristorante Brasiliano - Via Montà, 49/3 , Tutti i Sabato pomeriggio dalle ore 15:30 alle 19:00 Vedere il Calendario o contattare direttamente Leonardo o Liu per maggiori informazioni. , Leonardo Giuliato Cell: 3929643299 Kgs: kiruLiu Yan PingCell: 339 4614763"
       }
     }, 
     {
+      "properties": {
+        "name": "Go Club \"VenetoGo\" Sez. di Treviso", 
+        "description": "Via Chiesa a Lancenigo di Villorba presso l'Oratorio (non c'è numero civico). , Tutti i Martedì sera (dalle ore 20:30 alle ore 23:30) a Lancenigo, e alcuni sabati a Pieve di Soligo (previo accordo).Il Sabato alla fumetteria \"Shion Art\", Via Marconi 34 Pieve di Soligo (TV).Vedere il Calendario o contattare direttamente Marco per maggiori informazioni. , Marco Fava Cell: 328 9432090 , edit: https://goclubdb.herokuapp.com/club/1008/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           12.52471, 
           45.7595
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Go Club \"VenetoGo\" Sez. di Treviso", 
-        "description": "Via Chiesa a Lancenigo di Villorba presso l'Oratorio (non c'è numero civico). , Tutti i Martedì sera (dalle ore 20:30 alle ore 23:30) a Lancenigo, e alcuni sabati a Pieve di Soligo (previo accordo).Il Sabato alla fumetteria \"Shion Art\", Via Marconi 34 Pieve di Soligo (TV).Vedere il Calendario o contattare direttamente Marco per maggiori informazioni. , Marco Fava Cell: 328 9432090"
       }
     }, 
     {
+      "properties": {
+        "name": "Go Club \"VenetoGo\" Sez. di Venezia", 
+        "description": "Presso Centro culturale Olivolo situato a San Francesco della Vigna in zona arsenale. Per chi non è mai venuto o non ricorda la strada contattateci che ci troviamo prima a San Zaccaria per mostrarvi la strada. , Tutti i sabati pomeriggio, l'orario di inizio è intorno le ore 16:00 fino alle ore 19:30/20:00, a seconda dell'affluenza.Vedere il Calendario o contattare direttamente Matteo per conferma. , Sandro Dunatov Cell: 335 203010 Matteo Boscolo Cell: 349 7716319 , edit: https://goclubdb.herokuapp.com/club/1009/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           12.34413, 
           45.43365
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Go Club \"VenetoGo\" Sez. di Venezia", 
-        "description": "Presso Centro culturale Olivolo situato a San Francesco della Vigna in zona arsenale. Per chi non è mai venuto o non ricorda la strada contattateci che ci troviamo prima a San Zaccaria per mostrarvi la strada. , Tutti i sabati pomeriggio, l'orario di inizio è intorno le ore 16:00 fino alle ore 19:30/20:00, a seconda dell'affluenza.Vedere il Calendario o contattare direttamente Matteo per conferma. , Sandro Dunatov Cell: 335 203010 Matteo Boscolo Cell: 349 7716319"
       }
     }, 
     {
+      "properties": {
+        "name": "Go Club \"VenetoGo\" Sez. di Verona", 
+        "description": "Via Castello San Felice, 9 presso\"Associazione Giochi Antichi\"(nel Parco delle Colombare) , Non è stato ancora fissato un giorno prestabilito, contattate Marta o Giulia per sapere quando trovarci. , Marta Mantovani adsharta@libero.it , edit: https://goclubdb.herokuapp.com/club/1015/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           11.005, 
           45.45314
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Go Club \"VenetoGo\" Sez. di Verona", 
-        "description": "Via Castello San Felice, 9 presso\"Associazione Giochi Antichi\"(nel Parco delle Colombare) , Non è stato ancora fissato un giorno prestabilito, contattate Marta o Giulia per sapere quando trovarci. , Marta Mantovani adsharta@libero.it"
       }
     }, 
     {
+      "properties": {
+        "name": "Go Club \"VenetoGo\" Sez. di Vigarolo", 
+        "description": "Via San Floriano n°39, Vigarolo , Ritrovo la prima e la terza domenica di ogni mese dalle 15:00 alle 19:00. , Gioele  , edit: https://goclubdb.herokuapp.com/club/1014/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           11.58931, 
           45.60638
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Go Club \"VenetoGo\" Sez. di Vigarolo", 
-        "description": "Via San Floriano n°39, Vigarolo , Ritrovo la prima e la terza domenica di ogni mese dalle 15:00 alle 19:00. , Gioele "
       }
     }, 
     {
+      "properties": {
+        "name": "\"Go'Jo\"", 
+        "description": "Piazza San Faustino, 14, VITERBO, (VT) , Martedì dalle 21:00 in poi , gojoclubviterbo@yahoo.it Marco Generali marcgen84@yahoo.it Cell: 339 1363616 Kgs: maik123 Riky De Carolis Cell: 320 0627142 , edit: https://goclubdb.herokuapp.com/club/1044/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           12.10353, 
           42.42026
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "\"Go'Jo\"", 
-        "description": "Piazza San Faustino, 14, VITERBO, (VT) , Martedì dalle 21:00 in poi , gojoclubviterbo@yahoo.it Marco Generali marcgen84@yahoo.it Cell: 339 1363616 Kgs: maik123 Riky De Carolis Cell: 320 0627142"
       }
     }, 
     {
+      "properties": {
+        "name": "GoRomagna", 
+        "description": "Leonardo Dal ZovoCell: 338 4382995 , edit: https://goclubdb.herokuapp.com/club/1025/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           12.05148, 
           44.03688
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "GoRomagna", 
-        "description": "Leonardo Dal ZovoCell: 338 4382995"
       }
     }, 
     {
+      "properties": {
+        "name": "GoRomagna", 
+        "description": "Via Salita, 2 presso il \"Circolo dei Franchi Bevitori\" , Mercoledì dalle 21:00 , Stefano GiurinCell: 392 9260834 Kgs: wildpizza , edit: https://goclubdb.herokuapp.com/club/1022/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           11.87633, 
           44.28595
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "GoRomagna", 
-        "description": "Via Salita, 2 presso il \"Circolo dei Franchi Bevitori\" , Mercoledì dalle 21:00 , Stefano GiurinCell: 392 9260834 Kgs: wildpizza"
       }
     }, 
     {
+      "properties": {
+        "name": "IGOnzaga Go Club", 
+        "description": "Martedì , Mattia Lannunziata igonzagagoclub@gmail.com , edit: https://goclubdb.herokuapp.com/club/1029/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           10.80139, 
           44.91268
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "IGOnzaga Go Club", 
-        "description": "Martedì , Mattia Lannunziata igonzagagoclub@gmail.com"
       }
     }, 
     {
+      "properties": {
+        "name": "Il Palermo go club", 
+        "description": "presso il Centro Scacchi Palermo in via Enrico Fermi 8 , Tutti i martedì dalle ore 16:00 alle ore 20:00 , Marco Milone Cell: 3926981326 : milone_m@yahoo.com , edit: https://goclubdb.herokuapp.com/club/1052/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           13.33642, 
           38.12709
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Il Palermo go club", 
-        "description": "presso il Centro Scacchi Palermo in via Enrico Fermi 8 , Tutti i martedì dalle ore 16:00 alle ore 20:00 , Marco Milone Cell: 3926981326 : milone_m@yahoo.com"
       }
     }, 
     {
+      "properties": {
+        "name": "Ischia Ponte", 
+        "description": "Via Seminario, 15 presso \"Belcanto - Art Fusion Cafè\" , Dal Martedi al venerdi dalle 21:00 all'01:00, tranne nelle sere in cui è programmato un evento, chiusura settimanale il Lunedi. , Ivan Cigliano : cuzzocrea10@libero.it Cell. : 345 4134236 , edit: https://goclubdb.herokuapp.com/club/1050/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           13.95629, 
           40.73357
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Ischia Ponte", 
-        "description": "Via Seminario, 15 presso \"Belcanto - Art Fusion Cafè\" , Dal Martedi al venerdi dalle 21:00 all'01:00, tranne nelle sere in cui è programmato un evento, chiusura settimanale il Lunedi. , Ivan Cigliano : cuzzocrea10@libero.it Cell. : 345 4134236"
       }
     }, 
     {
+      "properties": {
+        "name": "L'AQUILA", 
+        "description": "Keichiro Abe: keiichiro_abe@alice.it Cell. : 348 5177121 , edit: https://goclubdb.herokuapp.com/club/1047/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           13.41566, 
           42.35557
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "L'AQUILA", 
-        "description": "Keichiro Abe: keiichiro_abe@alice.it Cell. : 348 5177121"
       }
     }, 
     {
+      "properties": {
+        "name": "LA SPEZIA", 
+        "description": "Elena Rossi Tel: 018 7280028 (solo pom.) Kgs: ele91 , edit: https://goclubdb.herokuapp.com/club/990/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           9.8282255, 
           44.107033
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "LA SPEZIA", 
-        "description": "Elena Rossi Tel: 018 7280028 (solo pom.) Kgs: ele91"
       }
     }, 
     {
+      "properties": {
+        "name": "LEGNANO (MI)", 
+        "description": "Davide Stellato Kgs: Stego93 , edit: https://goclubdb.herokuapp.com/club/998/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           8.90598, 
           45.59582
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "LEGNANO (MI)", 
-        "description": "Davide Stellato Kgs: Stego93"
       }
     }, 
     {
+      "properties": {
+        "name": "Livorno Go Club", 
+        "description": "Via della Posta, 40 presso il pub \"Bad Elf\" , Mercoledì dalle 21:30 , Andrea Mori wamba85@gmail.com Kgs: Wamba , edit: https://goclubdb.herokuapp.com/club/1033/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           10.31087, 
           43.55247
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Livorno Go Club", 
-        "description": "Via della Posta, 40 presso il pub \"Bad Elf\" , Mercoledì dalle 21:30 , Andrea Mori wamba85@gmail.com Kgs: Wamba"
       }
     }, 
     {
+      "properties": {
+        "name": "Lucca Go Club", 
+        "description": "Tommaso Pardi tommaso.pardi@gmail.com Mika Straka Cell: +39 340 990 1266 Il club di Lucca fa parte di ToscanaGo. , edit: https://goclubdb.herokuapp.com/club/1035/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           10.46825, 
           43.85885
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Lucca Go Club", 
-        "description": "Tommaso Pardi tommaso.pardi@gmail.com Mika Straka Cell: +39 340 990 1266 Il club di Lucca fa parte di ToscanaGo."
       }
     }, 
     {
+      "properties": {
+        "name": "MANTOVA", 
+        "description": "Thomas Durante Cell: 339 5672758 , edit: https://goclubdb.herokuapp.com/club/1000/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           10.81359, 
           45.14441
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "MANTOVA", 
-        "description": "Thomas Durante Cell: 339 5672758"
       }
     }, 
     {
+      "properties": {
+        "name": "\"Milano No Go\"", 
+        "description": " http://milanonogo.altervista.org/ https://www.facebook.com/milanonogo , Tutti i martedì al ristorante-pub il Tempio d’Oro (Via delle Leghe 23, Milano). , Martedì dalle 21 alle 24 , Aldo Podavini Kgs : minosse , edit: https://goclubdb.herokuapp.com/club/995/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           9.21708, 
           45.4926
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "\"Milano No Go\"", 
-        "description": " http://milanonogo.altervista.org/ https://www.facebook.com/milanonogo , Tutti i martedì al ristorante-pub il Tempio d’Oro (Via delle Leghe 23, Milano). , Martedì dalle 21 alle 24 , Aldo Podavini Kgs : minosse"
       }
     }, 
     {
+      "properties": {
+        "name": "\"Najokata\"", 
+        "description": "Via Bellini, 56 presso il \"Volver Cafè\" , Martedì dalle 21:00 , Bruno Izzi : br1izzi@hotmail.com , edit: https://goclubdb.herokuapp.com/club/1049/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           14.25064, 
           40.85058
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "\"Najokata\"", 
-        "description": "Via Bellini, 56 presso il \"Volver Cafè\" , Martedì dalle 21:00 , Bruno Izzi : br1izzi@hotmail.com"
       }
     }, 
     {
+      "properties": {
+        "name": "New Go Club Frascati", 
+        "description": "Francesco Viti francescovitix@libero.it Cell: +39 339 5808226 , edit: https://goclubdb.herokuapp.com/club/1043/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           12.68123, 
           41.8083
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "New Go Club Frascati", 
-        "description": "Francesco Viti francescovitix@libero.it Cell: +39 339 5808226"
       }
     }, 
     {
+      "properties": {
+        "name": "\"Nodi di Bambù\"", 
+        "description": " http://www.facebook.com/pages/Torino-Italy/I-Nodi-di-Bambu-Go-Club-Torino/63509963870 , Via Roero di Cortanze, 2C - presso il BENE COSI’ Cafè , Martedì dalle 19.30 alle 23.30 Sabato dalle 14.30 alle 18.30 , Ronnie Pizzo ronniepizzo@gmail.com Cell: +39 338 9514316 , edit: https://goclubdb.herokuapp.com/club/988/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           7.6956838, 
           45.0683208
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "\"Nodi di Bambù\"", 
-        "description": " http://www.facebook.com/pages/Torino-Italy/I-Nodi-di-Bambu-Go-Club-Torino/63509963870 , Via Roero di Cortanze, 2C - presso il BENE COSI’ Cafè , Martedì dalle 19.30 alle 23.30 Sabato dalle 14.30 alle 18.30 , Ronnie Pizzo ronniepizzo@gmail.com Cell: +39 338 9514316"
       }
     }, 
     {
+      "properties": {
+        "name": "ORTONOVO", 
+        "description": "Alessandro Salpietro a.salpietro@yahoo.it Cell. : 333 4037308 , edit: https://goclubdb.herokuapp.com/club/991/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           10.0540728, 
           44.0891829
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "ORTONOVO", 
-        "description": "Alessandro Salpietro a.salpietro@yahoo.it Cell. : 333 4037308"
       }
     }, 
     {
+      "properties": {
+        "name": "\"Paleotto\" Go Club", 
+        "description": "Via del Paleotto 11 (nel parco del Paleotto) presso la \"Casa del Paleotto\" , Di solito l'ultimo martedì del mese, controllare sul sito , edit: https://goclubdb.herokuapp.com/club/1027/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           11.3563, 
           44.4456
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "\"Paleotto\" Go Club", 
-        "description": "Via del Paleotto 11 (nel parco del Paleotto) presso la \"Casa del Paleotto\" , Di solito l'ultimo martedì del mese, controllare sul sito"
       }
     }, 
     {
+      "properties": {
+        "name": "PAVIA", 
+        "description": "Roberto Foschi Cell: 329 1590837 , edit: https://goclubdb.herokuapp.com/club/1001/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           9.16547, 
           45.19454
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "PAVIA", 
-        "description": "Roberto Foschi Cell: 329 1590837"
       }
     }, 
     {
+      "properties": {
+        "name": "PIACENZA", 
+        "description": "Gianluca Chiodaroli chiodus@gmail.com , edit: https://goclubdb.herokuapp.com/club/1030/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           9.71301, 
           45.05328
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "PIACENZA", 
-        "description": "Gianluca Chiodaroli chiodus@gmail.com"
       }
     }, 
     {
+      "properties": {
+        "name": "Pisa Go Club", 
+        "description": "Lunedì: via delle Case Dipinte 6 presso pub \"Orzo Bruno\". dalle 21:30 alle 01:00.Giovedì: via Bovio, presso il Mix-Art dalle 21:30 alle 00:00 , Dopo le 21:30 , Andrea Donati gatto.andrea@inwind.it Cell: 333 9597317 Kgs: suspire Maurizio Parton parton@unich.it Cell: 349 5323199 Kgs: maumau , edit: https://goclubdb.herokuapp.com/club/1034/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           10.40314, 
           43.71771
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Pisa Go Club", 
-        "description": "Lunedì: via delle Case Dipinte 6 presso pub \"Orzo Bruno\". dalle 21:30 alle 01:00.Giovedì: via Bovio, presso il Mix-Art dalle 21:30 alle 00:00 , Dopo le 21:30 , Andrea Donati gatto.andrea@inwind.it Cell: 333 9597317 Kgs: suspire Maurizio Parton parton@unich.it Cell: 349 5323199 Kgs: maumau"
       }
     }, 
     {
+      "properties": {
+        "name": "PRATO", 
+        "description": "Daniele Pompeo moria31@hotmail.it Cell: 340 7356811 , edit: https://goclubdb.herokuapp.com/club/1036/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           11.09139, 
           43.8827
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "PRATO", 
-        "description": "Daniele Pompeo moria31@hotmail.it Cell: 340 7356811"
       }
     }, 
     {
+      "properties": {
+        "name": "PREDAZZO (TN)", 
+        "description": "Vittorio Nocentini Kgs: vittorio , edit: https://goclubdb.herokuapp.com/club/1006/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           11.65289, 
           46.31942
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "PREDAZZO (TN)", 
-        "description": "Vittorio Nocentini Kgs: vittorio"
       }
     }, 
     {
+      "properties": {
+        "name": "SAN MARINO", 
+        "description": "Stefano Babini el.nabila@alice.it Cell: 333 3091479 Kgs: Bstefano , edit: https://goclubdb.herokuapp.com/club/1031/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           10.8051532, 
           44.5114469
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "SAN MARINO", 
-        "description": "Stefano Babini el.nabila@alice.it Cell: 333 3091479 Kgs: Bstefano"
       }
     }, 
     {
+      "properties": {
+        "name": "SAVONA", 
+        "description": "Via Cavour, 46/r presso il negozio Higashi no kaze , Martedì dalle 16:00 in poi , Sabrina Travi Tel: 019 8386348 (solo pom.)Cell: 328 7472012 , edit: https://goclubdb.herokuapp.com/club/992/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           8.21278, 
           44.04891
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "SAVONA", 
-        "description": "Via Cavour, 46/r presso il negozio Higashi no kaze , Martedì dalle 16:00 in poi , Sabrina Travi Tel: 019 8386348 (solo pom.)Cell: 328 7472012"
       }
     }, 
     {
+      "properties": {
+        "name": "SESTRI LEVANTE", 
+        "description": "Mirtha Barbetti Cell: 339 2507741 , edit: https://goclubdb.herokuapp.com/club/993/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           9.42793, 
           44.28218
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "SESTRI LEVANTE", 
-        "description": "Mirtha Barbetti Cell: 339 2507741"
       }
     }, 
     {
+      "properties": {
+        "name": "TEMPIO PAUSANIA (OT)", 
+        "description": "Manuele Carbini : carbini.manuele@tiscali.it Cell. : 328 6174620 Tel : 079 632524 (ore pasti) Tradurre 7valis7@gmail.com Cell. : 328 5686736 , edit: https://goclubdb.herokuapp.com/club/1055/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           9.15206, 
           40.98591
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "TEMPIO PAUSANIA (OT)", 
-        "description": "Manuele Carbini : carbini.manuele@tiscali.it Cell. : 328 6174620 Tel : 079 632524 (ore pasti) Tradurre 7valis7@gmail.com Cell. : 328 5686736"
       }
     }, 
     {
+      "properties": {
+        "name": "\"Tortellino\" Go Club", 
+        "description": "Via del Santuario, 3 presso la Birreria \"Stonewall\" , Giovedì dalle 21:00(in alternanza con il Go Club di Reggio-Emilia) , Andrea Pecorari Cell: 348 4428324 , edit: https://goclubdb.herokuapp.com/club/1024/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           10.81296, 
           44.53838
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "\"Tortellino\" Go Club", 
-        "description": "Via del Santuario, 3 presso la Birreria \"Stonewall\" , Giovedì dalle 21:00(in alternanza con il Go Club di Reggio-Emilia) , Andrea Pecorari Cell: 348 4428324"
       }
     }, 
     {
+      "properties": {
+        "name": "\"Tortellino\" Go Club", 
+        "description": "Via Samoggia, 12 presso il \"Bar Florida\" di Wang Zuo Liang , Giovedì dalle 21:00(in alternanza con il Go Club di Fiorano Modenese) , Andrea Pecorari a_peco@libero.it Cell: 348 4428324 , edit: https://goclubdb.herokuapp.com/club/1028/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           10.63262, 
           44.71209
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "\"Tortellino\" Go Club", 
-        "description": "Via Samoggia, 12 presso il \"Bar Florida\" di Wang Zuo Liang , Giovedì dalle 21:00(in alternanza con il Go Club di Fiorano Modenese) , Andrea Pecorari a_peco@libero.it Cell: 348 4428324"
       }
     }, 
     {
+      "properties": {
+        "name": "\"Trentino Go Club\"", 
+        "description": " http://yomoyamabanashi.it/go.php , Piazza Venezia, 37 presso \"Barycentro\" , 1° e 3° Giovedì del mese, dalle 17:00 alle 19:00 , Federico Odorizzi Kgs: FedeAndrea Gobbi Kgs: andreamath , edit: https://goclubdb.herokuapp.com/club/1005/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           11.12776, 
           46.06942
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "\"Trentino Go Club\"", 
-        "description": " http://yomoyamabanashi.it/go.php , Piazza Venezia, 37 presso \"Barycentro\" , 1° e 3° Giovedì del mese, dalle 17:00 alle 19:00 , Federico Odorizzi Kgs: FedeAndrea Gobbi Kgs: andreamath"
       }
     }, 
     {
+      "properties": {
+        "name": "TREVIGLIO (BG)", 
+        "description": " http://gocosmico.altervista.org/ http://www.facebook.com/pages/Go-Cosmico/127995643940290 , Largo Lamarmora 2, presso la sede dell'Auser. , ogni mercoledì dopo le 21 , Giancarlo Sacchi Cell: 338 2217931 , edit: https://goclubdb.herokuapp.com/club/1002/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           9.60085, 
           45.51754
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "TREVIGLIO (BG)", 
-        "description": " http://gocosmico.altervista.org/ http://www.facebook.com/pages/Go-Cosmico/127995643940290 , Largo Lamarmora 2, presso la sede dell'Auser. , ogni mercoledì dopo le 21 , Giancarlo Sacchi Cell: 338 2217931"
       }
     }, 
     {
+      "properties": {
+        "name": "VALDARNO", 
+        "description": "presso la birreria Carpe Diem a Loro Ciuffenna. , tutti i martedì ore 21.30 , Olivier Turquet olivier.turquet@gmail.com Telefono:055969092 Cellulare:3395635202 , edit: https://goclubdb.herokuapp.com/club/1039/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           11.63309, 
           43.5922
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "VALDARNO", 
-        "description": "presso la birreria Carpe Diem a Loro Ciuffenna. , tutti i martedì ore 21.30 , Olivier Turquet olivier.turquet@gmail.com Telefono:055969092 Cellulare:3395635202"
       }
     }, 
     {
+      "properties": {
+        "name": "VARESE", 
+        "description": "Locanda dello Hobbit, Via F. Rossi, 38, Barasso (VA) dalle 20:30 in poi , Ronald Van Uffelen Kgs: Stego93 Cell: +39 335290776 , edit: https://goclubdb.herokuapp.com/club/1003/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           8.75134, 
           45.83619
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "VARESE", 
-        "description": "Locanda dello Hobbit, Via F. Rossi, 38, Barasso (VA) dalle 20:30 in poi , Ronald Van Uffelen Kgs: Stego93 Cell: +39 335290776"
       }
     }, 
     {
+      "properties": {
+        "name": "VOGHERA", 
+        "description": "Bruno Cavanna Kgs: bricabrac , edit: https://goclubdb.herokuapp.com/club/1004/", 
+        "_storage_options": {
+          "iconClass": "Ball"
+        }
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           9.01521, 
           45.01406
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "name": "VOGHERA", 
-        "description": "Bruno Cavanna Kgs: bricabrac"
       }
     }, 
     {
+      "properties": {
+        "name": "\"Yugen\" Go Club", 
+        "description": "S. EGIDIO ALLA VIBRATA (TE) , Emiliano Calderoli: hiraokasan@gmail.com , edit: https://goclubdb.herokuapp.com/club/1046/"
+      }, 
       "layer": "IT", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           13.71013, 
           42.82367
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "\"Yugen\" Go Club", 
-        "description": "S. EGIDIO ALLA VIBRATA (TE) , Emiliano Calderoli: hiraokasan@gmail.com"
       }
     }
-  ]
+  ], 
+  "type": "FeatureCollection"
 }

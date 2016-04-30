@@ -1,68 +1,68 @@
 {
-  "type": "FeatureCollection", 
   "features": [
     {
+      "properties": {
+        "name": "Aarhus Go Klub", 
+        "description": "https://aarhusgoklub.wordpress.com/ , aarhusgoklub@gmail.com , edit: https://goclubdb.herokuapp.com/club/11/", 
+        "_storage_options": {
+          "iconClass": "Circle"
+        }
+      }, 
       "layer": "DK", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           10.1117595, 
           56.1780842
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Circle"
-        }, 
-        "name": "Aarhus Go Klub", 
-        "description": "https://aarhusgoklub.wordpress.com/ , aarhusgoklub@gmail.com"
       }
     }, 
     {
+      "properties": {
+        "name": "Københavns Go Klub", 
+        "description": "http://www.kgok.dk , Mellemtoftevej 11, Valby , Monday 7 PM , edit: https://goclubdb.herokuapp.com/club/8/"
+      }, 
       "layer": "DK", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           12.5123907, 
           55.664811
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Københavns Go Klub", 
-        "description": "http://www.kgok.dk , Mellemtoftevej 11, Valby , Monday 7 PM"
       }
     }, 
     {
+      "properties": {
+        "name": "Odense Go Klub", 
+        "description": "http://www.odensegoklub.dk , Stadionvej 50h, Odense V , Tuesday 7 PM and Friday 4 PM , Bestyrelse@OdenseGoKlub.dk , edit: https://goclubdb.herokuapp.com/club/9/"
+      }, 
       "layer": "DK", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           10.3489156, 
           55.3951076
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Odense Go Klub", 
-        "description": "http://www.odensegoklub.dk , Stadionvej 50h, Odense V , Tuesday 7 PM and Friday 4 PM , Bestyrelse@OdenseGoKlub.dk"
       }
     }, 
     {
+      "properties": {
+        "name": "Ringsted Go Klub", 
+        "description": "http://ringsted-go-klub.dk , Cafe Vivaldi - Sct. Hansgade 18, Ringsted , Saturdays in weeks with even week numbers, 2:30 PM , kasserer@ringsted-go-klub.dk , edit: https://goclubdb.herokuapp.com/club/10/"
+      }, 
       "layer": "DK", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           11.7905281684, 
           55.4443793974
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "Ringsted Go Klub", 
-        "description": "http://ringsted-go-klub.dk , Cafe Vivaldi - Sct. Hansgade 18, Ringsted , Saturdays in weeks with even week numbers, 2:30 PM , kasserer@ringsted-go-klub.dk"
       }
     }
-  ]
+  ], 
+  "type": "FeatureCollection"
 }

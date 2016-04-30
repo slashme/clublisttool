@@ -1,20 +1,20 @@
 {
-  "type": "FeatureCollection", 
   "features": [
     {
+      "properties": {
+        "name": "济南市", 
+        "description": "edit: https://goclubdb.herokuapp.com/club/1360/"
+      }, 
       "layer": "CN", 
+      "type": "Feature", 
       "geometry": {
         "coordinates": [
           117.127895447, 
           36.6716050096
         ], 
         "type": "Point"
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "name": "济南市", 
-        "description": ""
       }
     }
-  ]
+  ], 
+  "type": "FeatureCollection"
 }
