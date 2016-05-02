@@ -1,0 +1,35 @@
+{
+  "features": [
+    {
+      "properties": {
+        "name": "Kauno go klubas", 
+        "description": "„Arbatos klubas“ Vilniaus g. 41, Kaunas. , Ketvirtadieniais nuo 18:00 iki 21:00 , edit: https://goclubdb.herokuapp.com/club/118/"
+      }, 
+      "type": "Feature", 
+      "layer": "LT", 
+      "geometry": {
+        "coordinates": [
+          23.1222400011749, 
+          55.3757435
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Vilniaus go klubas", 
+        "description": "kavinėje „Tabera“ (Pylimo g. 23, Vilnius) , Antradieniais nuo 18:00 iki 21:00 , edit: https://goclubdb.herokuapp.com/club/119/"
+      }, 
+      "type": "Feature", 
+      "layer": "LT", 
+      "geometry": {
+        "coordinates": [
+          25.2776966, 
+          54.6784451
+        ], 
+        "type": "Point"
+      }
+    }
+  ], 
+  "type": "FeatureCollection"
+}

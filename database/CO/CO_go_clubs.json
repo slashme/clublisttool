@@ -5,8 +5,8 @@
         "name": "Go Bogota", 
         "description": "https://www.facebook.com/Asociación-Colombiana-de-Go-266936886710738/ , Calle 106, número 13-33 , Sábados tarde , Federico Pareja , edit: https://goclubdb.herokuapp.com/club/1353/"
       }, 
-      "layer": "CO", 
       "type": "Feature", 
+      "layer": "CO", 
       "geometry": {
         "coordinates": [
           -74.0435063839, 
@@ -20,8 +20,8 @@
         "name": "Go Medellin", 
         "description": "https://www.facebook.com/Asociación-Colombiana-de-Go-266936886710738/ , Carrera 49 Nº 58-44, Barrio Prado Centro , Domingos a partir de las 14:00 , Juan Carlos Pachó , edit: https://goclubdb.herokuapp.com/club/1352/"
       }, 
-      "layer": "CO", 
       "type": "Feature", 
+      "layer": "CO", 
       "geometry": {
         "coordinates": [
           -75.5630743504, 

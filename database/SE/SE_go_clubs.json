@@ -5,8 +5,8 @@
         "name": "Göteborgs go-klubb", 
         "description": "http://gbg.goforbundet.se/ , Skolgatan 21, Göteborg , Wednesday 6 PM , gbg.goklubb@gmail.com\r\nhttps://www.facebook.com/groups/123111635590/ , edit: https://goclubdb.herokuapp.com/club/12/"
       }, 
-      "layer": "SE", 
       "type": "Feature", 
+      "layer": "SE", 
       "geometry": {
         "coordinates": [
           11.957506, 
@@ -20,8 +20,8 @@
         "name": "Malmö Goklubb", 
         "description": "http://minutopi.se/go/ , Möllevången , Every second Wednesday , http://minutopi.se/go/kontakt/ , edit: https://goclubdb.herokuapp.com/club/14/"
       }, 
-      "layer": "SE", 
       "type": "Feature", 
+      "layer": "SE", 
       "geometry": {
         "coordinates": [
           13.0038585355816, 
@@ -35,8 +35,8 @@
         "name": "Stockholms go-klubb", 
         "description": "http://stockholm.goforbundet.se , Piperska Grottan, Pipersgatan 26, T-Rådhuset, Kungsholmen , Thursday 6 PM and sometimes Sunday 1 PM , http://stockholm.goforbundet.se/node/8 , edit: https://goclubdb.herokuapp.com/club/13/"
       }, 
-      "layer": "SE", 
       "type": "Feature", 
+      "layer": "SE", 
       "geometry": {
         "coordinates": [
           18.046523, 
@@ -50,8 +50,8 @@
         "name": "Uppsala go-klubb", 
         "description": "https://www.facebook.com/groups/8126794587/ , kl. 19 i Ekonomikum (f.d. Humanistcentrum) i det allmänna utrymmet vid huvudentrén (\"lokstallarna\"), på Kyrkogårdsgatan , på tisdagar , uppsalago@gmail.com , edit: https://goclubdb.herokuapp.com/club/1357/"
       }, 
-      "layer": "SE", 
       "type": "Feature", 
+      "layer": "SE", 
       "geometry": {
         "coordinates": [
           17.648168206204, 
@@ -65,8 +65,8 @@
         "name": "Västerås Goklubb", 
         "description": "http://www.vgo.se/ , Café Koppar, Culturen, Sintervägen 6, Västerås , Thursday 5 PM , info@vgo.se , edit: https://goclubdb.herokuapp.com/club/15/"
       }, 
-      "layer": "SE", 
       "type": "Feature", 
+      "layer": "SE", 
       "geometry": {
         "coordinates": [
           16.47486, 

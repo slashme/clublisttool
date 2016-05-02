@@ -8,8 +8,8 @@
           "iconClass": "Circle"
         }
       }, 
-      "layer": "DK", 
       "type": "Feature", 
+      "layer": "DK", 
       "geometry": {
         "coordinates": [
           10.1117595, 
@@ -23,8 +23,8 @@
         "name": "Københavns Go Klub", 
         "description": "http://www.kgok.dk , Mellemtoftevej 11, Valby , Monday 7 PM , edit: https://goclubdb.herokuapp.com/club/8/"
       }, 
-      "layer": "DK", 
       "type": "Feature", 
+      "layer": "DK", 
       "geometry": {
         "coordinates": [
           12.5123907, 
@@ -38,8 +38,8 @@
         "name": "Odense Go Klub", 
         "description": "http://www.odensegoklub.dk , Stadionvej 50h, Odense V , Tuesday 7 PM and Friday 4 PM , Bestyrelse@OdenseGoKlub.dk , edit: https://goclubdb.herokuapp.com/club/9/"
       }, 
-      "layer": "DK", 
       "type": "Feature", 
+      "layer": "DK", 
       "geometry": {
         "coordinates": [
           10.3489156, 
@@ -53,8 +53,8 @@
         "name": "Ringsted Go Klub", 
         "description": "http://ringsted-go-klub.dk , Cafe Vivaldi - Sct. Hansgade 18, Ringsted , Saturdays in weeks with even week numbers, 2:30 PM , kasserer@ringsted-go-klub.dk , edit: https://goclubdb.herokuapp.com/club/10/"
       }, 
-      "layer": "DK", 
       "type": "Feature", 
+      "layer": "DK", 
       "geometry": {
         "coordinates": [
           11.7905281684, 

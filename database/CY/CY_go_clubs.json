@@ -5,8 +5,8 @@
         "name": "Magem Go club", 
         "description": "Magem building, Famagusta , Every Tuesday 18:00 , Nurman Aylanc nurmana@hotmail.com (tel. 0090 533 862 9582) , edit: https://goclubdb.herokuapp.com/club/1079/"
       }, 
-      "layer": "CY", 
       "type": "Feature", 
+      "layer": "CY", 
       "geometry": {
         "coordinates": [
           33.9249229431, 
@@ -20,8 +20,8 @@
         "name": "Nicosia", 
         "description": "Arabica Cafe in Nicosia , every Saturday, starting around 17:30 , edit: https://goclubdb.herokuapp.com/club/1080/"
       }, 
-      "layer": "CY", 
       "type": "Feature", 
+      "layer": "CY", 
       "geometry": {
         "coordinates": [
           33.3533763885, 
@@ -35,8 +35,8 @@
         "name": "Pissouri Go Club", 
         "description": "The Group leader is Jolyon Kay, tel. 25222363. Please contact him for the venue of the meeting because now they meet in member's houses in rotation. , edit: https://goclubdb.herokuapp.com/club/1081/"
       }, 
-      "layer": "CY", 
       "type": "Feature", 
+      "layer": "CY", 
       "geometry": {
         "coordinates": [
           32.6989173889, 
@@ -53,8 +53,8 @@
           "iconClass": "Circle"
         }
       }, 
-      "layer": "CY", 
       "type": "Feature", 
+      "layer": "CY", 
       "geometry": {
         "coordinates": [
           33.3751934767, 

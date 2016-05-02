@@ -5,8 +5,8 @@
         "name": "Centro Okinawense de Buenos Aires", 
         "description": "http://www.go.org.ar/clubes.php?club=okinawense , Centro Okinawense, Av. San Juan 2651, 3º piso , Sábados de 15.30 a 19.30 , Masaaki Hayashi http://www.go.org.ar/jugadores/mensaje.php?cod=995 \r\nTel 4941-0546 , edit: https://goclubdb.herokuapp.com/club/69/"
       }, 
-      "layer": "AR", 
       "type": "Feature", 
+      "layer": "AR", 
       "geometry": {
         "coordinates": [
           -58.4018260181, 
@@ -20,8 +20,8 @@
         "name": "Ciudad de Buenos Aires", 
         "description": "http://www.go.org.ar/clubes.php?club=aago , Santiago del Estero 952, 1º piso , Sábados a partir de las 18hs , edit: https://goclubdb.herokuapp.com/club/64/"
       }, 
-      "layer": "AR", 
       "type": "Feature", 
+      "layer": "AR", 
       "geometry": {
         "coordinates": [
           -58.3843066179, 
@@ -35,8 +35,8 @@
         "name": "Exactas", 
         "description": "http://www.go.org.ar/clubes.php?club=exactas , Sala Roberto Arlt, SEGBE, Pabellón II, Ciudad Universitaria, Núñez, Ciudad de Buenos Aires , Martes a partir de las 19hs , https://www.facebook.com/groups/154810424914820/\r\nhttps://groups.google.com/forum/#!forum/goexactas\r\nAgustín Santiago Gutiérrez - http://www.go.org.ar/jugadores/mensaje.php?cod=1118 , edit: https://goclubdb.herokuapp.com/club/70/"
       }, 
-      "layer": "AR", 
       "type": "Feature", 
+      "layer": "AR", 
       "geometry": {
         "coordinates": [
           -58.4531931049, 
@@ -50,8 +50,8 @@
         "name": "Fenix", 
         "description": "http://www.go.org.ar/clubes.php?club=fenix , Andrés Vallejos 4516, Villa Devoto, Buenos Aires , Jueves a partir de las 18hs , Horacio Giménez http://www.go.org.ar/jugadores/mensaje.php?cod=101 , edit: https://goclubdb.herokuapp.com/club/68/"
       }, 
-      "layer": "AR", 
       "type": "Feature", 
+      "layer": "AR", 
       "geometry": {
         "coordinates": [
           -58.5209439, 
@@ -68,8 +68,8 @@
           "iconClass": "Circle"
         }
       }, 
-      "layer": "AR", 
       "type": "Feature", 
+      "layer": "AR", 
       "geometry": {
         "coordinates": [
           -63.2444562, 
@@ -83,8 +83,8 @@
         "name": "Nichia Gakuin", 
         "description": "http://www.go.org.ar/clubes.php?club=nichia , Pringles 268, almagro , Sábados a partir de las 11hs , Masaaki Hayashi - http://www.go.org.ar/jugadores/mensaje.php?cod=995 , edit: https://goclubdb.herokuapp.com/club/67/"
       }, 
-      "layer": "AR", 
       "type": "Feature", 
+      "layer": "AR", 
       "geometry": {
         "coordinates": [
           -58.4277672469, 
@@ -98,8 +98,8 @@
         "name": "Puerto Madryn", 
         "description": "https://www.facebook.com/Go-en-Puerto-Madryn-1656472674597546/ , Puerto Madryn , Nos reunimos una vez por mes en lugares públicos/cafés, y participamos de eventos en la zona dictando talleres de introducción para principiantes. , Federico Ares http://www.go.org.ar/jugadores/mensaje.php?cod=834 \r\ngo.madryn@gmail.com , edit: https://goclubdb.herokuapp.com/club/66/"
       }, 
-      "layer": "AR", 
       "type": "Feature", 
+      "layer": "AR", 
       "geometry": {
         "coordinates": [
           -65.0366103, 
@@ -116,8 +116,8 @@
           "iconClass": "Ball"
         }
       }, 
-      "layer": "AR", 
       "type": "Feature", 
+      "layer": "AR", 
       "geometry": {
         "coordinates": [
           -57.5592902, 

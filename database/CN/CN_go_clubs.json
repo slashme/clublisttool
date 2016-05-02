@@ -5,8 +5,8 @@
         "name": "济南市", 
         "description": "edit: https://goclubdb.herokuapp.com/club/1360/"
       }, 
-      "layer": "CN", 
       "type": "Feature", 
+      "layer": "CN", 
       "geometry": {
         "coordinates": [
           117.127895447, 

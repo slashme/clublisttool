@@ -5,8 +5,8 @@
         "name": "Cape Town", 
         "description": "http://www.sagoclubs.co.za/cape-town-club/ , A Touch of Madness, 12 Nuttall Road. Under new management. The club will meet there for now, but will review. , Tuesday evenings from 19h00 , edit: https://goclubdb.herokuapp.com/club/976/"
       }, 
-      "layer": "ZA", 
       "type": "Feature", 
+      "layer": "ZA", 
       "geometry": {
         "coordinates": [
           18.4694891775, 
@@ -23,8 +23,8 @@
           "iconClass": "Circle"
         }
       }, 
-      "layer": "ZA", 
       "type": "Feature", 
+      "layer": "ZA", 
       "geometry": {
         "coordinates": [
           31.0382473064, 
@@ -38,8 +38,8 @@
         "name": "Joburg", 
         "description": "http://www.sagoclubs.co.za/joburg-club/ , Rosebank Mall – Fourno’s Bakery (Sunday mornings) Rosebank Mall – Mugg and Bean (Tuesday evenings) , Sundays (regularly) from 10:00 to 13:00 (approximately). Tuesdays (occasionally) from 19:00 to 21:00 (approximately). , edit: https://goclubdb.herokuapp.com/club/978/"
       }, 
-      "layer": "ZA", 
       "type": "Feature", 
+      "layer": "ZA", 
       "geometry": {
         "coordinates": [
           28.0431931028, 
@@ -56,8 +56,8 @@
           "iconClass": "Ball"
         }
       }, 
-      "layer": "ZA", 
       "type": "Feature", 
+      "layer": "ZA", 
       "geometry": {
         "coordinates": [
           22.153673172, 
@@ -74,8 +74,8 @@
           "iconClass": "Ball"
         }
       }, 
-      "layer": "ZA", 
       "type": "Feature", 
+      "layer": "ZA", 
       "geometry": {
         "coordinates": [
           25.5323982239, 
@@ -92,8 +92,8 @@
           "iconClass": "Ball"
         }
       }, 
-      "layer": "ZA", 
       "type": "Feature", 
+      "layer": "ZA", 
       "geometry": {
         "coordinates": [
           27.9047101736, 
@@ -110,8 +110,8 @@
           "iconClass": "Ball"
         }
       }, 
-      "layer": "ZA", 
       "type": "Feature", 
+      "layer": "ZA", 
       "geometry": {
         "coordinates": [
           28.2359846933, 
@@ -128,8 +128,8 @@
           "iconClass": "Ball"
         }
       }, 
-      "layer": "ZA", 
       "type": "Feature", 
+      "layer": "ZA", 
       "geometry": {
         "coordinates": [
           27.8636026382, 
@@ -146,8 +146,8 @@
           "iconClass": "Ball"
         }
       }, 
-      "layer": "ZA", 
       "type": "Feature", 
+      "layer": "ZA", 
       "geometry": {
         "coordinates": [
           18.8653730453, 
@@ -164,8 +164,8 @@
           "iconClass": "Circle"
         }
       }, 
-      "layer": "ZA", 
       "type": "Feature", 
+      "layer": "ZA", 
       "geometry": {
         "coordinates": [
           27.9972346056, 

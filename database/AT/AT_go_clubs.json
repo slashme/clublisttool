@@ -8,8 +8,8 @@
           "iconClass": "Circle"
         }
       }, 
-      "layer": "AT", 
       "type": "Feature", 
+      "layer": "AT", 
       "geometry": {
         "coordinates": [
           16.3425866, 
@@ -23,8 +23,8 @@
         "name": "Cafe-Meier", 
         "description": "http://linz.goverband.at/ , Pfarrplatz 7, Linz , Jeden Donnerstag ab 21:00, im Sommer ab 19:00 , linz@goverband.at , edit: https://goclubdb.herokuapp.com/club/56/"
       }, 
-      "layer": "AT", 
       "type": "Feature", 
+      "layer": "AT", 
       "geometry": {
         "coordinates": [
           14.28916, 
@@ -41,8 +41,8 @@
           "iconClass": "Circle"
         }
       }, 
-      "layer": "AT", 
       "type": "Feature", 
+      "layer": "AT", 
       "geometry": {
         "coordinates": [
           16.3551424, 
@@ -59,8 +59,8 @@
           "iconClass": "Circle"
         }
       }, 
-      "layer": "AT", 
       "type": "Feature", 
+      "layer": "AT", 
       "geometry": {
         "coordinates": [
           16.3783796, 
@@ -77,8 +77,8 @@
           "iconClass": "Circle"
         }
       }, 
-      "layer": "AT", 
       "type": "Feature", 
+      "layer": "AT", 
       "geometry": {
         "coordinates": [
           16.3365093, 
@@ -92,8 +92,8 @@
         "name": "Feldkirchen", 
         "description": "Roter Engel, Hauptplatz 6, 9560 Feldkirchen , Jeden Donnerstag ab 19:00 , Martin Scheichenbauer, 0699/814 49 366, martin.scheichenbauer@gmx.at , edit: https://goclubdb.herokuapp.com/club/61/"
       }, 
-      "layer": "AT", 
       "type": "Feature", 
+      "layer": "AT", 
       "geometry": {
         "coordinates": [
           14.0921266885, 
@@ -107,8 +107,8 @@
         "name": "Go7", 
         "description": "http://goverband.at/wp2/go7/ , Spiellokal des Go-Verbandes, Mariahilferstraße 82, U3- Station Zieglergasse, Aufgang Andreasgasse , Mo, Mi: 17:00-22:00, Sa: 15:00-20:00 , edit: https://goclubdb.herokuapp.com/club/47/"
       }, 
-      "layer": "AT", 
       "type": "Feature", 
+      "layer": "AT", 
       "geometry": {
         "coordinates": [
           16.3479559012, 
@@ -122,8 +122,8 @@
         "name": "Hohenems", 
         "description": "http://www.skhohenems.at/ , Schachklub Hohenems: Markus-Sittikus-Straße 6 beim Herrenried Stadion, Hohenems , Jeden Dienstag ab 20:00, im Winter oft schon ab 19:30 Im Sommer sicherheitshalber anrufen , Wilfried Mätzler: 0650/544 5466, wilfried.m@aon.at\r\nChristian Kessler: 0699/105 04 600 , edit: https://goclubdb.herokuapp.com/club/62/"
       }, 
-      "layer": "AT", 
       "type": "Feature", 
+      "layer": "AT", 
       "geometry": {
         "coordinates": [
           9.68117216348, 
@@ -137,8 +137,8 @@
         "name": "Karmeliterhof", 
         "description": "Karmeliterhof, Karmeliterplatz 2, Graz: 1. Stock, Eingangstüre ist ab 18 Uhr nur noch von innen zu öffnen , Jeden Mittwoch ab 16:30 Uhr , go-club@dkdz.at , edit: https://goclubdb.herokuapp.com/club/57/"
       }, 
-      "layer": "AT", 
       "type": "Feature", 
+      "layer": "AT", 
       "geometry": {
         "coordinates": [
           15.4406932, 
@@ -152,8 +152,8 @@
         "name": "Klagenfurt", 
         "description": "Cafe Ingeborg, Sterneckstraße 1, Klagenfurt , Mittwochs, ab 19:00, bitte vorher Kontakt aufnehmen, da wir zur Zeit nur wenige Spieler sind\r\nund der Treff manchmal nicht stattfindet , Thomas Ries, 0680/406 87 02, thomas.ries.de@gmail.com , edit: https://goclubdb.herokuapp.com/club/60/"
       }, 
-      "layer": "AT", 
       "type": "Feature", 
+      "layer": "AT", 
       "geometry": {
         "coordinates": [
           14.3020009, 
@@ -167,8 +167,8 @@
         "name": "Krems", 
         "description": "Hofrat-Erben-Straße 1, Krems-Lerchenfeld,  gegenüber Hotel „Orange Wings“ , 1. und 3. Dienstag im Monat, jeweils ab 19:30 , Johann Braunschweig, joweig@gmx.at, 0664/7368 6264 , edit: https://goclubdb.herokuapp.com/club/54/"
       }, 
-      "layer": "AT", 
       "type": "Feature", 
+      "layer": "AT", 
       "geometry": {
         "coordinates": [
           15.6356047891, 
@@ -182,8 +182,8 @@
         "name": "Rudi’s Cafe Bar", 
         "description": "Rudi’s Cafe Bar, Mittersteig 11, Wien , jeden Freitag ab 20 Uhr , edit: https://goclubdb.herokuapp.com/club/53/"
       }, 
-      "layer": "AT", 
       "type": "Feature", 
+      "layer": "AT", 
       "geometry": {
         "coordinates": [
           16.3636196, 
@@ -197,8 +197,8 @@
         "name": "Salzburg", 
         "description": "http://www.argekultur.at/beisl/go-club.aspx , ARGE-Beisl, Josef-Preis-Allee 16, Salzburg , Jeden Dienstag ab 19:00 , edit: https://goclubdb.herokuapp.com/club/59/"
       }, 
-      "layer": "AT", 
       "type": "Feature", 
+      "layer": "AT", 
       "geometry": {
         "coordinates": [
           13.0567746, 
@@ -212,8 +212,8 @@
         "name": "TU Wien", 
         "description": "http://tuwien.goverband.at/ , Cafe Nelsons, 2. Innenhof der TU-Wien, Karlsplatz, derzeit in den unteren Räumlichkeiten , Jeden Freitag während Unibetrieb ab 15 Uhr , edit: https://goclubdb.herokuapp.com/club/48/"
       }, 
-      "layer": "AT", 
       "type": "Feature", 
+      "layer": "AT", 
       "geometry": {
         "coordinates": [
           16.370057, 
@@ -227,8 +227,8 @@
         "name": "Wissensturm", 
         "description": "Kärntnerstraße 26, 10. Stock, Linz , Donnerstag an Schultagen, 18:30-21:30 , edit: https://goclubdb.herokuapp.com/club/55/"
       }, 
-      "layer": "AT", 
       "type": "Feature", 
+      "layer": "AT", 
       "geometry": {
         "coordinates": [
           12.7723680404, 

@@ -5,8 +5,8 @@
         "name": "Barcza Gedeon SC gó klubja", 
         "description": "http://goszovetseg.hu/?page=klub&mode=read&klubid=5 , Kispesti Kaszinó, Fő utca 42, Budapest , Szerda 17h-19h , https://www.facebook.com/groups/134596183285714 , edit: https://goclubdb.herokuapp.com/club/104/"
       }, 
-      "layer": "HU", 
       "type": "Feature", 
+      "layer": "HU", 
       "geometry": {
         "coordinates": [
           19.0404174, 
@@ -20,8 +20,8 @@
         "name": "Budai XI SE góklub", 
         "description": "http://goszovetseg.hu/?page=klub&mode=read&klubid=24 , Csiki-hegyek utcai Általános Iskola - könyvtára,\r\nBp. XI. ker Csiki-hegyek u. 13-15. (Gazdagrét) , péntekenként 14-18ó , Köllner Ödön kollnerodon@gmail.com , edit: https://goclubdb.herokuapp.com/club/105/"
       }, 
-      "layer": "HU", 
       "type": "Feature", 
+      "layer": "HU", 
       "geometry": {
         "coordinates": [
           18.9969753432908, 
@@ -35,8 +35,8 @@
         "name": "Debreceni Góklub", 
         "description": "http://goszovetseg.hu/?page=klub&mode=read&klubid=27 , Carpe Diem Teaház, Debrecen, Batthyány utca , minden szerdán 18 órától , https://www.facebook.com/groups/555416081195839/ , edit: https://goclubdb.herokuapp.com/club/106/"
       }, 
-      "layer": "HU", 
       "type": "Feature", 
+      "layer": "HU", 
       "geometry": {
         "coordinates": [
           21.60365, 
@@ -50,8 +50,8 @@
         "name": "Fehér Gó Klub", 
         "description": "http://goszovetseg.hu/?page=klub&mode=read&klubid=21 , 8000 Székesfehérvár , változó (mindig máshol) , fehergo@boviz.hu , edit: https://goclubdb.herokuapp.com/club/107/"
       }, 
-      "layer": "HU", 
       "type": "Feature", 
+      "layer": "HU", 
       "geometry": {
         "coordinates": [
           18.410811, 
@@ -65,8 +65,8 @@
         "name": "Gó Csaba Ház", 
         "description": "http://goszovetseg.hu/?page=klub&mode=read&klubid=29 , Budapest, Péceli út 222. , Péntek 18h-20h , https://www.facebook.com/groups/559403827471016 , edit: https://goclubdb.herokuapp.com/club/108/"
       }, 
-      "layer": "HU", 
       "type": "Feature", 
+      "layer": "HU", 
       "geometry": {
         "coordinates": [
           19.2983985, 
@@ -80,8 +80,8 @@
         "name": "Magyar-Kínai Két Tanítási Nyelvű Általános Iskola - gó szakkör", 
         "description": "http://goszovetseg.hu/?page=klub&mode=read&klubid=19 , Budapest, Kavicsos köz 4 , csütörtök 14.00-15.30 , mge.pestujhely@gmail.com , edit: https://goclubdb.herokuapp.com/club/109/"
       }, 
-      "layer": "HU", 
       "type": "Feature", 
+      "layer": "HU", 
       "geometry": {
         "coordinates": [
           19.1375761, 
@@ -95,8 +95,8 @@
         "name": "Miskolci Góklub", 
         "description": "http://goszovetseg.hu/?page=klub&mode=read&klubid=6 , Bakterház 3533 Miskolc (Bulgárföld), Andrássy Gyula u. 63. , Kedd: 17:30-19:00 Előzetes egyeztetés javallottt! , Márton Ádám (KGS: Aqwert) goklubmiskolc@gmail.com , edit: https://goclubdb.herokuapp.com/club/110/"
       }, 
-      "layer": "HU", 
       "type": "Feature", 
+      "layer": "HU", 
       "geometry": {
         "coordinates": [
           20.7147102, 
@@ -110,8 +110,8 @@
         "name": "MÜSZI gó klub", 
         "description": "http://goszovetseg.hu/?page=klub&mode=read&klubid=30 , Budapest Blaha Lujza tér 1. , Szerdánként, 19:00 órától , edit: https://goclubdb.herokuapp.com/club/111/"
       }, 
-      "layer": "HU", 
       "type": "Feature", 
+      "layer": "HU", 
       "geometry": {
         "coordinates": [
           19.069445, 
@@ -125,8 +125,8 @@
         "name": "Origó Klub Budapest", 
         "description": "http://goszovetseg.hu/?page=egyesulet&mode=readid&egyesuletid=12 , Koreai Kulturális Központ; Budapest, Csörsz u. 49-51. , minden csütörtökön 17:00-től 20:00-ig , Dienes Péter - dienespeter@gmail.com , edit: https://goclubdb.herokuapp.com/club/112/"
       }, 
-      "layer": "HU", 
       "type": "Feature", 
+      "layer": "HU", 
       "geometry": {
         "coordinates": [
           19.0216798, 
@@ -140,8 +140,8 @@
         "name": "PaGoda Gó Klub (1000Tea)", 
         "description": "http://www.pagodago.hu/index.php , 1000Tea Teaház, Budapest, Váci utca 65 , péntek 17:00-22:00 , Mészáros Gergely (elnök): 06-20-237-91-69 monk@geotronic.hu\r\nFazekas Dávid (promóciós vezető): fazekas.david80 kukac gmail.com , edit: https://goclubdb.herokuapp.com/club/113/"
       }, 
-      "layer": "HU", 
       "type": "Feature", 
+      "layer": "HU", 
       "geometry": {
         "coordinates": [
           19.0559212, 
@@ -155,8 +155,8 @@
         "name": "Pataky Gó Klub - az iskola tanulói számára", 
         "description": "http://goszovetseg.hu/?page=klub&mode=read&klubid=22 , Budapest, Salgótarjáni út 53/B , csütörtök 13:10-14:50 , kacsa@pataky.hu , edit: https://goclubdb.herokuapp.com/club/114/"
       }, 
-      "layer": "HU", 
       "type": "Feature", 
+      "layer": "HU", 
       "geometry": {
         "coordinates": [
           19.1197685486199, 
@@ -170,8 +170,8 @@
         "name": "Pestújhelyi Általános Iskola - gó szakkör", 
         "description": "http://goszovetseg.hu/?page=klub&mode=read&klubid=20 , Pestújhelyi út 38 , péntek 15.30-16.15 , mge.pestujhely@gmail.com , edit: https://goclubdb.herokuapp.com/club/115/"
       }, 
-      "layer": "HU", 
       "type": "Feature", 
+      "layer": "HU", 
       "geometry": {
         "coordinates": [
           19.1266543061512, 
@@ -185,8 +185,8 @@
         "name": "Sárkány DSE góklub", 
         "description": "http://goszovetseg.hu/?page=klub&mode=read&klubid=23 , Őrmezei Általános Iskola, Budapest, Menyecske utca 2. , Kedden és Csütörtökön 16:00-17:30 , Köllner Ödön 20-5155937, kollnerodon@gmail.com , edit: https://goclubdb.herokuapp.com/club/117/"
       }, 
-      "layer": "HU", 
       "type": "Feature", 
+      "layer": "HU", 
       "geometry": {
         "coordinates": [
           19.0142103, 
@@ -200,8 +200,8 @@
         "name": "Városmajori Gimnázium", 
         "description": "http://goszovetseg.hu/?page=klub&mode=read&klubid=28 , Budapest, Városmajor utca 71 , péntekenként 14.30-tól (tanítási napokon) , edit: https://goclubdb.herokuapp.com/club/116/"
       }, 
-      "layer": "HU", 
       "type": "Feature", 
+      "layer": "HU", 
       "geometry": {
         "coordinates": [
           19.0110944053085, 

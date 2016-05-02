@@ -5,8 +5,8 @@
         "name": "Antwerpen", 
         "description": "http://goclubantwerpen.be , De Nieuwe Zurenborger\r\nDageraadplaats 4 , Thursday at 20:00 , club_antwerpen@gofed.be , edit: https://goclubdb.herokuapp.com/club/16/"
       }, 
-      "layer": "BE", 
       "type": "Feature", 
+      "layer": "BE", 
       "geometry": {
         "coordinates": [
           4.4305036962, 
@@ -20,8 +20,8 @@
         "name": "Ath", 
         "description": "Café Donquichotte De La Dendre\r\nRue de France 38 , Wednesday 20:15 , club_ath@gofed.be , edit: https://goclubdb.herokuapp.com/club/17/"
       }, 
-      "layer": "BE", 
       "type": "Feature", 
+      "layer": "BE", 
       "geometry": {
         "coordinates": [
           3.78049582243, 
@@ -35,8 +35,8 @@
         "name": "Gents Go Genootschap", 
         "description": "The Outpost\r\nOttergemsesteenweg 13 , Tuesday at 19:00 , club_gent@gofed.be , edit: https://goclubdb.herokuapp.com/club/21/"
       }, 
-      "layer": "BE", 
       "type": "Feature", 
+      "layer": "BE", 
       "geometry": {
         "coordinates": [
           3.72702598572, 
@@ -50,8 +50,8 @@
         "name": "Hasselt", 
         "description": "Café De Linck\r\nMaastrichterstraat 107 , Thursday at 20:00 , club_hasselt@gofed.be , edit: https://goclubdb.herokuapp.com/club/22/"
       }, 
-      "layer": "BE", 
       "type": "Feature", 
+      "layer": "BE", 
       "geometry": {
         "coordinates": [
           5.34317292273, 
@@ -65,8 +65,8 @@
         "name": "Le Pantin - Monday", 
         "description": "Le Pantin, ch. d'Ixelles 355 , Monday 17:00 - 20:00 , club_pantin@gofed.be , edit: https://goclubdb.herokuapp.com/club/19/"
       }, 
-      "layer": "BE", 
       "type": "Feature", 
+      "layer": "BE", 
       "geometry": {
         "coordinates": [
           4.37093518674, 
@@ -80,8 +80,8 @@
         "name": "Le Pantin - Saturday", 
         "description": "L'Eau Chaude, Rue des renards, 25 , 16:00-20:00 , club_pantin@gofed.be , edit: https://goclubdb.herokuapp.com/club/20/"
       }, 
-      "layer": "BE", 
       "type": "Feature", 
+      "layer": "BE", 
       "geometry": {
         "coordinates": [
           4.34806868434, 
@@ -95,8 +95,8 @@
         "name": "Leuven", 
         "description": "http://www.goclubleuven.be/ , Cafe Sport\r\nMartelarenplein 13 , Tuesdays at 20:15 , club_leuven@gofed.be , edit: https://goclubdb.herokuapp.com/club/23/"
       }, 
-      "layer": "BE", 
       "type": "Feature", 
+      "layer": "BE", 
       "geometry": {
         "coordinates": [
           4.71393942833, 
@@ -110,8 +110,8 @@
         "name": "Liège", 
         "description": "http://www.goliege.be/ , Le Toussaint\r\nRue Ernest de Bavière 1 , Thursday at 18:30 , club_liege@gofed.be , edit: https://goclubdb.herokuapp.com/club/24/"
       }, 
-      "layer": "BE", 
       "type": "Feature", 
+      "layer": "BE", 
       "geometry": {
         "coordinates": [
           5.58223955333, 
@@ -125,8 +125,8 @@
         "name": "Louvain-La-Neuve", 
         "description": "Café Altérez-Vous\r\nPlace des Brabançons 6A , Tuesday at 20:30 , club_lln@gofed.be , edit: https://goclubdb.herokuapp.com/club/25/"
       }, 
-      "layer": "BE", 
       "type": "Feature", 
+      "layer": "BE", 
       "geometry": {
         "coordinates": [
           4.61615681648, 
@@ -140,8 +140,8 @@
         "name": "Namur", 
         "description": "http://membres.lycos.fr/namurgoclub , La Fontaine\r\nPlace St Aubain , Tuesday at 20:00 , club_namur@gofed.be , edit: https://goclubdb.herokuapp.com/club/26/"
       }, 
-      "layer": "BE", 
       "type": "Feature", 
+      "layer": "BE", 
       "geometry": {
         "coordinates": [
           4.8610801079, 
@@ -155,8 +155,8 @@
         "name": "Phénix GO Club", 
         "description": "https://gophenix.wordpress.com , Outpost game center\r\nRue de la Tribune,8 , Wednesday 19:00 - 24:00 , club_phenix@gofed.be , edit: https://goclubdb.herokuapp.com/club/18/"
       }, 
-      "layer": "BE", 
       "type": "Feature", 
+      "layer": "BE", 
       "geometry": {
         "coordinates": [
           4.36522141099, 
