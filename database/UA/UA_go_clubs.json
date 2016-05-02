@@ -1,0 +1,215 @@
+{
+  "features": [
+    {
+      "properties": {
+        "name": "50-паралель", 
+        "description": "м. Харків, вул. Раднаркомівська, буд. 10,\r\n(“Дім учених”, біля ст. м. “Архітектора Бекетова”) , Вт, Сб: 18:00 – 20:30 , https://www.facebook.com/kharkiv.go.club\r\nhttps://vk.com/kharkiv_go_club , edit: https://goclubdb.herokuapp.com/club/157/"
+      }, 
+      "type": "Feature", 
+      "layer": "UA", 
+      "geometry": {
+        "coordinates": [
+          36.2389482405, 
+          49.9987724317
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Вундеркінд", 
+        "description": "м. Харків, пр-т Гагаріна, 45-а,\r\n(йти від ст. м. “Спортивна” або\r\n“Метробудівників ім. Г.І.Ващенко”) , Вт, Чт: 18:00 – 20:00 , edit: https://goclubdb.herokuapp.com/club/158/"
+      }, 
+      "type": "Feature", 
+      "layer": "UA", 
+      "geometry": {
+        "coordinates": [
+          36.257313164557, 
+          49.9747141137025
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Даме", 
+        "description": "https://www.facebook.com/gopoltava , ул. Октябрськая, 66, комната 704-а, Poltava , По суботах з 12:00 , edit: https://goclubdb.herokuapp.com/club/155/"
+      }, 
+      "type": "Feature", 
+      "layer": "UA", 
+      "geometry": {
+        "coordinates": [
+          34.51153, 
+          49.59721
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Івано-Франківський Клуб гри Го - \"Прометей\"", 
+        "description": "http://katori.at.ua/index/klub_igri_go/0-146 , вул.Вовчинецька 198, клуб \"Прометей\" , Вівторок - 17:00-21:00\r\nПятниця- 17:00-21:00 , edit: https://goclubdb.herokuapp.com/club/152/"
+      }, 
+      "type": "Feature", 
+      "layer": "UA", 
+      "geometry": {
+        "coordinates": [
+          24.7438716888423, 
+          48.9429841209437
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Кайдзен", 
+        "description": "м. Київ, пров. Артилерійський, 5-а, 1 пов.\r\n(окремий вхід праворуч від салону краси) , Пн: 19:00 – 21:00 – лекція\r\nВт, Чт: 19:00 – 21:00 – для початківців\r\nСр, Пт: 16:00 – 18:00 – для дітей,\r\n18:00 – 20:00 – для дорослих , https://www.facebook.com/kaizen.tea.go/ , edit: https://goclubdb.herokuapp.com/club/148/"
+      }, 
+      "type": "Feature", 
+      "layer": "UA", 
+      "geometry": {
+        "coordinates": [
+          30.4225685666868, 
+          50.4608811669487
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Каторі - Неділя", 
+        "description": "http://katori.at.ua/index/klub_igri_go/0-146 , р-н міського Озера, Південний Бульвар 40, клуб Мангуста , Неділя - з 12:00 , edit: https://goclubdb.herokuapp.com/club/153/"
+      }, 
+      "type": "Feature", 
+      "layer": "UA", 
+      "geometry": {
+        "coordinates": [
+          24.6970380500153, 
+          48.9207204495628
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Каторі - Субота", 
+        "description": "http://katori.at.ua/index/klub_igri_go/0-146 , р-н Позитрон, Школа 8 , Субота - з 12:00 , edit: https://goclubdb.herokuapp.com/club/151/"
+      }, 
+      "type": "Feature", 
+      "layer": "UA", 
+      "geometry": {
+        "coordinates": [
+          25.0475276838745, 
+          48.5382341440682
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Клуб “Малятко і сім’я” на Салтовці", 
+        "description": "http://malyatko.kh.ua/ , м. Харків, вул. Тракторобудівників, буд. 105-в\r\n(їхати від ст. м. “Героїв Праці”) , Вт, Чт: 15:00 – 19:00 , edit: https://goclubdb.herokuapp.com/club/159/"
+      }, 
+      "type": "Feature", 
+      "layer": "UA", 
+      "geometry": {
+        "coordinates": [
+          36.361951532276, 
+          50.0225429418248
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Клуб у м. Дніпропетровськ", 
+        "description": "м. Дніпропетровськ, вул. Дзержинського, 27\r\n(Міський шахово-шашковий клуб ім. І.С.Уріха)\r\nДістатись можна на МТ № 132, 116, 78, 126\r\nабо з пр. Карла Маркса , Сб з 14:00, 3-4 години (макс. до 21:30) , edit: https://goclubdb.herokuapp.com/club/149/"
+      }, 
+      "type": "Feature", 
+      "layer": "UA", 
+      "geometry": {
+        "coordinates": [
+          35.0610296545233, 
+          48.4618579875601
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Косумі", 
+        "description": "http://odessa.ufgo.org/ , м. Одеса, вул. Канатна, 95\r\n(Об’єднання шахово-шашкових клубів Одеської області) , Нд: 11:00 – 15:00 , https://www.facebook.com/OdessaClubKosumi , edit: https://goclubdb.herokuapp.com/club/154/"
+      }, 
+      "type": "Feature", 
+      "layer": "UA", 
+      "geometry": {
+        "coordinates": [
+          30.7458409153444, 
+          46.4628441708703
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Спортивний відділ КПДЮ", 
+        "description": "http://www.palace.kiev.ua , м. Київ, вул. Івана Мазепи, 13, каб. 319-321, 3 пов. , Вт, Чт: 14:30 – 18:00\r\nСр, ПТ: 17:00 – 19:30\r\nСб, Нд: 10:00 – 16:00 , http://vk.com/palacekiev\r\nhttps://www.facebook.com/kievpalace , edit: https://goclubdb.herokuapp.com/club/146/"
+      }, 
+      "type": "Feature", 
+      "layer": "UA", 
+      "geometry": {
+        "coordinates": [
+          30.5514687420428, 
+          50.4413714685871
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Супутник", 
+        "description": "http://vk.com/club1986252 , м. Київ, вул. Шота Руставелі, буд. 22-б , Вт, Чт, Сб: 18:00 – 21:00 , edit: https://goclubdb.herokuapp.com/club/145/"
+      }, 
+      "type": "Feature", 
+      "layer": "UA", 
+      "geometry": {
+        "coordinates": [
+          30.518254244041, 
+          50.4388804158612
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Українсько-Японський Центр", 
+        "description": "http://uajc.com.ua , м. Київ, пр. Перемоги, 37, 4 пов. (бібліотека) , Пн, Ср: 18:30 – 20:30\r\nЗаняття ведуться за семестровою системою\r\nз жовтня по червень , https://vk.com/club8357683\r\nhttps://www.facebook.com/pages/Ukraine-Japan-Center/125011520952938 , edit: https://goclubdb.herokuapp.com/club/147/"
+      }, 
+      "type": "Feature", 
+      "layer": "UA", 
+      "geometry": {
+        "coordinates": [
+          30.4561351366018, 
+          50.4496314275305
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Школа інтелектуальних ігор РМПДМ", 
+        "description": "http://www.intelgamespdm.rv.ua/ , м. Рівне, вул. Марка Вовчка, буд. 29-а,\r\nзагальноосвітня школа № 9, каб. № 27 та 29\r\n(Ресурсний центр Школи інтелектуальних ігор РМПДМ) , Пн-Сб: навчальний процес відповідно до розкладу груп\r\nПо суботах з 15:00 – турнір вихідного дня , vk62@ufgo.org , edit: https://goclubdb.herokuapp.com/club/156/"
+      }, 
+      "type": "Feature", 
+      "layer": "UA", 
+      "geometry": {
+        "coordinates": [
+          26.2730038, 
+          50.6130082
+        ], 
+        "type": "Point"
+      }
+    }
+  ], 
+  "type": "FeatureCollection"
+}
