@@ -2,15 +2,15 @@
   "features": [
     {
       "properties": {
-        "name": "Ankara'da Go Mekanları", 
-        "description": "http://www.gokulubu.hacettepe.edu.tr/index.php?option=com_content&view=article&id=49&Itemid=76 , Kızılırmak Caddesi 35/3 Kızılay, Ankara , Her Pazar , 14:00-20:00 arası , edit: https://goclubdb.herokuapp.com/club/132/"
+        "name": "Hacettepe University Go Club", 
+        "description": "http://www.gokulubu.hacettepe.edu.tr , Saglik, Kultur, Spor Dairesi Baskanliği toplanti salonlari, Beytepe Kampusu , Wednesday 16:00 EET , edit: https://goclubdb.herokuapp.com/club/150/"
       }, 
       "type": "Feature", 
       "layer": "TR", 
       "geometry": {
         "coordinates": [
-          32.8537263, 
-          39.9206187
+          32.7359050512533, 
+          39.8712066713398
         ], 
         "type": "Point"
       }
@@ -24,8 +24,8 @@
       "layer": "TR", 
       "geometry": {
         "coordinates": [
-          29.0266084671026, 
-          40.9868178231674
+          29.0266084671, 
+          40.9868178232
         ], 
         "type": "Point"
       }
@@ -56,6 +56,21 @@
         "coordinates": [
           32.789694, 
           39.888055
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Orta Dunya Cafe", 
+        "description": "https://www.facebook.com/KafeOrtaDunya/?rf=158820547518438 , Kızılırmak Caddesi 35/3 Kızılay, Ankara , Sunday, 14:00-20:00 , edit: https://goclubdb.herokuapp.com/club/132/"
+      }, 
+      "type": "Feature", 
+      "layer": "TR", 
+      "geometry": {
+        "coordinates": [
+          32.8537263, 
+          39.9206187
         ], 
         "type": "Point"
       }

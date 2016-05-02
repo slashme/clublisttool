@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "properties": {
+        "name": "ČERTi Nové Zámky", 
+        "description": "Jiráskova 25, Nové Zámky , certi@posli.to , edit: https://goclubdb.herokuapp.com/club/142/"
+      }, 
+      "type": "Feature", 
+      "layer": "SK", 
+      "geometry": {
+        "coordinates": [
+          18.1643005037383, 
+          47.99175975
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Go Klub 361!", 
+        "description": "http://361.or.cz/ , v priestoroch Bratislavskej čajovne ČAJKA, situovanej blízko historického centra na Ferienčíkova ulica 5 , V čajovni sa stretávame pravidelne každú stredu od 18:00 do 22:00 , edit: https://goclubdb.herokuapp.com/club/136/"
+      }, 
+      "type": "Feature", 
+      "layer": "SK", 
+      "geometry": {
+        "coordinates": [
+          17.1201999, 
+          48.1467673
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Go klub Košice", 
+        "description": "Bruselská 13, Košice , kralikslavomir@gmail.com rabbits@seznam.cz , edit: https://goclubdb.herokuapp.com/club/138/"
+      }, 
+      "type": "Feature", 
+      "layer": "SK", 
+      "geometry": {
+        "coordinates": [
+          21.2644194, 
+          48.7574095
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Go klub Lokomotíva Bratislava", 
+        "description": "Záhradnícka 74, Bratislava , hrdinovalu@gmail.com , edit: https://goclubdb.herokuapp.com/club/139/"
+      }, 
+      "type": "Feature", 
+      "layer": "SK", 
+      "geometry": {
+        "coordinates": [
+          17.1419312, 
+          48.1556625
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Go klub Matfyz Bratislava", 
+        "description": "Polárna 4, Bratislava , vivi@vivihoadresa.info , edit: https://goclubdb.herokuapp.com/club/141/"
+      }, 
+      "type": "Feature", 
+      "layer": "SK", 
+      "geometry": {
+        "coordinates": [
+          17.171197781724, 
+          48.1596636
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Kirin Ki-in", 
+        "description": "Adlerova 2, Košice , draco@draco.sk , edit: https://goclubdb.herokuapp.com/club/140/"
+      }, 
+      "type": "Feature", 
+      "layer": "SK", 
+      "geometry": {
+        "coordinates": [
+          21.2765846596775, 
+          48.7444839
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "TaoGo", 
+        "description": "http://www.taogo.taojoga.sk/ , Kremnická 26, Bratislava , taogo@taojoga.sk , edit: https://goclubdb.herokuapp.com/club/143/"
+      }, 
+      "type": "Feature", 
+      "layer": "SK", 
+      "geometry": {
+        "coordinates": [
+          17.0915825216055, 
+          48.126115
+        ], 
+        "type": "Point"
+      }
+    }, 
+    {
+      "properties": {
+        "name": "Tengen Galanta", 
+        "description": "Hraničná 11, Bratislava , miropoliak@hotmail.com , edit: https://goclubdb.herokuapp.com/club/144/"
+      }, 
+      "type": "Feature", 
+      "layer": "SK", 
+      "geometry": {
+        "coordinates": [
+          17.158759, 
+          48.147287
+        ], 
+        "type": "Point"
+      }
+    }
+  ], 
+  "type": "FeatureCollection"
+}
