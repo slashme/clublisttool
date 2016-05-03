@@ -1,11 +1,7 @@
 {
+  "type": "FeatureCollection", 
   "features": [
     {
-      "properties": {
-        "name": "Associação Nikkei", 
-        "description": "Rua Cosme Velho 1166, Cosme Velho, Rio de Janeiro , Sábados das 11h às 16h , edit: https://goclubdb.herokuapp.com/club/172/"
-      }, 
-      "type": "Feature", 
       "layer": "BR", 
       "geometry": {
         "coordinates": [
@@ -13,14 +9,14 @@
           -22.9402728
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "Rua Cosme Velho 1166, Cosme Velho, Rio de Janeiro , Sábados das 11h às 16h , edit: https://goclubdb.herokuapp.com/club/172/", 
+        "name": "Associação Nikkei"
       }
     }, 
     {
-      "properties": {
-        "name": "Clube de Go São Carlos", 
-        "description": "Rua Napoleão Geminiano 129, São Carlos , Terça-feira das 19h às 22h e sábados das 14h às 17h , edit: https://goclubdb.herokuapp.com/club/170/"
-      }, 
-      "type": "Feature", 
       "layer": "BR", 
       "geometry": {
         "coordinates": [
@@ -28,14 +24,14 @@
           -22.0016131
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "Rua Napoleão Geminiano 129, São Carlos , Terça-feira das 19h às 22h e sábados das 14h às 17h , edit: https://goclubdb.herokuapp.com/club/170/", 
+        "name": "Clube de Go São Carlos"
       }
     }, 
     {
-      "properties": {
-        "name": "Clube de Go USP", 
-        "description": "Faculdade de São Paulo , Sexta-feira das 10h até as 14h , edit: https://goclubdb.herokuapp.com/club/169/"
-      }, 
-      "type": "Feature", 
       "layer": "BR", 
       "geometry": {
         "coordinates": [
@@ -43,14 +39,14 @@
           -23.54995
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "Faculdade de São Paulo , Sexta-feira das 10h até as 14h , edit: https://goclubdb.herokuapp.com/club/169/", 
+        "name": "Clube de Go USP"
       }
     }, 
     {
-      "properties": {
-        "name": "Curitiba", 
-        "description": "UTFPR, Curitiba , 13:30 às 15:30 Sala 205 e 19h às 21h Sala 106 , edit: https://goclubdb.herokuapp.com/club/171/"
-      }, 
-      "type": "Feature", 
       "layer": "BR", 
       "geometry": {
         "coordinates": [
@@ -58,14 +54,14 @@
           -25.4434739058614
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "UTFPR, Curitiba , 13:30 às 15:30 Sala 205 e 19h às 21h Sala 106 , edit: https://goclubdb.herokuapp.com/club/171/", 
+        "name": "Curitiba"
       }
     }, 
     {
-      "properties": {
-        "name": "Nihon Kiin Brasil", 
-        "description": "Rua Dr. Fabricio Vampré, 116, Ana Rosa, São Paulo , De terça-feira à Domingo das 13h as 19h , edit: https://goclubdb.herokuapp.com/club/167/"
-      }, 
-      "type": "Feature", 
       "layer": "BR", 
       "geometry": {
         "coordinates": [
@@ -73,14 +69,14 @@
           -23.5829948
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "Rua Dr. Fabricio Vampré, 116, Ana Rosa, São Paulo , De terça-feira à Domingo das 13h as 19h , edit: https://goclubdb.herokuapp.com/club/167/", 
+        "name": "Nihon Kiin Brasil"
       }
     }, 
     {
-      "properties": {
-        "name": "Paulista Go Center", 
-        "description": "Alameda Santos, 2326, Jardim Paulista, São Paulo , Quinta-feira das 19:30 às 23h , edit: https://goclubdb.herokuapp.com/club/168/"
-      }, 
-      "type": "Feature", 
       "layer": "BR", 
       "geometry": {
         "coordinates": [
@@ -88,8 +84,12 @@
           -23.5580076658344
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "Alameda Santos, 2326, Jardim Paulista, São Paulo , Quinta-feira das 19:30 às 23h , edit: https://goclubdb.herokuapp.com/club/168/", 
+        "name": "Paulista Go Center"
       }
     }
-  ], 
-  "type": "FeatureCollection"
+  ]
 }

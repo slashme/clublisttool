@@ -1,11 +1,7 @@
 {
+  "type": "FeatureCollection", 
   "features": [
     {
-      "properties": {
-        "name": "Magem Go club", 
-        "description": "Magem building, Famagusta , Every Tuesday 18:00 , Nurman Aylanc nurmana@hotmail.com (tel. 0090 533 862 9582) , edit: https://goclubdb.herokuapp.com/club/1079/"
-      }, 
-      "type": "Feature", 
       "layer": "CY", 
       "geometry": {
         "coordinates": [
@@ -13,14 +9,14 @@
           35.1315530262
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "Magem building, Famagusta , Every Tuesday 18:00 , Nurman Aylanc nurmana@hotmail.com (tel. 0090 533 862 9582) , edit: https://goclubdb.herokuapp.com/club/1079/", 
+        "name": "Magem Go club"
       }
     }, 
     {
-      "properties": {
-        "name": "Nicosia", 
-        "description": "Arabica Cafe in Nicosia , every Saturday, starting around 17:30 , edit: https://goclubdb.herokuapp.com/club/1080/"
-      }, 
-      "type": "Feature", 
       "layer": "CY", 
       "geometry": {
         "coordinates": [
@@ -28,14 +24,14 @@
           35.1420903933
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "Arabica Cafe in Nicosia , every Saturday, starting around 17:30 , edit: https://goclubdb.herokuapp.com/club/1080/", 
+        "name": "Nicosia"
       }
     }, 
     {
-      "properties": {
-        "name": "Pissouri Go Club", 
-        "description": "The Group leader is Jolyon Kay, tel. 25222363. Please contact him for the venue of the meeting because now they meet in member's houses in rotation. , edit: https://goclubdb.herokuapp.com/club/1081/"
-      }, 
-      "type": "Feature", 
       "layer": "CY", 
       "geometry": {
         "coordinates": [
@@ -43,17 +39,14 @@
           34.6665348447
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "The Group leader is Jolyon Kay, tel. 25222363. Please contact him for the venue of the meeting because now they meet in member's houses in rotation. , edit: https://goclubdb.herokuapp.com/club/1081/", 
+        "name": "Pissouri Go Club"
       }
     }, 
     {
-      "properties": {
-        "name": "Polykentro Neolaias Go Club", 
-        "description": "Meetings: Postponed Meeting place: Polykentro Neolaias, 14 Tombazi Street, Lykavitos, Nicosia Time: TBA This club is for children of ages 6-13. It is the ideal place for children to discover the game of Go. Parents and teachersare welcome to play with us as well.Information: Call 22 87 75 10 or email Dimitris Regginos: regginos@gmail.com - www.regginos.com , edit: https://goclubdb.herokuapp.com/club/1082/", 
-        "_storage_options": {
-          "iconClass": "Circle"
-        }
-      }, 
-      "type": "Feature", 
       "layer": "CY", 
       "geometry": {
         "coordinates": [
@@ -61,8 +54,15 @@
           35.1677393623
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Circle"
+        }, 
+        "description": "Meetings: Postponed Meeting place: Polykentro Neolaias, 14 Tombazi Street, Lykavitos, Nicosia Time: TBA This club is for children of ages 6-13. It is the ideal place for children to discover the game of Go. Parents and teachersare welcome to play with us as well.Information: Call 22 87 75 10 or email Dimitris Regginos: regginos@gmail.com - www.regginos.com , edit: https://goclubdb.herokuapp.com/club/1082/", 
+        "name": "Polykentro Neolaias Go Club"
       }
     }
-  ], 
-  "type": "FeatureCollection"
+  ]
 }

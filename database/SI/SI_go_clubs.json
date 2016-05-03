@@ -1,11 +1,7 @@
 {
+  "type": "FeatureCollection", 
   "features": [
     {
-      "properties": {
-        "name": "Go delavnica za začetnike", 
-        "description": "http://www.mkk.si/2016/05/03/igra-go-65/ , Mestna knjižnica Kranj, Gregorčičeva ulica 1, Kranj , vsak torek od 18. do 20. ure , kranj@go-zveza.si , edit: https://goclubdb.herokuapp.com/club/99/"
-      }, 
-      "type": "Feature", 
       "layer": "SI", 
       "geometry": {
         "coordinates": [
@@ -13,14 +9,14 @@
           46.2416906
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.mkk.si/2016/05/03/igra-go-65/ , Mestna knjižnica Kranj, Gregorčičeva ulica 1, Kranj , vsak torek od 18. do 20. ure , kranj@go-zveza.si , edit: https://goclubdb.herokuapp.com/club/99/", 
+        "name": "Go delavnica za začetnike"
       }
     }, 
     {
-      "properties": {
-        "name": "Go društvo Kranj", 
-        "description": "http://www.go-zveza.si/za-igralce/go-v-sloveniji , Bar Mitnica,Tavčarjeva 35, Kranj , vsak torek od 20. ure dalje , kranj@go-zveza.si , edit: https://goclubdb.herokuapp.com/club/98/"
-      }, 
-      "type": "Feature", 
       "layer": "SI", 
       "geometry": {
         "coordinates": [
@@ -28,14 +24,14 @@
           46.2391151
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.go-zveza.si/za-igralce/go-v-sloveniji , Bar Mitnica,Tavčarjeva 35, Kranj , vsak torek od 20. ure dalje , kranj@go-zveza.si , edit: https://goclubdb.herokuapp.com/club/98/", 
+        "name": "Go društvo Kranj"
       }
     }, 
     {
-      "properties": {
-        "name": "Go društvo Ljubljana", 
-        "description": "http://www.go-zveza.si/za-igralce/go-v-sloveniji , caffe Delfin, Hacquetova ulica 6, Ljubljana , vsak drugi četrtek od 20. ure dalje , ljubljana@go-zveza.si , edit: https://goclubdb.herokuapp.com/club/100/"
-      }, 
-      "type": "Feature", 
       "layer": "SI", 
       "geometry": {
         "coordinates": [
@@ -43,14 +39,14 @@
           46.0603983
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.go-zveza.si/za-igralce/go-v-sloveniji , caffe Delfin, Hacquetova ulica 6, Ljubljana , vsak drugi četrtek od 20. ure dalje , ljubljana@go-zveza.si , edit: https://goclubdb.herokuapp.com/club/100/", 
+        "name": "Go društvo Ljubljana"
       }
     }, 
     {
-      "properties": {
-        "name": "Go društvo Maribor", 
-        "description": "http://www.go-zveza.si/za-igralce/go-v-sloveniji , Zlati lev, Vodnikov trg, Maribor , vsak torek od 20. ure dalje , maribor@go-zveza.si , edit: https://goclubdb.herokuapp.com/club/101/"
-      }, 
-      "type": "Feature", 
       "layer": "SI", 
       "geometry": {
         "coordinates": [
@@ -58,8 +54,12 @@
           46.5580571
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.go-zveza.si/za-igralce/go-v-sloveniji , Zlati lev, Vodnikov trg, Maribor , vsak torek od 20. ure dalje , maribor@go-zveza.si , edit: https://goclubdb.herokuapp.com/club/101/", 
+        "name": "Go društvo Maribor"
       }
     }
-  ], 
-  "type": "FeatureCollection"
+  ]
 }

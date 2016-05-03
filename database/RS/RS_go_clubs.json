@@ -1,11 +1,7 @@
 {
+  "type": "FeatureCollection", 
   "features": [
     {
-      "properties": {
-        "name": "Radnicki Kragujevac", 
-        "description": "TC Prostor, prvi sprat , Wednesday evening and during weekends , dubakovic@gmail.com , edit: https://goclubdb.herokuapp.com/club/81/"
-      }, 
-      "type": "Feature", 
       "layer": "RS", 
       "geometry": {
         "coordinates": [
@@ -13,14 +9,14 @@
           44.0125554291428
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "TC Prostor, prvi sprat , Wednesday evening and during weekends , dubakovic@gmail.com , edit: https://goclubdb.herokuapp.com/club/81/", 
+        "name": "Radnicki Kragujevac"
       }
     }, 
     {
-      "properties": {
-        "name": "Spartak Subotica", 
-        "description": "Tuesday evening and Thursday evening , edit: https://goclubdb.herokuapp.com/club/82/"
-      }, 
-      "type": "Feature", 
       "layer": "RS", 
       "geometry": {
         "coordinates": [
@@ -28,8 +24,12 @@
           46.1048952468232
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "Tuesday evening and Thursday evening , edit: https://goclubdb.herokuapp.com/club/82/", 
+        "name": "Spartak Subotica"
       }
     }
-  ], 
-  "type": "FeatureCollection"
+  ]
 }

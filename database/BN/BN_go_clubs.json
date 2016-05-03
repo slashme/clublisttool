@@ -1,11 +1,7 @@
 {
+  "type": "FeatureCollection", 
   "features": [
     {
-      "properties": {
-        "name": "Capital Residence Suite Go Club", 
-        "description": "http://www.facebook.com/groups/bruneigo , Simpang 2, Bandar Seri Begawan BS8211 , 8pm - 10.30pm , Ignatius CHIN (Head-Coach)\r\n+6737234768 , edit: https://goclubdb.herokuapp.com/club/80/"
-      }, 
-      "type": "Feature", 
       "layer": "BN", 
       "geometry": {
         "coordinates": [
@@ -13,8 +9,12 @@
           4.89247241031048
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.facebook.com/groups/bruneigo , Simpang 2, Bandar Seri Begawan BS8211 , 8pm - 10.30pm , Ignatius CHIN (Head-Coach)\r\n+6737234768 , edit: https://goclubdb.herokuapp.com/club/80/", 
+        "name": "Capital Residence Suite Go Club"
       }
     }
-  ], 
-  "type": "FeatureCollection"
+  ]
 }

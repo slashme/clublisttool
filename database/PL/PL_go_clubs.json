@@ -1,11 +1,7 @@
 {
+  "type": "FeatureCollection", 
   "features": [
     {
-      "properties": {
-        "name": "Bielski klub Go Igoyama", 
-        "description": "http://bielsko.meijin.pl/ , w \"Strefie gry\", Bielsko-Biała ul. Gazownicza 21 , Spotkania odbywają się raz w tygodniu, we wtorki od godziny 17. Spotkania zwykle trwają 3-4 godziny. , Janusz Gindera tel. 609 057 120\r\nAndrzej Gęga tel. 721 131 880, e-mail a_gega@wp.pl, gg 5011013 , edit: https://goclubdb.herokuapp.com/club/72/"
-      }, 
-      "type": "Feature", 
       "layer": "PL", 
       "geometry": {
         "coordinates": [
@@ -13,14 +9,14 @@
           49.8280346
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://bielsko.meijin.pl/ , w \"Strefie gry\", Bielsko-Biała ul. Gazownicza 21 , Spotkania odbywają się raz w tygodniu, we wtorki od godziny 17. Spotkania zwykle trwają 3-4 godziny. , Janusz Gindera tel. 609 057 120\r\nAndrzej Gęga tel. 721 131 880, e-mail a_gega@wp.pl, gg 5011013 , edit: https://goclubdb.herokuapp.com/club/72/", 
+        "name": "Bielski klub Go Igoyama"
       }
     }, 
     {
-      "properties": {
-        "name": "Bydgoski Klub", 
-        "description": "http://bydgoszcz.go.art.pl/ , VI LO, ul. Staszica 4, Bydgoszcz , poniedziałki 16-20, czwartki 16-19 , bydgoszczMAŁPAgo.art.pl \r\nhttp://groups.yahoo.com/groups/jakotako/ , edit: https://goclubdb.herokuapp.com/club/73/"
-      }, 
-      "type": "Feature", 
       "layer": "PL", 
       "geometry": {
         "coordinates": [
@@ -28,14 +24,14 @@
           53.1280735
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://bydgoszcz.go.art.pl/ , VI LO, ul. Staszica 4, Bydgoszcz , poniedziałki 16-20, czwartki 16-19 , bydgoszczMAŁPAgo.art.pl \r\nhttp://groups.yahoo.com/groups/jakotako/ , edit: https://goclubdb.herokuapp.com/club/73/", 
+        "name": "Bydgoski Klub"
       }
     }, 
     {
-      "properties": {
-        "name": "Gdański Klub Go \"Dango\"", 
-        "description": "http://gdansk.go.art.pl/kontakt , sklep Rebel, ul. Matejki 6 (wejście od Sienkiewicza) , czwartki, 16-18 , edit: https://goclubdb.herokuapp.com/club/74/"
-      }, 
-      "type": "Feature", 
       "layer": "PL", 
       "geometry": {
         "coordinates": [
@@ -43,14 +39,14 @@
           54.3747487
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://gdansk.go.art.pl/kontakt , sklep Rebel, ul. Matejki 6 (wejście od Sienkiewicza) , czwartki, 16-18 , edit: https://goclubdb.herokuapp.com/club/74/", 
+        "name": "Gdański Klub Go \"Dango\""
       }
     }, 
     {
-      "properties": {
-        "name": "Gliwice", 
-        "description": "http://gliwice.go.art.pl/index.php?page=kontakt , GCOP, ul. Jagiellońska 21 , wtorki, 16-20 , gliwice@go.art.pl , edit: https://goclubdb.herokuapp.com/club/75/"
-      }, 
-      "type": "Feature", 
       "layer": "PL", 
       "geometry": {
         "coordinates": [
@@ -58,14 +54,14 @@
           50.2953831210294
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://gliwice.go.art.pl/index.php?page=kontakt , GCOP, ul. Jagiellońska 21 , wtorki, 16-20 , gliwice@go.art.pl , edit: https://goclubdb.herokuapp.com/club/75/", 
+        "name": "Gliwice"
       }
     }, 
     {
-      "properties": {
-        "name": "Kielce", 
-        "description": "WSH w Kielcach, ul. Peryferyjna 15; budynek A, sala 105 , czwartki 17-19 , edit: https://goclubdb.herokuapp.com/club/76/"
-      }, 
-      "type": "Feature", 
       "layer": "PL", 
       "geometry": {
         "coordinates": [
@@ -73,8 +69,12 @@
           50.9034564
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "WSH w Kielcach, ul. Peryferyjna 15; budynek A, sala 105 , czwartki 17-19 , edit: https://goclubdb.herokuapp.com/club/76/", 
+        "name": "Kielce"
       }
     }
-  ], 
-  "type": "FeatureCollection"
+  ]
 }

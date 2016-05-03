@@ -1,11 +1,7 @@
 {
+  "type": "FeatureCollection", 
   "features": [
     {
-      "properties": {
-        "name": "Cape Town", 
-        "description": "http://www.sagoclubs.co.za/cape-town-club/ , A Touch of Madness, 12 Nuttall Road. Under new management. The club will meet there for now, but will review. , Tuesday evenings from 19h00 , edit: https://goclubdb.herokuapp.com/club/976/"
-      }, 
-      "type": "Feature", 
       "layer": "ZA", 
       "geometry": {
         "coordinates": [
@@ -13,17 +9,14 @@
           -33.9388170244
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.sagoclubs.co.za/cape-town-club/ , A Touch of Madness, 12 Nuttall Road. Under new management. The club will meet there for now, but will review. , Tuesday evenings from 19h00 , edit: https://goclubdb.herokuapp.com/club/976/", 
+        "name": "Cape Town"
       }
     }, 
     {
-      "properties": {
-        "name": "Durban Go club", 
-        "description": "(info date: May 2006) Peter Charter is at work resuscitating the Durban Go club.  Meetings: at the Steers on North Beach, on Tuesdays. , Start 18h30 on Tuesdays , Peter Charter (cellphone: 082 900 1496) or Tony Clulow (home phone: 031 702 1749). , edit: https://goclubdb.herokuapp.com/club/977/", 
-        "_storage_options": {
-          "iconClass": "Circle"
-        }
-      }, 
-      "type": "Feature", 
       "layer": "ZA", 
       "geometry": {
         "coordinates": [
@@ -31,14 +24,17 @@
           -29.8497979101
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Circle"
+        }, 
+        "description": "(info date: May 2006) Peter Charter is at work resuscitating the Durban Go club.  Meetings: at the Steers on North Beach, on Tuesdays. , Start 18h30 on Tuesdays , Peter Charter (cellphone: 082 900 1496) or Tony Clulow (home phone: 031 702 1749). , edit: https://goclubdb.herokuapp.com/club/977/", 
+        "name": "Durban Go club"
       }
     }, 
     {
-      "properties": {
-        "name": "Joburg", 
-        "description": "http://www.sagoclubs.co.za/joburg-club/ , Rosebank Mall – Fourno’s Bakery (Sunday mornings) Rosebank Mall – Mugg and Bean (Tuesday evenings) , Sundays (regularly) from 10:00 to 13:00 (approximately). Tuesdays (occasionally) from 19:00 to 21:00 (approximately). , edit: https://goclubdb.herokuapp.com/club/978/"
-      }, 
-      "type": "Feature", 
       "layer": "ZA", 
       "geometry": {
         "coordinates": [
@@ -46,17 +42,14 @@
           -26.1454447737
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.sagoclubs.co.za/joburg-club/ , Rosebank Mall – Fourno’s Bakery (Sunday mornings) Rosebank Mall – Mugg and Bean (Tuesday evenings) , Sundays (regularly) from 10:00 to 13:00 (approximately). Tuesdays (occasionally) from 19:00 to 21:00 (approximately). , edit: https://goclubdb.herokuapp.com/club/978/", 
+        "name": "Joburg"
       }
     }, 
     {
-      "properties": {
-        "name": "Mossel Bay", 
-        "description": "There is currently no club in Mossel Bay. However, anyone there interested in the game can contact Candice Barker. She would be happy to meet and play holiday-makers or business visitors in Mossel Bay, introduce the game to prospective new players, or meet other players from Mossel Bay and surrounds. , ad hoc , Candice Barker (phone: 0446905547) , edit: https://goclubdb.herokuapp.com/club/979/", 
-        "_storage_options": {
-          "iconClass": "Ball"
-        }
-      }, 
-      "type": "Feature", 
       "layer": "ZA", 
       "geometry": {
         "coordinates": [
@@ -64,17 +57,17 @@
           -34.1831750336
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "There is currently no club in Mossel Bay. However, anyone there interested in the game can contact Candice Barker. She would be happy to meet and play holiday-makers or business visitors in Mossel Bay, introduce the game to prospective new players, or meet other players from Mossel Bay and surrounds. , ad hoc , Candice Barker (phone: 0446905547) , edit: https://goclubdb.herokuapp.com/club/979/", 
+        "name": "Mossel Bay"
       }
     }, 
     {
-      "properties": {
-        "name": "Port Elizabeth", 
-        "description": "http://www.sagoclubs.co.za/other-clubs/ , There are no clubs in the Eastern Cape. However, anyone there interested in the game can contact William Mapham <william.mapham@gmail.com> or Patrick Lee <alobar@telkomsa.net> , edit: https://goclubdb.herokuapp.com/club/980/", 
-        "_storage_options": {
-          "iconClass": "Ball"
-        }
-      }, 
-      "type": "Feature", 
       "layer": "ZA", 
       "geometry": {
         "coordinates": [
@@ -82,17 +75,17 @@
           -33.9437871712
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "http://www.sagoclubs.co.za/other-clubs/ , There are no clubs in the Eastern Cape. However, anyone there interested in the game can contact William Mapham <william.mapham@gmail.com> or Patrick Lee <alobar@telkomsa.net> , edit: https://goclubdb.herokuapp.com/club/980/", 
+        "name": "Port Elizabeth"
       }
     }, 
     {
-      "properties": {
-        "name": "Pretoria Clearwater", 
-        "description": "House of Coffees in Clearwater Mall , Start 19h00 on Wednesdays , Pablo Casado (e-mail: phmcasado !@! gmail [d-o-t] com) , edit: https://goclubdb.herokuapp.com/club/982/", 
-        "_storage_options": {
-          "iconClass": "Ball"
-        }
-      }, 
-      "type": "Feature", 
       "layer": "ZA", 
       "geometry": {
         "coordinates": [
@@ -100,17 +93,17 @@
           -26.1279211892
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "House of Coffees in Clearwater Mall , Start 19h00 on Wednesdays , Pablo Casado (e-mail: phmcasado !@! gmail [d-o-t] com) , edit: https://goclubdb.herokuapp.com/club/982/", 
+        "name": "Pretoria Clearwater"
       }
     }, 
     {
-      "properties": {
-        "name": "Pretoria Go Club", 
-        "description": "http://www.sagoclubs.co.za/pretoria-club/ , Outer Limits Comic and Games shop in Hatfield Square (near News Cafe) , Wednesday evenings , Brett Wilson (072 099 9943) or John Leuner (076 226 9975) , edit: https://goclubdb.herokuapp.com/club/981/", 
-        "_storage_options": {
-          "iconClass": "Ball"
-        }
-      }, 
-      "type": "Feature", 
       "layer": "ZA", 
       "geometry": {
         "coordinates": [
@@ -118,17 +111,17 @@
           -25.7509314068
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "http://www.sagoclubs.co.za/pretoria-club/ , Outer Limits Comic and Games shop in Hatfield Square (near News Cafe) , Wednesday evenings , Brett Wilson (072 099 9943) or John Leuner (076 226 9975) , edit: https://goclubdb.herokuapp.com/club/981/", 
+        "name": "Pretoria Go Club"
       }
     }, 
     {
-      "properties": {
-        "name": "Soweto", 
-        "description": "http://www.sagoclubs.co.za/soweto-club/ , Sipho Mampe: 084 7888 177 , edit: https://goclubdb.herokuapp.com/club/983/", 
-        "_storage_options": {
-          "iconClass": "Ball"
-        }
-      }, 
-      "type": "Feature", 
       "layer": "ZA", 
       "geometry": {
         "coordinates": [
@@ -136,17 +129,17 @@
           -26.2235711114
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "http://www.sagoclubs.co.za/soweto-club/ , Sipho Mampe: 084 7888 177 , edit: https://goclubdb.herokuapp.com/club/983/", 
+        "name": "Soweto"
       }
     }, 
     {
-      "properties": {
-        "name": "Stellenbosch", 
-        "description": "http://www.sagoclubs.co.za/stellenbosch-club/ , Recently (2015) some of us have been playing at The Guild campus board-gaming society. , Gordon Wells , edit: https://goclubdb.herokuapp.com/club/984/", 
-        "_storage_options": {
-          "iconClass": "Ball"
-        }
-      }, 
-      "type": "Feature", 
       "layer": "ZA", 
       "geometry": {
         "coordinates": [
@@ -154,17 +147,17 @@
           -33.9326332577
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "http://www.sagoclubs.co.za/stellenbosch-club/ , Recently (2015) some of us have been playing at The Guild campus board-gaming society. , Gordon Wells , edit: https://goclubdb.herokuapp.com/club/984/", 
+        "name": "Stellenbosch"
       }
     }, 
     {
-      "properties": {
-        "name": "UJ", 
-        "description": "http://www.sagoclubs.co.za/uj-club/ , Mondays: C-Les 305, 13:00-14:00 Wednesdays: D-Les 411 , Mon, Wed: 13:00-14:00 , edit: https://goclubdb.herokuapp.com/club/985/", 
-        "_storage_options": {
-          "iconClass": "Circle"
-        }
-      }, 
-      "type": "Feature", 
       "layer": "ZA", 
       "geometry": {
         "coordinates": [
@@ -172,8 +165,15 @@
           -26.1844162037
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Circle"
+        }, 
+        "description": "http://www.sagoclubs.co.za/uj-club/ , Mondays: C-Les 305, 13:00-14:00 Wednesdays: D-Les 411 , Mon, Wed: 13:00-14:00 , edit: https://goclubdb.herokuapp.com/club/985/", 
+        "name": "UJ"
       }
     }
-  ], 
-  "type": "FeatureCollection"
+  ]
 }

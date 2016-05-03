@@ -1,11 +1,7 @@
 {
+  "type": "FeatureCollection", 
   "features": [
     {
-      "properties": {
-        "name": "Collegians Go Club", 
-        "description": "http://www.irish-go.org/clubs-tournaments/dublin/ , Toner's Pub,\r\n139 Baggot Street Lower, Dublin 2 , Monday about 20:30-21:00 until midnight most weeks , edit: https://goclubdb.herokuapp.com/club/1290/"
-      }, 
-      "type": "Feature", 
       "layer": "IE", 
       "geometry": {
         "coordinates": [
@@ -13,14 +9,14 @@
           53.33777
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.irish-go.org/clubs-tournaments/dublin/ , Toner's Pub,\r\n139 Baggot Street Lower, Dublin 2 , Monday about 20:30-21:00 until midnight most weeks , edit: https://goclubdb.herokuapp.com/club/1290/", 
+        "name": "Collegians Go Club"
       }
     }, 
     {
-      "properties": {
-        "name": "Collegians Go Club", 
-        "description": "http://www.irish-go.org/clubs-tournaments/dublin/ , Toner's Pub,\r\n139 Baggot Street Lower, Dublin 2 , Wednesday about 20:30-21:00 until midnight , edit: https://goclubdb.herokuapp.com/club/1289/"
-      }, 
-      "type": "Feature", 
       "layer": "IE", 
       "geometry": {
         "coordinates": [
@@ -28,14 +24,14 @@
           53.336883
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.irish-go.org/clubs-tournaments/dublin/ , Toner's Pub,\r\n139 Baggot Street Lower, Dublin 2 , Wednesday about 20:30-21:00 until midnight , edit: https://goclubdb.herokuapp.com/club/1289/", 
+        "name": "Collegians Go Club"
       }
     }, 
     {
-      "properties": {
-        "name": "Cork (UCC Weiqi Club)", 
-        "description": "http://www.britgo.org/node/3168 , Cork Cricket Club, Mardyke Walk , Sunday 20:00 , edit: https://goclubdb.herokuapp.com/club/1288/"
-      }, 
-      "type": "Feature", 
       "layer": "IE", 
       "geometry": {
         "coordinates": [
@@ -43,14 +39,14 @@
           51.896337
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3168 , Cork Cricket Club, Mardyke Walk , Sunday 20:00 , edit: https://goclubdb.herokuapp.com/club/1288/", 
+        "name": "Cork (UCC Weiqi Club)"
       }
     }, 
     {
-      "properties": {
-        "name": "Galway", 
-        "description": "http://www.britgo.org/node/3180 , Westwood House Hotel bar , Wednesday 20:00 - players normally present from 19:30 , Richard Brennan , edit: https://goclubdb.herokuapp.com/club/1297/"
-      }, 
-      "type": "Feature", 
       "layer": "IE", 
       "geometry": {
         "coordinates": [
@@ -58,8 +54,12 @@
           53.28963
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3180 , Westwood House Hotel bar , Wednesday 20:00 - players normally present from 19:30 , Richard Brennan , edit: https://goclubdb.herokuapp.com/club/1297/", 
+        "name": "Galway"
       }
     }
-  ], 
-  "type": "FeatureCollection"
+  ]
 }

@@ -1,11 +1,7 @@
 {
+  "type": "FeatureCollection", 
   "features": [
     {
-      "properties": {
-        "name": "Asociatia Confucius Go Club Sibiu", 
-        "description": "every Thursday at 5 pm , edit: https://goclubdb.herokuapp.com/club/1358/"
-      }, 
-      "type": "Feature", 
       "layer": "RO", 
       "geometry": {
         "coordinates": [
@@ -13,8 +9,12 @@
           45.7907338984
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "every Thursday at 5 pm , edit: https://goclubdb.herokuapp.com/club/1358/", 
+        "name": "Asociatia Confucius Go Club Sibiu"
       }
     }
-  ], 
-  "type": "FeatureCollection"
+  ]
 }

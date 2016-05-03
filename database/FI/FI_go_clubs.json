@@ -1,11 +1,7 @@
 {
+  "type": "FeatureCollection", 
   "features": [
     {
-      "properties": {
-        "name": "Helsingin go-kerho", 
-        "description": "http://www.suomigo.net/wiki/HelsinginGoKerho , Natural Flavour Tea House, Mikonkatu 8 , Tiistai klo 17.30 , edit: https://goclubdb.herokuapp.com/club/63/"
-      }, 
-      "type": "Feature", 
       "layer": "FI", 
       "geometry": {
         "coordinates": [
@@ -13,14 +9,14 @@
           60.1690885879
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.suomigo.net/wiki/HelsinginGoKerho , Natural Flavour Tea House, Mikonkatu 8 , Tiistai klo 17.30 , edit: https://goclubdb.herokuapp.com/club/63/", 
+        "name": "Helsingin go-kerho"
       }
     }, 
     {
-      "properties": {
-        "name": "Polin Go-club", 
-        "description": "https://www.facebook.com/polingokerho/?fref=ts , In association room 240-241. , Every monday, at least between 18-21 , edit: https://goclubdb.herokuapp.com/club/5/"
-      }, 
-      "type": "Feature", 
       "layer": "FI", 
       "geometry": {
         "coordinates": [
@@ -28,14 +24,14 @@
           60.1893357583
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "https://www.facebook.com/polingokerho/?fref=ts , In association room 240-241. , Every monday, at least between 18-21 , edit: https://goclubdb.herokuapp.com/club/5/", 
+        "name": "Polin Go-club"
       }
     }, 
     {
-      "properties": {
-        "name": "Tengen Jyväskylä", 
-        "description": "http://www.suomigo.net/wiki/Tengen , Bar Vakiopaine, Kauppakatu 6 , Wednesdays 18:00 onwards , edit: https://goclubdb.herokuapp.com/club/79/"
-      }, 
-      "type": "Feature", 
       "layer": "FI", 
       "geometry": {
         "coordinates": [
@@ -43,8 +39,12 @@
           62.2387011579
         ], 
         "type": "Point"
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.suomigo.net/wiki/Tengen , Bar Vakiopaine, Kauppakatu 6 , Wednesdays 18:00 onwards , edit: https://goclubdb.herokuapp.com/club/79/", 
+        "name": "Tengen Jyväskylä"
       }
     }
-  ], 
-  "type": "FeatureCollection"
+  ]
 }
