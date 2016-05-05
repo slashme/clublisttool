@@ -3,92 +3,92 @@
   "features": [
     {
       "layer": "BR", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           -43.1997824, 
           -22.9402728
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "Rua Cosme Velho 1166, Cosme Velho, Rio de Janeiro , Sábados das 11h às 16h , edit: https://goclubdb.herokuapp.com/club/172/", 
-        "name": "Associação Nikkei"
+        "name": "Associação Nikkei", 
+        "description": "Rua Cosme Velho 1166, Cosme Velho, Rio de Janeiro , Sábados das 11h às 16h , edit: https://goclubdb.herokuapp.com/club/172/"
       }
     }, 
     {
       "layer": "BR", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           -47.8876367, 
           -22.0016131
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "Rua Napoleão Geminiano 129, São Carlos , Terça-feira das 19h às 22h e sábados das 14h às 17h , edit: https://goclubdb.herokuapp.com/club/170/", 
-        "name": "Clube de Go São Carlos"
+        "name": "Clube de Go São Carlos", 
+        "description": "Rua Napoleão Geminiano 129, São Carlos , Terça-feira das 19h às 22h e sábados das 14h às 17h , edit: https://goclubdb.herokuapp.com/club/170/"
       }
     }, 
     {
       "layer": "BR", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           -46.63697, 
           -23.54995
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "Faculdade de São Paulo , Sexta-feira das 10h até as 14h , edit: https://goclubdb.herokuapp.com/club/169/", 
-        "name": "Clube de Go USP"
+        "name": "Clube de Go USP", 
+        "description": "Faculdade de São Paulo , Sexta-feira das 10h até as 14h , edit: https://goclubdb.herokuapp.com/club/169/"
       }
     }, 
     {
       "layer": "BR", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           -49.3535082392961, 
           -25.4434739058614
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "UTFPR, Curitiba , 13:30 às 15:30 Sala 205 e 19h às 21h Sala 106 , edit: https://goclubdb.herokuapp.com/club/171/", 
-        "name": "Curitiba"
+        "name": "Curitiba", 
+        "description": "UTFPR, Curitiba , 13:30 às 15:30 Sala 205 e 19h às 21h Sala 106 , edit: https://goclubdb.herokuapp.com/club/171/"
       }
     }, 
     {
       "layer": "BR", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           -46.6398292, 
           -23.5829948
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "Rua Dr. Fabricio Vampré, 116, Ana Rosa, São Paulo , De terça-feira à Domingo das 13h as 19h , edit: https://goclubdb.herokuapp.com/club/167/", 
-        "name": "Nihon Kiin Brasil"
+        "name": "Nihon Kiin Brasil", 
+        "description": "Rua Dr. Fabricio Vampré, 116, Ana Rosa, São Paulo , De terça-feira à Domingo das 13h as 19h , edit: https://goclubdb.herokuapp.com/club/167/"
       }
     }, 
     {
       "layer": "BR", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           -46.6619830083038, 
           -23.5580076658344
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "Alameda Santos, 2326, Jardim Paulista, São Paulo , Quinta-feira das 19:30 às 23h , edit: https://goclubdb.herokuapp.com/club/168/", 
-        "name": "Paulista Go Center"
+        "name": "Paulista Go Center", 
+        "description": "Alameda Santos, 2326, Jardim Paulista, São Paulo , Quinta-feira das 19:30 às 23h , edit: https://goclubdb.herokuapp.com/club/168/"
       }
     }
   ]

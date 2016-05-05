@@ -3,122 +3,137 @@
   "features": [
     {
       "layer": "CL", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           -73.2503504645171, 
           -39.8334036871543
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "https://www.facebook.com/groups/ClubGO.USSvaldivia/ , Biblioteca Valdivia Universidad San Sebastián , edit: https://goclubdb.herokuapp.com/club/166/", 
-        "name": "Atsumi"
+        "name": "Atsumi", 
+        "description": "https://www.facebook.com/groups/ClubGO.USSvaldivia/ , Biblioteca Valdivia Universidad San Sebastián , edit: https://goclubdb.herokuapp.com/club/166/"
       }
     }, 
     {
       "layer": "CL", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -72.5901031494146, 
+          -38.7369460656762
+        ]
+      }, 
+      "properties": {
+        "name": "Dragones Negros de Temuco", 
+        "description": "https://www.facebook.com/groups/Go.Temuco , https://www.facebook.com/groups/Go.Temuco , edit: https://goclubdb.herokuapp.com/club/174/"
+      }
+    }, 
+    {
+      "layer": "CL", 
+      "type": "Feature", 
+      "geometry": {
+        "type": "Point", 
         "coordinates": [
           -70.9049269, 
           -53.1435862
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "Mardones 353 , sábados 11:00 a 13:00 , edit: https://goclubdb.herokuapp.com/club/164/", 
-        "name": "Escuela Juan Williams"
+        "name": "Escuela Juan Williams", 
+        "description": "Mardones 353 , sábados 11:00 a 13:00 , edit: https://goclubdb.herokuapp.com/club/164/"
       }
     }, 
     {
       "layer": "CL", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           -70.8952575, 
           -53.161484
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "Espacio Cultural La Idea, Mejicana 252, Punta Arenas , Sábados 15:30 , edit: https://goclubdb.herokuapp.com/club/165/", 
-        "name": "Espacio Cultural La Idea"
+        "name": "Espacio Cultural La Idea", 
+        "description": "Espacio Cultural La Idea, Mejicana 252, Punta Arenas , Sábados 15:30 , edit: https://goclubdb.herokuapp.com/club/165/"
       }
     }, 
     {
       "layer": "CL", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           -70.60095246488, 
           -33.42200935
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "https://www.facebook.com/groups/ClubdeGoIco/ , Luis Thayer Ojeda 390, Providencia , Miércoles 18:30 horas y Sábado 11:30 horas , edit: https://goclubdb.herokuapp.com/club/160/", 
-        "name": "ICO"
+        "name": "ICO", 
+        "description": "https://www.facebook.com/groups/ClubdeGoIco/ , Luis Thayer Ojeda 390, Providencia , Miércoles 18:30 horas y Sábado 11:30 horas , edit: https://goclubdb.herokuapp.com/club/160/"
       }
     }, 
     {
       "layer": "CL", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
-          -71.2578713893902, 
-          -29.9126488970706
-        ], 
-        "type": "Point"
+          -71.2578713894, 
+          -29.9126488971
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "https://www.facebook.com/kokoronogo , Mall plaza la serena , Sábados de 14:00 a 19:00 , https://www.facebook.com/kokoronogo , edit: https://goclubdb.herokuapp.com/club/173/", 
-        "name": "Kokoro no Go"
+        "name": "Kokoro no Go", 
+        "description": "https://www.facebook.com/kokoronogo , Mall plaza la serena , Sábados de 14:00 a 19:00 , https://www.facebook.com/kokoronogo , edit: https://goclubdb.herokuapp.com/club/173/"
       }
     }, 
     {
       "layer": "CL", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           -70.8218244233868, 
           -27.065690918701
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "Edwards con Tocornal. Entrada por Tocornal , Viernes 14:30 hrs adelante , edit: https://goclubdb.herokuapp.com/club/162/", 
-        "name": "Sabaku no go"
+        "name": "Sabaku no go", 
+        "description": "Edwards con Tocornal. Entrada por Tocornal , Viernes 14:30 hrs adelante , edit: https://goclubdb.herokuapp.com/club/162/"
       }
     }, 
     {
       "layer": "CL", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           -70.6242483787879, 
           -33.4339456333333
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "https://www.facebook.com/groups/141062485917704/ , General Parra 674 C, Providencia , Lunes, Martes, Jueves y Viernes 17:00 a 21:00 horas y Miércoles de 19:00 a 21:00 horas , edit: https://goclubdb.herokuapp.com/club/161/", 
-        "name": "Tengen"
+        "name": "Tengen", 
+        "description": "https://www.facebook.com/groups/141062485917704/ , General Parra 674 C, Providencia , Lunes, Martes, Jueves y Viernes 17:00 a 21:00 horas y Miércoles de 19:00 a 21:00 horas , edit: https://goclubdb.herokuapp.com/club/161/"
       }
     }, 
     {
       "layer": "CL", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           -71.5955655384539, 
           -33.0424293898889
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "Calle Julio Verne 899 Cerro Barón , Sabados y/o Domingos 15 a 21 hrs , edit: https://goclubdb.herokuapp.com/club/163/", 
-        "name": "ValpoGo"
+        "name": "ValpoGo", 
+        "description": "Calle Julio Verne 899 Cerro Barón , Sabados y/o Domingos 15 a 21 hrs , edit: https://goclubdb.herokuapp.com/club/163/"
       }
     }
   ]

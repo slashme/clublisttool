@@ -3,17 +3,122 @@
   "features": [
     {
       "layer": "CA", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -60.2004234, 
+          46.1473724
+        ]
+      }, 
+      "properties": {
+        "name": "Cape Breton", 
+        "description": "http://go-canada.org/Club/Display/1023 , George St., Sydney, Nova Scotia , Meeting time is in the weekend. Contact us to confirm time and venue. , capebretongoclub@gmail.com , edit: https://goclubdb.herokuapp.com/club/190/"
+      }
+    }, 
+    {
+      "layer": "CA", 
+      "type": "Feature", 
+      "geometry": {
+        "type": "Point", 
         "coordinates": [
           -72.5425530386, 
           46.3419043489
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "Nord-Ouest Café\r\n1441, rue Notre-Dame Centre\r\nTrois-Rivières\r\nQuébec , Deux fois par mois , Petit club qui se rencontre deux fois par mois. Les joueurs de tous les niveaux sont les bienvenus ! Pour connaître notre prochaine rencontre, contactez solarbear @ le site de courriels de Google. , edit: https://goclubdb.herokuapp.com/club/2/", 
-        "name": "Club de go de Trois-Rivières"
+        "name": "Club de go de Trois-Rivières", 
+        "description": "Nord-Ouest Café\r\n1441, rue Notre-Dame Centre\r\nTrois-Rivières\r\nQuébec , Deux fois par mois , Petit club qui se rencontre deux fois par mois. Les joueurs de tous les niveaux sont les bienvenus ! Pour connaître notre prochaine rencontre, contactez solarbear @ le site de courriels de Google. , edit: https://goclubdb.herokuapp.com/club/2/"
+      }
+    }, 
+    {
+      "layer": "CA", 
+      "type": "Feature", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -64.8047098, 
+          46.0613596
+        ]
+      }, 
+      "properties": {
+        "name": "Greater Moncton", 
+        "description": "http://go-canada.org/Club/Display/11 , 34 Honour House Crt, Riverview, New Brunswick , every Tuesday from 2:00 to 4:30 , https://www.facebook.com/GreaterMonctonGoClub , edit: https://goclubdb.herokuapp.com/club/189/"
+      }
+    }, 
+    {
+      "layer": "CA", 
+      "type": "Feature", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -97.1432556, 
+          49.8761125
+        ]
+      }, 
+      "properties": {
+        "name": "Manitoba Go Association", 
+        "description": "http://go-canada.org/Club/Display/7 , game knight games, 2nd floor, 726 Osborne st, Winnipeg , Tuesdays 6 PM - 10 PM , iamtengen@gmail.com , edit: https://goclubdb.herokuapp.com/club/188/"
+      }
+    }, 
+    {
+      "layer": "CA", 
+      "type": "Feature", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.9206183, 
+          49.2777493
+        ]
+      }, 
+      "properties": {
+        "name": "SFU Go Club", 
+        "description": "https://www.facebook.com/groups/sfugo , Burnaby Mountain campus - various locations (see Facebook group for more information) , Typically Fridays at 3:30PM , cwzhang@sfu.ca , edit: https://goclubdb.herokuapp.com/club/185/"
+      }
+    }, 
+    {
+      "layer": "CA", 
+      "type": "Feature", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -113.5255948, 
+          53.5247335
+        ]
+      }, 
+      "properties": {
+        "name": "University of Alberta", 
+        "description": "http://go-canada.org/Club/Display/10 , 8900 114 Street Northwest, Edmonton, Alberta , every Sunday from 2pm to 4pm , edmontongoclub@gmail.com 7809949055 , edit: https://goclubdb.herokuapp.com/club/184/"
+      }
+    }, 
+    {
+      "layer": "CA", 
+      "type": "Feature", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -123.254362076448, 
+          49.2682676505745
+        ]
+      }, 
+      "properties": {
+        "name": "University of British Columbia", 
+        "description": "https://www.facebook.com/groups/25789055040/ , Room B142, Buchanan Block B, 1866 Main Mall, Vancouver, British Columbia , every Friday from 3-6pm , edit: https://goclubdb.herokuapp.com/club/186/"
+      }
+    }, 
+    {
+      "layer": "CA", 
+      "type": "Feature", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.964549291439, 
+          49.2177142851428
+        ]
+      }, 
+      "properties": {
+        "name": "Vancouver", 
+        "description": "http://www.geocities.jp/qxbqd097/Vango2.htm , Room: 250, Nikkei Place, 6688 Southoaks Crescent, Burnaby , roughly every other Saturday 1-5pm- see our website for the exact days. , http://go-canada.org/Club/Display/1025 , edit: https://goclubdb.herokuapp.com/club/187/"
       }
     }
   ]

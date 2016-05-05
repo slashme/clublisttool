@@ -3,17 +3,17 @@
   "features": [
     {
       "layer": "CN", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           117.127895447, 
           36.6716050096
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "edit: https://goclubdb.herokuapp.com/club/1360/", 
-        "name": "济南市"
+        "name": "济南市", 
+        "description": "edit: https://goclubdb.herokuapp.com/club/1360/"
       }
     }
   ]

@@ -3,368 +3,368 @@
   "features": [
     {
       "layer": "CH", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           8.06995, 
           47.39104
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": "Stephan BALMER 079 336 84 41 sbalmer@yetnet.ch balmerst@hotmail.com , edit: https://goclubdb.herokuapp.com/club/1072/", 
-        "name": "Aarau"
+        "name": "Aarau", 
+        "description": "Stephan BALMER 079 336 84 41 sbalmer@yetnet.ch balmerst@hotmail.com , edit: https://goclubdb.herokuapp.com/club/1072/"
       }
     }, 
     {
       "layer": "CH", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           7.43067192394, 
           46.9538992934
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://www.bernergoclub.ch , Längass-Treff Lerchenweg 33 , mardi 19h00-23h00 , Alan HELD 031 351 59 64 aeh@vtxfree.ch , edit: https://goclubdb.herokuapp.com/club/1056/", 
-        "name": "Bern"
+        "name": "Bern", 
+        "description": "http://www.bernergoclub.ch , Längass-Treff Lerchenweg 33 , mardi 19h00-23h00 , Alan HELD 031 351 59 64 aeh@vtxfree.ch , edit: https://goclubdb.herokuapp.com/club/1056/"
       }
     }, 
     {
       "layer": "CH", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           6.04476306019, 
           46.2318101223
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://games.web.cern.ch/games/ , CERN Restaurant No.2 , mercredi 12h30-13h30 parfois aussi mardi dès 18h00 , Tibor SIMKO 022 767 35 27 tibor.simko@cern.ch , edit: https://goclubdb.herokuapp.com/club/1057/", 
-        "name": "CERN"
+        "name": "CERN", 
+        "description": "http://games.web.cern.ch/games/ , CERN Restaurant No.2 , mercredi 12h30-13h30 parfois aussi mardi dès 18h00 , Tibor SIMKO 022 767 35 27 tibor.simko@cern.ch , edit: https://goclubdb.herokuapp.com/club/1057/"
       }
     }, 
     {
       "layer": "CH", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           8.89177, 
           47.55681
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": "Daniel LUTZ dlutz@umlaufbahn.net , edit: https://goclubdb.herokuapp.com/club/1073/", 
-        "name": "Frauenfeld"
+        "name": "Frauenfeld", 
+        "description": "Daniel LUTZ dlutz@umlaufbahn.net , edit: https://goclubdb.herokuapp.com/club/1073/"
       }
     }, 
     {
       "layer": "CH", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           6.13949, 
           46.18008
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://geneva.swissgo.org/ , Café du Rondeau Place du Rondeau 1, 1227 Carouge , mardi 20h00-24h00 , Armel-David WOLFF 079 689 78 27 awolff@worldcom.ch , edit: https://goclubdb.herokuapp.com/club/1058/", 
-        "name": "Genève mardi"
+        "name": "Genève mardi", 
+        "description": "http://geneva.swissgo.org/ , Café du Rondeau Place du Rondeau 1, 1227 Carouge , mardi 20h00-24h00 , Armel-David WOLFF 079 689 78 27 awolff@worldcom.ch , edit: https://goclubdb.herokuapp.com/club/1058/"
       }
     }, 
     {
       "layer": "CH", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           6.15356338161, 
           46.1748640692
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://geneva.swissgo.org/ , École de Pinchat 4 ch. de la Tour-de-Pinchat , mercredi 18h00-23h00 , Jean-Marc LOUIS 022 784 03 39 079 371 09 52 jmlouis@vtxnet.ch , edit: https://goclubdb.herokuapp.com/club/1060/", 
-        "name": "Genève mercredi"
+        "name": "Genève mercredi", 
+        "description": "http://geneva.swissgo.org/ , École de Pinchat 4 ch. de la Tour-de-Pinchat , mercredi 18h00-23h00 , Jean-Marc LOUIS 022 784 03 39 079 371 09 52 jmlouis@vtxnet.ch , edit: https://goclubdb.herokuapp.com/club/1060/"
       }
     }, 
     {
       "layer": "CH", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           6.14653510185, 
           46.195170846
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://geneva.swissgo.org/ , Maison de Quartier de Plainpalais 1 Rue de la tour , vendredi 19h00-22h00 , Armel-David WOLFF 079 689 78 27 awolff@worldcom.ch , edit: https://goclubdb.herokuapp.com/club/1059/", 
-        "name": "Genève vendredi"
+        "name": "Genève vendredi", 
+        "description": "http://geneva.swissgo.org/ , Maison de Quartier de Plainpalais 1 Rue de la tour , vendredi 19h00-22h00 , Armel-David WOLFF 079 689 78 27 awolff@worldcom.ch , edit: https://goclubdb.herokuapp.com/club/1059/"
       }
     }, 
     {
       "layer": "CH", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           6.56544927116, 
           46.52066
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://ishigo.epfl.ch/igc.php , EPFL - Salle de Go : CM1 121 , mercredi 17h15-20h00 , Flavien AUBELLE flavien.aubelle@epfl.ch , edit: https://goclubdb.herokuapp.com/club/1064/", 
-        "name": "Ishi go club"
+        "name": "Ishi go club", 
+        "description": "http://ishigo.epfl.ch/igc.php , EPFL - Salle de Go : CM1 121 , mercredi 17h15-20h00 , Flavien AUBELLE flavien.aubelle@epfl.ch , edit: https://goclubdb.herokuapp.com/club/1064/"
       }
     }, 
     {
       "layer": "CH", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           6.82957, 
           47.10401
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://www.gocdf.ch/ , Service Jeunesse Serre 12 (1er étage) 2300 La Chaux-de-Fonds , jeudi 20h00-24h00 , GO-Club CDF 079 254 88 13 contact@gocdf.ch Marcel SCHWEIZER marcelschweizer@hispeed.ch , edit: https://goclubdb.herokuapp.com/club/1061/", 
-        "name": "La Chaux-de-Fonds"
+        "name": "La Chaux-de-Fonds", 
+        "description": "http://www.gocdf.ch/ , Service Jeunesse Serre 12 (1er étage) 2300 La Chaux-de-Fonds , jeudi 20h00-24h00 , GO-Club CDF 079 254 88 13 contact@gocdf.ch Marcel SCHWEIZER marcelschweizer@hispeed.ch , edit: https://goclubdb.herokuapp.com/club/1061/"
       }
     }, 
     {
       "layer": "CH", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           6.85486172024, 
           46.4525716907
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://www.museedujeu.ch/fr/animationen/klubs/goklub.html , Musée Suisse du Jeu Au Château 11 Rue du Château , vendredi 19h00-21h00 , Rick WERTENBROEK 076 533 40 05 rick.wertenbroek@gmail.com , edit: https://goclubdb.herokuapp.com/club/1062/", 
-        "name": "La Tour de Peilz"
+        "name": "La Tour de Peilz", 
+        "description": "http://www.museedujeu.ch/fr/animationen/klubs/goklub.html , Musée Suisse du Jeu Au Château 11 Rue du Château , vendredi 19h00-21h00 , Rick WERTENBROEK 076 533 40 05 rick.wertenbroek@gmail.com , edit: https://goclubdb.herokuapp.com/club/1062/"
       }
     }, 
     {
       "layer": "CH", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           6.62583927116, 
           46.5165236915
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://lausanne.swissgo.org/ , Café-Restaurant Le Milan 54 bd de Grancy 021 616 53 43 http://www.lemilan.ch/fr/restaurant-le-milan , mardi 20h00-24h00 , Haruna OKANO lausanne@swissgo.org , edit: https://goclubdb.herokuapp.com/club/1063/", 
-        "name": "Lausanne"
+        "name": "Lausanne", 
+        "description": "http://lausanne.swissgo.org/ , Café-Restaurant Le Milan 54 bd de Grancy 021 616 53 43 http://www.lemilan.ch/fr/restaurant-le-milan , mardi 20h00-24h00 , Haruna OKANO lausanne@swissgo.org , edit: https://goclubdb.herokuapp.com/club/1063/"
       }
     }, 
     {
       "layer": "CH", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           8.83497, 
           46.17318
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": "Roberto MORRISON 078 658 66 73 roberto@morrison.ch , edit: https://goclubdb.herokuapp.com/club/1074/", 
-        "name": "Locarno"
+        "name": "Locarno", 
+        "description": "Roberto MORRISON 078 658 66 73 roberto@morrison.ch , edit: https://goclubdb.herokuapp.com/club/1074/"
       }
     }, 
     {
       "layer": "CH", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           8.31923, 
           47.0425063444
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://luzern.swissgo.org/ , Restaurant und Jugendhaus Treibhaus Spelteriniweg 4 http://www.treibhausluzern.ch/index.php?id=29 , mardi 18h30-23h00 , Dominik MÜLLER 078 838 38 64 luzern@swissgo.org , edit: https://goclubdb.herokuapp.com/club/1065/", 
-        "name": "Luzern"
+        "name": "Luzern", 
+        "description": "http://luzern.swissgo.org/ , Restaurant und Jugendhaus Treibhaus Spelteriniweg 4 http://www.treibhausluzern.ch/index.php?id=29 , mardi 18h30-23h00 , Dominik MÜLLER 078 838 38 64 luzern@swissgo.org , edit: https://goclubdb.herokuapp.com/club/1065/"
       }
     }, 
     {
       "layer": "CH", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           6.93193973743, 
           46.9915663502
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "Bar \"Au 21\" 43 Faubourg du Lac , mercredi 19h30-23/24h00 , Thibault PILLON 079 526 74 02 thibault.pillon@gmail.com , edit: https://goclubdb.herokuapp.com/club/1067/", 
-        "name": "Neuchâtel"
+        "name": "Neuchâtel", 
+        "description": "Bar \"Au 21\" 43 Faubourg du Lac , mercredi 19h30-23/24h00 , Thibault PILLON 079 526 74 02 thibault.pillon@gmail.com , edit: https://goclubdb.herokuapp.com/club/1067/"
       }
     }, 
     {
       "layer": "CH", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           6.23174860119, 
           46.3826950125
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "Gymnase de Nyon salle L204 , mardi 11h45-13h25 , John WALCH 076 498 03 75 john_walch8@hotmail.com , edit: https://goclubdb.herokuapp.com/club/1066/", 
-        "name": "Nyon"
+        "name": "Nyon", 
+        "description": "Gymnase de Nyon salle L204 , mardi 11h45-13h25 , John WALCH 076 498 03 75 john_walch8@hotmail.com , edit: https://goclubdb.herokuapp.com/club/1066/"
       }
     }, 
     {
       "layer": "CH", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           8.81281, 
           46.00323
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": "Claude ROY 091 608 20 79 , edit: https://goclubdb.herokuapp.com/club/1075/", 
-        "name": "Sessa"
+        "name": "Sessa", 
+        "description": "Claude ROY 091 608 20 79 , edit: https://goclubdb.herokuapp.com/club/1075/"
       }
     }, 
     {
       "layer": "CH", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           6.22359, 
           46.60065
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": "Jean-Jacques GAGNEBIN 079 768 18 78 jj@gagnebin.net , edit: https://goclubdb.herokuapp.com/club/1076/", 
-        "name": "Vallée de Joux"
+        "name": "Vallée de Joux", 
+        "description": "Jean-Jacques GAGNEBIN 079 768 18 78 jj@gagnebin.net , edit: https://goclubdb.herokuapp.com/club/1076/"
       }
     }, 
     {
       "layer": "CH", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           6.15785, 
           46.2913
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": "Marc DIAS 076 425 02 13 versoix.go.club@gmail.com , edit: https://goclubdb.herokuapp.com/club/1077/", 
-        "name": "Versoix"
+        "name": "Versoix", 
+        "description": "Marc DIAS 076 425 02 13 versoix.go.club@gmail.com , edit: https://goclubdb.herokuapp.com/club/1077/"
       }
     }, 
     {
       "layer": "CH", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           9.05344, 
           47.46296
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": "Stjepan LUKAC lastronin@gmx.net , edit: https://goclubdb.herokuapp.com/club/1078/", 
-        "name": "Wil SG"
+        "name": "Wil SG", 
+        "description": "Stjepan LUKAC lastronin@gmx.net , edit: https://goclubdb.herokuapp.com/club/1078/"
       }
     }, 
     {
       "layer": "CH", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           8.72612708466, 
           47.4984118787
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://www.wintigo.org , Typisch Thai Neumarkt 3 http://www.typischthai.ch , lundi 19h00-22h30 , Philipp GRESSLY 052 212 22 15 phi@gressly.ch , edit: https://goclubdb.herokuapp.com/club/1068/", 
-        "name": "Winterthur"
+        "name": "Winterthur", 
+        "description": "http://www.wintigo.org , Typisch Thai Neumarkt 3 http://www.typischthai.ch , lundi 19h00-22h30 , Philipp GRESSLY 052 212 22 15 phi@gressly.ch , edit: https://goclubdb.herokuapp.com/club/1068/"
       }
     }, 
     {
       "layer": "CH", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           7.28953621559, 
           47.0972876384
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://worben.swissgo.org/ , Restaurant Bären Hauptstr. 46 , mercredi 14h30-15h30 , Alan REES alan.rees@playmorego.com , edit: https://goclubdb.herokuapp.com/club/1069/", 
-        "name": "Worben"
+        "name": "Worben", 
+        "description": "http://worben.swissgo.org/ , Restaurant Bären Hauptstr. 46 , mercredi 14h30-15h30 , Alan REES alan.rees@playmorego.com , edit: https://goclubdb.herokuapp.com/club/1069/"
       }
     }, 
     {
       "layer": "CH", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           6.63715, 
           46.78127
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "Café \"Le Tempo\" Quai de la Thièle 3 1400 Yverdon-les-Bains , mardi 19h30 à 22h/23h selon l'affluence , Martin 079 795 49 59 martin.python@gmail.com , edit: https://goclubdb.herokuapp.com/club/1070/", 
-        "name": "Yverdon"
+        "name": "Yverdon", 
+        "description": "Café \"Le Tempo\" Quai de la Thièle 3 1400 Yverdon-les-Bains , mardi 19h30 à 22h/23h selon l'affluence , Martin 079 795 49 59 martin.python@gmail.com , edit: https://goclubdb.herokuapp.com/club/1070/"
       }
     }, 
     {
       "layer": "CH", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           8.54461536442, 
           47.3697414532
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://zurich.swissgo.org/ , Zentrum Karl der Grosse Blaues Foyer im 2ten Stock Kirchgasse 14 , mercredi dès 18h00 , Jonas JERMANN jjermann2@gmail.com , edit: https://goclubdb.herokuapp.com/club/1071/", 
-        "name": "Zürich"
+        "name": "Zürich", 
+        "description": "http://zurich.swissgo.org/ , Zentrum Karl der Grosse Blaues Foyer im 2ten Stock Kirchgasse 14 , mercredi dès 18h00 , Jonas JERMANN jjermann2@gmail.com , edit: https://goclubdb.herokuapp.com/club/1071/"
       }
     }
   ]

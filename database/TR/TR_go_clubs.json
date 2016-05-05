@@ -3,77 +3,77 @@
   "features": [
     {
       "layer": "TR", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           32.7359050512533, 
           39.8712066713398
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://www.gokulubu.hacettepe.edu.tr , Saglik, Kultur, Spor Dairesi Baskanliği toplanti salonlari, Beytepe Kampusu , Wednesday 16:00 EET , edit: https://goclubdb.herokuapp.com/club/150/", 
-        "name": "Hacettepe University Go Club"
+        "name": "Hacettepe University Go Club", 
+        "description": "http://www.gokulubu.hacettepe.edu.tr , Saglik, Kultur, Spor Dairesi Baskanliği toplanti salonlari, Beytepe Kampusu , Wednesday 16:00 EET , edit: https://goclubdb.herokuapp.com/club/150/"
       }
     }, 
     {
       "layer": "TR", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           29.0266084671, 
           40.9868178232
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://www.istanbulgo.org , Coffee O’Clock , Çarşamba günü saat 16.00 itibariyle.\r\nCumartesi günü saat 13.00 itibariyle. , edit: https://goclubdb.herokuapp.com/club/134/", 
-        "name": "İstanbul Go Oyuncuları"
+        "name": "İstanbul Go Oyuncuları", 
+        "description": "http://www.istanbulgo.org , Coffee O’Clock , Çarşamba günü saat 16.00 itibariyle.\r\nCumartesi günü saat 13.00 itibariyle. , edit: https://goclubdb.herokuapp.com/club/134/"
       }
     }, 
     {
       "layer": "TR", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           29.022311592943, 
           41.10427915
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://www.igoku.itu.edu.tr/ , İstanbul Teknik Üniversitesi - Maslak'ta Kulüp odamızda toplanmaktayız. Kulüp odamız Eski Kütüphane'de 2. kattan döner merdivenleri çıktıktan sonra sol tarafta kalmaktadır. , Salı ve Perşembe günleri 17:00. Toplantılarımız 21:00-22:00 arasına kadar sürmektedir. Katılım için 17:00-18:00 arası gelmeniz tavsiye edilir. , igoku@yahoogroups.com , edit: https://goclubdb.herokuapp.com/club/135/", 
-        "name": "İstanbul Teknik Üniversitesi Go Kulübü"
+        "name": "İstanbul Teknik Üniversitesi Go Kulübü", 
+        "description": "http://www.igoku.itu.edu.tr/ , İstanbul Teknik Üniversitesi - Maslak'ta Kulüp odamızda toplanmaktayız. Kulüp odamız Eski Kütüphane'de 2. kattan döner merdivenleri çıktıktan sonra sol tarafta kalmaktadır. , Salı ve Perşembe günleri 17:00. Toplantılarımız 21:00-22:00 arasına kadar sürmektedir. Katılım için 17:00-18:00 arası gelmeniz tavsiye edilir. , igoku@yahoogroups.com , edit: https://goclubdb.herokuapp.com/club/135/"
       }
     }, 
     {
       "layer": "TR", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           32.789694, 
           39.888055
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://alparkilincgo.com , Odtü 9. Yurt Topluluk Odaları , Salı 18:00-00:00\r\nÇarşamba 18:00-00:00\r\nCuma 18:00-00:00 , https://www.facebook.com/groups/odtualparkilincgotoplulugu/ , edit: https://goclubdb.herokuapp.com/club/133/", 
-        "name": "ODTÜ Alpar Kılınç Go Topluluğu"
+        "name": "ODTÜ Alpar Kılınç Go Topluluğu", 
+        "description": "http://alparkilincgo.com , Odtü 9. Yurt Topluluk Odaları , Salı 18:00-00:00\r\nÇarşamba 18:00-00:00\r\nCuma 18:00-00:00 , https://www.facebook.com/groups/odtualparkilincgotoplulugu/ , edit: https://goclubdb.herokuapp.com/club/133/"
       }
     }, 
     {
       "layer": "TR", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           32.8537263, 
           39.9206187
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "https://www.facebook.com/KafeOrtaDunya/?rf=158820547518438 , Kızılırmak Caddesi 35/3 Kızılay, Ankara , Sunday, 14:00-20:00 , edit: https://goclubdb.herokuapp.com/club/132/", 
-        "name": "Orta Dunya Cafe"
+        "name": "Orta Dunya Cafe", 
+        "description": "https://www.facebook.com/KafeOrtaDunya/?rf=158820547518438 , Kızılırmak Caddesi 35/3 Kızılay, Ankara , Sunday, 14:00-20:00 , edit: https://goclubdb.herokuapp.com/club/132/"
       }
     }
   ]

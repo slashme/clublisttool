@@ -3,182 +3,182 @@
   "features": [
     {
       "layer": "CZ", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           14.4443764, 
           50.092481
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://goweb.cz/klub/cajovy-klub-atea/ , Liliová čajovna, Sokolovská 2288/117, Karlín , středa od 19:00 , edit: https://goclubdb.herokuapp.com/club/120/", 
-        "name": "Čajový klub ATea"
+        "name": "Čajový klub ATea", 
+        "description": "http://goweb.cz/klub/cajovy-klub-atea/ , Liliová čajovna, Sokolovská 2288/117, Karlín , středa od 19:00 , edit: https://goclubdb.herokuapp.com/club/120/"
       }
     }, 
     {
       "layer": "CZ", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           14.3939868, 
           50.0996202
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://weiqi2.blogspot.com/ , Vítězné nám. 2, Praha 6 , celoročně všechny čtvrtky 18:00- 21:30 v období 2. 1. - 31. 5. a 15. 9. - 20. 12. , edit: https://goclubdb.herokuapp.com/club/121/", 
-        "name": "China Tours Weiqi Club"
+        "name": "China Tours Weiqi Club", 
+        "description": "http://weiqi2.blogspot.com/ , Vítězné nám. 2, Praha 6 , celoročně všechny čtvrtky 18:00- 21:30 v období 2. 1. - 31. 5. a 15. 9. - 20. 12. , edit: https://goclubdb.herokuapp.com/club/121/"
       }
     }, 
     {
       "layer": "CZ", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           16.6485013817847, 
           49.361606119993
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://www.ulita.bk.cz/index/go.htm , Čajovna Ulita, ul. B. Němcové 2a , Úterý od 18 hodin , edit: https://goclubdb.herokuapp.com/club/127/", 
-        "name": "Go klub Blansko"
+        "name": "Go klub Blansko", 
+        "description": "http://www.ulita.bk.cz/index/go.htm , Čajovna Ulita, ul. B. Němcové 2a , Úterý od 18 hodin , edit: https://goclubdb.herokuapp.com/club/127/"
       }
     }, 
     {
       "layer": "CZ", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           16.603509995765, 
           49.1929361652413
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://goweb.cz/klub/go-klub-brno/ , Orel o.s., Pellicova 20/2c, Brno , středa 17:00 – 21:00 , edit: https://goclubdb.herokuapp.com/club/128/", 
-        "name": "Go klub Brno"
+        "name": "Go klub Brno", 
+        "description": "http://goweb.cz/klub/go-klub-brno/ , Orel o.s., Pellicova 20/2c, Brno , středa 17:00 – 21:00 , edit: https://goclubdb.herokuapp.com/club/128/"
       }
     }, 
     {
       "layer": "CZ", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           14.4800571138004, 
           48.9757483751698
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://goweb.cz/klub/go-klub-ceske-budejovice/ , restaurace Čéčovka (Pražské předměstí) nebo Vltava (sídliště Vltava) Kontaktujte nás předem, místo se mění a občas schůzka odpadá , pondělky od 15:00 , edit: https://goclubdb.herokuapp.com/club/122/", 
-        "name": "Go klub České Budějovice"
+        "name": "Go klub České Budějovice", 
+        "description": "http://goweb.cz/klub/go-klub-ceske-budejovice/ , restaurace Čéčovka (Pražské předměstí) nebo Vltava (sídliště Vltava) Kontaktujte nás předem, místo se mění a občas schůzka odpadá , pondělky od 15:00 , edit: https://goclubdb.herokuapp.com/club/122/"
       }
     }, 
     {
       "layer": "CZ", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           14.2107953460024, 
           50.7832336116624
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://goweb.cz/klub/go-klub-decin/ , každou středu v 18:00 , https://www.facebook.com/GO-Klub-Děčín-105116249566851 , edit: https://goclubdb.herokuapp.com/club/123/", 
-        "name": "Go Klub Děčín"
+        "name": "Go Klub Děčín", 
+        "description": "http://goweb.cz/klub/go-klub-decin/ , každou středu v 18:00 , https://www.facebook.com/GO-Klub-Děčín-105116249566851 , edit: https://goclubdb.herokuapp.com/club/123/"
       }
     }, 
     {
       "layer": "CZ", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           18.3468775, 
           49.6868713
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://www.goklubfm.cz/ , Hluboká 64, Frýdek-Místek , Středa od 17:00, V ponděli v hospůduce Sokolík od 17:30, nejlépe se domluvit dopředu. , https://www.facebook.com/GO-KLUB-FrýDdek-Místek-164379533599104/ , edit: https://goclubdb.herokuapp.com/club/129/", 
-        "name": "Go klub Frýdek-Místek"
+        "name": "Go klub Frýdek-Místek", 
+        "description": "http://www.goklubfm.cz/ , Hluboká 64, Frýdek-Místek , Středa od 17:00, V ponděli v hospůduce Sokolík od 17:30, nejlépe se domluvit dopředu. , https://www.facebook.com/GO-KLUB-FrýDdek-Místek-164379533599104/ , edit: https://goclubdb.herokuapp.com/club/129/"
       }
     }, 
     {
       "layer": "CZ", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           17.2515614246051, 
           49.5902211867627
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://garden.upol.cz/go/ , Vstupní hala Univerzita Palackého Olomouc - Fakulta přírodovědecká, Olomouc , Útery od 16:30 , https://www.facebook.com/groups/GoUPOL/ , edit: https://goclubdb.herokuapp.com/club/130/", 
-        "name": "Go klub Olomouc"
+        "name": "Go klub Olomouc", 
+        "description": "http://garden.upol.cz/go/ , Vstupní hala Univerzita Palackého Olomouc - Fakulta přírodovědecká, Olomouc , Útery od 16:30 , https://www.facebook.com/groups/GoUPOL/ , edit: https://goclubdb.herokuapp.com/club/130/"
       }
     }, 
     {
       "layer": "CZ", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           18.1784575, 
           49.8417213
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://goweb.cz/klub/go-klub-ostrava/ , Heyrovského 1725/7, ostrava , Čtvrtek od 17:30 nepravidelně , edit: https://goclubdb.herokuapp.com/club/131/", 
-        "name": "Go klub Ostrava"
+        "name": "Go klub Ostrava", 
+        "description": "http://goweb.cz/klub/go-klub-ostrava/ , Heyrovského 1725/7, ostrava , Čtvrtek od 17:30 nepravidelně , edit: https://goclubdb.herokuapp.com/club/131/"
       }
     }, 
     {
       "layer": "CZ", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           15.7789938, 
           50.0396755
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://goweb.cz/klub/go-klub-pardubice/ , Dobrá čajovna Pardubice , Dle dohody; čas 18:00 - 22:00 , https://www.facebook.com/groups/170734584276/ , edit: https://goclubdb.herokuapp.com/club/124/", 
-        "name": "Go klub Pardubice"
+        "name": "Go klub Pardubice", 
+        "description": "http://goweb.cz/klub/go-klub-pardubice/ , Dobrá čajovna Pardubice , Dle dohody; čas 18:00 - 22:00 , https://www.facebook.com/groups/170734584276/ , edit: https://goclubdb.herokuapp.com/club/124/"
       }
     }, 
     {
       "layer": "CZ", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           13.3668996, 
           49.7501856
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://www.goplzen.cz/ , v klubovně TJ Union, Radčická 4, Plzeň (je to kousek za výstavištěm a též od centrálního autobusového nádraží, MHD tramvaj č. 2) , Čtvrtek: 18.00 – 22.00 , edit: https://goclubdb.herokuapp.com/club/125/", 
-        "name": "Oddíl go TJ Union Plzeň"
+        "name": "Oddíl go TJ Union Plzeň", 
+        "description": "http://www.goplzen.cz/ , v klubovně TJ Union, Radčická 4, Plzeň (je to kousek za výstavištěm a též od centrálního autobusového nádraží, MHD tramvaj č. 2) , Čtvrtek: 18.00 – 22.00 , edit: https://goclubdb.herokuapp.com/club/125/"
       }
     }, 
     {
       "layer": "CZ", 
+      "type": "Feature", 
       "geometry": {
+        "type": "Point", 
         "coordinates": [
           14.4229729, 
           50.0843564
-        ], 
-        "type": "Point"
+        ]
       }, 
-      "type": "Feature", 
       "properties": {
-        "description": "http://goweb.cz/klub/prazsky-go-klub/ , Na Můstku 380/8 , Úterý 18:30-22:00 , edit: https://goclubdb.herokuapp.com/club/126/", 
-        "name": "Pražský go klub"
+        "name": "Pražský go klub", 
+        "description": "http://goweb.cz/klub/prazsky-go-klub/ , Na Můstku 380/8 , Úterý 18:30-22:00 , edit: https://goclubdb.herokuapp.com/club/126/"
       }
     }
   ]
