@@ -42,10 +42,10 @@
         ]
       }, 
       "properties": {
+        "name": "Barmouth", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Barmouth", 
         "description": "http://www.britgo.org/node/3142 , By arrangement , Baron Allday Tel: 01341 280365 , edit: https://goclubdb.herokuapp.com/club/1266/"
       }
     }, 
@@ -105,10 +105,10 @@
         ]
       }, 
       "properties": {
+        "name": "Bermuda Go Society", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Bermuda Go Society", 
         "description": "https://www.facebook.com/BermudaGo , edit: https://goclubdb.herokuapp.com/club/1354/"
       }
     }, 

@@ -12,10 +12,10 @@
         ]
       }, 
       "properties": {
+        "name": "Cafe Benno", 
         "_storage_options": {
           "iconClass": "Circle"
         }, 
-        "name": "Cafe Benno", 
         "description": "http://www.cafebenno.at/ , Cafe Benno: Alserstraße 67, Wien , Spielmaterial vorhanden, kein fester Spielabend , edit: https://goclubdb.herokuapp.com/club/50/"
       }
     }, 
@@ -45,10 +45,10 @@
         ]
       }, 
       "properties": {
+        "name": "Cafe Rüdigerhof", 
         "_storage_options": {
           "iconClass": "Circle"
         }, 
-        "name": "Cafe Rüdigerhof", 
         "description": "http://www.kaffeesieder.at/jart/prj3/kwk/main.jart?rel=de&reserve-mode=active&content-id=1213111916923&kwk_mitglieder_id=1218679097019 , Cafe Rüdigerhof, Hamburgerstraße 20, Wien , Spielmaterial vorhanden, kein fester Spielabend. , edit: https://goclubdb.herokuapp.com/club/52/"
       }
     }, 
@@ -63,10 +63,10 @@
         ]
       }, 
       "properties": {
+        "name": "Cafe Sperlhof", 
         "_storage_options": {
           "iconClass": "Circle"
         }, 
-        "name": "Cafe Sperlhof", 
         "description": "http://www.wiener-kaffeehaus.at/stammblatt.aspx?kaffeehausid=171 , Große Sperlgasse 41 , Spielmaterial vorhanden, kein fester Spielabend. , edit: https://goclubdb.herokuapp.com/club/49/"
       }
     }, 
@@ -81,10 +81,10 @@
         ]
       }, 
       "properties": {
+        "name": "Cafe Weidinger", 
         "_storage_options": {
           "iconClass": "Circle"
         }, 
-        "name": "Cafe Weidinger", 
         "description": "http://www.facebook.com/pages/Cafe-Weidinger/205114116166204 , Cafe Weidinger: Lerchenfeldergürtel 1, 1070 Wien, vis á vis Lugner City , Spielmaterial vorhanden, kein fester Spielabend. , edit: https://goclubdb.herokuapp.com/club/51/"
       }
     }, 

@@ -72,10 +72,10 @@
         ]
       }, 
       "properties": {
+        "name": "Jugadores de go en Córdoba", 
         "_storage_options": {
           "iconClass": "Circle"
         }, 
-        "name": "Jugadores de go en Córdoba", 
         "description": "http://www.go.org.ar/clubes.php?club=jugadoresCordoba , Villa María, Córdoba , Diego Ramírez - http://www.go.org.ar/jugadores/mensaje.php?cod=1133\r\nhttps://www.facebook.com/groups/177275092330250/ , edit: https://goclubdb.herokuapp.com/club/71/"
       }
     }, 
@@ -120,10 +120,10 @@
         ]
       }, 
       "properties": {
+        "name": "Zxener", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Zxener", 
         "description": "http://www.go.org.ar/clubes.php?club=zxener , Zona Norte, Buenos Aires , SUSPENDIDO , Carlos d'Albuquerque http://www.go.org.ar/jugadores/mensaje.php?cod=1191 , edit: https://goclubdb.herokuapp.com/club/65/"
       }
     }

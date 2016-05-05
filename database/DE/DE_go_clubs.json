@@ -42,10 +42,10 @@
         ]
       }, 
       "properties": {
+        "name": "Bad Kreuznach", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Bad Kreuznach", 
         "description": "priv. n. V. Musikkneipe \"Dudelsack\", Rüdesheimerstr. 44 , Danny Shave, 0175-2237753; Janos Sälzer (Email), 0176-24020101 , edit: https://goclubdb.herokuapp.com/club/1205/"
       }
     }, 
@@ -255,10 +255,10 @@
         ]
       }, 
       "properties": {
+        "name": "Böblingen", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Böblingen", 
         "description": "Uli Staber, 07157-65801 , edit: https://goclubdb.herokuapp.com/club/1224/"
       }
     }, 
@@ -378,10 +378,10 @@
         ]
       }, 
       "properties": {
+        "name": "Buchloe", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Buchloe", 
         "description": "Bernd Gramlich, 08241-5079996 , edit: https://goclubdb.herokuapp.com/club/1246/"
       }
     }, 
@@ -696,10 +696,10 @@
         ]
       }, 
       "properties": {
+        "name": "Freiburg", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Freiburg", 
         "description": "privat, Am Hagmättle 11 , Fr ab 18 , Kirsten Grimm, 0172-5841455 , edit: https://goclubdb.herokuapp.com/club/1235/"
       }
     }, 
@@ -834,10 +834,10 @@
         ]
       }, 
       "properties": {
+        "name": "Gronau-Epe, n. V.", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Gronau-Epe, n. V.", 
         "description": "privat (bitte vorher kontaktieren) , Claus Weyck, 02565-2556,0177-1446465 , edit: https://goclubdb.herokuapp.com/club/1195/"
       }
     }, 
@@ -1017,10 +1017,10 @@
         ]
       }, 
       "properties": {
+        "name": "Hasbergen", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Hasbergen", 
         "description": "Zum Ortenbrink 9 , Helmut Gorenflo, 05405-1591 , edit: https://goclubdb.herokuapp.com/club/1197/"
       }
     }, 
@@ -1305,10 +1305,10 @@
         ]
       }, 
       "properties": {
+        "name": "Landshut", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Landshut", 
         "description": "Landshut und Umgebung , Georg Engl, 0172 247 3328 , edit: https://goclubdb.herokuapp.com/club/1241/"
       }
     }, 
@@ -1398,10 +1398,10 @@
         ]
       }, 
       "properties": {
+        "name": "Löwenberg", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Löwenberg", 
         "description": "priv. n. V. , Mo-Do 19-22 , Tobias Klatt, 0151-28027524 , edit: https://goclubdb.herokuapp.com/club/1140/"
       }
     }, 
@@ -1431,10 +1431,10 @@
         ]
       }, 
       "properties": {
+        "name": "Ludwigsburg", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Ludwigsburg", 
         "description": "in Ludwigsburg-Ossweil , Christopher Doubleday, 07141-918882 , edit: https://goclubdb.herokuapp.com/club/1225/"
       }
     }, 
@@ -1449,10 +1449,10 @@
         ]
       }, 
       "properties": {
+        "name": "Lüneburg", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Lüneburg", 
         "description": "Privat n.V. , Ralf Schulz, 0151-65783327 , edit: https://goclubdb.herokuapp.com/club/1149/"
       }
     }, 
@@ -1767,10 +1767,10 @@
         ]
       }, 
       "properties": {
+        "name": "Rosenheim", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Rosenheim", 
         "description": "Christoph Sitte, 0176-21643171 , edit: https://goclubdb.herokuapp.com/club/1240/"
       }
     }, 
@@ -1860,10 +1860,10 @@
         ]
       }, 
       "properties": {
+        "name": "Soltau", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Soltau", 
         "description": "Reinhard Spode, 05195-1259 , edit: https://goclubdb.herokuapp.com/club/1162/"
       }
     }, 
@@ -2013,10 +2013,10 @@
         ]
       }, 
       "properties": {
+        "name": "Unterschleissheim", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Unterschleissheim", 
         "description": "Paul Freitag, 0151-12318766 , edit: https://goclubdb.herokuapp.com/club/1243/"
       }
     }, 
@@ -2031,10 +2031,10 @@
         ]
       }, 
       "properties": {
+        "name": "Villingen-Schwenningen", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Villingen-Schwenningen", 
         "description": "Manfred Götz, 0151-11523830 , edit: https://goclubdb.herokuapp.com/club/1231/"
       }
     }, 
@@ -2064,10 +2064,10 @@
         ]
       }, 
       "properties": {
+        "name": "Welzow", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Welzow", 
         "description": "Hartmut Köstner, 035751-15691 , edit: https://goclubdb.herokuapp.com/club/1120/"
       }
     }, 

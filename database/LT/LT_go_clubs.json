@@ -27,10 +27,10 @@
         ]
       }, 
       "properties": {
+        "name": "Šiaulių Go Klubas", 
         "_storage_options": {
           "iconClass": "Circle"
         }, 
-        "name": "Šiaulių Go Klubas", 
         "description": "Valerijonas Cafe , Sunday 13:00 , Eivydas\r\nsiauliugoklubas@gmail.com , edit: https://goclubdb.herokuapp.com/club/137/"
       }
     }, 

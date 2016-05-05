@@ -72,10 +72,10 @@
         ]
       }, 
       "properties": {
+        "name": "Melbourne University Students Playing Go", 
         "_storage_options": {
           "iconClass": "Circle"
         }, 
-        "name": "Melbourne University Students Playing Go", 
         "description": "Sidney Myer Asia Centre, University of Melbourne , Club seems to be inactive. Used to be Room 120 (Mondays 1pm to 3pm), Room 117 (noon to 2pm) , http://groups.google.com/group/students-playing-go/ , edit: https://goclubdb.herokuapp.com/club/33/"
       }
     }, 
@@ -150,10 +150,10 @@
         ]
       }, 
       "properties": {
+        "name": "Tasmanian Go Club", 
         "_storage_options": {
           "iconClass": "Circle"
         }, 
-        "name": "Tasmanian Go Club", 
         "description": "https://www.facebook.com/pages/Tasmanian-Go-Club/196649457046277?fref=ts , Since the closure of Chado last year we have lost our regular meeting spot and we are now meeting only semi-regularly at members' houses. , Semi-regular - see Facebook group , Michael Cromer (mccromer@postoffice.utas.edu.au) , edit: https://goclubdb.herokuapp.com/club/37/"
       }
     }, 

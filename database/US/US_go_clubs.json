@@ -162,10 +162,10 @@
         ]
       }, 
       "properties": {
+        "name": "Harridan Go Club (unofficial)", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Harridan Go Club (unofficial)", 
         "description": "edit: https://goclubdb.herokuapp.com/club/1348/"
       }
     }, 

@@ -12,10 +12,10 @@
         ]
       }, 
       "properties": {
+        "name": "Aarhus Go Klub", 
         "_storage_options": {
           "iconClass": "Circle"
         }, 
-        "name": "Aarhus Go Klub", 
         "description": "https://aarhusgoklub.wordpress.com/ , aarhusgoklub@gmail.com , edit: https://goclubdb.herokuapp.com/club/11/"
       }
     }, 

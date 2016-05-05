@@ -42,10 +42,10 @@
         ]
       }, 
       "properties": {
+        "name": "Coimbra ", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Coimbra ", 
         "description": "http://www.go-portugal.org/index.php/onde-jogar/64-coimbra , Quem estiver interessado em jogar pode contactar o Pedro - kemedo@hotmail.it , edit: https://goclubdb.herokuapp.com/club/1259/"
       }
     }, 

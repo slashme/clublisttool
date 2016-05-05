@@ -57,10 +57,10 @@
         ]
       }, 
       "properties": {
+        "name": "Polykentro Neolaias Go Club", 
         "_storage_options": {
           "iconClass": "Circle"
         }, 
-        "name": "Polykentro Neolaias Go Club", 
         "description": "Meetings: Postponed Meeting place: Polykentro Neolaias, 14 Tombazi Street, Lykavitos, Nicosia Time: TBA This club is for children of ages 6-13. It is the ideal place for children to discover the game of Go. Parents and teachersare welcome to play with us as well.Information: Call 22 87 75 10 or email Dimitris Regginos: regginos@gmail.com - www.regginos.com , edit: https://goclubdb.herokuapp.com/club/1082/"
       }
     }

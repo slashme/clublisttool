@@ -27,10 +27,10 @@
         ]
       }, 
       "properties": {
+        "name": "Durban Go club", 
         "_storage_options": {
           "iconClass": "Circle"
         }, 
-        "name": "Durban Go club", 
         "description": "(info date: May 2006) Peter Charter is at work resuscitating the Durban Go club.  Meetings: at the Steers on North Beach, on Tuesdays. , Start 18h30 on Tuesdays , Peter Charter (cellphone: 082 900 1496) or Tony Clulow (home phone: 031 702 1749). , edit: https://goclubdb.herokuapp.com/club/977/"
       }
     }, 
@@ -60,10 +60,10 @@
         ]
       }, 
       "properties": {
+        "name": "Mossel Bay", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Mossel Bay", 
         "description": "There is currently no club in Mossel Bay. However, anyone there interested in the game can contact Candice Barker. She would be happy to meet and play holiday-makers or business visitors in Mossel Bay, introduce the game to prospective new players, or meet other players from Mossel Bay and surrounds. , ad hoc , Candice Barker (phone: 0446905547) , edit: https://goclubdb.herokuapp.com/club/979/"
       }
     }, 
@@ -78,10 +78,10 @@
         ]
       }, 
       "properties": {
+        "name": "Port Elizabeth", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Port Elizabeth", 
         "description": "http://www.sagoclubs.co.za/other-clubs/ , There are no clubs in the Eastern Cape. However, anyone there interested in the game can contact William Mapham <william.mapham@gmail.com> or Patrick Lee <alobar@telkomsa.net> , edit: https://goclubdb.herokuapp.com/club/980/"
       }
     }, 
@@ -96,10 +96,10 @@
         ]
       }, 
       "properties": {
+        "name": "Pretoria Clearwater", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Pretoria Clearwater", 
         "description": "House of Coffees in Clearwater Mall , Start 19h00 on Wednesdays , Pablo Casado (e-mail: phmcasado !@! gmail [d-o-t] com) , edit: https://goclubdb.herokuapp.com/club/982/"
       }
     }, 
@@ -114,10 +114,10 @@
         ]
       }, 
       "properties": {
+        "name": "Pretoria Go Club", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Pretoria Go Club", 
         "description": "http://www.sagoclubs.co.za/pretoria-club/ , Outer Limits Comic and Games shop in Hatfield Square (near News Cafe) , Wednesday evenings , Brett Wilson (072 099 9943) or John Leuner (076 226 9975) , edit: https://goclubdb.herokuapp.com/club/981/"
       }
     }, 
@@ -132,10 +132,10 @@
         ]
       }, 
       "properties": {
+        "name": "Soweto", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Soweto", 
         "description": "http://www.sagoclubs.co.za/soweto-club/ , Sipho Mampe: 084 7888 177 , edit: https://goclubdb.herokuapp.com/club/983/"
       }
     }, 
@@ -150,10 +150,10 @@
         ]
       }, 
       "properties": {
+        "name": "Stellenbosch", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Stellenbosch", 
         "description": "http://www.sagoclubs.co.za/stellenbosch-club/ , Recently (2015) some of us have been playing at The Guild campus board-gaming society. , Gordon Wells , edit: https://goclubdb.herokuapp.com/club/984/"
       }
     }, 
@@ -168,10 +168,10 @@
         ]
       }, 
       "properties": {
+        "name": "UJ", 
         "_storage_options": {
           "iconClass": "Circle"
         }, 
-        "name": "UJ", 
         "description": "http://www.sagoclubs.co.za/uj-club/ , Mondays: C-Les 305, 13:00-14:00 Wednesdays: D-Les 411 , Mon, Wed: 13:00-14:00 , edit: https://goclubdb.herokuapp.com/club/985/"
       }
     }

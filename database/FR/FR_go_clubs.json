@@ -12,10 +12,10 @@
         ]
       }, 
       "properties": {
+        "name": "Albi", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "name": "Albi", 
         "description": "http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=330 , Chez Yves France Lanord , No regular meeting , Yves France-Lanord\r\nyves.france-lanord@orange.fr , edit: https://goclubdb.herokuapp.com/club/45/"
       }
     }, 
@@ -975,10 +975,10 @@
         ]
       }, 
       "properties": {
+        "name": "Paris XX Club Pierre Desproges et Dolly Parton", 
         "_storage_options": {
           "iconClass": "Circle"
         }, 
-        "name": "Paris XX Club Pierre Desproges et Dolly Parton", 
         "description": "http://victoire.b.free.fr/Paris20/index.html , Bar «Les Trois-Arts» 21 rue des Rigoles 75020 Paris , Le club ne se réunit plus, mais des jeux sont à votre disposotion, demander au bar , edit: https://goclubdb.herokuapp.com/club/891/"
       }
     }, 

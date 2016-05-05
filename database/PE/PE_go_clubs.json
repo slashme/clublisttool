@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "layer": "PE", 
+      "type": "Feature", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -77.0549419, 
+          -12.0876669
+        ]
+      }, 
+      "properties": {
+        "name": "Lima", 
+        "description": "Centro Cultural Peruano-Japonés, Avda. Gregorio Escobedo 803, Lima , Carlos Gálvez: cargalmor@hotmail.com , edit: https://goclubdb.herokuapp.com/club/212/"
+      }
+    }
+  ]
+}
