@@ -1,80 +1,80 @@
 {
-  "type": "FeatureCollection", 
   "features": [
     {
-      "layer": "SE", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           11.957506, 
           57.697696
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "SE", 
       "properties": {
-        "name": "Göteborgs go-klubb", 
-        "description": "http://gbg.goforbundet.se/ , Skolgatan 21, Göteborg , Wednesday 6 PM , gbg.goklubb@gmail.com\r\nhttps://www.facebook.com/groups/123111635590/ , edit: https://goclubdb.herokuapp.com/club/12/"
-      }
+        "description": "http://gbg.goforbundet.se/ , Skolgatan 21, Göteborg , Wednesday 6 PM , gbg.goklubb@gmail.com\r\nhttps://www.facebook.com/groups/123111635590/ , edit: https://goclubdb.herokuapp.com/club/12/", 
+        "name": "Göteborgs go-klubb"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "SE", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           13.0038585355816, 
           55.5927743186611
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "SE", 
       "properties": {
-        "name": "Malmö Goklubb", 
-        "description": "http://minutopi.se/go/ , Möllevången , Every second Wednesday , http://minutopi.se/go/kontakt/ , edit: https://goclubdb.herokuapp.com/club/14/"
-      }
+        "description": "http://minutopi.se/go/ , Möllevången , Every second Wednesday , http://minutopi.se/go/kontakt/ , edit: https://goclubdb.herokuapp.com/club/14/", 
+        "name": "Malmö Goklubb"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "SE", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           18.046523, 
           59.331774
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "SE", 
       "properties": {
-        "name": "Stockholms go-klubb", 
-        "description": "http://stockholm.goforbundet.se , Piperska Grottan, Pipersgatan 26, T-Rådhuset, Kungsholmen , Thursday 6 PM and sometimes Sunday 1 PM , http://stockholm.goforbundet.se/node/8 , edit: https://goclubdb.herokuapp.com/club/13/"
-      }
+        "description": "http://stockholm.goforbundet.se , Piperska Grottan, Pipersgatan 26, T-Rådhuset, Kungsholmen , Thursday 6 PM and sometimes Sunday 1 PM , http://stockholm.goforbundet.se/node/8 , edit: https://goclubdb.herokuapp.com/club/13/", 
+        "name": "Stockholms go-klubb"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "SE", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           17.648168206204, 
           59.8416011769617
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "SE", 
       "properties": {
-        "name": "Uppsala go-klubb", 
-        "description": "https://www.facebook.com/groups/8126794587/ , kl. 19 i Ekonomikum (f.d. Humanistcentrum) i det allmänna utrymmet vid huvudentrén (\"lokstallarna\"), på Kyrkogårdsgatan , på tisdagar , uppsalago@gmail.com , edit: https://goclubdb.herokuapp.com/club/1357/"
-      }
+        "description": "https://www.facebook.com/groups/8126794587/ , kl. 19 i Ekonomikum (f.d. Humanistcentrum) i det allmänna utrymmet vid huvudentrén (\"lokstallarna\"), på Kyrkogårdsgatan , på tisdagar , uppsalago@gmail.com , edit: https://goclubdb.herokuapp.com/club/1357/", 
+        "name": "Uppsala go-klubb"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "SE", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           16.47486, 
           59.59792
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "SE", 
       "properties": {
-        "name": "Västerås Goklubb", 
-        "description": "http://www.vgo.se/ , Café Koppar, Culturen, Sintervägen 6, Västerås , Thursday 5 PM , info@vgo.se , edit: https://goclubdb.herokuapp.com/club/15/"
-      }
+        "description": "http://www.vgo.se/ , Café Koppar, Culturen, Sintervägen 6, Västerås , Thursday 5 PM , info@vgo.se , edit: https://goclubdb.herokuapp.com/club/15/", 
+        "name": "Västerås Goklubb"
+      }, 
+      "type": "Feature"
     }
-  ]
+  ], 
+  "type": "FeatureCollection"
 }

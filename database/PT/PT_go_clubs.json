@@ -1,83 +1,83 @@
 {
-  "type": "FeatureCollection", 
   "features": [
     {
-      "layer": "PT", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           -9.14295, 
           39.40331
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "PT", 
       "properties": {
-        "name": "Caldas da Rainha", 
-        "description": "http://www.go-portugal.org/index.php/onde-jogar/57-caldas-da-rainha , Centro de Juventude das Caldas da Rainha, R. de Vitorino Frois 22 , Sábados às 18:00 , Combinar antecipadamente com Francisco Pereira: xikkuh@gmail.com , edit: https://goclubdb.herokuapp.com/club/1258/"
-      }
+        "description": "http://www.go-portugal.org/index.php/onde-jogar/57-caldas-da-rainha , Centro de Juventude das Caldas da Rainha, R. de Vitorino Frois 22 , Sábados às 18:00 , Combinar antecipadamente com Francisco Pereira: xikkuh@gmail.com , edit: https://goclubdb.herokuapp.com/club/1258/", 
+        "name": "Caldas da Rainha"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "PT", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           -8.42008, 
           41.55126
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "PT", 
       "properties": {
-        "name": "Clube de Go Braga", 
-        "description": "https://clubegobraga.wordpress.com/ , Livraria Centésima Página, avenida central 118-120, 4710-229 braga, portugal , no 2º e 4º sábado de cada mês, às 10h , clubegobraga@gmail.com | https://www.facebook.com/gobraga , edit: https://goclubdb.herokuapp.com/club/1255/"
-      }
+        "description": "https://clubegobraga.wordpress.com/ , Livraria Centésima Página, avenida central 118-120, 4710-229 braga, portugal , no 2º e 4º sábado de cada mês, às 10h , clubegobraga@gmail.com | https://www.facebook.com/gobraga , edit: https://goclubdb.herokuapp.com/club/1255/", 
+        "name": "Clube de Go Braga"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "PT", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           -8.4292, 
           40.211
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "PT", 
       "properties": {
-        "name": "Coimbra ", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": "http://www.go-portugal.org/index.php/onde-jogar/64-coimbra , Quem estiver interessado em jogar pode contactar o Pedro - kemedo@hotmail.it , edit: https://goclubdb.herokuapp.com/club/1259/"
-      }
+        "description": "http://www.go-portugal.org/index.php/onde-jogar/64-coimbra , Quem estiver interessado em jogar pode contactar o Pedro - kemedo@hotmail.it , edit: https://goclubdb.herokuapp.com/club/1259/", 
+        "name": "Coimbra "
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "PT", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           -9.15444, 
           38.73447
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "PT", 
       "properties": {
-        "name": "Lisboa", 
-        "description": "http://www.go-portugal.org/index.php/onde-jogar/55-lisboa , Centro de Bridge de Lisboa,  na Av. António Augusto de Aguiar, 163-4º Esq. (perto do El Corte Ingles). , aos Domingos à tarde , Pedro Carmona - 91 627 0944 p.carmona@go-portugal.org ; Vasco Pimenta - 93 426 3497 vasco@go-portugal.org , edit: https://goclubdb.herokuapp.com/club/1256/"
-      }
+        "description": "http://www.go-portugal.org/index.php/onde-jogar/55-lisboa , Centro de Bridge de Lisboa,  na Av. António Augusto de Aguiar, 163-4º Esq. (perto do El Corte Ingles). , aos Domingos à tarde , Pedro Carmona - 91 627 0944 p.carmona@go-portugal.org ; Vasco Pimenta - 93 426 3497 vasco@go-portugal.org , edit: https://goclubdb.herokuapp.com/club/1256/", 
+        "name": "Lisboa"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "PT", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           -8.6271, 
           41.1474
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "PT", 
       "properties": {
-        "name": "Porto ", 
-        "description": "http://www.go-portugal.org/index.php/onde-jogar/56-porto , Crystal Park (o encontro é em frente ao Tropical Burger) , Quintas a partir das 21h00 , Cristóvão Neto - 93 695 2487 chris@go-portugal.org , edit: https://goclubdb.herokuapp.com/club/1257/"
-      }
+        "description": "http://www.go-portugal.org/index.php/onde-jogar/56-porto , Crystal Park (o encontro é em frente ao Tropical Burger) , Quintas a partir das 21h00 , Cristóvão Neto - 93 695 2487 chris@go-portugal.org , edit: https://goclubdb.herokuapp.com/club/1257/", 
+        "name": "Porto "
+      }, 
+      "type": "Feature"
     }
-  ]
+  ], 
+  "type": "FeatureCollection"
 }

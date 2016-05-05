@@ -1,53 +1,53 @@
 {
-  "type": "FeatureCollection", 
   "features": [
     {
-      "layer": "LT", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           23.8990077319, 
           54.8975412956
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "LT", 
       "properties": {
-        "name": "Kauno go klubas", 
-        "description": "„Arbatos klubas“ Vilniaus g. 41, Kaunas , Ketvirtadieniais nuo 18:00 iki 21:00 , edit: https://goclubdb.herokuapp.com/club/118/"
-      }
+        "description": "„Arbatos klubas“ Vilniaus g. 41, Kaunas , Ketvirtadieniais nuo 18:00 iki 21:00 , edit: https://goclubdb.herokuapp.com/club/118/", 
+        "name": "Kauno go klubas"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "LT", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           23.3164671063429, 
           55.9303140465766
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "LT", 
       "properties": {
-        "name": "Šiaulių Go Klubas", 
         "_storage_options": {
           "iconClass": "Circle"
         }, 
-        "description": "Valerijonas Cafe , Sunday 13:00 , Eivydas\r\nsiauliugoklubas@gmail.com , edit: https://goclubdb.herokuapp.com/club/137/"
-      }
+        "description": "Valerijonas Cafe , Sunday 13:00 , Eivydas\r\nsiauliugoklubas@gmail.com , edit: https://goclubdb.herokuapp.com/club/137/", 
+        "name": "Šiaulių Go Klubas"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "LT", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           25.2776966, 
           54.6784451
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "LT", 
       "properties": {
-        "name": "Vilniaus go klubas", 
-        "description": "kavinėje „Tabera“ (Pylimo g. 23, Vilnius) , Antradieniais nuo 18:00 iki 21:00 , edit: https://goclubdb.herokuapp.com/club/119/"
-      }
+        "description": "kavinėje „Tabera“ (Pylimo g. 23, Vilnius) , Antradieniais nuo 18:00 iki 21:00 , edit: https://goclubdb.herokuapp.com/club/119/", 
+        "name": "Vilniaus go klubas"
+      }, 
+      "type": "Feature"
     }
-  ]
+  ], 
+  "type": "FeatureCollection"
 }

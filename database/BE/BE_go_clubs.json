@@ -1,170 +1,170 @@
 {
-  "type": "FeatureCollection", 
   "features": [
     {
-      "layer": "BE", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           4.4305036962, 
           51.2070480768
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "BE", 
       "properties": {
-        "name": "Antwerpen", 
-        "description": "http://goclubantwerpen.be , De Nieuwe Zurenborger\r\nDageraadplaats 4 , Thursday at 20:00 , club_antwerpen@gofed.be , edit: https://goclubdb.herokuapp.com/club/16/"
-      }
+        "description": "http://goclubantwerpen.be , De Nieuwe Zurenborger\r\nDageraadplaats 4 , Thursday at 20:00 , club_antwerpen@gofed.be , edit: https://goclubdb.herokuapp.com/club/16/", 
+        "name": "Antwerpen"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "BE", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           3.78049582243, 
           50.6279554393
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "BE", 
       "properties": {
-        "name": "Ath", 
-        "description": "Café Donquichotte De La Dendre\r\nRue de France 38 , Wednesday 20:15 , club_ath@gofed.be , edit: https://goclubdb.herokuapp.com/club/17/"
-      }
+        "description": "Café Donquichotte De La Dendre\r\nRue de France 38 , Wednesday 20:15 , club_ath@gofed.be , edit: https://goclubdb.herokuapp.com/club/17/", 
+        "name": "Ath"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "BE", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           3.72702598572, 
           51.037278747
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "BE", 
       "properties": {
-        "name": "Gents Go Genootschap", 
-        "description": "The Outpost\r\nOttergemsesteenweg 13 , Tuesday at 19:00 , club_gent@gofed.be , edit: https://goclubdb.herokuapp.com/club/21/"
-      }
+        "description": "The Outpost\r\nOttergemsesteenweg 13 , Tuesday at 19:00 , club_gent@gofed.be , edit: https://goclubdb.herokuapp.com/club/21/", 
+        "name": "Gents Go Genootschap"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "BE", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           5.34317292273, 
           50.9302672206
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "BE", 
       "properties": {
-        "name": "Hasselt", 
-        "description": "Café De Linck\r\nMaastrichterstraat 107 , Thursday at 20:00 , club_hasselt@gofed.be , edit: https://goclubdb.herokuapp.com/club/22/"
-      }
+        "description": "Café De Linck\r\nMaastrichterstraat 107 , Thursday at 20:00 , club_hasselt@gofed.be , edit: https://goclubdb.herokuapp.com/club/22/", 
+        "name": "Hasselt"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "BE", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           4.37093518674, 
           50.8281308158
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "BE", 
       "properties": {
-        "name": "Le Pantin - Monday", 
-        "description": "Le Pantin, ch. d'Ixelles 355 , Monday 17:00 - 20:00 , club_pantin@gofed.be , edit: https://goclubdb.herokuapp.com/club/19/"
-      }
+        "description": "Le Pantin, ch. d'Ixelles 355 , Monday 17:00 - 20:00 , club_pantin@gofed.be , edit: https://goclubdb.herokuapp.com/club/19/", 
+        "name": "Le Pantin - Monday"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "BE", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           4.34806868434, 
           50.8367874465
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "BE", 
       "properties": {
-        "name": "Le Pantin - Saturday", 
-        "description": "L'Eau Chaude, Rue des renards, 25 , 16:00-20:00 , club_pantin@gofed.be , edit: https://goclubdb.herokuapp.com/club/20/"
-      }
+        "description": "L'Eau Chaude, Rue des renards, 25 , 16:00-20:00 , club_pantin@gofed.be , edit: https://goclubdb.herokuapp.com/club/20/", 
+        "name": "Le Pantin - Saturday"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "BE", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           4.71393942833, 
           50.8814172861
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "BE", 
       "properties": {
-        "name": "Leuven", 
-        "description": "http://www.goclubleuven.be/ , Cafe Sport\r\nMartelarenplein 13 , Tuesdays at 20:15 , club_leuven@gofed.be , edit: https://goclubdb.herokuapp.com/club/23/"
-      }
+        "description": "http://www.goclubleuven.be/ , Cafe Sport\r\nMartelarenplein 13 , Tuesdays at 20:15 , club_leuven@gofed.be , edit: https://goclubdb.herokuapp.com/club/23/", 
+        "name": "Leuven"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "BE", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           5.58223955333, 
           50.6425798376
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "BE", 
       "properties": {
-        "name": "Liège", 
-        "description": "http://www.goliege.be/ , Le Toussaint\r\nRue Ernest de Bavière 1 , Thursday at 18:30 , club_liege@gofed.be , edit: https://goclubdb.herokuapp.com/club/24/"
-      }
+        "description": "http://www.goliege.be/ , Le Toussaint\r\nRue Ernest de Bavière 1 , Thursday at 18:30 , club_liege@gofed.be , edit: https://goclubdb.herokuapp.com/club/24/", 
+        "name": "Liège"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "BE", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           4.61615681648, 
           50.6683581505
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "BE", 
       "properties": {
-        "name": "Louvain-La-Neuve", 
-        "description": "Café Altérez-Vous\r\nPlace des Brabançons 6A , Tuesday at 20:30 , club_lln@gofed.be , edit: https://goclubdb.herokuapp.com/club/25/"
-      }
+        "description": "Café Altérez-Vous\r\nPlace des Brabançons 6A , Tuesday at 20:30 , club_lln@gofed.be , edit: https://goclubdb.herokuapp.com/club/25/", 
+        "name": "Louvain-La-Neuve"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "BE", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           4.8610801079, 
           50.4645612955
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "BE", 
       "properties": {
-        "name": "Namur", 
-        "description": "http://membres.lycos.fr/namurgoclub , La Fontaine\r\nPlace St Aubain , Tuesday at 20:00 , club_namur@gofed.be , edit: https://goclubdb.herokuapp.com/club/26/"
-      }
+        "description": "http://membres.lycos.fr/namurgoclub , La Fontaine\r\nPlace St Aubain , Tuesday at 20:00 , club_namur@gofed.be , edit: https://goclubdb.herokuapp.com/club/26/", 
+        "name": "Namur"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "BE", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           4.36522141099, 
           50.8487194447
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "BE", 
       "properties": {
-        "name": "Phénix GO Club", 
-        "description": "https://gophenix.wordpress.com , Outpost game center\r\nRue de la Tribune,8 , Wednesday 19:00 - 24:00 , club_phenix@gofed.be , edit: https://goclubdb.herokuapp.com/club/18/"
-      }
+        "description": "https://gophenix.wordpress.com , Outpost game center\r\nRue de la Tribune,8 , Wednesday 19:00 - 24:00 , club_phenix@gofed.be , edit: https://goclubdb.herokuapp.com/club/18/", 
+        "name": "Phénix GO Club"
+      }, 
+      "type": "Feature"
     }
-  ]
+  ], 
+  "type": "FeatureCollection"
 }

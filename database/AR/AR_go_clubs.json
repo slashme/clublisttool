@@ -1,131 +1,131 @@
 {
-  "type": "FeatureCollection", 
   "features": [
     {
-      "layer": "AR", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           -58.4018260181, 
           -34.6234204
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "AR", 
       "properties": {
-        "name": "Centro Okinawense de Buenos Aires", 
-        "description": "http://www.go.org.ar/clubes.php?club=okinawense , Centro Okinawense, Av. San Juan 2651, 3º piso , Sábados de 15.30 a 19.30 , Masaaki Hayashi http://www.go.org.ar/jugadores/mensaje.php?cod=995 \r\nTel 4941-0546 , edit: https://goclubdb.herokuapp.com/club/69/"
-      }
+        "description": "http://www.go.org.ar/clubes.php?club=okinawense , Centro Okinawense, Av. San Juan 2651, 3º piso , Sábados de 15.30 a 19.30 , Masaaki Hayashi http://www.go.org.ar/jugadores/mensaje.php?cod=995 \r\nTel 4941-0546 , edit: https://goclubdb.herokuapp.com/club/69/", 
+        "name": "Centro Okinawense de Buenos Aires"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "AR", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           -58.3843066179, 
           -34.6194291059
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "AR", 
       "properties": {
-        "name": "Ciudad de Buenos Aires", 
-        "description": "http://www.go.org.ar/clubes.php?club=aago , Santiago del Estero 952, 1º piso , Sábados a partir de las 18hs , edit: https://goclubdb.herokuapp.com/club/64/"
-      }
+        "description": "http://www.go.org.ar/clubes.php?club=aago , Santiago del Estero 952, 1º piso , Sábados a partir de las 18hs , edit: https://goclubdb.herokuapp.com/club/64/", 
+        "name": "Ciudad de Buenos Aires"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "AR", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           -58.4531931049, 
           -34.542568423
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "AR", 
       "properties": {
-        "name": "Exactas", 
-        "description": "http://www.go.org.ar/clubes.php?club=exactas , Sala Roberto Arlt, SEGBE, Pabellón II, Ciudad Universitaria, Núñez, Ciudad de Buenos Aires , Martes a partir de las 19hs , https://www.facebook.com/groups/154810424914820/\r\nhttps://groups.google.com/forum/#!forum/goexactas\r\nAgustín Santiago Gutiérrez - http://www.go.org.ar/jugadores/mensaje.php?cod=1118 , edit: https://goclubdb.herokuapp.com/club/70/"
-      }
+        "description": "http://www.go.org.ar/clubes.php?club=exactas , Sala Roberto Arlt, SEGBE, Pabellón II, Ciudad Universitaria, Núñez, Ciudad de Buenos Aires , Martes a partir de las 19hs , https://www.facebook.com/groups/154810424914820/\r\nhttps://groups.google.com/forum/#!forum/goexactas\r\nAgustín Santiago Gutiérrez - http://www.go.org.ar/jugadores/mensaje.php?cod=1118 , edit: https://goclubdb.herokuapp.com/club/70/", 
+        "name": "Exactas"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "AR", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           -58.5209439, 
           -34.6004396143
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "AR", 
       "properties": {
-        "name": "Fenix", 
-        "description": "http://www.go.org.ar/clubes.php?club=fenix , Andrés Vallejos 4516, Villa Devoto, Buenos Aires , Jueves a partir de las 18hs , Horacio Giménez http://www.go.org.ar/jugadores/mensaje.php?cod=101 , edit: https://goclubdb.herokuapp.com/club/68/"
-      }
+        "description": "http://www.go.org.ar/clubes.php?club=fenix , Andrés Vallejos 4516, Villa Devoto, Buenos Aires , Jueves a partir de las 18hs , Horacio Giménez http://www.go.org.ar/jugadores/mensaje.php?cod=101 , edit: https://goclubdb.herokuapp.com/club/68/", 
+        "name": "Fenix"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "AR", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           -63.2444562, 
           -32.4110651
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "AR", 
       "properties": {
-        "name": "Jugadores de go en Córdoba", 
         "_storage_options": {
           "iconClass": "Circle"
         }, 
-        "description": "http://www.go.org.ar/clubes.php?club=jugadoresCordoba , Villa María, Córdoba , Diego Ramírez - http://www.go.org.ar/jugadores/mensaje.php?cod=1133\r\nhttps://www.facebook.com/groups/177275092330250/ , edit: https://goclubdb.herokuapp.com/club/71/"
-      }
+        "description": "http://www.go.org.ar/clubes.php?club=jugadoresCordoba , Villa María, Córdoba , Diego Ramírez - http://www.go.org.ar/jugadores/mensaje.php?cod=1133\r\nhttps://www.facebook.com/groups/177275092330250/ , edit: https://goclubdb.herokuapp.com/club/71/", 
+        "name": "Jugadores de go en Córdoba"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "AR", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           -58.4277672469, 
           -34.6093639
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "AR", 
       "properties": {
-        "name": "Nichia Gakuin", 
-        "description": "http://www.go.org.ar/clubes.php?club=nichia , Pringles 268, almagro , Sábados a partir de las 11hs , Masaaki Hayashi - http://www.go.org.ar/jugadores/mensaje.php?cod=995 , edit: https://goclubdb.herokuapp.com/club/67/"
-      }
+        "description": "http://www.go.org.ar/clubes.php?club=nichia , Pringles 268, almagro , Sábados a partir de las 11hs , Masaaki Hayashi - http://www.go.org.ar/jugadores/mensaje.php?cod=995 , edit: https://goclubdb.herokuapp.com/club/67/", 
+        "name": "Nichia Gakuin"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "AR", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           -65.0366103, 
           -42.7729673
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "AR", 
       "properties": {
-        "name": "Puerto Madryn", 
-        "description": "https://www.facebook.com/Go-en-Puerto-Madryn-1656472674597546/ , Puerto Madryn , Nos reunimos una vez por mes en lugares públicos/cafés, y participamos de eventos en la zona dictando talleres de introducción para principiantes. , Federico Ares http://www.go.org.ar/jugadores/mensaje.php?cod=834 \r\ngo.madryn@gmail.com , edit: https://goclubdb.herokuapp.com/club/66/"
-      }
+        "description": "https://www.facebook.com/Go-en-Puerto-Madryn-1656472674597546/ , Puerto Madryn , Nos reunimos una vez por mes en lugares públicos/cafés, y participamos de eventos en la zona dictando talleres de introducción para principiantes. , Federico Ares http://www.go.org.ar/jugadores/mensaje.php?cod=834 \r\ngo.madryn@gmail.com , edit: https://goclubdb.herokuapp.com/club/66/", 
+        "name": "Puerto Madryn"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "AR", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           -57.5592902, 
           -37.9631056
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "AR", 
       "properties": {
-        "name": "Zxener", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": "http://www.go.org.ar/clubes.php?club=zxener , Zona Norte, Buenos Aires , SUSPENDIDO , Carlos d'Albuquerque http://www.go.org.ar/jugadores/mensaje.php?cod=1191 , edit: https://goclubdb.herokuapp.com/club/65/"
-      }
+        "description": "http://www.go.org.ar/clubes.php?club=zxener , Zona Norte, Buenos Aires , SUSPENDIDO , Carlos d'Albuquerque http://www.go.org.ar/jugadores/mensaje.php?cod=1191 , edit: https://goclubdb.herokuapp.com/club/65/", 
+        "name": "Zxener"
+      }, 
+      "type": "Feature"
     }
-  ]
+  ], 
+  "type": "FeatureCollection"
 }

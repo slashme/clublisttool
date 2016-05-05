@@ -1,638 +1,638 @@
 {
-  "type": "FeatureCollection", 
   "features": [
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           55.1094818115, 
           51.7958765662
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Heiko", 
-        "description": "http://vk.com/go_heiko , edit: https://goclubdb.herokuapp.com/club/1263/"
-      }
+        "description": "http://vk.com/go_heiko , edit: https://goclubdb.herokuapp.com/club/1263/", 
+        "name": "Heiko"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           39.0684556961, 
           45.0243115559
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Адзи", 
-        "description": "http://adzi.19lines.ru/ , Молодёжный центр, г. Краснодар, ул. Сормовская, д. 12/11 , суббота, 13:00 - 18:00 , +7-961-5181893 (Геннадий) +7-918-4157958 (Сергей) , edit: https://goclubdb.herokuapp.com/club/1095/"
-      }
+        "description": "http://adzi.19lines.ru/ , Молодёжный центр, г. Краснодар, ул. Сормовская, д. 12/11 , суббота, 13:00 - 18:00 , +7-961-5181893 (Геннадий) +7-918-4157958 (Сергей) , edit: https://goclubdb.herokuapp.com/club/1095/", 
+        "name": "Адзи"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           39.2018580437, 
           51.6628565758
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Воронежский го клуб", 
-        "description": "http://voronezh.weiqi.ru/ , пл. Ленина 10, 2-й корпус ВГУ, Ресурсный Центр, ауд. 108. , вторник с 18.30 до 21.00 , Вахитова Светлана, моб. 8-920-427-00-34, e-mail: svetasoft mail.ru , edit: https://goclubdb.herokuapp.com/club/1262/"
-      }
+        "description": "http://voronezh.weiqi.ru/ , пл. Ленина 10, 2-й корпус ВГУ, Ресурсный Центр, ауд. 108. , вторник с 18.30 до 21.00 , Вахитова Светлана, моб. 8-920-427-00-34, e-mail: svetasoft mail.ru , edit: https://goclubdb.herokuapp.com/club/1262/", 
+        "name": "Воронежский го клуб"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           59.9758780003, 
           57.9268875937
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Восточная беседа - воскресенье", 
-        "description": "https://vk.com/vostok_goban , Центр семейно консультации, Восточная 3. , По воскресеньям в 16.00. , edit: https://goclubdb.herokuapp.com/club/1099/"
-      }
+        "description": "https://vk.com/vostok_goban , Центр семейно консультации, Восточная 3. , По воскресеньям в 16.00. , edit: https://goclubdb.herokuapp.com/club/1099/", 
+        "name": "Восточная беседа - воскресенье"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           59.9829483032, 
           57.9150415302
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Восточная беседа - суббота", 
-        "description": "Шахматно-Шашечный Центр, Газетная 109 , По субботам в 15.00 , edit: https://goclubdb.herokuapp.com/club/1115/"
-      }
+        "description": "Шахматно-Шашечный Центр, Газетная 109 , По субботам в 15.00 , edit: https://goclubdb.herokuapp.com/club/1115/", 
+        "name": "Восточная беседа - суббота"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           59.9829483032, 
           57.9150415302
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Восточная беседа - суббота", 
-        "description": "https://vk.com/vostok_goban , Шахматно-Шашечный Центр, Газетная 109. , По субботам в 15.00. , edit: https://goclubdb.herokuapp.com/club/1098/"
-      }
+        "description": "https://vk.com/vostok_goban , Шахматно-Шашечный Центр, Газетная 109. , По субботам в 15.00. , edit: https://goclubdb.herokuapp.com/club/1098/", 
+        "name": "Восточная беседа - суббота"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           38.0898034573, 
           55.603281205
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "г. Жуковский, ул. Солнечная, 6 («Творческая мастерская»)", 
-        "description": "СР 14:00 - 16:00 Детская группа (абонемент, 300 руб. занятие) ПТ 14:00 - 16:30 Детская группа (абонемент, 300 руб. занятие) , Телефон: +7-926-266-43-27 Алексей Кожунков (Neya) , edit: https://goclubdb.herokuapp.com/club/1083/"
-      }
+        "description": "СР 14:00 - 16:00 Детская группа (абонемент, 300 руб. занятие) ПТ 14:00 - 16:30 Детская группа (абонемент, 300 руб. занятие) , Телефон: +7-926-266-43-27 Алексей Кожунков (Neya) , edit: https://goclubdb.herokuapp.com/club/1083/", 
+        "name": "г. Жуковский, ул. Солнечная, 6 («Творческая мастерская»)"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           37.5309276581, 
           55.7030442872
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Го в МГУ им. М.В. Ломоносова", 
-        "description": "http://vk.com/go_msu , Собираемся в ШК МГУ. , Среда - 18:30-23:00 Суббота - 12:00-18:00 , edit: https://goclubdb.herokuapp.com/club/1088/"
-      }
+        "description": "http://vk.com/go_msu , Собираемся в ШК МГУ. , Среда - 18:30-23:00 Суббота - 12:00-18:00 , edit: https://goclubdb.herokuapp.com/club/1088/", 
+        "name": "Го в МГУ им. М.В. Ломоносова"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           37.6315534115, 
           55.7585418913
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Го-клуб \"Китай-город\"", 
-        "description": "Лучников переулок, д. 4, стр. 1 Игорь Тычко, тел.: +7 926 423-98-45 , edit: https://goclubdb.herokuapp.com/club/1085/"
-      }
+        "description": "Лучников переулок, д. 4, стр. 1 Игорь Тычко, тел.: +7 926 423-98-45 , edit: https://goclubdb.herokuapp.com/club/1085/", 
+        "name": "Го-клуб \"Китай-город\""
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           83.0960261822, 
           54.846571357
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Го клуб НГУ", 
-        "description": "в здании нового спортивного комплекса НГУ, 301 аудитория , каждое воскресенье с 13:00 до 17:00 , Вход свободный. Академгородок, ул. Пирогова 2 к1 Остановка общественного транспорта – Цветной проезд , edit: https://goclubdb.herokuapp.com/club/1117/"
-      }
+        "description": "в здании нового спортивного комплекса НГУ, 301 аудитория , каждое воскресенье с 13:00 до 17:00 , Вход свободный. Академгородок, ул. Пирогова 2 к1 Остановка общественного транспорта – Цветной проезд , edit: https://goclubdb.herokuapp.com/club/1117/", 
+        "name": "Го клуб НГУ"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           50.1778945327, 
           53.2126491333
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Го-клуб СГАУ: \"Полёт мысли\"", 
-        "description": "в Студклубе СГАУ (16 корпус) , По вторникам и четвергам в 18.00 , Контакты: Алексей Курочкин (Rendal) Телефон: 8 927 797 0870 ICQ: 293 215 515 , edit: https://goclubdb.herokuapp.com/club/1114/"
-      }
+        "description": "в Студклубе СГАУ (16 корпус) , По вторникам и четвергам в 18.00 , Контакты: Алексей Курочкин (Rendal) Телефон: 8 927 797 0870 ICQ: 293 215 515 , edit: https://goclubdb.herokuapp.com/club/1114/", 
+        "name": "Го-клуб СГАУ: \"Полёт мысли\""
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           37.6543629169, 
           55.7337675636
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "го-клуб  \"СЭНТЭ\"", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": "г. Москва, Новоспасский переулок, 5 (м. «Таганская», радиальная) , СР 16:00 - 21:00 Играем и лекции (100 руб. занятие)СБ 12:00 - 13:30 Детская группа (200 руб. занятие)СБ 13:00 - 18:00 Играем и лекции (100 руб. занятие) , Встречи го-клуба \"СЭНТЭ\" в Москве.Вас ждут лекции, игры, сеансы, разборы, чай, сладкое и много игроков! , edit: https://goclubdb.herokuapp.com/club/1084/"
-      }
+        "description": "г. Москва, Новоспасский переулок, 5 (м. «Таганская», радиальная) , СР 16:00 - 21:00 Играем и лекции (100 руб. занятие)СБ 12:00 - 13:30 Детская группа (200 руб. занятие)СБ 13:00 - 18:00 Играем и лекции (100 руб. занятие) , Встречи го-клуба \"СЭНТЭ\" в Москве.Вас ждут лекции, игры, сеансы, разборы, чай, сладкое и много игроков! , edit: https://goclubdb.herokuapp.com/club/1084/", 
+        "name": "го-клуб  \"СЭНТЭ\""
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           37.6480436325, 
           55.7599514865
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Го-клуб \"Тэнуки\"", 
-        "description": "на территории культурного центра «Покровские ворота» (Чайная высота) , edit: https://goclubdb.herokuapp.com/club/1086/"
-      }
+        "description": "на территории культурного центра «Покровские ворота» (Чайная высота) , edit: https://goclubdb.herokuapp.com/club/1086/", 
+        "name": "Го-клуб \"Тэнуки\""
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           84.9649572372, 
           56.4654511533
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Дом Ветра", 
-        "description": "http://vk.com/dom_vetra , Библиотека Зелёная Лампа, Красноармейская ул. 89а, Томск , по вторникам с 18:00 до 21:00 , edit: https://goclubdb.herokuapp.com/club/1091/"
-      }
+        "description": "http://vk.com/dom_vetra , Библиотека Зелёная Лампа, Красноармейская ул. 89а, Томск , по вторникам с 18:00 до 21:00 , edit: https://goclubdb.herokuapp.com/club/1091/", 
+        "name": "Дом Ветра"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           60.6150054932, 
           56.8413205772
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Екатеринбург", 
-        "description": "http://vk.com/club8428386 , Тургенева, 4. УрГУ Шестой этаж, аудитория 601 , Понедельник, среда, пятница с 18:00 до 22:00 , edit: https://goclubdb.herokuapp.com/club/1101/"
-      }
+        "description": "http://vk.com/club8428386 , Тургенева, 4. УрГУ Шестой этаж, аудитория 601 , Понедельник, среда, пятница с 18:00 до 22:00 , edit: https://goclubdb.herokuapp.com/club/1101/", 
+        "name": "Екатеринбург"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           34.3596875668, 
           61.7917553225
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Занятия в Дворце творчества детей и юношества", 
-        "description": "http://dtdu.ru/ , edit: https://goclubdb.herokuapp.com/club/1102/"
-      }
+        "description": "http://dtdu.ru/ , edit: https://goclubdb.herokuapp.com/club/1102/", 
+        "name": "Занятия в Дворце творчества детей и юношества"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           30.2812600136, 
           59.9405169002
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "ЗВЕЗДА", 
-        "description": "в кафе Укроп, 7-я линия В.О., д. 30\\nВХОД СВОБОДНЫЙ , Вторник с 19:00\\nСуббота с 14:00 , edit: https://goclubdb.herokuapp.com/club/1356/"
-      }
+        "description": "в кафе Укроп, 7-я линия В.О., д. 30\\nВХОД СВОБОДНЫЙ , Вторник с 19:00\\nСуббота с 14:00 , edit: https://goclubdb.herokuapp.com/club/1356/", 
+        "name": "ЗВЕЗДА"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           37.6030898094, 
           55.860730489
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Каисса", 
-        "description": "http://kaissa-club.ru/ , 127273, Москва, ул.Хачатуряна, 16 , с 10.00 до 21.00 , elvird@yandex.ru , edit: https://goclubdb.herokuapp.com/club/1260/"
-      }
+        "description": "http://kaissa-club.ru/ , 127273, Москва, ул.Хачатуряна, 16 , с 10.00 до 21.00 , elvird@yandex.ru , edit: https://goclubdb.herokuapp.com/club/1260/", 
+        "name": "Каисса"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           20.5216133595, 
           54.7136921173
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Клуб Го в библиотеке им. Снегова", 
-        "description": "http://vk.com/gokld , в библиотеке им. Снегова (ул. 9 апреля, д. 5) , Каждую субботу с 13:00 до 17:00 , edit: https://goclubdb.herokuapp.com/club/1096/"
-      }
+        "description": "http://vk.com/gokld , в библиотеке им. Снегова (ул. 9 апреля, д. 5) , Каждую субботу с 13:00 до 17:00 , edit: https://goclubdb.herokuapp.com/club/1096/", 
+        "name": "Клуб Го в библиотеке им. Снегова"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           44.0111446381, 
           56.3235841529
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Клуб \"Го\" в Нижегородском Циферблате", 
-        "description": "Каждое воскресенье с 11-00 до 14-00 и дольше. , edit: https://goclubdb.herokuapp.com/club/1110/"
-      }
+        "description": "Каждое воскресенье с 11-00 до 14-00 и дольше. , edit: https://goclubdb.herokuapp.com/club/1110/", 
+        "name": "Клуб \"Го\" в Нижегородском Циферблате"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           43.8778066635, 
           56.2685236856
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Клуб Го НИУ ВШЭ", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": "Каждую пятницу в 17:30 , на Львовской, ауд. 203 , edit: https://goclubdb.herokuapp.com/club/1109/"
-      }
+        "description": "Каждую пятницу в 17:30 , на Львовской, ауд. 203 , edit: https://goclubdb.herokuapp.com/club/1109/", 
+        "name": "Клуб Го НИУ ВШЭ"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           30.2986112237, 
           59.9501579078
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Клуб НАН", 
-        "description": "в \"Корейском центре\" , вторники с 19.00 до 21.30 - воскресенья с 16.00 до 21.30 , Саша Ким http://vk.com/id16793582 - телефон 89218682591 , edit: https://goclubdb.herokuapp.com/club/1361/"
-      }
+        "description": "в \"Корейском центре\" , вторники с 19.00 до 21.30 - воскресенья с 16.00 до 21.30 , Саша Ким http://vk.com/id16793582 - телефон 89218682591 , edit: https://goclubdb.herokuapp.com/club/1361/", 
+        "name": "Клуб НАН"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           49.3274116516, 
           53.5257173055
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Клуб «Стратегия»", 
-        "description": "https://vk.com/club_go_strategia , 5 этаж офис 505 , Леонид Сергеевич Бычков, +7 (927) 618 56 99, strateggo@ya.ru , edit: https://goclubdb.herokuapp.com/club/1113/"
-      }
+        "description": "https://vk.com/club_go_strategia , 5 этаж офис 505 , Леонид Сергеевич Бычков, +7 (927) 618 56 99, strateggo@ya.ru , edit: https://goclubdb.herokuapp.com/club/1113/", 
+        "name": "Клуб «Стратегия»"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           30.3206992149, 
           59.9253989077
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Клуб 天元 Тэнгэн", 
-        "description": "Санкт-Петербург, Наб. реки Фонтанки, 91. Метро «Сенная»-»Садовая». Чайный клуб «Море чая». , Пн, Вт, Ср, Чт, с 19:00 до 22:00 , Руководитель клуба — президент Федерации Го Санкт-Петербурга Максим Подоляк. Тел. +7 905 206 58 76, email: m.podolyak@gofederation.ru Телефон: 310–84–63 Понедельник, четверг — занятия для начинающих (учебный курс начального уровня) Вторник — занятия для продолжающих (продвинутый курс) Среда — игровой день для всех желающих (игры, разборы, свободное общение). , edit: https://goclubdb.herokuapp.com/club/1089/"
-      }
+        "description": "Санкт-Петербург, Наб. реки Фонтанки, 91. Метро «Сенная»-»Садовая». Чайный клуб «Море чая». , Пн, Вт, Ср, Чт, с 19:00 до 22:00 , Руководитель клуба — президент Федерации Го Санкт-Петербурга Максим Подоляк. Тел. +7 905 206 58 76, email: m.podolyak@gofederation.ru Телефон: 310–84–63 Понедельник, четверг — занятия для начинающих (учебный курс начального уровня) Вторник — занятия для продолжающих (продвинутый курс) Среда — игровой день для всех желающих (игры, разборы, свободное общение). , edit: https://goclubdb.herokuapp.com/club/1089/", 
+        "name": "Клуб 天元 Тэнгэн"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           92.889264822, 
           56.0110623254
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Красноярский го-клуб", 
-        "description": "https://vk.com/club13717117 , в библиотеке им. Ленинского комсомола по адресу ул. К.Маркса, 21. , Как правило по воскресеньям c 12:00 , edit: https://goclubdb.herokuapp.com/club/1097/"
-      }
+        "description": "https://vk.com/club13717117 , в библиотеке им. Ленинского комсомола по адресу ул. К.Маркса, 21. , Как правило по воскресеньям c 12:00 , edit: https://goclubdb.herokuapp.com/club/1097/", 
+        "name": "Красноярский го-клуб"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           65.3534817696, 
           55.4409681396
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Курган", 
-        "description": "http://vk.com/club22095109 , Про Играх в художественном музее Максима Горького 129, отдельный вход с лева от центрального , Каждый четверг в 19-00 , edit: https://goclubdb.herokuapp.com/club/1100/"
-      }
+        "description": "http://vk.com/club22095109 , Про Играх в художественном музее Максима Горького 129, отдельный вход с лева от центрального , Каждый четверг в 19-00 , edit: https://goclubdb.herokuapp.com/club/1100/", 
+        "name": "Курган"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           37.5559955835, 
           55.6791723583
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Лидер Го (детский Го клуб)", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": "ул. Архитектора Власова, д.7, корп. 3 , +7 926 925 7440 (Санкин Владимир Евгеньевич), +7 916 583 1580 (Санкин Тимур Владимирович) , edit: https://goclubdb.herokuapp.com/club/1105/"
-      }
+        "description": "ул. Архитектора Власова, д.7, корп. 3 , +7 926 925 7440 (Санкин Владимир Евгеньевич), +7 916 583 1580 (Санкин Тимур Владимирович) , edit: https://goclubdb.herokuapp.com/club/1105/", 
+        "name": "Лидер Го (детский Го клуб)"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           73.3604094386, 
           54.9924483407
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Омский Го-клуб", 
-        "description": "На площадке \"Дача Онегина\" , edit: https://goclubdb.herokuapp.com/club/1087/"
-      }
+        "description": "На площадке \"Дача Онегина\" , edit: https://goclubdb.herokuapp.com/club/1087/", 
+        "name": "Омский Го-клуб"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           49.1096806526, 
           55.7957266669
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Полигон - Клуб любителей интеллектуальных игр", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": "http://vk.com/yaminoyume , Возможные дни - ЧТ с 13-00 до 20-00, СБ и ВС с 11-00 до 17-30. Только по договоренности с Людмилой! , Контактное лицо - Людмила +7-96-56-0111-47 , edit: https://goclubdb.herokuapp.com/club/1111/"
-      }
+        "description": "http://vk.com/yaminoyume , Возможные дни - ЧТ с 13-00 до 20-00, СБ и ВС с 11-00 до 17-30. Только по договоренности с Людмилой! , Контактное лицо - Людмила +7-96-56-0111-47 , edit: https://goclubdb.herokuapp.com/club/1111/", 
+        "name": "Полигон - Клуб любителей интеллектуальных игр"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           39.7308969498, 
           54.6121686784
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Рязанский Го клуб", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": "https://vk.com/club13775999 , edit: https://goclubdb.herokuapp.com/club/1108/"
-      }
+        "description": "https://vk.com/club13775999 , edit: https://goclubdb.herokuapp.com/club/1108/", 
+        "name": "Рязанский Го клуб"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           37.6170158386, 
           54.1764521665
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "семейный центр «Супердетки»", 
-        "description": "ул. Кауля, 49б к.1 , edit: https://goclubdb.herokuapp.com/club/1107/"
-      }
+        "description": "ул. Кауля, 49б к.1 , edit: https://goclubdb.herokuapp.com/club/1107/", 
+        "name": "семейный центр «Супердетки»"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           39.629970789, 
           47.2310219216
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Сюдан - Воскресенье", 
-        "description": "https://m.vk.com/page-70558237_50154822 , Пространство Теннис Шахматы Танцы по адресу: г.Ростов-на-Дону, ул.Зорге, 70 , по воскресеньям с 15:00 , мастер Го Алексей Акишин 8-960-452-34-85, 8-960-458-67-47 , edit: https://goclubdb.herokuapp.com/club/1093/"
-      }
+        "description": "https://m.vk.com/page-70558237_50154822 , Пространство Теннис Шахматы Танцы по адресу: г.Ростов-на-Дону, ул.Зорге, 70 , по воскресеньям с 15:00 , мастер Го Алексей Акишин 8-960-452-34-85, 8-960-458-67-47 , edit: https://goclubdb.herokuapp.com/club/1093/", 
+        "name": "Сюдан - Воскресенье"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           39.6161466837, 
           47.2256341307
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Сюдан - Воскресенье - Дети", 
-        "description": "https://m.vk.com/page-70558237_50154822 , школе при Церкви Святого Георгия Победоносца по адресу: г.Ростов-на-Дону, ул. 339 Стрелковой Дивизии, 33 , по воскресеньям с 18:00 до 20:00 , мастер Го Константин Злобин 8-905-455-46-31 , edit: https://goclubdb.herokuapp.com/club/1094/"
-      }
+        "description": "https://m.vk.com/page-70558237_50154822 , школе при Церкви Святого Георгия Победоносца по адресу: г.Ростов-на-Дону, ул. 339 Стрелковой Дивизии, 33 , по воскресеньям с 18:00 до 20:00 , мастер Го Константин Злобин 8-905-455-46-31 , edit: https://goclubdb.herokuapp.com/club/1094/", 
+        "name": "Сюдан - Воскресенье - Дети"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           39.6186518669, 
           47.2117122248
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Сюдан - четверг", 
-        "description": "https://m.vk.com/page-70558237_50154822 , Чайная Будду Чай по адресу: г. Ростов-на-Дону, пр.Стачки, 231б. , по четвергам с 18:30 до 22:30 , мастер Го Антон Корзун 8-988-550-14-81 , edit: https://goclubdb.herokuapp.com/club/1092/"
-      }
+        "description": "https://m.vk.com/page-70558237_50154822 , Чайная Будду Чай по адресу: г. Ростов-на-Дону, пр.Стачки, 231б. , по четвергам с 18:30 до 22:30 , мастер Го Антон Корзун 8-988-550-14-81 , edit: https://goclubdb.herokuapp.com/club/1092/", 
+        "name": "Сюдан - четверг"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           35.9165811539, 
           56.8383569987
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Тверской Го Клуб", 
-        "description": "Каждый четверг (18:00-21:00) и воскресенье (12:00-16:00) , edit: https://goclubdb.herokuapp.com/club/1104/"
-      }
+        "description": "Каждый четверг (18:00-21:00) и воскресенье (12:00-16:00) , edit: https://goclubdb.herokuapp.com/club/1104/", 
+        "name": "Тверской Го Клуб"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           37.6042672992, 
           55.7692816014
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Территория", 
-        "description": "http://territoria-club.ru/ , Москва, м. Проспект мира (кольцевая или радиальная), 5 мин. пешком до с.к. Олимпийский, подъезд 9А, 7-й этаж, офис 3/10 , по Вт с 19-00 до 21-00 и по Сб с 11-00 до 13-00. Можно выбрать удобное время , +7-916-179-85-24 Михаил , edit: https://goclubdb.herokuapp.com/club/1261/"
-      }
+        "description": "http://territoria-club.ru/ , Москва, м. Проспект мира (кольцевая или радиальная), 5 мин. пешком до с.к. Олимпийский, подъезд 9А, 7-й этаж, офис 3/10 , по Вт с 19-00 до 21-00 и по Сб с 11-00 до 13-00. Можно выбрать удобное время , +7-916-179-85-24 Михаил , edit: https://goclubdb.herokuapp.com/club/1261/", 
+        "name": "Территория"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           37.5976073742, 
           54.1715538736
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Тульский Государственный Университет, Го Клуб", 
-        "description": "пр.Ленина, 93, к.Б, , edit: https://goclubdb.herokuapp.com/club/1106/"
-      }
+        "description": "пр.Ленина, 93, к.Б, , edit: https://goclubdb.herokuapp.com/club/1106/", 
+        "name": "Тульский Государственный Университет, Го Клуб"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           65.5298423767, 
           57.1590193433
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Тюменский Го клуб", 
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": "Тургенева 9, ауд. 201 , каждую субботу в 13:30 , Студентам ТюмГУ при себе иметь пропуск, остальным паспорт. , edit: https://goclubdb.herokuapp.com/club/1116/"
-      }
+        "description": "Тургенева 9, ауд. 201 , каждую субботу в 13:30 , Студентам ТюмГУ при себе иметь пропуск, остальным паспорт. , edit: https://goclubdb.herokuapp.com/club/1116/", 
+        "name": "Тюменский Го клуб"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           34.3662536144, 
           61.7920240991
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Центральная спортивная школа города Петрозаводска", 
-        "description": "http://csdusshor.ru/ , edit: https://goclubdb.herokuapp.com/club/1103/"
-      }
+        "description": "http://csdusshor.ru/ , edit: https://goclubdb.herokuapp.com/club/1103/", 
+        "name": "Центральная спортивная школа города Петрозаводска"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           49.1411054134, 
           55.8308483692
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Японский культурный центр «Хато»", 
-        "description": "http://vk.com/yaminoyume , Контактное лицо - Людмила +7-96-56-0111-47 , edit: https://goclubdb.herokuapp.com/club/1112/"
-      }
+        "description": "http://vk.com/yaminoyume , Контактное лицо - Людмила +7-96-56-0111-47 , edit: https://goclubdb.herokuapp.com/club/1112/", 
+        "name": "Японский культурный центр «Хато»"
+      }, 
+      "type": "Feature"
     }, 
     {
-      "layer": "RU", 
-      "type": "Feature", 
       "geometry": {
-        "type": "Point", 
         "coordinates": [
           39.8588490486, 
           57.634326268
-        ]
+        ], 
+        "type": "Point"
       }, 
+      "layer": "RU", 
       "properties": {
-        "name": "Ярославский Го-клуб", 
-        "description": "г. Ярославль, ДК Моторостроителей (им. А. М. Добрынина) - Проспект Ленина 24а , edit: https://goclubdb.herokuapp.com/club/1090/"
-      }
+        "description": "г. Ярославль, ДК Моторостроителей (им. А. М. Добрынина) - Проспект Ленина 24а , edit: https://goclubdb.herokuapp.com/club/1090/", 
+        "name": "Ярославский Го-клуб"
+      }, 
+      "type": "Feature"
     }
-  ]
+  ], 
+  "type": "FeatureCollection"
 }
