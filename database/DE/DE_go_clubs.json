@@ -477,14 +477,14 @@
     {
       "geometry": {
         "coordinates": [
-          7.4009765, 
-          51.489429
+          7.4550586, 
+          51.5329225
         ], 
         "type": "Point"
       }, 
       "layer": "DE", 
       "properties": {
-        "description": "http://dortmund-go.de/index.php/spielabende , Neues Informatik-Gebäude der TU Dortmund, Otto-Hahn-Str. 12, 2. Etage, Raum 2003 , Mo 17-19 , Lars Gehrke, 01732015374 , edit: https://goclubdb.herokuapp.com/club/1188/", 
+        "description": "http://dortmund-go.de/index.php/spielabende , \"Depothek\" im Depot, Immermannstraße 29 (U-Bahn: \"Immermannstr./Klinikzentrum\") , Do ab 19.30 , Lars Gehrke, 01732015374 , edit: https://goclubdb.herokuapp.com/club/1187/", 
         "name": "Dortmund"
       }, 
       "type": "Feature"
@@ -507,14 +507,14 @@
     {
       "geometry": {
         "coordinates": [
-          7.4550586, 
-          51.5329225
+          7.4009765, 
+          51.489429
         ], 
         "type": "Point"
       }, 
       "layer": "DE", 
       "properties": {
-        "description": "http://dortmund-go.de/index.php/spielabende , \"Depothek\" im Depot, Immermannstraße 29 (U-Bahn: \"Immermannstr./Klinikzentrum\") , Do ab 19.30 , Lars Gehrke, 01732015374 , edit: https://goclubdb.herokuapp.com/club/1187/", 
+        "description": "http://dortmund-go.de/index.php/spielabende , Neues Informatik-Gebäude der TU Dortmund, Otto-Hahn-Str. 12, 2. Etage, Raum 2003 , Mo 17-19 , Lars Gehrke, 01732015374 , edit: https://goclubdb.herokuapp.com/club/1188/", 
         "name": "Dortmund"
       }, 
       "type": "Feature"
@@ -978,21 +978,6 @@
     {
       "geometry": {
         "coordinates": [
-          9.7225325, 
-          52.3784695
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.hannover-go.de , Uni, Conti-Hochhaus, Königsworther Platz 1, Etage 13 , Di 19.30-22 , Ralph Tiefenthaler, 0511-8765551; Christoph Gerlach (Email), 0511-7000552 , edit: https://goclubdb.herokuapp.com/club/1164/", 
-        "name": "Hannover"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           9.7590527, 
           52.3701065
         ], 
@@ -1001,6 +986,21 @@
       "layer": "DE", 
       "properties": {
         "description": "http://www.hannover-go.de , RSV Geschäftsstelle, Vorraum der dortigen Kegelbahn im Keller der Sporthalle, Am Südbahnhof 7 , Mo 19.15-22 , Ralph Tiefenthaler, 0511-8765551 , edit: https://goclubdb.herokuapp.com/club/1165/", 
+        "name": "Hannover"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          9.7225325, 
+          52.3784695
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.hannover-go.de , Uni, Conti-Hochhaus, Königsworther Platz 1, Etage 13 , Di 19.30-22 , Ralph Tiefenthaler, 0511-8765551; Christoph Gerlach (Email), 0511-7000552 , edit: https://goclubdb.herokuapp.com/club/1164/", 
         "name": "Hannover"
       }, 
       "type": "Feature"
@@ -1161,21 +1161,6 @@
     {
       "geometry": {
         "coordinates": [
-          8.40831756592, 
-          49.0066509741
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.karlsgo.de/ , Begegnungsstätte Gretl Vogt, Adlerstr. 33 , Mi ab 19 , Wilhelm Bühler, 0151-20904075 , edit: https://goclubdb.herokuapp.com/club/1229/", 
-        "name": "Karlsruhe"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           8.41927170753, 
           49.0081992682
         ], 
@@ -1184,6 +1169,21 @@
       "layer": "DE", 
       "properties": {
         "description": "Thoule e.V., Ostendstr. 1 , Do ab 20 , Alexander Wirth ; Birger Holtermann (Email) , edit: https://goclubdb.herokuapp.com/club/1228/", 
+        "name": "Karlsruhe"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          8.40831756592, 
+          49.0066509741
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.karlsgo.de/ , Begegnungsstätte Gretl Vogt, Adlerstr. 33 , Mi ab 19 , Wilhelm Bühler, 0151-20904075 , edit: https://goclubdb.herokuapp.com/club/1229/", 
         "name": "Karlsruhe"
       }, 
       "type": "Feature"
@@ -1440,6 +1440,21 @@
     {
       "geometry": {
         "coordinates": [
+          10.3377483218, 
+          53.24993835
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "Reppenstedt (layer, bei Lüneburg) Privat, Bitte vorher anrufen , 2. Sonntag / Monat 14:30 - 18:00 , Alexander Huber, 04131-395300 , edit: https://goclubdb.herokuapp.com/club/1150/", 
+        "name": "Lüneburg"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           10.3844010777, 
           53.22281005
         ], 
@@ -1451,21 +1466,6 @@
           "iconClass": "Ball"
         }, 
         "description": "Privat n.V. , Ralf Schulz, 0151-65783327 , edit: https://goclubdb.herokuapp.com/club/1149/", 
-        "name": "Lüneburg"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          10.3377483218, 
-          53.24993835
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "Reppenstedt (layer, bei Lüneburg) Privat, Bitte vorher anrufen , 2. Sonntag / Monat 14:30 - 18:00 , Alexander Huber, 04131-395300 , edit: https://goclubdb.herokuapp.com/club/1150/", 
         "name": "Lüneburg"
       }, 
       "type": "Feature"
@@ -1966,7 +1966,7 @@
       }, 
       "layer": "DE", 
       "properties": {
-        "description": "http://www.knallaktiv.de , Obere Bahnhofstraße 18 am 23.5. und dann jeder Montag nahe Monatsmitte. Sonst im Cafe Kauf am Landungsplatz , Montag 17-18 Uhr , Rainer Rosenthal, Goldbacher Straße 19, 88662 Überlingen. Tel. 07551-66626, eMail r.rosenthal@web.de , edit: https://goclubdb.herokuapp.com/club/7/", 
+        "description": "http://www.knallaktiv.de , Obere Bahnhofstraße 18, am 23.5. und dann jeder Montag nahe Monatsmitte. Sonst im Cafe Kauf am Landungsplatz , Montag 17-18 Uhr , Rainer Rosenthal, Goldbacher Straße 19, 88662 Überlingen. Tel. 07551-66626, eMail r.rosenthal@web.de , edit: https://goclubdb.herokuapp.com/club/7/", 
         "name": "Überlingen"
       }, 
       "type": "Feature"
