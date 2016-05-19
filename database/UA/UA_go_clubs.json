@@ -33,15 +33,15 @@
     {
       "geometry": {
         "coordinates": [
-          34.51153, 
-          49.59721
+          34.5361955941005, 
+          49.5971974825145
         ], 
         "type": "Point"
       }, 
       "layer": "UA", 
       "properties": {
-        "description": "https://www.facebook.com/gopoltava , ул. Октябрськая, 66, комната 704-а, Poltava , По суботах з 12:00 , edit: https://goclubdb.herokuapp.com/club/155/", 
-        "name": "Даме"
+        "description": "https://www.facebook.com/gopoltava , вул. Жовтнева, 66, кімната 704-а, Poltava , По неділях з 14:00 , edit: https://goclubdb.herokuapp.com/club/155/", 
+        "name": "Даме / Dame"
       }, 
       "type": "Feature"
     }, 
