@@ -1183,7 +1183,10 @@
       }, 
       "layer": "DE", 
       "properties": {
-        "description": "http://www.karlsgo.de , Thoule e.V., Ostendstr. 1 , Do ab 20 , Alexander Wirth ; Birger Holtermann , edit: https://goclubdb.herokuapp.com/club/1228/", 
+        "_storage_options": {
+          "iconClass": "Circle"
+        }, 
+        "description": "http://www.karlsgo.de , Thoule e.V., Ostendstr. 1 , n. V. , edit: https://goclubdb.herokuapp.com/club/1228/", 
         "name": "Karlsruhe-Oststadt"
       }, 
       "type": "Feature"
