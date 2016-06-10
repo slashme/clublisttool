@@ -183,14 +183,14 @@
     {
       "geometry": {
         "coordinates": [
-          5.22031316383, 
-          51.96191845
+          5.3299, 
+          51.70551845
         ], 
         "type": "Point"
       }, 
       "layer": "NL", 
       "properties": {
-        "description": "www.goclub-denbosch.nl , Volkstuinvereniging Pastoor Barten, De Herven 70, 5232 NJ ’s-Hertogenbosch , Dinsdagavond, vanaf 20:00 uur , Don Verheijen Voorzitter; Sybo Bruinsma Secretaris denbosch@gobond.nl , edit: https://goclubdb.herokuapp.com/club/963/", 
+        "description": "http://www.goclub-denbosch.nl , Volkstuinvereniging Pastoor Barten, De Herven 70, 5232 NJ ’s-Hertogenbosch , Dinsdagavond, vanaf 20:00 uur , Don Verheijen Voorzitter; Sybo Bruinsma Secretaris denbosch@gobond.nl , edit: https://goclubdb.herokuapp.com/club/963/", 
         "name": "Goclub Den Bosch"
       }, 
       "type": "Feature"
