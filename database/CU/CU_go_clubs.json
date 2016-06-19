@@ -1,0 +1,20 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -82.4546617269536, 
+          23.0922037856526
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "CU", 
+      "properties": {
+        "description": "Complejo Deportivo \"Eduardo Saborit\" 5ta Ave y 146. Municipio Playa, La Habana , Estamos abiertos de Lunes a Viernes de 16:00 a 20:00, los Sábado en la mañana. , https://www.facebook.com/Academia-Cubana-de-GO-710209979005693 , edit: https://goclubdb.herokuapp.com/club/215/", 
+        "name": "Academia Cubana de Go"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "type": "FeatureCollection"
+}
