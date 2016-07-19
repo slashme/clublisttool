@@ -63,14 +63,14 @@
     {
       "geometry": {
         "coordinates": [
-          30.4225685666868, 
-          50.4608811669487
+          30.5195225347, 
+          50.4535601979
         ], 
         "type": "Point"
       }, 
       "layer": "UA", 
       "properties": {
-        "description": "м. Київ, пров. Артилерійський, 5-а, 1 пов.\r\n(окремий вхід праворуч від салону краси) , Пн: 19:00 – 21:00 – лекція\r\nВт, Чт: 19:00 – 21:00 – для початківців\r\nСр, Пт: 16:00 – 18:00 – для дітей,\r\n18:00 – 20:00 – для дорослих , https://www.facebook.com/kaizen.tea.go/ , edit: https://goclubdb.herokuapp.com/club/148/", 
+        "description": "https://www.facebook.com/kaizen.tea.go/ , м. Київ, вул. Мала Житомирська, 17 , Opened every day since 12-00 , https://www.facebook.com/kaizen.tea.go/ https://m.vk.com/kaizen_tea_go , edit: https://goclubdb.herokuapp.com/club/148/", 
         "name": "Кайдзен"
       }, 
       "type": "Feature"
