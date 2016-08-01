@@ -978,21 +978,6 @@
     {
       "geometry": {
         "coordinates": [
-          9.7590527, 
-          52.3701065
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.hannover-go.de , RSV Geschäftsstelle, Vorraum der dortigen Kegelbahn im Keller der Sporthalle, Am Südbahnhof 7 , Mo 19.15-22 , Ralph Tiefenthaler, 0511-8765551 , edit: https://goclubdb.herokuapp.com/club/1165/", 
-        "name": "Hannover"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           9.7225325, 
           52.3784695
         ], 
@@ -1001,6 +986,21 @@
       "layer": "DE", 
       "properties": {
         "description": "http://www.hannover-go.de , Uni, Conti-Hochhaus, Königsworther Platz 1, Etage 13 , Di 19.30-22 , Ralph Tiefenthaler, 0511-8765551; Christoph Gerlach (Email), 0511-7000552 , edit: https://goclubdb.herokuapp.com/club/1164/", 
+        "name": "Hannover"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          9.7590527, 
+          52.3701065
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.hannover-go.de , RSV Geschäftsstelle, Vorraum der dortigen Kegelbahn im Keller der Sporthalle, Am Südbahnhof 7 , Mo 19.15-22 , Ralph Tiefenthaler, 0511-8765551 , edit: https://goclubdb.herokuapp.com/club/1165/", 
         "name": "Hannover"
       }, 
       "type": "Feature"
@@ -1161,6 +1161,21 @@
     {
       "geometry": {
         "coordinates": [
+          8.41735, 
+          49.01134
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.karlsgo.de/aka , Studentenhaus, Adenauerring 7 - im Foyer , Donnerstag, n.V. , siehe Homepage , edit: https://goclubdb.herokuapp.com/club/216/", 
+        "name": "Karlsruhe-AkaGo"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           8.40831756592, 
           49.0066509741
         ], 
@@ -1186,7 +1201,7 @@
         "_storage_options": {
           "iconClass": "Circle"
         }, 
-        "description": "http://www.karlsgo.de , Thoule e.V., Ostendstr. 1 , n. V. , edit: https://goclubdb.herokuapp.com/club/1228/", 
+        "description": "Thoule e.V., Ostendstr. 1 , n. V. , edit: https://goclubdb.herokuapp.com/club/1228/", 
         "name": "Karlsruhe-Oststadt"
       }, 
       "type": "Feature"
@@ -1269,21 +1284,6 @@
     {
       "geometry": {
         "coordinates": [
-          9.1767391, 
-          47.6903464
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "Universität Raum G302, Universitätsstr. 10 (im Semester) , Di ab 18.45 , Christoph Adelsberger, 0171-5255715 , edit: https://goclubdb.herokuapp.com/club/1233/", 
-        "name": "Konstanz"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           9.17817603945, 
           47.6609571
         ], 
@@ -1292,6 +1292,21 @@
       "layer": "DE", 
       "properties": {
         "description": "\"Seekuh\" Kneipe, Konzilstr. 1 , Mi ab 19 , Christoph Adelsberger, 0171-5255715; Norbert Kolassa (Email), 07531-8076906 , edit: https://goclubdb.herokuapp.com/club/1232/", 
+        "name": "Konstanz"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          9.1767391, 
+          47.6903464
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "Universität Raum G302, Universitätsstr. 10 (im Semester) , Di ab 18.45 , Christoph Adelsberger, 0171-5255715 , edit: https://goclubdb.herokuapp.com/club/1233/", 
         "name": "Konstanz"
       }, 
       "type": "Feature"
@@ -1458,21 +1473,6 @@
     {
       "geometry": {
         "coordinates": [
-          10.3377483218, 
-          53.24993835
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "Reppenstedt (layer, bei Lüneburg) Privat, Bitte vorher anrufen , 2. Sonntag / Monat 14:30 - 18:00 , Alexander Huber, 04131-395300 , edit: https://goclubdb.herokuapp.com/club/1150/", 
-        "name": "Lüneburg"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           10.3844010777, 
           53.22281005
         ], 
@@ -1484,6 +1484,21 @@
           "iconClass": "Ball"
         }, 
         "description": "Privat n.V. , Ralf Schulz, 0151-65783327 , edit: https://goclubdb.herokuapp.com/club/1149/", 
+        "name": "Lüneburg"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          10.3377483218, 
+          53.24993835
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "Reppenstedt (layer, bei Lüneburg) Privat, Bitte vorher anrufen , 2. Sonntag / Monat 14:30 - 18:00 , Alexander Huber, 04131-395300 , edit: https://goclubdb.herokuapp.com/club/1150/", 
         "name": "Lüneburg"
       }, 
       "type": "Feature"
@@ -1701,21 +1716,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.034183979, 
-          52.3960951891
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.go-potsdam.de , privat bei Oliver Lenz, Carl-von-Ossietzky-Str. 6 , priv. n. V. , Oliver Lenz, 0331-902395 , edit: https://goclubdb.herokuapp.com/club/1137/", 
-        "name": "Potsdam"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           13.0108711, 
           52.4018765
         ], 
@@ -1724,6 +1724,21 @@
       "layer": "DE", 
       "properties": {
         "description": "http://www.planet-nil.de , Nil Keller, Am Neuen Palais 10, Haus 11, www.planet-nil.de , Mi ab 19.30 , Stefan Leon, 01520-731 58 21 , edit: https://goclubdb.herokuapp.com/club/1136/", 
+        "name": "Potsdam"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          13.034183979, 
+          52.3960951891
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.go-potsdam.de , privat bei Oliver Lenz, Carl-von-Ossietzky-Str. 6 , priv. n. V. , Oliver Lenz, 0331-902395 , edit: https://goclubdb.herokuapp.com/club/1137/", 
         "name": "Potsdam"
       }, 
       "type": "Feature"
@@ -1911,6 +1926,21 @@
       "properties": {
         "description": "http://www.go-club-strausberg.de , Racket Center, Landhausstr. 16-18 , Fr 18.30-23 , Gerd Eckert, 0170-7812017 , edit: https://goclubdb.herokuapp.com/club/1138/", 
         "name": "Strausberg"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          8.4650908, 
+          49.0815121
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.karlsgo.de/ , Blankenloch , Samstag/Sonntag n. V. , Karlsregion e. V. - siehe Homepage , edit: https://goclubdb.herokuapp.com/club/217/", 
+        "name": "Stutensee"
       }, 
       "type": "Feature"
     }, 
