@@ -1,4 +1,50 @@
 {
-  "features": [], 
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.9740494, 
+          45.8040256
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "HR", 
+      "properties": {
+        "description": "Koturaška ul. 1, Zagreb , Wednesday, 19.00-20.30 , zvonkobednjanec@net.hr , edit: https://goclubdb.herokuapp.com/club/220/", 
+        "name": "Aikido House"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          16.0089366, 
+          45.7937454
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "HR", 
+      "properties": {
+        "description": "Laurenčićeva ul. 8, Zagreb , Tuesday, 17.00-19.00 , mladen.smud@gmail.com , edit: https://goclubdb.herokuapp.com/club/221/", 
+        "name": "HIGOU"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          15.9705075, 
+          45.798207
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "HR", 
+      "properties": {
+        "description": "Ivana Lučića 3, Zagreb , Monday, from 18.15 , mladen.smud@gmail.com , edit: https://goclubdb.herokuapp.com/club/219/", 
+        "name": "KSFF"
+      }, 
+      "type": "Feature"
+    }
+  ], 
   "type": "FeatureCollection"
 }
