@@ -1599,15 +1599,15 @@
     {
       "geometry": {
         "coordinates": [
-          11.5777896, 
-          48.1805501
+          11.5762804603, 
+          48.1803403144
         ], 
         "type": "Point"
       }, 
       "layer": "DE", 
       "properties": {
         "description": "http://www.mils-sportrestaurant.de , Mil's, Hans-Denzinger-Str. 2 , Mo u. Di 18:00-23:00 , Joachim Bitzer, 089-301961; Philip Hiller (Email), 089-12749237 , edit: https://goclubdb.herokuapp.com/club/1236/", 
-        "name": "München"
+        "name": "München (Milbertshofen)"
       }, 
       "type": "Feature"
     }, 

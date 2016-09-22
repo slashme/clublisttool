@@ -1119,14 +1119,14 @@
     {
       "geometry": {
         "coordinates": [
-          1.3834067, 
-          43.5641396
+          1.36200135474, 
+          43.60290985
         ], 
         "type": "Point"
       }, 
       "layer": "FR", 
       "properties": {
-        "description": "http://toulouse.jeudego.org/ , C.E. Thales 105 av. du Général Eisenhower, 31100 Toulouse , Le Mardi de 12h30 à 14h , edit: https://goclubdb.herokuapp.com/club/935/", 
+        "description": "http://toulouse.jeudego.org/ , C.E. C.S. Europarc à St martin du touch , tous les jeudi de 12h15 à 14h , edit: https://goclubdb.herokuapp.com/club/937/", 
         "name": "Toulouse - Club Go Seigen"
       }, 
       "type": "Feature"
@@ -1134,14 +1134,14 @@
     {
       "geometry": {
         "coordinates": [
-          1.4370899, 
-          43.610843
+          1.34, 
+          43.4411
         ], 
         "type": "Point"
       }, 
       "layer": "FR", 
       "properties": {
-        "description": "http://toulouse.jeudego.org/ , Le Cactus 13 boulevard Lascrosses, 31000 Toulouse , Le Mercredi soir de 19h à 23h , edit: https://goclubdb.herokuapp.com/club/932/", 
+        "description": "http://toulouse.jeudego.org/ , Section Muret Restaurant L’Arche 21 route d’Eaunes, 31600 MURET , Le lundi après-midi Le samedi après-midi Horaires d’hiver : Du lundi au mercredi : de 9h00 à 19h00 sans interruption Du jeudi au samedi : de 9h00 à 23h00 sans interruption , edit: https://goclubdb.herokuapp.com/club/930/", 
         "name": "Toulouse - Club Go Seigen"
       }, 
       "type": "Feature"
@@ -1164,36 +1164,6 @@
     {
       "geometry": {
         "coordinates": [
-          1.4940079, 
-          43.5811093
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "FR", 
-      "properties": {
-        "description": "http://toulouse.jeudego.org/ , Salle Omega, bâtiment B, C.S.  Rue Brindejonc des Moulinais, 31500 Toulouse , Tous les mercredi de 12h15 à 14h , edit: https://goclubdb.herokuapp.com/club/936/", 
-        "name": "Toulouse - Club Go Seigen"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          1.36200135474, 
-          43.60290985
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "FR", 
-      "properties": {
-        "description": "http://toulouse.jeudego.org/ , C.E. C.S. Europarc à St martin du touch , tous les jeudi de 12h15 à 14h , edit: https://goclubdb.herokuapp.com/club/937/", 
-        "name": "Toulouse - Club Go Seigen"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           1.5013216, 
           43.6041831
         ], 
@@ -1209,14 +1179,44 @@
     {
       "geometry": {
         "coordinates": [
-          1.34, 
-          43.4411
+          1.4370899, 
+          43.610843
         ], 
         "type": "Point"
       }, 
       "layer": "FR", 
       "properties": {
-        "description": "http://toulouse.jeudego.org/ , Section Muret Restaurant L’Arche 21 route d’Eaunes, 31600 MURET , Le lundi après-midi Le samedi après-midi Horaires d’hiver : Du lundi au mercredi : de 9h00 à 19h00 sans interruption Du jeudi au samedi : de 9h00 à 23h00 sans interruption , edit: https://goclubdb.herokuapp.com/club/930/", 
+        "description": "http://toulouse.jeudego.org/ , Le Cactus 13 boulevard Lascrosses, 31000 Toulouse , Le Mercredi soir de 19h à 23h , edit: https://goclubdb.herokuapp.com/club/932/", 
+        "name": "Toulouse - Club Go Seigen"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.3834067, 
+          43.5641396
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "FR", 
+      "properties": {
+        "description": "http://toulouse.jeudego.org/ , C.E. Thales 105 av. du Général Eisenhower, 31100 Toulouse , Le Mardi de 12h30 à 14h , edit: https://goclubdb.herokuapp.com/club/935/", 
+        "name": "Toulouse - Club Go Seigen"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.4940079, 
+          43.5811093
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "FR", 
+      "properties": {
+        "description": "http://toulouse.jeudego.org/ , Salle Omega, bâtiment B, C.S.  Rue Brindejonc des Moulinais, 31500 Toulouse , Tous les mercredi de 12h15 à 14h , edit: https://goclubdb.herokuapp.com/club/936/", 
         "name": "Toulouse - Club Go Seigen"
       }, 
       "type": "Feature"
@@ -1254,6 +1254,21 @@
     {
       "geometry": {
         "coordinates": [
+          0.688085440743, 
+          47.3954867
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "FR", 
+      "properties": {
+        "description": "http://touraine.jeudego.org/ , Bar-restaurant les Blancs-Manteaux 27 rue Colbert, Tours , Le jeudi , edit: https://goclubdb.herokuapp.com/club/917/", 
+        "name": "Touraine"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           1.012608, 
           47.4134641
         ], 
@@ -1269,15 +1284,15 @@
     {
       "geometry": {
         "coordinates": [
-          0.688085440743, 
-          47.3954867
+          4.09586544340804, 
+          48.3080514961203
         ], 
         "type": "Point"
       }, 
       "layer": "FR", 
       "properties": {
-        "description": "http://touraine.jeudego.org/ , Bar-restaurant les Blancs-Manteaux 27 rue Colbert, Tours , Le jeudi , edit: https://goclubdb.herokuapp.com/club/917/", 
-        "name": "Touraine"
+        "description": "https://www.facebook.com/troyesatari , 125 avenue Robert Schumann, 10000 Troyes , Mercredi et vendredi, de 19h à 21h , Par mail : troyes.atari [@] gmail.com , edit: https://goclubdb.herokuapp.com/club/222/", 
+        "name": "Troyes Atari"
       }, 
       "type": "Feature"
     }, 
