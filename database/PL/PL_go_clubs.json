@@ -74,6 +74,21 @@
         "name": "Kielce"
       }, 
       "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          19.9315274, 
+          50.05076
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "PL", 
+      "properties": {
+        "description": "http://krakow.go.art.pl , see website , see website , see website , edit: https://goclubdb.herokuapp.com/club/223/", 
+        "name": "Kraków"
+      }, 
+      "type": "Feature"
     }
   ], 
   "type": "FeatureCollection"
