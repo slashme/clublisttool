@@ -1176,8 +1176,8 @@
     {
       "geometry": {
         "coordinates": [
-          8.41655, 
-          49.01037
+          8.4150569, 
+          49.0111006
         ], 
         "type": "Point"
       }, 
@@ -1201,7 +1201,7 @@
       }, 
       "layer": "DE", 
       "properties": {
-        "description": "http://www.karlsgo.de/ , Begegnungsstätte Gretl Vogt, Adlerstr. 33 , Mi ab 19 Uhr (Essen beim Thai gegenüber ab 18 Uhr) , Wilhelm Bühler , edit: https://goclubdb.herokuapp.com/club/1229/", 
+        "description": "http://www.karlsgo.de/ , Begegnungsstätte Gretl Vogt, Adlerstr. 33 , Mittwoch, ab 18 Uhr , Wilhelm Bühler , edit: https://goclubdb.herokuapp.com/club/1229/", 
         "name": "Karlsruhe-Altsadt"
       }, 
       "type": "Feature"
