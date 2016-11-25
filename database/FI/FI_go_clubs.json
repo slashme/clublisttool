@@ -3,14 +3,14 @@
     {
       "geometry": {
         "coordinates": [
-          24.9452567472, 
-          60.1690885879
+          24.938833, 
+          60.199594
         ], 
         "type": "Point"
       }, 
       "layer": "FI", 
       "properties": {
-        "description": "http://www.suomigo.net/wiki/HelsinginGoKerho , Natural Flavour Tea House, Mikonkatu 8 , Tiistai klo 17.30 , edit: https://goclubdb.herokuapp.com/club/63/", 
+        "description": "http://www.suomigo.net/wiki/HelsinginGoKerho , Game shop Poromagia, Opastinsilta 7B, 00520 Helsinki , Tiistai klo 17:00-20:00\r\nTuesday 17:00-20:00 , edit: https://goclubdb.herokuapp.com/club/63/", 
         "name": "Helsingin go-kerho"
       }, 
       "type": "Feature"
