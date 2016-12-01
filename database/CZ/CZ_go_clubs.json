@@ -108,14 +108,14 @@
     {
       "geometry": {
         "coordinates": [
-          17.2515614246051, 
-          49.5902211867627
+          17.2635575, 
+          49.5925128
         ], 
         "type": "Point"
       }, 
       "layer": "CZ", 
       "properties": {
-        "description": "http://garden.upol.cz/go/ , Vstupní hala Univerzita Palackého Olomouc - Fakulta přírodovědecká, Olomouc , Útery od 16:30 , https://www.facebook.com/groups/GoUPOL/ , edit: https://goclubdb.herokuapp.com/club/130/", 
+        "description": "http://garden.upol.cz/go/ , vstupní hala PřF UP / entrance hall of Faculty of Science\r\n17. Listopadu 1192/12 , úterý od 16:30 / Tuesdays from 4:30 pm , https://www.facebook.com/groups/GoUPOL/ , edit: https://goclubdb.herokuapp.com/club/130/", 
         "name": "Go klub Olomouc"
       }, 
       "type": "Feature"

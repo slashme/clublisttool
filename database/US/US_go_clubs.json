@@ -591,21 +591,6 @@
     {
       "geometry": {
         "coordinates": [
-          -78.9106353030953, 
-          36.0004905135642
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://www.trianglegoclub.org , 1007 W Main St, Durham, NC 27701 , Wednesday 7 pm  the social bar , Paul celmer pcelmer@earhlink.net , edit: https://goclubdb.herokuapp.com/club/241/", 
-        "name": "Triangle Go Group"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           -110.8632228, 
           32.221633125
         ], 
