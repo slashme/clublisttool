@@ -63,6 +63,21 @@
     {
       "geometry": {
         "coordinates": [
+          4.347968, 
+          50.836863
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "BE", 
+      "properties": {
+        "description": "L'Eau Chaude\r\n25 Rue des renards , Saturday 16:00 - 20:00 , club_pantin@gofed.be , edit: https://goclubdb.herokuapp.com/club/239/", 
+        "name": "L'Eau Chaude"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           4.37093518674, 
           50.8281308158
         ], 

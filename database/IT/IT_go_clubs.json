@@ -189,14 +189,14 @@
     {
       "geometry": {
         "coordinates": [
-          11.2559, 
-          43.77987
+          11.2848781, 
+          43.7679752
         ], 
         "type": "Point"
       }, 
       "layer": "IT", 
       "properties": {
-        "description": "Presso la palestra Yanagi in via san Zanobi 57 , il Martedì dalle 21:30 in poi , goclubfirenze@gmail.com Alberto Zingoni Cell: +39 338 506 1760 , edit: https://goclubdb.herokuapp.com/club/1032/", 
+        "description": "Busen, Via Gaetano Pilati, 1 red, , il mercoledì dalle 21:00 in poi , goclubfirenze@gmail.com Alberto Zingoni Cell: +39 338 506 1760 , edit: https://goclubdb.herokuapp.com/club/1032/", 
         "name": "Firenze Go Club"
       }, 
       "type": "Feature"
@@ -999,21 +999,6 @@
     {
       "geometry": {
         "coordinates": [
-          10.81296, 
-          44.53838
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "IT", 
-      "properties": {
-        "description": "Via del Santuario, 3 presso la Birreria \"Stonewall\" , Giovedì dalle 21:00(in alternanza con il Go Club di Reggio-Emilia) , Andrea Pecorari Cell: 348 4428324 , edit: https://goclubdb.herokuapp.com/club/1024/", 
-        "name": "\"Tortellino\" Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           10.63262, 
           44.71209
         ], 
@@ -1022,6 +1007,21 @@
       "layer": "IT", 
       "properties": {
         "description": "Via Samoggia, 12 presso il \"Bar Florida\" di Wang Zuo Liang , Giovedì dalle 21:00(in alternanza con il Go Club di Fiorano Modenese) , Andrea Pecorari a_peco@libero.it Cell: 348 4428324 , edit: https://goclubdb.herokuapp.com/club/1028/", 
+        "name": "\"Tortellino\" Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          10.81296, 
+          44.53838
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "IT", 
+      "properties": {
+        "description": "Via del Santuario, 3 presso la Birreria \"Stonewall\" , Giovedì dalle 21:00(in alternanza con il Go Club di Reggio-Emilia) , Andrea Pecorari Cell: 348 4428324 , edit: https://goclubdb.herokuapp.com/club/1024/", 
         "name": "\"Tortellino\" Go Club"
       }, 
       "type": "Feature"

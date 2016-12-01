@@ -14,6 +14,21 @@
         "name": "Asociatia Confucius Go Club Sibiu"
       }, 
       "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          26.132677, 
+          44.416598
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "RO", 
+      "properties": {
+        "description": "http://csrb.ro , Aleea Blăjel nr.9B, Parter, Ap.3, Sector 3, Bucharest, Romania , Tuesday : 16.00 - 22.00\r\nSaturday: 15.00 - 23.00 , Iulian Dragomir\r\ncsrb361@gmail.com\r\n+40-722.240.192 , edit: https://goclubdb.herokuapp.com/club/227/", 
+        "name": "Clubul Sportiv Radu Baciu"
+      }, 
+      "type": "Feature"
     }
   ], 
   "type": "FeatureCollection"

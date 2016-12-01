@@ -78,6 +78,21 @@
     {
       "geometry": {
         "coordinates": [
+          19.04527778, 
+          50.26066667
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "PL", 
+      "properties": {
+        "description": "http://www.ue.katowice.pl/index.php?id=8170 , Advanced Information Technology Center,  (Polish acronym: CNTI), Main Hall\r\nul. Bogucicka 5, 40-226 Katowice PL , Tuesdays, 17:00 , krzysztof.kania@ue.katowice.pl\r\njerzy.michnik@ue.katowice.pl , edit: https://goclubdb.herokuapp.com/club/231/", 
+        "name": "Klub Igo at University of Economics in Katowice"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           19.9315274, 
           50.05076
         ], 
