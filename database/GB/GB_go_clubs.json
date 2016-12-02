@@ -825,14 +825,14 @@
     {
       "geometry": {
         "coordinates": [
-          -1.2637618, 
-          51.7581354
+          -1.23801721426399, 
+          51.7442363288173
         ], 
         "type": "Point"
       }, 
       "layer": "GB", 
       "properties": {
-        "description": "http://www.britgo.org/node/3222 , Freud's Cafe Restaurant, 119 Walton Street , Tuesday 19:30-23:00 , Harry Fearnley, 38 Henley Street, Oxford OX4 1ES Tel: 01865 248775 (day/eve) , edit: https://goclubdb.herokuapp.com/club/1324/", 
+        "description": "http://britgo.org/clubs/oxford_c.html , 38 Henley Street, Oxford, OX4 1ES , Tuesday 18:30-23:00 , Harry Fearnley, 38 Henley Street, Oxford OX4 1ES Tel: 01865 248775 (day/eve) , edit: https://goclubdb.herokuapp.com/club/1324/", 
         "name": "Oxford City"
       }, 
       "type": "Feature"
