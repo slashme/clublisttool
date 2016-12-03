@@ -33,14 +33,14 @@
     {
       "geometry": {
         "coordinates": [
-          18.046523, 
-          59.331774
+          18.0431331717937, 
+          59.332815491631
         ], 
         "type": "Point"
       }, 
       "layer": "SE", 
       "properties": {
-        "description": "http://stockholm.goforbundet.se , Piperska Grottan, Pipersgatan 26, T-Rådhuset, Kungsholmen , Thursday 6 PM and sometimes Sunday 1 PM , http://stockholm.goforbundet.se/node/8 , edit: https://goclubdb.herokuapp.com/club/13/", 
+        "description": "http://stockholm.goforbundet.se , Norra Agnegatan 45, Kungsholmen , Thursday 6 PM , http://stockholm.goforbundet.se/node/8 , edit: https://goclubdb.herokuapp.com/club/13/", 
         "name": "Stockholms go-klubb"
       }, 
       "type": "Feature"

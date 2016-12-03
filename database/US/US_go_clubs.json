@@ -153,6 +153,21 @@
     {
       "geometry": {
         "coordinates": [
+          -123.2603888, 
+          44.5626389
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "New Morning Bakery\r\n219 SW 2nd St\r\nCorvallis, OR\r\n97333 , Wednesdays 5-9 pm , Robert O'Malley\r\nEmail: omalleyr@science.oregonstate.edu\r\nPhone: (541) 929-5468 , edit: https://goclubdb.herokuapp.com/club/247/", 
+        "name": "Corvallis Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           -90.131136, 
           29.948106
         ], 
@@ -207,6 +222,21 @@
       "properties": {
         "description": "Java Wally's at RIT when RIT is open, ButaPub whenever else , 6pm-8pm on Mondays and Thursdays , edit: https://goclubdb.herokuapp.com/club/230/", 
         "name": "Empty Sky Go"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -123.0928611, 
+          44.0457222
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "https://groups.google.com/forum/#!forum/eugene-go-club , Funagain Games\r\n1280 Willamette St.\r\nEugene, OR\r\n97401 , Wednesdays 6 PM , edit: https://goclubdb.herokuapp.com/club/248/", 
+        "name": "Eugene Go Club"
       }, 
       "type": "Feature"
     }, 
@@ -270,6 +300,21 @@
       "properties": {
         "description": "http://www.meetup.com/GameKastleGoClub/ , Game Kastle, 1350 Coleman Ave, Santa Clara, CA , Saturdays: 1:00 pm to 3:00 pm; Please check website, as some holidays we may not meet. , Tom S. (Organizer) http://www.meetup.com/GameKastleGoClub/members/186613133/ , and Dave W. (Assistant Organizer) http://www.meetup.com/GameKastleGoClub/members/197276756/ , edit: https://goclubdb.herokuapp.com/club/86/", 
         "name": "Kastle Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -115.17155, 
+          36.05369
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "https://www.facebook.com/groups/LasVegasGoClub/ , IHOP Las Vegas South Premium Outlets, 7490 S Las Vegas Blvd, South Las Vegas, NV 89123 , Saturdays 4:30 PM , LVgoclub@gmail.com\r\nor\r\nSean: sean@lasvegasgoclub.com\r\n(702) 821-6670 , edit: https://goclubdb.herokuapp.com/club/250/", 
+        "name": "Las Vegas Go Club"
       }, 
       "type": "Feature"
     }, 
@@ -396,6 +441,36 @@
     {
       "geometry": {
         "coordinates": [
+          -122.65636, 
+          45.51236
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "http://oregongo.org/ , Lucky Labrador Brew Pub\r\n915 SE Hawthorne Blvd.\r\nPortland, Oregon\r\n97214 , Sundays 1 PM - 4 PM , Glenn Peters\r\nEmail: glenn@portlandgo.org\r\nPhone: 503 427-844 , edit: https://goclubdb.herokuapp.com/club/246/", 
+        "name": "Portland Go Club - Lucky Labrador"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -122.68136, 
+          45.5231389
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "http://oregongo.org/ , Powell's Bookstore\r\n10th and West Burnside\r\nPortland, Oregon\r\n97209 , Tuesdays 6 PM - 10 PM , Glenn Peters\r\nEmail: glenn@portlandgo.org\r\nPhone: 503 427-8446 , edit: https://goclubdb.herokuapp.com/club/245/", 
+        "name": "Portland Go Club - Powell's"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           -86.6263974357, 
           34.7120213385
         ], 
@@ -510,6 +585,21 @@
       "properties": {
         "description": "Musser Room (we share with the Chess Club) , every Saturday 14:00 , schlowgo@gmail.com , edit: https://goclubdb.herokuapp.com/club/1351/", 
         "name": "Schlow Library Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -122.3206111, 
+          47.6616667
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "http://www.seattlego.org/ , SEATTLE GO CENTER\r\n700 NE 45TH STREET – UPSTAIRS\r\nSEATTLE WA 98105 , Monday: DDK Class 6:30 - 8:30 PM |\r\nTuesday: 1 - 10 PM |\r\nWednesday: SDK class 7 - 9 PM |\r\nThursday: 2 - 9 PM (Beginner class 6:30 - 9 PM) |\r\nSaturday: 1 - 7 PM , Telephone/Fax:   (206) 545-1424 |\r\nManager’s home/office phone:   (206) 632-1122 |\r\nEmail to Manager:\r\nfromweb@seattlego.org , edit: https://goclubdb.herokuapp.com/club/249/", 
+        "name": "Seattle Go Center"
       }, 
       "type": "Feature"
     }, 
@@ -688,7 +778,7 @@
       }, 
       "layer": "US", 
       "properties": {
-        "description": "https://www.facebook.com/wallawallagoclub/ , Sweet Basil Pizzeria\r\n5 S 1st Avenue\r\nWalla Walla, WA , Wednesday 6pm - 9pm , edit: https://goclubdb.herokuapp.com/club/243/", 
+        "description": "https://www.facebook.com/wallawallagoclub/ , Sweet Basil Pizzeria\r\n5 S 1st Avenue\r\nWalla Walla, WA , Wednesday 6:30pm - 9pm , edit: https://goclubdb.herokuapp.com/club/243/", 
         "name": "Walla Walla Go Club"
       }, 
       "type": "Feature"

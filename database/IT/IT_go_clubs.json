@@ -127,7 +127,7 @@
       }, 
       "layer": "IT", 
       "properties": {
-        "description": " http://go.xplab.net https://www.facebook.com/groups/147136504167/ , Via Cappellini, 4 presso la \"Aikido Club Brescia\" , Claudiu Melenco , edit: https://goclubdb.herokuapp.com/club/994/", 
+        "description": "http://go.xplab.net , Via Cappellini, 4 presso la \"Aikido Club Brescia\" , Claudiu Melenco \r\nhttps://www.facebook.com/groups/147136504167/ , edit: https://goclubdb.herokuapp.com/club/994/", 
         "name": "\"Brixia Go Weiki Baduk Club\""
       }, 
       "type": "Feature"
@@ -292,7 +292,7 @@
       }, 
       "layer": "IT", 
       "properties": {
-        "description": "Presso lo spazio giovani della municipalità di Favaro Veneto in Via Altinia 9 , Ci troviamo tutti i giovedì sera dalle ore 21:00 circa.Contattare Andrea per la conferma del ritrovo. , Andrea  , edit: https://goclubdb.herokuapp.com/club/1012/", 
+        "description": "Presso lo spazio giovani della municipalità di Favaro Veneto in Via Altinia 9 , Ci troviamo tutti i giovedì sera dalle ore 21:00 circa.Contattare Andrea per la conferma del ritrovo. , Andrea , edit: https://goclubdb.herokuapp.com/club/1012/", 
         "name": "Go Club Favaro Veneto"
       }, 
       "type": "Feature"
@@ -307,7 +307,7 @@
       }, 
       "layer": "IT", 
       "properties": {
-        "description": " http://games.groups.yahoo.com/group/GoGenova/ http://www.facebook.com/groups/gogenova/ , Via Boccardo, 5r presso la Birreria HB Hofbräuhaus , Giovedì e Domenica dalle 20:30 in poi , Carlo Bevegni carlobevegni@libero.it Francesco Robbiano Kgs: Hobbes , edit: https://goclubdb.herokuapp.com/club/989/", 
+        "description": "http://games.groups.yahoo.com/group/GoGenova/ , Via Boccardo, 5r presso la Birreria HB Hofbräuhaus , Giovedì e Domenica dalle 20:30 in poi , Carlo Bevegni carlobevegni@libero.it Francesco Robbiano Kgs: Hobbes\r\nhttp://www.facebook.com/groups/gogenova/ , edit: https://goclubdb.herokuapp.com/club/989/", 
         "name": "\"Go Club Genova\""
       }, 
       "type": "Feature"
@@ -337,7 +337,7 @@
       }, 
       "layer": "IT", 
       "properties": {
-        "description": "L'appuntamento è presso il Ricreatorio parrocchiale \"Mons.O.Foschian\" Via Isonzo 27, Monfalcone (Go). Contattare Michele per maggiori informazioni. , ogni 3 settimane, giovedì alle ore 21 , Michele Tognon  , edit: https://goclubdb.herokuapp.com/club/1016/", 
+        "description": "L'appuntamento è presso il Ricreatorio parrocchiale \"Mons.O.Foschian\" Via Isonzo 27, Monfalcone (Go). Contattare Michele per maggiori informazioni. , ogni 3 settimane, giovedì alle ore 21 , Michele Tognon , edit: https://goclubdb.herokuapp.com/club/1016/", 
         "name": "Go Club \"Higashikita\" Sez. di Gorizia"
       }, 
       "type": "Feature"
@@ -405,15 +405,15 @@
     {
       "geometry": {
         "coordinates": [
-          9.22284, 
-          45.52117
+          9.226102, 
+          45.521205
         ], 
         "type": "Point"
       }, 
       "layer": "IT", 
       "properties": {
-        "description": " http://www.goclubmilano.org/index.html https://www.facebook.com/pages/Go-Club-Milano/321227357961?ref=ts&amp;fref=ts , Via Sant'Uguzzone, 8 presso l'\"Università Europea degli Sport della Mente\" , Mercoledì dalle 21 alle 24 Sabato dalle 15 alle 20 , Fernando Fernandez Cell : 347 9386734 (pref. dopo le 17:00) , edit: https://goclubdb.herokuapp.com/club/996/", 
-        "name": "\"Go Club Milano\""
+        "description": "http://www.goclubmilano.org/ , Via Sant'Uguzzone, 8 c/o \"Università Europea degli Sport della Mente\" , Wednesday from 21:00 to 24:00\r\nSaturday from 15:00 to 19:30 , info@goclubmilano.org \r\nFernando Fernandez Cell : 347 9386734 (after 17:00) , edit: https://goclubdb.herokuapp.com/club/996/", 
+        "name": "Go Club Milano"
       }, 
       "type": "Feature"
     }, 
@@ -472,7 +472,7 @@
       }, 
       "layer": "IT", 
       "properties": {
-        "description": "Fabrizio Soppelsa  , edit: https://goclubdb.herokuapp.com/club/1011/", 
+        "description": "Fabrizio Soppelsa , edit: https://goclubdb.herokuapp.com/club/1011/", 
         "name": "Go Club \"VenetoGo\" Sez. di Belluno"
       }, 
       "type": "Feature"
@@ -547,7 +547,7 @@
       }, 
       "layer": "IT", 
       "properties": {
-        "description": "Via San Floriano n°39, Vigarolo , Ritrovo la prima e la terza domenica di ogni mese dalle 15:00 alle 19:00. , Gioele  , edit: https://goclubdb.herokuapp.com/club/1014/", 
+        "description": "Via San Floriano n°39, Vigarolo , Ritrovo la prima e la terza domenica di ogni mese dalle 15:00 alle 19:00. , Gioele , edit: https://goclubdb.herokuapp.com/club/1014/", 
         "name": "Go Club \"VenetoGo\" Sez. di Vigarolo"
       }, 
       "type": "Feature"
@@ -577,7 +577,7 @@
       }, 
       "layer": "IT", 
       "properties": {
-        "description": "Leonardo Dal ZovoCell: 338 4382995 , edit: https://goclubdb.herokuapp.com/club/1025/", 
+        "description": "Leonardo Dal Zovo Cell: 338 4382995 , edit: https://goclubdb.herokuapp.com/club/1025/", 
         "name": "GoRomagna"
       }, 
       "type": "Feature"
@@ -592,7 +592,7 @@
       }, 
       "layer": "IT", 
       "properties": {
-        "description": "Via Salita, 2 presso il \"Circolo dei Franchi Bevitori\" , Mercoledì dalle 21:00 , Stefano GiurinCell: 392 9260834 Kgs: wildpizza , edit: https://goclubdb.herokuapp.com/club/1022/", 
+        "description": "Via Salita, 2 presso il \"Circolo dei Franchi Bevitori\" , Mercoledì dalle 21:00 , Stefano Giurin Cell: 392 9260834 Kgs: wildpizza , edit: https://goclubdb.herokuapp.com/club/1022/", 
         "name": "GoRomagna"
       }, 
       "type": "Feature"
@@ -754,7 +754,7 @@
       }, 
       "layer": "IT", 
       "properties": {
-        "description": " http://milanonogo.altervista.org/ https://www.facebook.com/milanonogo , Tutti i martedì al ristorante-pub il Tempio d’Oro (Via delle Leghe 23, Milano). , Martedì dalle 21 alle 24 , Aldo Podavini Kgs : minosse , edit: https://goclubdb.herokuapp.com/club/995/", 
+        "description": "http://milanonogo.altervista.org/ , Tutti i martedì al ristorante-pub il Tempio d’Oro (Via delle Leghe 23, Milano). , Martedì dalle 21 alle 24 , Aldo Podavini Kgs : minosse\r\nhttps://www.facebook.com/milanonogo , edit: https://goclubdb.herokuapp.com/club/995/", 
         "name": "\"Milano No Go\""
       }, 
       "type": "Feature"
@@ -799,7 +799,7 @@
       }, 
       "layer": "IT", 
       "properties": {
-        "description": " http://www.facebook.com/pages/Torino-Italy/I-Nodi-di-Bambu-Go-Club-Torino/63509963870 , Via Roero di Cortanze, 2C - presso il BENE COSI’ Cafè , Martedì dalle 19.30 alle 23.30 Sabato dalle 14.30 alle 18.30 , Ronnie Pizzo ronniepizzo@gmail.com Cell: +39 338 9514316 , edit: https://goclubdb.herokuapp.com/club/988/", 
+        "description": "http://www.facebook.com/pages/Torino-Italy/I-Nodi-di-Bambu-Go-Club-Torino/63509963870 , Via Roero di Cortanze, 2C - presso il BENE COSI’ Cafè , Martedì dalle 19.30 alle 23.30 Sabato dalle 14.30 alle 18.30 , Ronnie Pizzo ronniepizzo@gmail.com Cell: +39 338 9514316 , edit: https://goclubdb.herokuapp.com/club/988/", 
         "name": "\"Nodi di Bambù\""
       }, 
       "type": "Feature"
@@ -999,21 +999,6 @@
     {
       "geometry": {
         "coordinates": [
-          10.63262, 
-          44.71209
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "IT", 
-      "properties": {
-        "description": "Via Samoggia, 12 presso il \"Bar Florida\" di Wang Zuo Liang , Giovedì dalle 21:00(in alternanza con il Go Club di Fiorano Modenese) , Andrea Pecorari a_peco@libero.it Cell: 348 4428324 , edit: https://goclubdb.herokuapp.com/club/1028/", 
-        "name": "\"Tortellino\" Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           10.81296, 
           44.53838
         ], 
@@ -1029,6 +1014,21 @@
     {
       "geometry": {
         "coordinates": [
+          10.63262, 
+          44.71209
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "IT", 
+      "properties": {
+        "description": "Via Samoggia, 12 presso il \"Bar Florida\" di Wang Zuo Liang , Giovedì dalle 21:00(in alternanza con il Go Club di Fiorano Modenese) , Andrea Pecorari a_peco@libero.it Cell: 348 4428324 , edit: https://goclubdb.herokuapp.com/club/1028/", 
+        "name": "\"Tortellino\" Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           11.12776, 
           46.06942
         ], 
@@ -1036,7 +1036,7 @@
       }, 
       "layer": "IT", 
       "properties": {
-        "description": " http://yomoyamabanashi.it/go.php , Piazza Venezia, 37 presso \"Barycentro\" , 1° e 3° Giovedì del mese, dalle 17:00 alle 19:00 , Federico Odorizzi Kgs: FedeAndrea Gobbi Kgs: andreamath , edit: https://goclubdb.herokuapp.com/club/1005/", 
+        "description": "http://yomoyamabanashi.it/go.php , Piazza Venezia, 37 presso \"Barycentro\" , 1° e 3° Giovedì del mese, dalle 17:00 alle 19:00 , Federico Odorizzi Kgs: FedeAndrea Gobbi Kgs: andreamath , edit: https://goclubdb.herokuapp.com/club/1005/", 
         "name": "\"Trentino Go Club\""
       }, 
       "type": "Feature"
@@ -1054,7 +1054,7 @@
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": " http://gocosmico.altervista.org/ http://www.facebook.com/pages/Go-Cosmico/127995643940290 , Largo Lamarmora 2, presso la sede dell'Auser. , ogni mercoledì dopo le 21 , Giancarlo Sacchi Cell: 338 2217931 , edit: https://goclubdb.herokuapp.com/club/1002/", 
+        "description": "http://gocosmico.altervista.org/ , Largo Lamarmora 2, presso la sede dell'Auser. , ogni mercoledì dopo le 21 , Giancarlo Sacchi Cell: 338 2217931\r\nhttp://www.facebook.com/pages/Go-Cosmico/127995643940290 , edit: https://goclubdb.herokuapp.com/club/1002/", 
         "name": "TREVIGLIO (BG)"
       }, 
       "type": "Feature"
