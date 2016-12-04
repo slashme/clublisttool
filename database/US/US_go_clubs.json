@@ -250,7 +250,7 @@
       }, 
       "layer": "US", 
       "properties": {
-        "description": "edit: https://goclubdb.herokuapp.com/club/1349/", 
+        "description": "http://www.evanstongoclub.org , 1734 Sherman Ave\r\nEvanston, IL 60201 , Every Wed 6-10 PM , Mark Rubenstein\r\nmark@evanstongoclub.org , edit: https://goclubdb.herokuapp.com/club/1349/", 
         "name": "Evanston Go club"
       }, 
       "type": "Feature"
@@ -825,6 +825,21 @@
       "properties": {
         "description": "Super Taco - Evergreen Shopping Center, 1726 S Main St. #A, Willits, CA , Tuesdays: 6:00 to 9:00 pm , Contact Brian Ferri-Taylor 707-459-9628 , edit: https://goclubdb.herokuapp.com/club/97/", 
         "name": "Willits Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -118.1486807, 
+          34.1460517
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "http://www.yugoclub.org , 20 N. Raymond Ave, Suite 200 , Every Wednesday 6p - 10p , (626) 356-8055\r\nreiyukai@reiyukai-usa.org , edit: https://goclubdb.herokuapp.com/club/254/", 
+        "name": "Yu Go Club of Pasadena"
       }, 
       "type": "Feature"
     }
