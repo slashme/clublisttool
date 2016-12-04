@@ -160,7 +160,7 @@
       }, 
       "layer": "US", 
       "properties": {
-        "description": "New Morning Bakery\r\n219 SW 2nd St\r\nCorvallis, OR\r\n97333 , Wednesdays 5-9 pm , Robert O'Malley\r\nEmail: omalleyr@science.oregonstate.edu\r\nPhone: (541) 929-5468 , edit: https://goclubdb.herokuapp.com/club/247/", 
+        "description": "http://www.oregongo.org/index.php?tpl=clubs&p=clubs , New Morning Bakery\r\n219 SW 2nd St\r\nCorvallis, OR\r\n97333 , Wednesdays 5-9 pm , Robert O'Malley\r\nEmail: omalleyr@science.oregonstate.edu\r\nPhone: (541) 929-5468 , edit: https://goclubdb.herokuapp.com/club/247/", 
         "name": "Corvallis Go Club"
       }, 
       "type": "Feature"
@@ -213,14 +213,14 @@
     {
       "geometry": {
         "coordinates": [
-          -77.642158, 
-          43.091581
+          -77.676281063088, 
+          43.0841084300582
         ], 
         "type": "Point"
       }, 
       "layer": "US", 
       "properties": {
-        "description": "Java Wally's at RIT when RIT is open, ButaPub whenever else , 6pm-8pm on Mondays and Thursdays , edit: https://goclubdb.herokuapp.com/club/230/", 
+        "description": "http://www.emptysky.org/ , Java Wally's at RIT when RIT is open, ButaPub whenever else , 6pm-8pm on Mondays and Thursdays , edit: https://goclubdb.herokuapp.com/club/230/", 
         "name": "Empty Sky Go"
       }, 
       "type": "Feature"
@@ -645,6 +645,21 @@
       "properties": {
         "description": "http://web.stanford.edu/group/go/ , Tresidder Union, 59 Lagunita Dr.\r\nStanford University, Stanford, CA , Sundays: 2:00 to 4:00 pm when school is in session , Active mailing list at https://mailman.stanford.edu/pipermail/go-club-chat/ , edit: https://goclubdb.herokuapp.com/club/96/", 
         "name": "Stanford University Cardinal Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -76.0524, 
+          43.0332
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "https://groups.yahoo.com/neo/groups/syracusegoclub/info , Wegmans Grocery Store, 6789 East Genesee St, Fayetteville, NY. USA - we meet in the rear of the dining area , Monday evenings, 7:15 PM - 10 PM (or later) , Richard Moseson, phone: 315-682-7720, email: syracusegoclub@gmail.com\r\nhttps://www.facebook.com/Syracuse-Go-Club-195566967151668/ , edit: https://goclubdb.herokuapp.com/club/253/", 
+        "name": "Syracuse Go Club"
       }, 
       "type": "Feature"
     }, 
