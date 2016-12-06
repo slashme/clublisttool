@@ -306,6 +306,21 @@
     {
       "geometry": {
         "coordinates": [
+          -91.5325498581157, 
+          41.65991992493
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "Java House, 211 E. Washington St., Iowa City , Tuesdays 7-9pm , Kenneth Elliott: <ximane@gmail.com> , edit: https://goclubdb.herokuapp.com/club/257/", 
+        "name": "Iowa City Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           -121.935830788, 
           37.3569764808
         ], 
