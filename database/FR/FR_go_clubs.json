@@ -906,21 +906,6 @@
     {
       "geometry": {
         "coordinates": [
-          1.5580515, 
-          43.5152281
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "FR", 
-      "properties": {
-        "description": "http://nantes.jeudego.org/ , Café du commerce 9 pl Commerce , Les Lundi et Mercredi à partir de 18H , edit: https://goclubdb.herokuapp.com/club/911/", 
-        "name": "Nantes"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           -1.5498472, 
           47.2062504
         ], 
@@ -929,6 +914,21 @@
       "layer": "FR", 
       "properties": {
         "description": "http://nantes.jeudego.org/ , Maison des jeux 14 rue Michel Rocher, Nantes , Le samedi après-midi de 14 heures à 19 heures , edit: https://goclubdb.herokuapp.com/club/910/", 
+        "name": "Nantes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.5580515, 
+          43.5152281
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "FR", 
+      "properties": {
+        "description": "http://nantes.jeudego.org/ , Café du commerce 9 pl Commerce , Les Lundi et Mercredi à partir de 18H , edit: https://goclubdb.herokuapp.com/club/911/", 
         "name": "Nantes"
       }, 
       "type": "Feature"
@@ -1134,6 +1134,21 @@
     {
       "geometry": {
         "coordinates": [
+          1.2797737, 
+          43.6183104
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "FR", 
+      "properties": {
+        "description": "http://toulouse.jeudego.org/ , Section Pibrac salle du 3ème âge Boulevard des Écoles, Pibrac , les lundis soir à partir de 21h , edit: https://goclubdb.herokuapp.com/club/931/", 
+        "name": "Toulouse - Club Go Seigen"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           1.4370899, 
           43.610843
         ], 
@@ -1157,21 +1172,6 @@
       "layer": "FR", 
       "properties": {
         "description": "http://toulouse.jeudego.org/ , C.E. Airbus, Toulouse , Les Mardi et Jeudi de 12h15 à 14h , edit: https://goclubdb.herokuapp.com/club/934/", 
-        "name": "Toulouse - Club Go Seigen"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          1.3834067, 
-          43.5641396
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "FR", 
-      "properties": {
-        "description": "http://toulouse.jeudego.org/ , C.E. Thales 105 av. du Général Eisenhower, 31100 Toulouse , Le Mardi de 12h30 à 14h , edit: https://goclubdb.herokuapp.com/club/935/", 
         "name": "Toulouse - Club Go Seigen"
       }, 
       "type": "Feature"
@@ -1224,14 +1224,14 @@
     {
       "geometry": {
         "coordinates": [
-          1.2797737, 
-          43.6183104
+          1.3834067, 
+          43.5641396
         ], 
         "type": "Point"
       }, 
       "layer": "FR", 
       "properties": {
-        "description": "http://toulouse.jeudego.org/ , Section Pibrac salle du 3ème âge Boulevard des Écoles, Pibrac , les lundis soir à partir de 21h , edit: https://goclubdb.herokuapp.com/club/931/", 
+        "description": "http://toulouse.jeudego.org/ , C.E. Thales 105 av. du Général Eisenhower, 31100 Toulouse , Le Mardi de 12h30 à 14h , edit: https://goclubdb.herokuapp.com/club/935/", 
         "name": "Toulouse - Club Go Seigen"
       }, 
       "type": "Feature"
@@ -1269,21 +1269,6 @@
     {
       "geometry": {
         "coordinates": [
-          1.012608, 
-          47.4134641
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "FR", 
-      "properties": {
-        "description": "http://touraine.jeudego.org/ , Amboise, hotel Ibis Chemin du Roy, 37400 Amboise , Le vendredi , edit: https://goclubdb.herokuapp.com/club/916/", 
-        "name": "Touraine"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           0.688085440743, 
           47.3954867
         ], 
@@ -1299,14 +1284,29 @@
     {
       "geometry": {
         "coordinates": [
-          4.09586544340804, 
-          48.3080514961203
+          1.012608, 
+          47.4134641
         ], 
         "type": "Point"
       }, 
       "layer": "FR", 
       "properties": {
-        "description": "https://www.facebook.com/troyesatari , 125 avenue Robert Schumann, 10000 Troyes , Mercredi et vendredi, de 19h à 21h , Par mail : troyes.atari [@] gmail.com , edit: https://goclubdb.herokuapp.com/club/222/", 
+        "description": "http://touraine.jeudego.org/ , Amboise, hotel Ibis Chemin du Roy, 37400 Amboise , Le vendredi , edit: https://goclubdb.herokuapp.com/club/916/", 
+        "name": "Touraine"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.09451763337781, 
+          48.3069703773551
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "FR", 
+      "properties": {
+        "description": "http://troyes-atari.fr , 125 avenue Robert Schumann, 10000 Troyes , Mercredi et vendredi, de 19h à 21h , Par mail : troyes.atari [@] gmail.com , edit: https://goclubdb.herokuapp.com/club/222/", 
         "name": "Troyes Atari"
       }, 
       "type": "Feature"

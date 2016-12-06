@@ -153,6 +153,21 @@
     {
       "geometry": {
         "coordinates": [
+          -81.4967550160079, 
+          41.5005453121507
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "http://clevelandgo.org/ , 2101 Richmond Road, Beachwood, Ohio 44122 , Every Wednesday from 6:00 PM until 10:00 PM or later , Paul Jacobs, VP - jacobspd at gmail.com - 216-402-3071 , edit: https://goclubdb.herokuapp.com/club/256/", 
+        "name": "Cleveland Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           -123.2603888, 
           44.5626389
         ], 
