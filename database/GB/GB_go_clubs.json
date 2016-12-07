@@ -204,21 +204,6 @@
     {
       "geometry": {
         "coordinates": [
-          -0.1318, 
-          50.8406
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3155 , Druid Arms, 79-81 Ditchling Rd , Wednesday 20:00 , Felix Shardlow tel: 07940 973406John Allen aka \"Yogi\" Tel: 01273 383254 or 07854 218920Jil Segerman Tel: 07920 865065 or 01273 470346 , edit: https://goclubdb.herokuapp.com/club/1276/", 
-        "name": "Brighton"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           -0.1264609, 
           50.8272903
         ], 
@@ -227,6 +212,21 @@
       "layer": "GB", 
       "properties": {
         "description": "http://www.britgo.org/club/brighton , BN2 9UF The Southover Pub, Southover St , Monday 20:00 , Felix Shardlow 07940 973406 https://www.facebook.com/groups/brightongoclub/ , edit: https://goclubdb.herokuapp.com/club/1277/", 
+        "name": "Brighton"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1318, 
+          50.8406
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "GB", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3155 , Druid Arms, 79-81 Ditchling Rd , Wednesday 20:00 , Felix Shardlow tel: 07940 973406John Allen aka \"Yogi\" Tel: 01273 383254 or 07854 218920Jil Segerman Tel: 07920 865065 or 01273 470346 , edit: https://goclubdb.herokuapp.com/club/1276/", 
         "name": "Brighton"
       }, 
       "type": "Feature"
@@ -990,21 +990,6 @@
     {
       "geometry": {
         "coordinates": [
-          -1.78095942978, 
-          51.556550624
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3242 , The Beehive, Prospect Hill , Sunday evening , David King, 21 Windsor Rd, Swindon Tel: 01793 521625 , edit: https://goclubdb.herokuapp.com/club/1336/", 
-        "name": "Swindon"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           -1.83492588, 
           51.55013431
         ], 
@@ -1013,6 +998,21 @@
       "layer": "GB", 
       "properties": {
         "description": "http://www.britgo.org/node/3241 , Windmill Pub, Freshbrook Village Centre, Worsley Road , Wednesday 19:30 , David King, 21 Windsor Rd, Swindon Tel: 01793 521625 , edit: https://goclubdb.herokuapp.com/club/1335/", 
+        "name": "Swindon"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -1.78095942978, 
+          51.556550624
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "GB", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3242 , The Beehive, Prospect Hill , Sunday evening , David King, 21 Windsor Rd, Swindon Tel: 01793 521625 , edit: https://goclubdb.herokuapp.com/club/1336/", 
         "name": "Swindon"
       }, 
       "type": "Feature"
@@ -1074,6 +1074,21 @@
       "properties": {
         "description": "http://www.britgo.org/node/3239 , John Culmer's house, Rose-in-Vale, Gweek, Helston , Thursday 20:00 , John Culmer Tel: 01326 573167 , edit: https://goclubdb.herokuapp.com/club/1340/", 
         "name": "West Cornwall"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -0.226957798003721, 
+          51.502634237336
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "GB", 
+      "properties": {
+        "description": "http://west.londongo.club , 54 Goldhawk Road\r\nShepherd’s Bush\r\nLONDON , Monday 7pm\r\nWednesday 7pm , admin at west.londongo.club , edit: https://goclubdb.herokuapp.com/club/258/", 
+        "name": "West London Go Club"
       }, 
       "type": "Feature"
     }, 

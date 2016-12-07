@@ -816,6 +816,21 @@
     {
       "geometry": {
         "coordinates": [
+          -73.2124627644, 
+          44.479103
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "http://www.vermontgo.org , 42 Church St, Burlington, VT 05401 , 6:30-9:00 , dfelcan@yahoo.com , edit: https://goclubdb.herokuapp.com/club/259/", 
+        "name": "Vermont Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           -118.3376, 
           46.067
         ], 
