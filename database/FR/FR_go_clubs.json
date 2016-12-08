@@ -576,21 +576,6 @@
     {
       "geometry": {
         "coordinates": [
-          -1.6981817, 
-          48.1138233
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "FR", 
-      "properties": {
-        "description": "http://rennes.jeudego.org/ , Institut Confucius 17 rue de Brest, 35000 Rennes , Les samedis de 15h00 à 18h00 , edit: https://goclubdb.herokuapp.com/club/913/", 
-        "name": "Club Rengo"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           -1.6740972, 
           48.1063566
         ], 
@@ -599,6 +584,21 @@
       "layer": "FR", 
       "properties": {
         "description": "http://rennes.jeudego.org/ , Bar L'Heure du Jeu 11 Bd Magenta, 35000 Rennes , Les lundis de 20h00 à 01H00 , edit: https://goclubdb.herokuapp.com/club/915/", 
+        "name": "Club Rengo"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -1.6981817, 
+          48.1138233
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "FR", 
+      "properties": {
+        "description": "http://rennes.jeudego.org/ , Institut Confucius 17 rue de Brest, 35000 Rennes , Les samedis de 15h00 à 18h00\r\nÉgalement au bar \"l'heure du jeu\" le lundi soir à partir de 20h , Facebook page: https://www.facebook.com/rengo.actu/?fref=ts , edit: https://goclubdb.herokuapp.com/club/913/", 
         "name": "Club Rengo"
       }, 
       "type": "Feature"
@@ -1134,21 +1134,6 @@
     {
       "geometry": {
         "coordinates": [
-          1.2797737, 
-          43.6183104
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "FR", 
-      "properties": {
-        "description": "http://toulouse.jeudego.org/ , Section Pibrac salle du 3ème âge Boulevard des Écoles, Pibrac , les lundis soir à partir de 21h , edit: https://goclubdb.herokuapp.com/club/931/", 
-        "name": "Toulouse - Club Go Seigen"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           1.4370899, 
           43.610843
         ], 
@@ -1172,6 +1157,36 @@
       "layer": "FR", 
       "properties": {
         "description": "http://toulouse.jeudego.org/ , C.E. Airbus, Toulouse , Les Mardi et Jeudi de 12h15 à 14h , edit: https://goclubdb.herokuapp.com/club/934/", 
+        "name": "Toulouse - Club Go Seigen"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.3834067, 
+          43.5641396
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "FR", 
+      "properties": {
+        "description": "http://toulouse.jeudego.org/ , C.E. Thales 105 av. du Général Eisenhower, 31100 Toulouse , Le Mardi de 12h30 à 14h , edit: https://goclubdb.herokuapp.com/club/935/", 
+        "name": "Toulouse - Club Go Seigen"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.36200135474, 
+          43.60290985
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "FR", 
+      "properties": {
+        "description": "http://toulouse.jeudego.org/ , C.E. C.S. Europarc à St martin du touch , tous les jeudi de 12h15 à 14h , edit: https://goclubdb.herokuapp.com/club/937/", 
         "name": "Toulouse - Club Go Seigen"
       }, 
       "type": "Feature"
@@ -1209,36 +1224,6 @@
     {
       "geometry": {
         "coordinates": [
-          1.36200135474, 
-          43.60290985
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "FR", 
-      "properties": {
-        "description": "http://toulouse.jeudego.org/ , C.E. C.S. Europarc à St martin du touch , tous les jeudi de 12h15 à 14h , edit: https://goclubdb.herokuapp.com/club/937/", 
-        "name": "Toulouse - Club Go Seigen"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          1.3834067, 
-          43.5641396
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "FR", 
-      "properties": {
-        "description": "http://toulouse.jeudego.org/ , C.E. Thales 105 av. du Général Eisenhower, 31100 Toulouse , Le Mardi de 12h30 à 14h , edit: https://goclubdb.herokuapp.com/club/935/", 
-        "name": "Toulouse - Club Go Seigen"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           1.488117, 
           43.6128169
         ], 
@@ -1263,6 +1248,21 @@
       "properties": {
         "description": "http://toulouse.jeudego.org/ , Ludothèque de Grisolles 11 rue de la Campadou, 82170 Grisolles , Les 2nd et 4ème jeudis du mois à 21h , edit: https://goclubdb.herokuapp.com/club/939/", 
         "name": "Toulouse - Club Go Seigen Section Grisolles"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.2797737, 
+          43.6183104
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "FR", 
+      "properties": {
+        "description": "http://toulouse.jeudego.org/ , Section Pibrac salle du 3ème âge Boulevard des Écoles, Pibrac , les mardis soir à partir de 21h , edit: https://goclubdb.herokuapp.com/club/931/", 
+        "name": "Toulouse - Club Go Seigen - Section Pibrac"
       }, 
       "type": "Feature"
     }, 

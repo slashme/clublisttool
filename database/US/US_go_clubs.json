@@ -168,6 +168,21 @@
     {
       "geometry": {
         "coordinates": [
+          -117.350764274613, 
+          33.1594152924584
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "https://www.facebook.com/CarlsbadCoastalGoClub/about/?ref=page_internal , Vinaka Cafe\r\nVillage Faire, 300 Carlsbad Village Dr #211, Carlsbad , Sunday's 5pm - 9pm , edit: https://goclubdb.herokuapp.com/club/261/", 
+        "name": "Coastal Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           -123.2603888, 
           44.5626389
         ], 

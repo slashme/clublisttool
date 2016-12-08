@@ -1,0 +1,20 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          100.53490027786, 
+          13.7274270202574
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "TH", 
+      "properties": {
+        "description": "2nd Floor, Silom Park View 55,\r\nSoi Saladaeng 2, Convent Road,\r\nBangrak, Bangkok, 10500, Thailand , Mon-Fri, open hours 16.00-22.00, very few people on weekday and on-one show up until 17.00 or 18.00\r\nSat-Sun, open hours 10.00-24.00, a lot of people around 13.00-17.00 , edit: https://goclubdb.herokuapp.com/club/260/", 
+        "name": "Thai Go Club, Silom, Bangkok"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "type": "FeatureCollection"
+}
