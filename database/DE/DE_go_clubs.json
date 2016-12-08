@@ -141,21 +141,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.377976, 
-          52.5240046
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "Humboldt Universität, Hauptgebäude, Dorotheenstr. , Mo 17.30-22 , Patrick Husmann, 0176-84091779 , edit: https://goclubdb.herokuapp.com/club/1127/", 
-        "name": "Berlin (Mitte)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           13.4143769, 
           52.5408877
         ], 
@@ -171,8 +156,8 @@
     {
       "geometry": {
         "coordinates": [
-          13.2414660273, 
-          52.4372333
+          13.2137130417, 
+          52.4398752489
         ], 
         "type": "Point"
       }, 
@@ -477,21 +462,6 @@
     {
       "geometry": {
         "coordinates": [
-          7.4654176, 
-          51.4976693
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.dortmund-go.de/index.php/spielabende , SIGNAL IDUNA Gruppe, Joseph-Scherer Str. 3, externe Besucher müssen sich vorher anmelden , Mi 16-18.30, 14-tg , Martin Quest, 0231-201945 , edit: https://goclubdb.herokuapp.com/club/1186/", 
-        "name": "Dortmund"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           7.4009765, 
           51.489429
         ], 
@@ -507,15 +477,15 @@
     {
       "geometry": {
         "coordinates": [
-          13.7222126692, 
-          51.06212745
+          7.4654176, 
+          51.4976693
         ], 
         "type": "Point"
       }, 
       "layer": "DE", 
       "properties": {
-        "description": "http://www.horst-huebner.de , Freiberger Str. 31 im Eigenbetrieb Sportstätten, 4. Etage, Konferenzraum. , Mi 18-22 , Horst Hübner, 0351-4712051 , edit: https://goclubdb.herokuapp.com/club/1118/", 
-        "name": "Dresden"
+        "description": "http://www.dortmund-go.de/index.php/spielabende , SIGNAL IDUNA Gruppe, Joseph-Scherer Str. 3, externe Besucher müssen sich vorher anmelden , Mi 16-18.30, 14-tg , Martin Quest, 0231-201945 , edit: https://goclubdb.herokuapp.com/club/1186/", 
+        "name": "Dortmund"
       }, 
       "type": "Feature"
     }, 
@@ -530,6 +500,21 @@
       "layer": "DE", 
       "properties": {
         "description": "Barneby, Görlitzer Str. 11 , Do ab 18.30 , Sascha Giebner, 0151-23232237 , edit: https://goclubdb.herokuapp.com/club/1119/", 
+        "name": "Dresden"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          13.7222126692, 
+          51.06212745
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.horst-huebner.de , Freiberger Str. 31 im Eigenbetrieb Sportstätten, 4. Etage, Konferenzraum. , Mi 18-22 , Horst Hübner, 0351-4712051 , edit: https://goclubdb.herokuapp.com/club/1118/", 
         "name": "Dresden"
       }, 
       "type": "Feature"
@@ -672,21 +657,6 @@
     {
       "geometry": {
         "coordinates": [
-          7.8141061, 
-          47.975875
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.Dreisam-Honinbo.de , Enigma, Bergiselstr. 34 , Mo ab 19 , Christian Haberbosch, 0761-4299652; Kirsten Grimm, 0172-5841455 , edit: https://goclubdb.herokuapp.com/club/1234/", 
-        "name": "Freiburg"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           7.90094001771, 
           47.96398895
         ], 
@@ -698,6 +668,21 @@
           "iconClass": "Ball"
         }, 
         "description": "privat, Am Hagmättle 11 , Fr ab 18 , Kirsten Grimm, 0172-5841455 , edit: https://goclubdb.herokuapp.com/club/1235/", 
+        "name": "Freiburg"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          7.8141061, 
+          47.975875
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.Dreisam-Honinbo.de , Enigma, Bergiselstr. 34 , Mo ab 19 , Christian Haberbosch, 0761-4299652; Kirsten Grimm, 0172-5841455 , edit: https://goclubdb.herokuapp.com/club/1234/", 
         "name": "Freiburg"
       }, 
       "type": "Feature"
@@ -843,21 +828,6 @@
     {
       "geometry": {
         "coordinates": [
-          7.4747128, 
-          51.357074
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.allerwelthaus.org/index.html , \"AllerWeltHaus\", Potthofstr. 22 , Fr ab 17 , Thomas Knop , edit: https://goclubdb.herokuapp.com/club/1208/", 
-        "name": "Hagen"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           7.47749213629, 
           51.3577484
         ], 
@@ -866,6 +836,21 @@
       "layer": "DE", 
       "properties": {
         "description": "Pub \"Jekyll & Hyde\", Kampstr. 24 a , Di ab 20 , Wolfgang Deinert, 02331-302752, 0170-4150674; Thomas Knop (Email) , edit: https://goclubdb.herokuapp.com/club/1207/", 
+        "name": "Hagen"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          7.4747128, 
+          51.357074
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.allerwelthaus.org/index.html , \"AllerWeltHaus\", Potthofstr. 22 , Fr ab 17 , Thomas Knop , edit: https://goclubdb.herokuapp.com/club/1208/", 
         "name": "Hagen"
       }, 
       "type": "Feature"
@@ -963,21 +948,6 @@
     {
       "geometry": {
         "coordinates": [
-          9.7590527, 
-          52.3701065
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.hannover-go.de , RSV Geschäftsstelle, Vorraum der dortigen Kegelbahn im Keller der Sporthalle, Am Südbahnhof 7 , Mo 19.15-22 , Ralph Tiefenthaler, 0511-8765551 , edit: https://goclubdb.herokuapp.com/club/1165/", 
-        "name": "Hannover"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           9.7225325, 
           52.3784695
         ], 
@@ -986,6 +956,21 @@
       "layer": "DE", 
       "properties": {
         "description": "http://www.hannover-go.de , Uni, Conti-Hochhaus, Königsworther Platz 1, Etage 13 , Di 19.30-22 , Ralph Tiefenthaler, 0511-8765551; Christoph Gerlach (Email), 0511-7000552 , edit: https://goclubdb.herokuapp.com/club/1164/", 
+        "name": "Hannover"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          9.7590527, 
+          52.3701065
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.hannover-go.de , RSV Geschäftsstelle, Vorraum der dortigen Kegelbahn im Keller der Sporthalle, Am Südbahnhof 7 , Mo 19.15-22 , Ralph Tiefenthaler, 0511-8765551 , edit: https://goclubdb.herokuapp.com/club/1165/", 
         "name": "Hannover"
       }, 
       "type": "Feature"
@@ -1242,21 +1227,6 @@
     {
       "geometry": {
         "coordinates": [
-          10.1387933, 
-          54.3413523
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://sites.google.com/site/gospielkreiskiel/ , Gaststätte Blücher, Esmarchstr. 44 , Mo ab 19.30 , Werner Ente, 0431-677304 , edit: https://goclubdb.herokuapp.com/club/1153/", 
-        "name": "Kiel"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           10.1131524425, 
           54.3421942235
         ], 
@@ -1265,6 +1235,21 @@
       "layer": "DE", 
       "properties": {
         "description": "http://server.sportzentrum.uni-kiel.de/sportarten/aktueller_zeitraum/_Go.html , Uni-Go-Gruppe, Stadionturm, Olshausenstr. 70 (Während der Vorlesungszeit. In der vorlesungsfreien Zeit Termin evtl. abweichend.) , Mi 18-20 , Christina Schramm , edit: https://goclubdb.herokuapp.com/club/1154/", 
+        "name": "Kiel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          10.1387933, 
+          54.3413523
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://sites.google.com/site/gospielkreiskiel/ , Gaststätte Blücher, Esmarchstr. 44 , Mo ab 19.30 , Werner Ente, 0431-677304 , edit: https://goclubdb.herokuapp.com/club/1153/", 
         "name": "Kiel"
       }, 
       "type": "Feature"
@@ -1287,6 +1272,21 @@
     {
       "geometry": {
         "coordinates": [
+          9.1767391, 
+          47.6903464
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "Universität Raum G302, Universitätsstr. 10 (im Semester) , Di ab 18.45 , Christoph Adelsberger, 0171-5255715 , edit: https://goclubdb.herokuapp.com/club/1233/", 
+        "name": "Konstanz"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           9.17817603945, 
           47.6609571
         ], 
@@ -1302,15 +1302,15 @@
     {
       "geometry": {
         "coordinates": [
-          9.1767391, 
-          47.6903464
+          13.3897664, 
+          52.5233648
         ], 
         "type": "Point"
       }, 
       "layer": "DE", 
       "properties": {
-        "description": "Universität Raum G302, Universitätsstr. 10 (im Semester) , Di ab 18.45 , Christoph Adelsberger, 0171-5255715 , edit: https://goclubdb.herokuapp.com/club/1233/", 
-        "name": "Konstanz"
+        "description": "Ziegelstraße 5, 10117 Berlin , Mondays, 5:30 pm, at Unter den Linden 6, room 3119 / \r\nTuesdays, 6:00 pm, at Ziegelstraße 5 , BerlinerKranich [at] gmx [dot] net,\r\nPatrick Husmann, 0176-84091779 , edit: https://goclubdb.herokuapp.com/club/262/", 
+        "name": "Kranichclub"
       }, 
       "type": "Feature"
     }, 
@@ -1476,6 +1476,21 @@
     {
       "geometry": {
         "coordinates": [
+          10.3377483218, 
+          53.24993835
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "Reppenstedt (layer, bei Lüneburg) Privat, Bitte vorher anrufen , 2. Sonntag / Monat 14:30 - 18:00 , Alexander Huber, 04131-395300 , edit: https://goclubdb.herokuapp.com/club/1150/", 
+        "name": "Lüneburg"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           10.3844010777, 
           53.22281005
         ], 
@@ -1487,21 +1502,6 @@
           "iconClass": "Ball"
         }, 
         "description": "Privat n.V. , Ralf Schulz, 0151-65783327 , edit: https://goclubdb.herokuapp.com/club/1149/", 
-        "name": "Lüneburg"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          10.3377483218, 
-          53.24993835
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "Reppenstedt (layer, bei Lüneburg) Privat, Bitte vorher anrufen , 2. Sonntag / Monat 14:30 - 18:00 , Alexander Huber, 04131-395300 , edit: https://goclubdb.herokuapp.com/club/1150/", 
         "name": "Lüneburg"
       }, 
       "type": "Feature"
@@ -1734,21 +1734,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.0108711, 
-          52.4018765
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.planet-nil.de , Nil Keller, Am Neuen Palais 10, Haus 11, www.planet-nil.de , Mi ab 19.30 , Stefan Leon, 01520-731 58 21 , edit: https://goclubdb.herokuapp.com/club/1136/", 
-        "name": "Potsdam"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           13.034183979, 
           52.3960951891
         ], 
@@ -1757,6 +1742,21 @@
       "layer": "DE", 
       "properties": {
         "description": "http://www.go-potsdam.de , privat bei Oliver Lenz, Carl-von-Ossietzky-Str. 6 , priv. n. V. , Oliver Lenz, 0331-902395 , edit: https://goclubdb.herokuapp.com/club/1137/", 
+        "name": "Potsdam"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          13.0108711, 
+          52.4018765
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.planet-nil.de , Nil Keller, Am Neuen Palais 10, Haus 11, www.planet-nil.de , Mi ab 19.30 , Stefan Leon, 01520-731 58 21 , edit: https://goclubdb.herokuapp.com/club/1136/", 
         "name": "Potsdam"
       }, 
       "type": "Feature"
