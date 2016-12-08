@@ -18,14 +18,14 @@
     {
       "geometry": {
         "coordinates": [
-          -106.6192728281, 
-          35.0807861104884
+          -106.619272828, 
+          35.0807861105
         ], 
         "type": "Point"
       }, 
       "layer": "US", 
       "properties": {
-        "description": "Frontier Restaurant\r\n2400 Central Ave SE\r\nAlbuquerque, NM 87106 , Wednesdays 7:00 PM to 11:00 PM , https://www.facebook.com/robert.gilman.520\r\nhttps://www.facebook.com/billybones116 , edit: https://goclubdb.herokuapp.com/club/263/", 
+        "description": "https://www.facebook.com/people/Albuquerque-Go-Club/100005582688990 , Frontier Restaurant\r\n2400 Central Ave SE\r\nAlbuquerque, NM 87106 , Wednesdays 7:00 PM to 11:00 PM , https://www.facebook.com/robert.gilman.520\r\nhttps://www.facebook.com/billybones116 , edit: https://goclubdb.herokuapp.com/club/263/", 
         "name": "Albuquerque Go Club"
       }, 
       "type": "Feature"
@@ -153,14 +153,14 @@
     {
       "geometry": {
         "coordinates": [
-          93.6091, 
-          41.6005
+          -93.614, 
+          41.6
         ], 
         "type": "Point"
       }, 
       "layer": "US", 
       "properties": {
-        "description": "https://www.facebook.com/groups/centraliowago/ , Des Moines, IA , Please check our Facebook group or contact me! , Jacob Upland (Indianola): jauptain@gmail.com\r\nXiaoxian Wang (Ames): gavinwxx1994@gmail.com , edit: https://goclubdb.herokuapp.com/club/265/", 
+        "description": "https://www.facebook.com/groups/centraliowago/ , Please check our Facebook group or contact me! , Jacob Upland (Indianola): \r\njauptain@gmail.com\r\nXiaoxian Wang (Ames): gavinwxx1994@gmail.com , edit: https://goclubdb.herokuapp.com/club/265/", 
         "name": "Central Iowa Go Society"
       }, 
       "type": "Feature"
