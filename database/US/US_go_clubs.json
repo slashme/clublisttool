@@ -153,14 +153,14 @@
     {
       "geometry": {
         "coordinates": [
-          -93.614, 
-          41.6
+          -93.65057, 
+          42.02005
         ], 
         "type": "Point"
       }, 
       "layer": "US", 
       "properties": {
-        "description": "https://www.facebook.com/groups/centraliowago/ , Please check our Facebook group or contact me! , Jacob Upland (Indianola): \r\njauptain@gmail.com\r\nXiaoxian Wang (Ames): gavinwxx1994@gmail.com , edit: https://goclubdb.herokuapp.com/club/265/", 
+        "description": "https://www.facebook.com/groups/centraliowago/ , Stomping Grounds 303 Welch Ave, Ames, IA 50014 , Tuesdays 5pm , Kyle Kain: kkain84@gmail.com   \r\n\r\nXiaoxian Wang: gavinwxx1994@gmail.com , edit: https://goclubdb.herokuapp.com/club/265/", 
         "name": "Central Iowa Go Society"
       }, 
       "type": "Feature"
@@ -333,6 +333,21 @@
     {
       "geometry": {
         "coordinates": [
+          -73.9636744559, 
+          40.8035772594
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "http://www.peterarmenia.com/gothamgogroup.html , The Hungarian Pastry Shop\r\n1030 Amsterdam Ave (between 110th and 111th) , Tuesdays from 7pm - 11pm. , A casual meeting of go players on the Upper West Side of Manhattan. Beginners always welcome. See website for contact information. , edit: https://goclubdb.herokuapp.com/club/267/", 
+        "name": "Gotham Go Group"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           -87.7178800106, 
           41.9214748362
         ], 
@@ -405,6 +420,21 @@
       "properties": {
         "description": "Panama Red Coffee Co.\r\n2115 First Street, Livermore, CA , First and third Saturdays: 2:00 pm onward , Lynda L. LoDestro - lodestro1@llnl.gov , edit: https://goclubdb.herokuapp.com/club/87/", 
         "name": "Livermore Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -94.0079481534, 
+          44.1621563596
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "630 S Front St, Mankato, MN 56001 , 4PM , edit: https://goclubdb.herokuapp.com/club/266/", 
+        "name": "Mankato Go Club"
       }, 
       "type": "Feature"
     }, 
