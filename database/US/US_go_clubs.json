@@ -18,6 +18,21 @@
     {
       "geometry": {
         "coordinates": [
+          -106.6192728281, 
+          35.0807861104884
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "Frontier Restaurant\r\n2400 Central Ave SE\r\nAlbuquerque, NM 87106 , Wednesdays 7:00 PM to 11:00 PM , https://www.facebook.com/robert.gilman.520\r\nhttps://www.facebook.com/billybones116 , edit: https://goclubdb.herokuapp.com/club/263/", 
+        "name": "Albuquerque Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           -149.9093484, 
           61.1946237
         ], 
@@ -132,6 +147,21 @@
       "properties": {
         "description": "\"The Board Room\", 514 Main Street Middletown, CT , Fridays 6:30pm-9:30pm (often goes later, the place closes at 11pm) , michael.j.scudder@gmail.com , edit: https://goclubdb.herokuapp.com/club/238/", 
         "name": "Central Connecticut Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          93.6091, 
+          41.6005
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "https://www.facebook.com/groups/centraliowago/ , Des Moines, IA , Please check our Facebook group or contact me! , Jacob Upland (Indianola): jauptain@gmail.com\r\nXiaoxian Wang (Ames): gavinwxx1994@gmail.com , edit: https://goclubdb.herokuapp.com/club/265/", 
+        "name": "Central Iowa Go Society"
       }, 
       "type": "Feature"
     }, 
