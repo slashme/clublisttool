@@ -907,7 +907,7 @@
       }, 
       "layer": "GB", 
       "properties": {
-        "description": "http://www.britgo.org/node/3230 , (Since October 2015): The Old Queens Head, 40 Pond Hill, Sheffield, South Yorkshire , Sunday 19:30 , Phil Barker Tel: 0114 255 1440 (home) , edit: https://goclubdb.herokuapp.com/club/1329/", 
+        "description": "https://sheffieldgoclub.org.uk/ , (Since October 2015): The Old Queens Head, 40 Pond Hill, Sheffield, South Yorkshire , Sunday 19:30 , Phil Barker Tel: 0114 255 1440 (home)\r\nMatt Marsh Tel: 07795 297779 , edit: https://goclubdb.herokuapp.com/club/1329/", 
         "name": "Sheffield"
       }, 
       "type": "Feature"
@@ -990,21 +990,6 @@
     {
       "geometry": {
         "coordinates": [
-          -1.83492588, 
-          51.55013431
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3241 , Windmill Pub, Freshbrook Village Centre, Worsley Road , Wednesday 19:30 , David King, 21 Windsor Rd, Swindon Tel: 01793 521625 , edit: https://goclubdb.herokuapp.com/club/1335/", 
-        "name": "Swindon"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           -1.78095942978, 
           51.556550624
         ], 
@@ -1013,6 +998,21 @@
       "layer": "GB", 
       "properties": {
         "description": "http://www.britgo.org/node/3242 , The Beehive, Prospect Hill , Sunday evening , David King, 21 Windsor Rd, Swindon Tel: 01793 521625 , edit: https://goclubdb.herokuapp.com/club/1336/", 
+        "name": "Swindon"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -1.83492588, 
+          51.55013431
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "GB", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3241 , Windmill Pub, Freshbrook Village Centre, Worsley Road , Wednesday 19:30 , David King, 21 Windsor Rd, Swindon Tel: 01793 521625 , edit: https://goclubdb.herokuapp.com/club/1335/", 
         "name": "Swindon"
       }, 
       "type": "Feature"

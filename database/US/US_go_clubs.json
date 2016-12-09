@@ -433,7 +433,7 @@
       }, 
       "layer": "US", 
       "properties": {
-        "description": "630 S Front St, Mankato, MN 56001 , 4PM , edit: https://goclubdb.herokuapp.com/club/266/", 
+        "description": "Fillin' Station Coffeehouse, 630 S Front St, Mankato, MN 56001 , 4PM , edit: https://goclubdb.herokuapp.com/club/266/", 
         "name": "Mankato Go Club"
       }, 
       "type": "Feature"
@@ -898,7 +898,7 @@
       }, 
       "layer": "US", 
       "properties": {
-        "description": "http://www.vermontgo.org , 42 Church St, Burlington, VT 05401 , 6:30-9:00 , dfelcan@yahoo.com , edit: https://goclubdb.herokuapp.com/club/259/", 
+        "description": "http://www.vermontgo.org , Uncommon Grounds, 42 Church St, Burlington , Wednesdays, 6:30-9:00 PM , dfelcan@yahoo.com , edit: https://goclubdb.herokuapp.com/club/259/", 
         "name": "Vermont Go Club"
       }, 
       "type": "Feature"
