@@ -62,6 +62,21 @@
         "name": "Ringsted Go Klub"
       }, 
       "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          8.69878, 
+          56.96612
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DK", 
+      "properties": {
+        "description": "https://thistedgoklub.wordpress.com/english/ , Ringvej 32, 7700 Thisted , 15:00 on tuesday or wednesday depending on, who has the the time to show up.\r\nOur facebook https://www.facebook.com/groups/1507387226163610/ is used for intracommunication , https://www.facebook.com/groups/1507387226163610/\r\nOur facebook would be the place to go (sorry) if you are looking to join us.\r\nAlternatively you can email our Goguru, Theodor Willibald Harbsmeier, at twharbsmeier@gmail.com. , edit: https://goclubdb.herokuapp.com/club/270/", 
+        "name": "Thisted Gymnasium Goklub"
+      }, 
+      "type": "Feature"
     }
   ], 
   "type": "FeatureCollection"

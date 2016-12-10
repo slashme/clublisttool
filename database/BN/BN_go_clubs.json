@@ -3,15 +3,18 @@
     {
       "geometry": {
         "coordinates": [
-          114.944323999992, 
-          4.89247241031048
+          114.962975, 
+          4.891702
         ], 
         "type": "Point"
       }, 
       "layer": "BN", 
       "properties": {
-        "description": "http://www.facebook.com/groups/bruneigo , Simpang 2, Bandar Seri Begawan BS8211 , 8pm - 10.30pm , Ignatius CHIN (Head-Coach)\r\n+6737234768 , edit: https://goclubdb.herokuapp.com/club/80/", 
-        "name": "Capital Residence Suite Go Club"
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "https://www.facebook.com/groups/bruneigo , Ignatius CHIN (Head-Coach) +6737234768 , edit: https://goclubdb.herokuapp.com/club/269/", 
+        "name": "Brunei Darussalam Go Association"
       }, 
       "type": "Feature"
     }
