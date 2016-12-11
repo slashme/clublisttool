@@ -279,21 +279,6 @@
     {
       "geometry": {
         "coordinates": [
-          10.5427699, 
-          52.2632964
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.braunschweig-go.de , Café Fischer, Altewiekring 44 , Do ab 19 , Joachim Beggerow, 0531-42504; Andreas Szostak (Email), 0176-82167987 , edit: https://goclubdb.herokuapp.com/club/1178/", 
-        "name": "Braunschweig"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           10.5366363, 
           52.2739507
         ], 
@@ -302,6 +287,21 @@
       "layer": "DE", 
       "properties": {
         "description": "http://www.braunschweig-go.de , Gebäude Grotrian an der TUBS, Zimmerstr. 24 D , Mo ab 19 , Björn Meier, 05306-931757; Nina Knöchelmann (Email), 0160-4434640 , edit: https://goclubdb.herokuapp.com/club/1179/", 
+        "name": "Braunschweig"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          10.5427699, 
+          52.2632964
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.braunschweig-go.de , Café Fischer, Altewiekring 44 , Do ab 19 , Joachim Beggerow, 0531-42504; Andreas Szostak (Email), 0176-82167987 , edit: https://goclubdb.herokuapp.com/club/1178/", 
         "name": "Braunschweig"
       }, 
       "type": "Feature"
@@ -447,14 +447,14 @@
     {
       "geometry": {
         "coordinates": [
-          7.4630618, 
-          51.5112276
+          7.4071074, 
+          51.489962
         ], 
         "type": "Point"
       }, 
       "layer": "DE", 
       "properties": {
-        "description": "http://www.dortmund-go.de/index.php/spielabende , \"Klubhaus 1249\" in the Berswordt-Hall (Kleppingstr. 37, 44135 Dortmund) , Do ab 20 , Lars Gehrke, +49 1732015374 , edit: https://goclubdb.herokuapp.com/club/1187/", 
+        "description": "https://www.facebook.com/DortmunderGo , University of Dortmund, Computer Science Building, Otto-Hahn-Str. 12, 2th floor, Room 2003 , Every Monday from 5 pm to 7 pm , Lars Gehrke, +49 1732015374 (I have WhatsApp) , edit: https://goclubdb.herokuapp.com/club/1188/", 
         "name": "Dortmund"
       }, 
       "type": "Feature"
@@ -462,29 +462,14 @@
     {
       "geometry": {
         "coordinates": [
-          7.4009765, 
-          51.489429
+          7.4674025, 
+          51.5111632
         ], 
         "type": "Point"
       }, 
       "layer": "DE", 
       "properties": {
-        "description": "http://dortmund-go.de/index.php/spielabende , Neues Informatik-Gebäude der TU Dortmund, Otto-Hahn-Str. 12, 2. Etage, Raum 2003 , Mo 17-19 , Lars Gehrke, 01732015374 , edit: https://goclubdb.herokuapp.com/club/1188/", 
-        "name": "Dortmund"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          7.4654176, 
-          51.4976693
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.dortmund-go.de/index.php/spielabende , SIGNAL IDUNA Gruppe, Joseph-Scherer Str. 3, externe Besucher müssen sich vorher anmelden , Mi 16-18.30, 14-tg , Martin Quest, 0231-201945 , edit: https://goclubdb.herokuapp.com/club/1186/", 
+        "description": "https://www.facebook.com/DortmunderGo , \"Klubhaus 1249\" in the Berswordt-Hall (Kleppingstr. 37) , Every Thursday, start: 8 pm , Lars Gehrke, +49 1732015374 (I have WhatsApp) , edit: https://goclubdb.herokuapp.com/club/1187/", 
         "name": "Dortmund"
       }, 
       "type": "Feature"
@@ -657,21 +642,6 @@
     {
       "geometry": {
         "coordinates": [
-          7.8141061, 
-          47.975875
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.Dreisam-Honinbo.de , Enigma, Bergiselstr. 34 , Mo ab 19 , Christian Haberbosch, 0761-4299652; Kirsten Grimm, 0172-5841455 , edit: https://goclubdb.herokuapp.com/club/1234/", 
-        "name": "Freiburg"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           7.90094001771, 
           47.96398895
         ], 
@@ -683,6 +653,21 @@
           "iconClass": "Ball"
         }, 
         "description": "privat, Am Hagmättle 11 , Fr ab 18 , Kirsten Grimm, 0172-5841455 , edit: https://goclubdb.herokuapp.com/club/1235/", 
+        "name": "Freiburg"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          7.8141061, 
+          47.975875
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.Dreisam-Honinbo.de , Enigma, Bergiselstr. 34 , Mo ab 19 , Christian Haberbosch, 0761-4299652; Kirsten Grimm, 0172-5841455 , edit: https://goclubdb.herokuapp.com/club/1234/", 
         "name": "Freiburg"
       }, 
       "type": "Feature"
@@ -813,21 +798,6 @@
     {
       "geometry": {
         "coordinates": [
-          7.476435, 
-          51.3665884
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "Postsportheim, Am Sportpark 18a , Mi ab 19 , Wolfgang Deinert, 02331-302752, 0170-4150674 , edit: https://goclubdb.herokuapp.com/club/1209/", 
-        "name": "Hagen"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           7.47749213629, 
           51.3577484
         ], 
@@ -835,7 +805,28 @@
       }, 
       "layer": "DE", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Circle"
+        }, 
         "description": "Pub \"Jekyll & Hyde\", Kampstr. 24 a , Di ab 20 , Wolfgang Deinert, 02331-302752, 0170-4150674; Thomas Knop (Email) , edit: https://goclubdb.herokuapp.com/club/1207/", 
+        "name": "Hagen"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          7.476435, 
+          51.3665884
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Circle"
+        }, 
+        "description": "Postsportheim, Am Sportpark 18a , Mi ab 19 , Wolfgang Deinert, 02331-302752, 0170-4150674 , edit: https://goclubdb.herokuapp.com/club/1209/", 
         "name": "Hagen"
       }, 
       "type": "Feature"
@@ -933,21 +924,6 @@
     {
       "geometry": {
         "coordinates": [
-          9.7590527, 
-          52.3701065
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.hannover-go.de , RSV Geschäftsstelle, Vorraum der dortigen Kegelbahn im Keller der Sporthalle, Am Südbahnhof 7 , Mo 19.15-22 , Ralph Tiefenthaler, 0511-8765551 , edit: https://goclubdb.herokuapp.com/club/1165/", 
-        "name": "Hannover"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           9.7225325, 
           52.3784695
         ], 
@@ -956,6 +932,21 @@
       "layer": "DE", 
       "properties": {
         "description": "http://www.hannover-go.de , Uni, Conti-Hochhaus, Königsworther Platz 1, Etage 13 , Di 19.30-22 , Ralph Tiefenthaler, 0511-8765551; Christoph Gerlach (Email), 0511-7000552 , edit: https://goclubdb.herokuapp.com/club/1164/", 
+        "name": "Hannover"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          9.7590527, 
+          52.3701065
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.hannover-go.de , RSV Geschäftsstelle, Vorraum der dortigen Kegelbahn im Keller der Sporthalle, Am Südbahnhof 7 , Mo 19.15-22 , Ralph Tiefenthaler, 0511-8765551 , edit: https://goclubdb.herokuapp.com/club/1165/", 
         "name": "Hannover"
       }, 
       "type": "Feature"
@@ -1212,21 +1203,6 @@
     {
       "geometry": {
         "coordinates": [
-          10.1387933, 
-          54.3413523
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://sites.google.com/site/gospielkreiskiel/ , Gaststätte Blücher, Esmarchstr. 44 , Mo ab 19.30 , Werner Ente, 0431-677304 , edit: https://goclubdb.herokuapp.com/club/1153/", 
-        "name": "Kiel"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           10.1131524425, 
           54.3421942235
         ], 
@@ -1235,6 +1211,21 @@
       "layer": "DE", 
       "properties": {
         "description": "http://server.sportzentrum.uni-kiel.de/sportarten/aktueller_zeitraum/_Go.html , Uni-Go-Gruppe, Stadionturm, Olshausenstr. 70 (Während der Vorlesungszeit. In der vorlesungsfreien Zeit Termin evtl. abweichend.) , Mi 18-20 , Christina Schramm , edit: https://goclubdb.herokuapp.com/club/1154/", 
+        "name": "Kiel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          10.1387933, 
+          54.3413523
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://sites.google.com/site/gospielkreiskiel/ , Gaststätte Blücher, Esmarchstr. 44 , Mo ab 19.30 , Werner Ente, 0431-677304 , edit: https://goclubdb.herokuapp.com/club/1153/", 
         "name": "Kiel"
       }, 
       "type": "Feature"
@@ -2049,21 +2040,6 @@
       "properties": {
         "description": "http://www.go-ulm.de , Cafe Omar, König-Wilhelm Str. 5 , Mi ab 19 , Gerhard Schmid, 0731-54739; Mattias Laage, 0731-57084 , edit: https://goclubdb.herokuapp.com/club/1247/", 
         "name": "Ulm"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          7.69473039297, 
-          51.53071685
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.dortmund-go.de , Café Extrablatt Unna, Markt 1 , Mo 19.30-23, priv. n.V. , Andre Schneider, 0151-27535137 , edit: https://goclubdb.herokuapp.com/club/1210/", 
-        "name": "Unna"
       }, 
       "type": "Feature"
     }, 
