@@ -279,21 +279,6 @@
     {
       "geometry": {
         "coordinates": [
-          10.5366363, 
-          52.2739507
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.braunschweig-go.de , Gebäude Grotrian an der TUBS, Zimmerstr. 24 D , Mo ab 19 , Björn Meier, 05306-931757; Nina Knöchelmann (Email), 0160-4434640 , edit: https://goclubdb.herokuapp.com/club/1179/", 
-        "name": "Braunschweig"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           10.5427699, 
           52.2632964
         ], 
@@ -302,6 +287,21 @@
       "layer": "DE", 
       "properties": {
         "description": "http://www.braunschweig-go.de , Café Fischer, Altewiekring 44 , Do ab 19 , Joachim Beggerow, 0531-42504; Andreas Szostak (Email), 0176-82167987 , edit: https://goclubdb.herokuapp.com/club/1178/", 
+        "name": "Braunschweig"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          10.5366363, 
+          52.2739507
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.braunschweig-go.de , Gebäude Grotrian an der TUBS, Zimmerstr. 24 D , Mo ab 19 , Björn Meier, 05306-931757; Nina Knöchelmann (Email), 0160-4434640 , edit: https://goclubdb.herokuapp.com/club/1179/", 
         "name": "Braunschweig"
       }, 
       "type": "Feature"
@@ -447,6 +447,21 @@
     {
       "geometry": {
         "coordinates": [
+          7.4630618, 
+          51.5112276
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.dortmund-go.de/index.php/spielabende , \"Klubhaus 1249\" in the Berswordt-Hall (Kleppingstr. 37, 44135 Dortmund) , Do ab 20 , Lars Gehrke, +49 1732015374 , edit: https://goclubdb.herokuapp.com/club/1187/", 
+        "name": "Dortmund"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           7.4009765, 
           51.489429
         ], 
@@ -455,21 +470,6 @@
       "layer": "DE", 
       "properties": {
         "description": "http://dortmund-go.de/index.php/spielabende , Neues Informatik-Gebäude der TU Dortmund, Otto-Hahn-Str. 12, 2. Etage, Raum 2003 , Mo 17-19 , Lars Gehrke, 01732015374 , edit: https://goclubdb.herokuapp.com/club/1188/", 
-        "name": "Dortmund"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          7.4550586, 
-          51.5329225
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://dortmund-go.de/index.php/spielabende , \"Depothek\" im Depot, Immermannstraße 29 (U-Bahn: \"Immermannstr./Klinikzentrum\") , Do ab 19.30 , Lars Gehrke, 01732015374 , edit: https://goclubdb.herokuapp.com/club/1187/", 
         "name": "Dortmund"
       }, 
       "type": "Feature"
@@ -657,6 +657,21 @@
     {
       "geometry": {
         "coordinates": [
+          7.8141061, 
+          47.975875
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.Dreisam-Honinbo.de , Enigma, Bergiselstr. 34 , Mo ab 19 , Christian Haberbosch, 0761-4299652; Kirsten Grimm, 0172-5841455 , edit: https://goclubdb.herokuapp.com/club/1234/", 
+        "name": "Freiburg"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           7.90094001771, 
           47.96398895
         ], 
@@ -668,21 +683,6 @@
           "iconClass": "Ball"
         }, 
         "description": "privat, Am Hagmättle 11 , Fr ab 18 , Kirsten Grimm, 0172-5841455 , edit: https://goclubdb.herokuapp.com/club/1235/", 
-        "name": "Freiburg"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          7.8141061, 
-          47.975875
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.Dreisam-Honinbo.de , Enigma, Bergiselstr. 34 , Mo ab 19 , Christian Haberbosch, 0761-4299652; Kirsten Grimm, 0172-5841455 , edit: https://goclubdb.herokuapp.com/club/1234/", 
         "name": "Freiburg"
       }, 
       "type": "Feature"
@@ -821,21 +821,6 @@
       "layer": "DE", 
       "properties": {
         "description": "Postsportheim, Am Sportpark 18a , Mi ab 19 , Wolfgang Deinert, 02331-302752, 0170-4150674 , edit: https://goclubdb.herokuapp.com/club/1209/", 
-        "name": "Hagen"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          7.4747128, 
-          51.357074
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.allerwelthaus.org/index.html , \"AllerWeltHaus\", Potthofstr. 22 , Fr ab 17 , Thomas Knop , edit: https://goclubdb.herokuapp.com/club/1208/", 
         "name": "Hagen"
       }, 
       "type": "Feature"
@@ -1749,21 +1734,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.034183979, 
-          52.3960951891
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.go-potsdam.de , privat bei Oliver Lenz, Carl-von-Ossietzky-Str. 6 , priv. n. V. , Oliver Lenz, 0331-902395 , edit: https://goclubdb.herokuapp.com/club/1137/", 
-        "name": "Potsdam"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           13.0108711, 
           52.4018765
         ], 
@@ -1772,6 +1742,21 @@
       "layer": "DE", 
       "properties": {
         "description": "http://www.planet-nil.de , Nil Keller, Am Neuen Palais 10, Haus 11, www.planet-nil.de , Mi ab 19.30 , Stefan Leon, 01520-731 58 21 , edit: https://goclubdb.herokuapp.com/club/1136/", 
+        "name": "Potsdam"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          13.034183979, 
+          52.3960951891
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.go-potsdam.de , privat bei Oliver Lenz, Carl-von-Ossietzky-Str. 6 , priv. n. V. , Oliver Lenz, 0331-902395 , edit: https://goclubdb.herokuapp.com/club/1137/", 
         "name": "Potsdam"
       }, 
       "type": "Feature"

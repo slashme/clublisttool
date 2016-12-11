@@ -532,6 +532,9 @@
       }, 
       "layer": "IT", 
       "properties": {
+        "_storage_options": {
+          "iconClass": "Circle"
+        }, 
         "description": "Via Castello San Felice, 9 presso\"Associazione Giochi Antichi\"(nel Parco delle Colombare) , Non è stato ancora fissato un giorno prestabilito, contattate Marta o Giulia per sapere quando trovarci. , Marta Mantovani adsharta@libero.it , edit: https://goclubdb.herokuapp.com/club/1015/", 
         "name": "Go Club \"VenetoGo\" Sez. di Verona"
       }, 
@@ -999,21 +1002,6 @@
     {
       "geometry": {
         "coordinates": [
-          10.81296, 
-          44.53838
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "IT", 
-      "properties": {
-        "description": "Via del Santuario, 3 presso la Birreria \"Stonewall\" , Giovedì dalle 21:00(in alternanza con il Go Club di Reggio-Emilia) , Andrea Pecorari Cell: 348 4428324 , edit: https://goclubdb.herokuapp.com/club/1024/", 
-        "name": "\"Tortellino\" Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           10.63262, 
           44.71209
         ], 
@@ -1022,6 +1010,21 @@
       "layer": "IT", 
       "properties": {
         "description": "Via Samoggia, 12 presso il \"Bar Florida\" di Wang Zuo Liang , Giovedì dalle 21:00(in alternanza con il Go Club di Fiorano Modenese) , Andrea Pecorari a_peco@libero.it Cell: 348 4428324 , edit: https://goclubdb.herokuapp.com/club/1028/", 
+        "name": "\"Tortellino\" Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          10.81296, 
+          44.53838
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "IT", 
+      "properties": {
+        "description": "Via del Santuario, 3 presso la Birreria \"Stonewall\" , Giovedì dalle 21:00(in alternanza con il Go Club di Reggio-Emilia) , Andrea Pecorari Cell: 348 4428324 , edit: https://goclubdb.herokuapp.com/club/1024/", 
         "name": "\"Tortellino\" Go Club"
       }, 
       "type": "Feature"
