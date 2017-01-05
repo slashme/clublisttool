@@ -1,4 +1,20 @@
 {
-  "features": [], 
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -66.8941674504, 
+          10.4872560184
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "VE", 
+      "properties": {
+        "description": "http://goclubucv.wix.com/ve , Universidad Central de Venezuela, Facultad de ciencias , Todos los Jueves de 3-5pm , https://www.facebook.com/goclubucv;\r\nhttps://twitter.com/goclubucv , edit: https://goclubdb.herokuapp.com/club/271/", 
+        "name": "Go Club UCV"
+      }, 
+      "type": "Feature"
+    }
+  ], 
   "type": "FeatureCollection"
 }
