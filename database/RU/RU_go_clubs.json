@@ -70,7 +70,7 @@
       }, 
       "layer": "RU", 
       "properties": {
-        "description": "Шахматно-Шашечный Центр, Газетная 109 , По субботам в 15.00 , edit: https://goclubdb.herokuapp.com/club/1115/", 
+        "description": "https://vk.com/vostok_goban , Шахматно-Шашечный Центр, Газетная 109. , По субботам в 15.00. , edit: https://goclubdb.herokuapp.com/club/1098/", 
         "name": "Восточная беседа - суббота"
       }, 
       "type": "Feature"
@@ -85,7 +85,7 @@
       }, 
       "layer": "RU", 
       "properties": {
-        "description": "https://vk.com/vostok_goban , Шахматно-Шашечный Центр, Газетная 109. , По субботам в 15.00. , edit: https://goclubdb.herokuapp.com/club/1098/", 
+        "description": "Шахматно-Шашечный Центр, Газетная 109 , По субботам в 15.00 , edit: https://goclubdb.herokuapp.com/club/1115/", 
         "name": "Восточная беседа - суббота"
       }, 
       "type": "Feature"
@@ -318,6 +318,21 @@
         }, 
         "description": "Каждую пятницу в 17:30 , на Львовской, ауд. 203 , edit: https://goclubdb.herokuapp.com/club/1109/", 
         "name": "Клуб Го НИУ ВШЭ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          30.3200072049798, 
+          59.9717335526007
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "RU", 
+      "properties": {
+        "description": "https://vk.com/leti_tosei , в СПбГЭТУ, ул.Профессора Попова д5к1. , Суббота с 12:00 - 16:00 , Чернов Андрей  +79110369857 , edit: https://goclubdb.herokuapp.com/club/273/", 
+        "name": "клуб ЛЭТИ Тосей"
       }, 
       "type": "Feature"
     }, 
