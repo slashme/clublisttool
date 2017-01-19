@@ -70,7 +70,7 @@
       }, 
       "layer": "RU", 
       "properties": {
-        "description": "https://vk.com/vostok_goban , Шахматно-Шашечный Центр, Газетная 109. , По субботам в 15.00. , edit: https://goclubdb.herokuapp.com/club/1098/", 
+        "description": "Шахматно-Шашечный Центр, Газетная 109 , По субботам в 15.00 , edit: https://goclubdb.herokuapp.com/club/1115/", 
         "name": "Восточная беседа - суббота"
       }, 
       "type": "Feature"
@@ -85,7 +85,7 @@
       }, 
       "layer": "RU", 
       "properties": {
-        "description": "Шахматно-Шашечный Центр, Газетная 109 , По субботам в 15.00 , edit: https://goclubdb.herokuapp.com/club/1115/", 
+        "description": "https://vk.com/vostok_goban , Шахматно-Шашечный Центр, Газетная 109. , По субботам в 15.00. , edit: https://goclubdb.herokuapp.com/club/1098/", 
         "name": "Восточная беседа - суббота"
       }, 
       "type": "Feature"
@@ -432,14 +432,14 @@
     {
       "geometry": {
         "coordinates": [
-          73.3604094386, 
-          54.9924483407
+          73.3606025576, 
+          54.9969535228
         ], 
         "type": "Point"
       }, 
       "layer": "RU", 
       "properties": {
-        "description": "На площадке \"Дача Онегина\" , edit: https://goclubdb.herokuapp.com/club/1087/", 
+        "description": "https://vk.com/omskgoclub , ул. Добровольского 5/1 , На площадке \"Квартал 5/1\" , edit: https://goclubdb.herokuapp.com/club/1087/", 
         "name": "Омский Го-клуб"
       }, 
       "type": "Feature"
@@ -615,6 +615,21 @@
       "properties": {
         "description": "http://csdusshor.ru/ , edit: https://goclubdb.herokuapp.com/club/1103/", 
         "name": "Центральная спортивная школа города Петрозаводска"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          30.4776191711, 
+          59.9377410814
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "RU", 
+      "properties": {
+        "description": "https://vk.com/club100122463 , г. Санкт-Петербург, Индустриальный проспект 7, Центр китайской культуры \"Диалог\" , вторник 17:30-20:30\r\nчетверг 17:30-20:30\r\nсуббота 17:30-20:00 , 8-921-799-84-81 - Денис\r\n8-921-574-19-47 Андрей Владимирович , edit: https://goclubdb.herokuapp.com/club/274/", 
+        "name": "Школа го Ранка"
       }, 
       "type": "Feature"
     }, 
