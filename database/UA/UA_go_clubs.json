@@ -18,6 +18,21 @@
     {
       "geometry": {
         "coordinates": [
+          24.034278224, 
+          49.8373122694
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "UA", 
+      "properties": {
+        "description": "https://www.facebook.com/groups/golviv/ , Lviv, 2-4 Shukhevycha st. , on Saturdays from 12 till 16 , Yuri Tarasov , edit: https://goclubdb.herokuapp.com/club/275/", 
+        "name": "Lviv Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           36.257313164557, 
           49.9747141137025
         ], 
