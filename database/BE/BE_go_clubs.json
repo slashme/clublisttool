@@ -3,6 +3,21 @@
     {
       "geometry": {
         "coordinates": [
+          5.096406, 
+          50.489047
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "BE", 
+      "properties": {
+        "description": "Little Delirium Café Andenne\r\n17 place des tilleuls\r\n5300 Andenne , Wednesday 19:00 , club_andenne@gofed.be , edit: https://goclubdb.herokuapp.com/club/276/", 
+        "name": "Andenne"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           4.4305036962, 
           51.2070480768
         ], 
