@@ -324,14 +324,14 @@
     {
       "geometry": {
         "coordinates": [
-          -123.254362076448, 
-          49.2682676505745
+          -123.254362076, 
+          49.2682676506
         ], 
         "type": "Point"
       }, 
       "layer": "CA", 
       "properties": {
-        "description": "https://www.facebook.com/groups/25789055040/ , Room B142, Buchanan Block B, 1866 Main Mall, Vancouver, British Columbia , every Friday from 3-6pm , edit: https://goclubdb.herokuapp.com/club/186/", 
+        "description": "https://www.facebook.com/groups/25789055040/ , Nest Room 2514, 6133 University Blvd, UBC, Vancouver, BC , every Monday from 3-6pm , edit: https://goclubdb.herokuapp.com/club/186/", 
         "name": "University of British Columbia"
       }, 
       "type": "Feature"
