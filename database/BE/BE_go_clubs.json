@@ -194,6 +194,21 @@
         "name": "Phénix GO Club"
       }, 
       "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          3.71042981744, 
+          51.0240376242
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "BE", 
+      "properties": {
+        "description": "UGent, Campus Sterre, S8 , Wednesday noon , Alexander Duytschaever, WE12\r\n(not affiliated to gofed.be) , edit: https://goclubdb.herokuapp.com/club/277/", 
+        "name": "WE12 (dept. of Geography) go/weiqi club"
+      }, 
+      "type": "Feature"
     }
   ], 
   "type": "FeatureCollection"
