@@ -333,6 +333,21 @@
     {
       "geometry": {
         "coordinates": [
+          -73.8849593734, 
+          40.8611666798
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "https://www.facebook.com/groups/1205339352886629/ , 441 E. Fordham Rd.\r\nBronx, NY 10458 , By appointment , message us on facebook , edit: https://goclubdb.herokuapp.com/club/278/", 
+        "name": "Fordham Go"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           -122.279243929, 
           37.8744356685
         ], 
