@@ -378,6 +378,21 @@
     {
       "geometry": {
         "coordinates": [
+          -82.2903442383, 
+          34.820905965
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "https://www.facebook.com/groups/GreenvilleGoClub/ , Panera on Woodruff Rd , 7pm Tuesdays , https://www.facebook.com/groups/GreenvilleGoClub/ , edit: https://goclubdb.herokuapp.com/club/279/", 
+        "name": "Greenville Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           -87.7178800106, 
           41.9214748362
         ], 
@@ -510,6 +525,21 @@
       "properties": {
         "description": "http://www.mayfieldgoclub.com/ , Antonio's Nut House, 321 S. California Avenue, Palo Alto, CA , Wednesdays: 8:30 pm onward , http://mayfieldgoclub.com/contact/ , edit: https://goclubdb.herokuapp.com/club/88/", 
         "name": "Mayfield Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -81.1172103882, 
+          34.0436409595
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "https://www.facebook.com/groups/104251659909222/ , Firefly Toys & Games , Fridays between 3-6pm, check Facebook , https://www.facebook.com/groups/104251659909222/ , edit: https://goclubdb.herokuapp.com/club/280/", 
+        "name": "Midlands Go Club"
       }, 
       "type": "Feature"
     }, 
