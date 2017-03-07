@@ -33,6 +33,21 @@
     {
       "geometry": {
         "coordinates": [
+          -71.8904703855514, 
+          45.4018474752126
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "CA", 
+      "properties": {
+        "description": "https://www.facebook.com/groups/1639520386328504 , At the \"L'oeil de Chat\", you might see it as \"MysTea\" on the map. , Every tuesday from 19h to 22~23h , You can contact us on the facebook group if you want to play any other time. There are players from all ranks, from absolute beginners(30k) to rather strong players (5D) , edit: https://goclubdb.herokuapp.com/club/281/", 
+        "name": "Club de Go de Sherbrooke"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           -72.5425530386, 
           46.3419043489
         ], 
