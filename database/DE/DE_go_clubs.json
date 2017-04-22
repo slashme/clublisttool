@@ -1537,7 +1537,7 @@
       }, 
       "layer": "DE", 
       "properties": {
-        "description": "http://www.mannheimer-aji.de/ , Gaststätte \"Tomate\", B6, 12 , Mo ab 19.00 , Matthias Armbruster, 0176-20164702 , edit: https://goclubdb.herokuapp.com/club/1220/", 
+        "description": "http://www.mannheimer-aji.de/ , Gaststätte \"Tomate\", B6, 12 , Mo ab 19.00 , edit: https://goclubdb.herokuapp.com/club/1220/", 
         "name": "Mannheim"
       }, 
       "type": "Feature"
