@@ -18,6 +18,21 @@
     {
       "geometry": {
         "coordinates": [
+          37.9184532166, 
+          55.6844801712
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "RU", 
+      "properties": {
+        "description": "1-я Вольская, 5. 1-я Вольская,9к3 , Monday, Tuesday, Wednesday, Thursday\r\nfrom 13:30 - 18:00. Пн-Чт. , +79169780351 Юрий Григорьевич Тищенко , edit: https://goclubdb.herokuapp.com/club/282/", 
+        "name": "Strategic game Go"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           39.0684556961, 
           45.0243115559
         ], 
@@ -70,7 +85,7 @@
       }, 
       "layer": "RU", 
       "properties": {
-        "description": "Шахматно-Шашечный Центр, Газетная 109 , По субботам в 15.00 , edit: https://goclubdb.herokuapp.com/club/1115/", 
+        "description": "https://vk.com/vostok_goban , Шахматно-Шашечный Центр, Газетная 109. , По субботам в 15.00. , edit: https://goclubdb.herokuapp.com/club/1098/", 
         "name": "Восточная беседа - суббота"
       }, 
       "type": "Feature"
@@ -85,7 +100,7 @@
       }, 
       "layer": "RU", 
       "properties": {
-        "description": "https://vk.com/vostok_goban , Шахматно-Шашечный Центр, Газетная 109. , По субботам в 15.00. , edit: https://goclubdb.herokuapp.com/club/1098/", 
+        "description": "Шахматно-Шашечный Центр, Газетная 109 , По субботам в 15.00 , edit: https://goclubdb.herokuapp.com/club/1115/", 
         "name": "Восточная беседа - суббота"
       }, 
       "type": "Feature"
@@ -339,6 +354,21 @@
     {
       "geometry": {
         "coordinates": [
+          32.0479680597791, 
+          54.7843485623423
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "RU", 
+      "properties": {
+        "description": "https://vk.com/klubgosmolensk , г.Смоленск, ул. Пржевальского д. 2 под. 4 (вход в подвал), чайный клуб \"Вечная весна\" , Еженедельно , +7(910) 723-13-18 \r\nfotosmolensk@mail.ru , edit: https://goclubdb.herokuapp.com/club/284/", 
+        "name": "Клуб любителей игры Го \"Крепость\""
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           30.2986112237, 
           59.9501579078
         ], 
@@ -348,6 +378,21 @@
       "properties": {
         "description": "в \"Корейском центре\" , вторники с 19.00 до 21.30 - воскресенья с 16.00 до 21.30 , Саша Ким http://vk.com/id16793582 - телефон 89218682591 , edit: https://goclubdb.herokuapp.com/club/1361/", 
         "name": "Клуб НАН"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          38.7478888035, 
+          55.0633569745
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "RU", 
+      "properties": {
+        "description": "https://vk.com/clubgokolomna , МЦ \"Русь\" по адресу: г. Коломна, ул. Астахова, д.23 , КАЖДУЮ СРЕДУ с 17:00 до 19.00 , (496) 610-03-77\r\n(496) 618-04-28 , edit: https://goclubdb.herokuapp.com/club/283/", 
+        "name": "Клуб стратегической игры Го (г. Коломна)"
       }, 
       "type": "Feature"
     }, 
