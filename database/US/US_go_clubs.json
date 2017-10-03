@@ -78,14 +78,14 @@
     {
       "geometry": {
         "coordinates": [
-          -84.398356, 
-          33.773964
+          -84.347058, 
+          33.930868
         ], 
         "type": "Point"
       }, 
       "layer": "US", 
       "properties": {
-        "description": "http://atlantagoclub.org/ , 350 Ferst Drive, NW\r\nAtlanta, GA 30332-0458 , Tuesday 7-10 pm , kerlagon@bellsouth.net , edit: https://goclubdb.herokuapp.com/club/235/", 
+        "description": "http://atlantagoclub.org/ , 1030 Crown Pointe Pkwy, Atlanta , Tuesday 7-10 pm , kerlagon@bellsouth.net , edit: https://goclubdb.herokuapp.com/club/235/", 
         "name": "Atlanta Go Club"
       }, 
       "type": "Feature"
