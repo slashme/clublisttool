@@ -17,6 +17,42 @@
         "name": "Brunei Darussalam Go Association"
       }, 
       "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          114.927332103696, 
+          4.90010320535797
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "BN", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "Kiulap, Hokkien Association , Every Friday 7.30pm - 9.00pm , edit: https://goclubdb.herokuapp.com/club/285/", 
+        "name": "Hokkien Association Go Class"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          114.919846057909, 
+          4.89605182570544
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "BN", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "World Vision tuition School, Kiarong, Same Block as Hokko , Friday 5:00pm - 6.30pm\r\nSunday 5:00pm - 6.30pm\r\nMonday 7.30pm - 9.30pm , edit: https://goclubdb.herokuapp.com/club/286/", 
+        "name": "World Vision Tuition School Go Class"
+      }, 
+      "type": "Feature"
     }
   ], 
   "type": "FeatureCollection"

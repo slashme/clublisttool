@@ -3,29 +3,14 @@
     {
       "geometry": {
         "coordinates": [
-          151.6526044, 
-          -30.5096451
+          153.0326894, 
+          -27.510319
         ], 
         "type": "Point"
       }, 
       "layer": "AU", 
       "properties": {
-        "description": "https://groups.google.com/forum/?fromgroups#!forum/armidalegoclub , 91 Beardy Street, Armidale, New South Wales , Wednesday evenings from 6pm till late , Alan Joynt (0422 536 533, adjoynt@gmail.com) or Geert Geesink (0439 423 873)\r\nhttp://australiango.asn.au/armidalegoclub@googlegroups.com , edit: https://goclubdb.herokuapp.com/club/36/", 
-        "name": "Armidale Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          153.0462092, 
-          -27.5079546
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "AU", 
-      "properties": {
-        "description": "http://brisbane.go.org.au/ , Stones Corner Plaza, Greenslopes, Brisbane , Tuesday evening 18:00 to 22:00 , https://www.facebook.com/groups/brisbane.go.players , edit: https://goclubdb.herokuapp.com/club/28/", 
+        "description": "http://brisbane.go.org.au/ , 478 Ipswich Road, Annerley, Queensland, Australia , Tuesday evening 18:00 to 22:30 , secretary@brisbane.go.org.au , edit: https://goclubdb.herokuapp.com/club/28/", 
         "name": "Brisbane Go Club"
       }, 
       "type": "Feature"
@@ -48,14 +33,14 @@
     {
       "geometry": {
         "coordinates": [
-          153.343018122, 
-          -27.9331081
+          153.34812504797, 
+          -27.8783063254446
         ], 
         "type": "Point"
       }, 
       "layer": "AU", 
       "properties": {
-        "description": "http://goldcoast.go.org.au/ , Gold Coast Country Club, Helensvale , last Sunday of each month from 1pm , Yoko Usami, goldcoast@go.org.au\r\nMailing list: gold-coast-players@go.org.au, members only posting, contact Yoko to be added to the list , edit: https://goclubdb.herokuapp.com/club/29/", 
+        "description": "http://goldcoast.go.org.au/ , Links Hope Island Golf Club, Hope Island Road, Hope Island, Queensland , last Sunday of each month from 1pm , goldcoast@go.org.au , edit: https://goclubdb.herokuapp.com/club/29/", 
         "name": "Gold Coast Go Club"
       }, 
       "type": "Feature"
@@ -118,7 +103,7 @@
       }, 
       "layer": "AU", 
       "properties": {
-        "description": "http://sydney.go.org.au/ , Philas House, 17 Brisbane Street, Surry Hills , Friday nights 5pm to 10pm , David Mitchell; email daviidgmitchell@outlook.com , edit: https://goclubdb.herokuapp.com/club/34/", 
+        "description": "http://sydneygo.club , Philas House, 17 Brisbane Street, Surry Hills , Friday nights 5pm to 10pm , David Mitchell; email david@1wilshire2230.net.au , edit: https://goclubdb.herokuapp.com/club/34/", 
         "name": "Sydney Go Club"
       }, 
       "type": "Feature"
@@ -133,7 +118,7 @@
       }, 
       "layer": "AU", 
       "properties": {
-        "description": "http://www.sydneygoclub.org , 1st Floor, Philas House, 17 Brisbane Street, Surry Hills , Every Friday from 5:00pm , secretary@sydney.baduk.org.au , edit: https://goclubdb.herokuapp.com/club/27/", 
+        "description": "http://www.sydneygo.club , 1st Floor, Philas House, 17 Brisbane Street, Surry Hills , Every Friday from 5:00pm , secretary@sydney.baduk.org.au , edit: https://goclubdb.herokuapp.com/club/27/", 
         "name": "Sydney Go Club"
       }, 
       "type": "Feature"

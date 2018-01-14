@@ -123,6 +123,21 @@
     {
       "geometry": {
         "coordinates": [
+          -116.270391941065, 
+          43.5899924612646
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "https://www.meetup.com/en-AU/Boise-Go-Club/ , All About Games\r\n7079 W Overland\r\nBoise, ID , Mondays and Thursdays (6pm - 10pm) , edit: https://goclubdb.herokuapp.com/club/287/", 
+        "name": "Boise Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           -118.60247612, 
           34.1907720188
         ], 
@@ -295,7 +310,7 @@
       }, 
       "layer": "US", 
       "properties": {
-        "description": "https://groups.google.com/forum/#!forum/eugene-go-club , Funagain Games\r\n1280 Willamette St.\r\nEugene, OR\r\n97401 , Wednesdays 6 PM , edit: https://goclubdb.herokuapp.com/club/248/", 
+        "description": "https://groups.google.com/forum/#!forum/eugene-go-club , Funagain Games\r\n1280 Willamette St.\r\nEugene, OR\r\n97401 , Sunday at 12 pm (noon) , https://www.facebook.com/groups/EugeneGoClub/ , edit: https://goclubdb.herokuapp.com/club/248/", 
         "name": "Eugene Go Club"
       }, 
       "type": "Feature"

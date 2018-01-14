@@ -3,14 +3,14 @@
     {
       "geometry": {
         "coordinates": [
-          24.938833, 
-          60.199594
+          24.9379, 
+          60.176
         ], 
         "type": "Point"
       }, 
       "layer": "FI", 
       "properties": {
-        "description": "http://www.suomigo.net/wiki/HelsinginGoKerho , Game shop Poromagia, Opastinsilta 7B, 00520 Helsinki , Tiistai klo 17:00-20:00\r\nTuesday 17:00-20:00 , edit: https://goclubdb.herokuapp.com/club/63/", 
+        "description": "http://www.suomigo.net/wiki/HelsinginGoKerho , Sunny Bay Restaurant, Alvar Aallon katu 3, 00100 Helsinki , Tiistai klo 17:00-21:00\r\nTuesday 17:00-21:00 , edit: https://goclubdb.herokuapp.com/club/63/", 
         "name": "Helsingin go-kerho"
       }, 
       "type": "Feature"
