@@ -1107,14 +1107,14 @@
     {
       "geometry": {
         "coordinates": [
-          8.41735, 
-          49.01134
+          8.41417, 
+          49.00856
         ], 
         "type": "Point"
       }, 
       "layer": "DE", 
       "properties": {
-        "description": "http://www.karlsgo.de/aka , Studentenhaus, Adenauerring 7 - im Foyer , Donnerstag, ab 18 Uhr , siehe Homepage , edit: https://goclubdb.herokuapp.com/club/216/", 
+        "description": "http://www.karlsgo.de/aka , Studentenzentrum Z10 im 2. OG (ggf. klingeln) , Donnerstag, 18-22 Uhr , siehe Homepage , edit: https://goclubdb.herokuapp.com/club/216/", 
         "name": "Karlsruhe-AkaGo"
       }, 
       "type": "Feature"
@@ -2016,14 +2016,14 @@
     {
       "geometry": {
         "coordinates": [
-          9.14141893387, 
-          47.7704476106
+          9.1567864, 
+          47.7667731
         ], 
         "type": "Point"
       }, 
       "layer": "DE", 
       "properties": {
-        "description": "http://www.knallaktiv.de , Obere Bahnhofstraße 18, an jedem Montag, der der Monatsmitte am nächsten ist (14.11., 12.12. usw.). Sonst im \"Kauf by Naturata\", Marktstr. 1, am Landungsplatz , Montag 17-18 Uhr , Rainer Rosenthal, Goldbacher Straße 19, 88662 Überlingen. Tel. 07551-66626, eMail r.rosenthal@web.de , edit: https://goclubdb.herokuapp.com/club/7/", 
+        "description": "http://www.rwro.de , \"Kauf by Naturata\", Marktstr. 1 (am Landungsplatz).\r\nAusnahme am 3. Montag im Monat: ab 17:30 Uhr im Felsenkeller neben dem GpZ, Obere Bahnhofstraße 18 , Montag 17-18 Uhr , Rainer Rosenthal, Goldbacher Straße 19, 88662 Überlingen. Tel. 07551-66626, eMail r.rosenthal@web.de , edit: https://goclubdb.herokuapp.com/club/7/", 
         "name": "Überlingen"
       }, 
       "type": "Feature"
