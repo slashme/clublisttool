@@ -1,0 +1,128 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          174.7496349, 
+          -36.875734
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "NZ", 
+      "properties": {
+        "description": "http://go.org.nz/Joomla/index.php/clubs/auckland/auckland-go-club , Auckland Chess Centre, 17 Cromwell Street, Mt Eden , 7:30 Wednesdays , Colin Grierson - phone (09) 532-9996 (home) or (09) 525-7353 (work)\r\nMichael Taler - phone (09) 620-9872 (home) , edit: https://goclubdb.herokuapp.com/club/288/", 
+        "name": "Auckland Go club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          174.770293203951, 
+          -36.85146915
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "NZ", 
+      "properties": {
+        "description": "http://go.org.nz/Joomla/index.php/clubs/auckland/auckland-university-go-club , the old choral hall at the university , Monday nights starting from 6:30pm.\r\nThe club meets during semesters but not during university holidays. , Kevin can be contacted on 0220793022 if you have more questions. , edit: https://goclubdb.herokuapp.com/club/289/", 
+        "name": "Auckland University Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          172.582840941186, 
+          -43.5237688540896
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "NZ", 
+      "properties": {
+        "description": "https://www.facebook.com/University-of-Canterbury-Go-Club-645786908942008/ , University of Canterbury library (but check website) , Monday nights at 7:30 pm (but check website) , Alan Guerin 022 412 1504 unigoclub@gmail.com , edit: https://goclubdb.herokuapp.com/club/295/", 
+        "name": "Canterbury University Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          174.7421558, 
+          -36.7852914
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "NZ", 
+      "properties": {
+        "description": "http://go.org.nz/Joomla/index.php/clubs/auckland/northshore-go-club , Korean Community Building at 5 Argus Place, Hillcrest , Saturdays from 12:30 until 15:30 , edit: https://goclubdb.herokuapp.com/club/290/", 
+        "name": "Northshore Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          170.5139798, 
+          -45.863304
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "NZ", 
+      "properties": {
+        "description": "https://www.facebook.com/groups/136751506514699/about/ , Various meeting places; see Facebook page. , Various meeting times; see Facebook page. , edit: https://goclubdb.herokuapp.com/club/293/", 
+        "name": "Otago University Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          175.6097407, 
+          -40.3552231
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "NZ", 
+      "properties": {
+        "description": "https://www.meetup.com/palmygo/events/past/ , 151 The Square, Palmerston North , Usually Wednesday nights, but irregular - see website. , edit: https://goclubdb.herokuapp.com/club/294/", 
+        "name": "Palmerston North Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          174.7433437, 
+          -36.8819651
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "NZ", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "http://go.org.nz/Joomla/index.php/clubs/auckland/tony-li-s-house , 37A Parrish Rd, Sandringham, Auckland , Every day except Tuesday , tonykaixuanli@163.com , edit: https://goclubdb.herokuapp.com/club/291/", 
+        "name": "Tony Li's house"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          174.768263002281, 
+          -41.2901145
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "NZ", 
+      "properties": {
+        "description": "http://wellington.go.org.nz/ , Victoria University of Wellington, Room 350 in the Cotton Building , Tuesdays from 5:30pm till late , fergusroachenz@gmail.com , edit: https://goclubdb.herokuapp.com/club/292/", 
+        "name": "Wellington Go Club"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "type": "FeatureCollection"
+}
