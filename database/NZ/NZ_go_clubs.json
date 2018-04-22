@@ -33,14 +33,14 @@
     {
       "geometry": {
         "coordinates": [
-          172.582840941186, 
-          -43.5237688540896
+          172.582840941, 
+          -43.5237688541
         ], 
         "type": "Point"
       }, 
       "layer": "NZ", 
       "properties": {
-        "description": "https://www.facebook.com/University-of-Canterbury-Go-Club-645786908942008/ , University of Canterbury library (but check website) , Monday nights at 7:30 pm (but check website) , Alan Guerin 022 412 1504 unigoclub@gmail.com , edit: https://goclubdb.herokuapp.com/club/295/", 
+        "description": "https://www.facebook.com/University-of-Canterbury-Go-Club-645786908942008/ , Main library of the Canterbury University, Christchurch (but check website) , Wednesday nights at 7:30 pm (but check website) , Alan Guerin 022 412 1504 unigoclub@gmail.com , edit: https://goclubdb.herokuapp.com/club/295/", 
         "name": "Canterbury University Go Club"
       }, 
       "type": "Feature"
