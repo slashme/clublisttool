@@ -3,6 +3,21 @@
     {
       "geometry": {
         "coordinates": [
+          151.207206398066, 
+          -33.8818034236674
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "AU", 
+      "properties": {
+        "description": "http://club.artofgo.org/ , Facebook , Mon - Sun connect via Facebook and website , David Mitchell - 0413 080 900 , edit: https://goclubdb.herokuapp.com/club/296/", 
+        "name": "Austrlaian Online Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           153.0326894, 
           -27.510319
         ], 
