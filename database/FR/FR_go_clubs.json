@@ -66,14 +66,14 @@
     {
       "geometry": {
         "coordinates": [
-          2.28965699672713, 
-          48.932857012584
+          2.28965699673, 
+          48.9328570126
         ], 
         "type": "Point"
       }, 
       "layer": "FR", 
       "properties": {
-        "description": "https://www.facebook.com/Club2GoArgo , Espace Aimé Césaire\r\n6 avenue du Luth\r\n92230 Gennevilliers\r\nFRANCE , Le 1er et le 3ème samedi de chaque mois de 14h30 à 17h30 , edit: https://goclubdb.herokuapp.com/club/224/", 
+        "description": "http://www.facebook.com/Club2GoArgo , Espace Aimé Césaire\r\n6 avenue du Luth\r\n92230 Gennevilliers\r\nFRANCE , Le 1er et le 3ème samedi de chaque mois de 14h à 17h45. , edit: https://goclubdb.herokuapp.com/club/224/", 
         "name": "ARGO"
       }, 
       "type": "Feature"
@@ -816,14 +816,14 @@
     {
       "geometry": {
         "coordinates": [
-          2.29383325669, 
-          48.8959447837
+          2.29385829099539, 
+          48.8959654731045
         ], 
         "type": "Point"
       }, 
       "layer": "FR", 
       "properties": {
-        "description": "http://levallois.jeudego.org/ , Maison des Associations\r\nSalle Frédéric Ozanam\r\n34 rue Pierre Brossolette\r\n92300 Levallois-Perret , Samedi de 14h à 17h.\r\nJeudi à partir de 20h30 (pour savoir si le club est ouvert un jeudi, contacter Rémy NOËL). , https://www.facebook.com/groups/go.levallois/ , edit: https://goclubdb.herokuapp.com/club/893/", 
+        "description": "http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=275 , Maison des Associations\r\nSalle Frédéric Ozanam\r\n34 rue Pierre Brossolette\r\n92300 Levallois-Perret , Samedi de 14h à 17h. , http://www.facebook.com/go.levallois/ , edit: https://goclubdb.herokuapp.com/club/893/", 
         "name": "Levallois-Perret"
       }, 
       "type": "Feature"

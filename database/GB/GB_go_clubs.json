@@ -204,21 +204,6 @@
     {
       "geometry": {
         "coordinates": [
-          -0.1318, 
-          50.8406
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3155 , Druid Arms, 79-81 Ditchling Rd , Wednesday 20:00 , Felix Shardlow tel: 07940 973406John Allen aka \"Yogi\" Tel: 01273 383254 or 07854 218920Jil Segerman Tel: 07920 865065 or 01273 470346 , edit: https://goclubdb.herokuapp.com/club/1276/", 
-        "name": "Brighton"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           -0.1264609, 
           50.8272903
         ], 
@@ -227,6 +212,21 @@
       "layer": "GB", 
       "properties": {
         "description": "http://www.britgo.org/club/brighton , BN2 9UF The Southover Pub, Southover St , Monday 20:00 , Felix Shardlow 07940 973406 https://www.facebook.com/groups/brightongoclub/ , edit: https://goclubdb.herokuapp.com/club/1277/", 
+        "name": "Brighton"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1318, 
+          50.8406
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "GB", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3155 , Druid Arms, 79-81 Ditchling Rd , Wednesday 20:00 , Felix Shardlow tel: 07940 973406John Allen aka \"Yogi\" Tel: 01273 383254 or 07854 218920Jil Segerman Tel: 07920 865065 or 01273 470346 , edit: https://goclubdb.herokuapp.com/club/1276/", 
         "name": "Brighton"
       }, 
       "type": "Feature"
@@ -333,6 +333,21 @@
       "properties": {
         "description": "http://www.britgo.org/node/3164 , Cafe area of Chapter Arts Centre, Market Road, Cardiff , Tuesday 19:00-23:30 , Dylan Carter , edit: https://goclubdb.herokuapp.com/club/1284/", 
         "name": "Cardiff"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1100581, 
+          51.5178439
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "GB", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3198 , The Inn of Court pub, 18 Holborn , Saturday 14:00-20:00\r\nMonday 18:00-23:00 , Jonathan Turner Tel: 07968 538881 (mobile).\r\nrichard.mullens@gmail.com; Kiyohiko Tanaka Tel: 07956 594040 KGS: matta , edit: https://goclubdb.herokuapp.com/club/1310/", 
+        "name": "Central London Go Club, London City Go Club"
       }, 
       "type": "Feature"
     }, 
@@ -630,21 +645,6 @@
     {
       "geometry": {
         "coordinates": [
-          -0.1100581, 
-          51.5178439
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3198 , The Inn of Court pub, 18 Holborn , Saturday 12:00-20:00\r\nFriday 18:00-23:00 , Jonathan Turner Tel: 07968 538881 (mobile).\r\nRichard Mullens; Kiyohiko Tanaka Tel: 07956 594040 KGS: matta , edit: https://goclubdb.herokuapp.com/club/1310/", 
-        "name": "London, Central"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           0.0282214, 
           51.5760603
         ], 
@@ -735,21 +735,6 @@
     {
       "geometry": {
         "coordinates": [
-          -5.218773, 
-          50.198643
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3211 , Penhalurick Barton, Penhalvean, Redruth, Cornwall , Tuesday 20:00 , Paul Massey Tel: 07966 474686 , edit: https://goclubdb.herokuapp.com/club/1318/", 
-        "name": "Mid-Cornwall"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           -5.247745, 
           50.228835
         ], 
@@ -765,15 +750,15 @@
     {
       "geometry": {
         "coordinates": [
-          -0.7692317, 
-          52.0384223
+          -5.218773, 
+          50.198643
         ], 
         "type": "Point"
       }, 
       "layer": "GB", 
       "properties": {
-        "description": "http://www.britgo.org/node/3214 , Wetherspoons, 201 Midsummer Boulevard , Tuesday 18:15 , Tim Hunt Tel: 07850 119939 , edit: https://goclubdb.herokuapp.com/club/1321/", 
-        "name": "Milton Keynes"
+        "description": "http://www.britgo.org/node/3211 , Penhalurick Barton, Penhalvean, Redruth, Cornwall , Tuesday 20:00 , Paul Massey Tel: 07966 474686 , edit: https://goclubdb.herokuapp.com/club/1318/", 
+        "name": "Mid-Cornwall"
       }, 
       "type": "Feature"
     }, 
@@ -788,6 +773,21 @@
       "layer": "GB", 
       "properties": {
         "description": "http://www.britgo.org/node/3213 , The coffee bar in the Catering Hub, The Open University, Walton Hall , Tuesday 12:15-13:15 , Tim Hunt Tel: 07850 119939 , edit: https://goclubdb.herokuapp.com/club/1320/", 
+        "name": "Milton Keynes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -0.7692317, 
+          52.0384223
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "GB", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3214 , Wetherspoons, 201 Midsummer Boulevard , Tuesday 18:15 , Tim Hunt Tel: 07850 119939 , edit: https://goclubdb.herokuapp.com/club/1321/", 
         "name": "Milton Keynes"
       }, 
       "type": "Feature"
@@ -990,21 +990,6 @@
     {
       "geometry": {
         "coordinates": [
-          -1.78095942978, 
-          51.556550624
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3242 , The Beehive, Prospect Hill , Sunday evening , David King, 21 Windsor Rd, Swindon Tel: 01793 521625 , edit: https://goclubdb.herokuapp.com/club/1336/", 
-        "name": "Swindon"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           -1.83492588, 
           51.55013431
         ], 
@@ -1013,6 +998,21 @@
       "layer": "GB", 
       "properties": {
         "description": "http://www.britgo.org/node/3241 , Windmill Pub, Freshbrook Village Centre, Worsley Road , Wednesday 19:30 , David King, 21 Windsor Rd, Swindon Tel: 01793 521625 , edit: https://goclubdb.herokuapp.com/club/1335/", 
+        "name": "Swindon"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -1.78095942978, 
+          51.556550624
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "GB", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3242 , The Beehive, Prospect Hill , Sunday evening , David King, 21 Windsor Rd, Swindon Tel: 01793 521625 , edit: https://goclubdb.herokuapp.com/club/1336/", 
         "name": "Swindon"
       }, 
       "type": "Feature"
