@@ -486,6 +486,21 @@
     {
       "geometry": {
         "coordinates": [
+          -118.168036043657, 
+          34.0679828280762
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "https://www.facebook.com/groups/weiqi.game/ , CSU-LA, 5155 State University Dr, Los Angeles, CA 90032 or a cafe in East LA. Considering having meetings at ELAC if we have enough interest. , Meetings set up by FaceBook group. , email: sighris@gmail.com , edit: https://goclubdb.herokuapp.com/club/297/", 
+        "name": "Los Angeles east (and CSU-LA) WeiQi Association"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           -94.0079481534, 
           44.1621563596
         ], 
