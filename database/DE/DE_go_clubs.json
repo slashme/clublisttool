@@ -1165,7 +1165,10 @@
       }, 
       "layer": "DE", 
       "properties": {
-        "description": "http://www.karlsgo.de , Denkfabrik im Sportpark\r\nAm Sportpark 5 \r\n76131 Karlsruhe , Dienstag, ab 18:00 Uhr (Essen ab 17:00 Uhr) , Wilhelm Bühler , edit: https://goclubdb.herokuapp.com/club/214/", 
+        "_storage_options": {
+          "iconClass": "Circle"
+        }, 
+        "description": "http://www.karlsgo.de , Denkfabrik im Sportpark\r\nAm Sportpark 5 \r\n76131 Karlsruhe , Winterpause , Wilhelm Bühler , edit: https://goclubdb.herokuapp.com/club/214/", 
         "name": "Karlsruhe-Hagsfeld"
       }, 
       "type": "Feature"
