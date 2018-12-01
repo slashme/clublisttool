@@ -258,6 +258,21 @@
     {
       "geometry": {
         "coordinates": [
+          -122.130801960792, 
+          47.6198279032988
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "“Game Lane” near Uncle’s Games and the giant chess board, \r\n15600 NE 8th St Suite K10 Bellevue , Thursdays, 6:00 – 8:00 pm , edit: https://goclubdb.herokuapp.com/club/298/", 
+        "name": "Crossroads Bellevue Shopping Center Meet-up"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           -96.764634, 
           33.002104
         ], 
