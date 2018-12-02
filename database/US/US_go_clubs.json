@@ -591,14 +591,14 @@
     {
       "geometry": {
         "coordinates": [
-          -86.7799943347822, 
-          36.0423154386782
+          -86.7799943348, 
+          36.0423154387
         ], 
         "type": "Point"
       }, 
       "layer": "US", 
       "properties": {
-        "description": "https://midtngoclub.wordpress.com/ , Fulin’s Asian Cuisine\r\n782 Old Hickory Blvd #115\r\nBrentwood, TN 37027 , Saturdays 12-4 pm\r\nSundays 5-9 pm , edit: https://goclubdb.herokuapp.com/club/301/", 
+        "description": "https://midtngoclub.wordpress.com/ , Fulin’s Asian Cuisine\r\n782 Old Hickory Blvd #115\r\nBrentwood , Saturdays 12-4 pm\r\nSundays 5-9 pm , edit: https://goclubdb.herokuapp.com/club/301/", 
         "name": "Middle TN Go Club"
       }, 
       "type": "Feature"
