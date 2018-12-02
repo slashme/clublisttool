@@ -576,6 +576,21 @@
     {
       "geometry": {
         "coordinates": [
+          -89.9376454, 
+          35.1450509
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "https://www.meetup.com/MemphisGoPlayers/events/past/ , Cheffies Cafe, 483 High Point Terrace, Memphis , Usually Sundays at 1 PM, but check availability on Meetup page. , edit: https://goclubdb.herokuapp.com/club/300/", 
+        "name": "Memphis Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           -81.1172103882, 
           34.0436409595
         ], 
@@ -966,8 +981,8 @@
     {
       "geometry": {
         "coordinates": [
-          -82.3624420166021, 
-          36.3095921540907
+          -82.3624420166, 
+          36.3095921541
         ], 
         "type": "Point"
       }, 
