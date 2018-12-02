@@ -966,6 +966,24 @@
     {
       "geometry": {
         "coordinates": [
+          -82.3624420166021, 
+          36.3095921540907
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        }, 
+        "description": "where ever , various , tgenade@gmail.com , edit: https://goclubdb.herokuapp.com/club/299/", 
+        "name": "Tyrone's Go Board"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           -76.9435849590884, 
           38.9869749203522
         ], 
