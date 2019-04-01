@@ -249,14 +249,14 @@
     {
       "geometry": {
         "coordinates": [
-          0.138665954407, 
-          52.1973774019
+          0.139040991401667, 
+          52.1989164398522
         ], 
         "type": "Point"
       }, 
       "layer": "GB", 
       "properties": {
-        "description": "http://www.britgo.org/node/3158 , Angus Close, Cambridge , Sunday 17:30-20:00 , Simon Mader , edit: https://goclubdb.herokuapp.com/club/1279/", 
+        "description": "http://www.britgo.org/node/3158 , Devonshire Arms, Devonshire Road, Cambridge , Sunday 18:00-23:00 , Simon Mader , edit: https://goclubdb.herokuapp.com/club/1279/", 
         "name": "Cambridge City"
       }, 
       "type": "Feature"
@@ -414,21 +414,6 @@
     {
       "geometry": {
         "coordinates": [
-          -1.579723, 
-          54.7600027
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3171 , The Bar, Ustinov College, Howlands Farm , Monday 20:00-22:00 during term time , Andrew Ambrose-Thurman , edit: https://goclubdb.herokuapp.com/club/1292/", 
-        "name": "Durham"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           -1.5845046092, 
           54.7754614304
         ], 
@@ -437,6 +422,21 @@
       "layer": "GB", 
       "properties": {
         "description": "http://www.britgo.org/node/3172 , The Elm Tree pub, Crossgate , Thursday 20:00-22:00 during term-time , Andrew Ambrose-Thurman , edit: https://goclubdb.herokuapp.com/club/1293/", 
+        "name": "Durham"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -1.579723, 
+          54.7600027
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "GB", 
+      "properties": {
+        "description": "http://www.britgo.org/node/3171 , The Bar, Ustinov College, Howlands Farm , Monday 20:00-22:00 during term time , Andrew Ambrose-Thurman , edit: https://goclubdb.herokuapp.com/club/1292/", 
         "name": "Durham"
       }, 
       "type": "Feature"
