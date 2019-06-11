@@ -237,14 +237,14 @@
     {
       "geometry": {
         "coordinates": [
-          12.50739, 
-          41.88102
+          12.5124540106202, 
+          41.911472467355
         ], 
         "type": "Point"
       }, 
       "layer": "IT", 
       "properties": {
-        "description": "Via Cereate, 8 presso la ludoteca \"La Civetta\" , Martedì e Giovedì dalle 19:30 in poi , GCR goclubromafujisawashuko@gmail.com?subject=[GO]%20richiesta%20informazioni , edit: https://goclubdb.herokuapp.com/club/1041/", 
+        "description": "http://www.goclubdiroma.it , Via Siracusa, 2 presso il circollo \"Nuovo Bridge Insieme\" , Martedì dalle 19:30 in poi , GCR goclubromafujisawashuko@gmail.com?subject=[GO]%20richiesta%20informazioni , edit: https://goclubdb.herokuapp.com/club/1041/", 
         "name": "\"Fujisawa Shuko\""
       }, 
       "type": "Feature"
