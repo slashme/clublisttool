@@ -408,6 +408,21 @@
     {
       "geometry": {
         "coordinates": [
+          -118.096160888668, 
+          45.3292831998353
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "Le Bebe Cakes\r\n1103 Washington Avenue , Wednesday 5:00pm - 8:00pm , edit: https://goclubdb.herokuapp.com/club/303/", 
+        "name": "Grande Ronde Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           -82.2903442383, 
           34.820905965
         ], 
