@@ -573,21 +573,6 @@
     {
       "geometry": {
         "coordinates": [
-          12.05148, 
-          44.03688
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "IT", 
-      "properties": {
-        "description": "Leonardo Dal Zovo Cell: 338 4382995 , edit: https://goclubdb.herokuapp.com/club/1025/", 
-        "name": "GoRomagna"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           11.87633, 
           44.28595
         ], 
@@ -596,6 +581,21 @@
       "layer": "IT", 
       "properties": {
         "description": "Via Salita, 2 presso il \"Circolo dei Franchi Bevitori\" , Mercoledì dalle 21:00 , Stefano Giurin Cell: 392 9260834 Kgs: wildpizza , edit: https://goclubdb.herokuapp.com/club/1022/", 
+        "name": "GoRomagna"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          12.05148, 
+          44.03688
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "IT", 
+      "properties": {
+        "description": "Leonardo Dal Zovo Cell: 338 4382995 , edit: https://goclubdb.herokuapp.com/club/1025/", 
         "name": "GoRomagna"
       }, 
       "type": "Feature"

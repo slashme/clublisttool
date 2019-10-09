@@ -186,21 +186,6 @@
     {
       "geometry": {
         "coordinates": [
-          4.5328337, 
-          46.5261652
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "FR", 
-      "properties": {
-        "description": "http://www.kitani.org , Le bistroquet 173, Cours de L'yser , Le mardi soir à partir de 20H00 , edit: https://goclubdb.herokuapp.com/club/927/", 
-        "name": "Club de Bordeaux"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           -0.572719818941, 
           44.8241209853
         ], 
@@ -224,6 +209,21 @@
       "layer": "FR", 
       "properties": {
         "description": "http://www.kitani.org , Café jeux Jeux Barjo 12 rue Saint-James, 33000 Bordeaux , Le Samedi à 14h30 , edit: https://goclubdb.herokuapp.com/club/926/", 
+        "name": "Club de Bordeaux"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.5328337, 
+          46.5261652
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "FR", 
+      "properties": {
+        "description": "http://www.kitani.org , Le bistroquet 173, Cours de L'yser , Le mardi soir à partir de 20H00 , edit: https://goclubdb.herokuapp.com/club/927/", 
         "name": "Club de Bordeaux"
       }, 
       "type": "Feature"
@@ -396,21 +396,6 @@
     {
       "geometry": {
         "coordinates": [
-          -3.3835195, 
-          47.7603015
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "FR", 
-      "properties": {
-        "description": "http://www.pubgalway-lorient.com/accueil.htm , Galway Inn 18 rue de Belgique, 56100 Lorient , Le mardi à partir de 20h , edit: https://goclubdb.herokuapp.com/club/908/", 
-        "name": "Club de Lorient"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           -3.3586441, 
           47.7512076
         ], 
@@ -419,6 +404,21 @@
       "layer": "FR", 
       "properties": {
         "description": "http://goanoriant.org/ , Cité Allende 12 rue Colbert, 56100 Lorient , Le samedi de 14h à 18h , edit: https://goclubdb.herokuapp.com/club/907/", 
+        "name": "Club de Lorient"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -3.3835195, 
+          47.7603015
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "FR", 
+      "properties": {
+        "description": "http://www.pubgalway-lorient.com/accueil.htm , Galway Inn 18 rue de Belgique, 56100 Lorient , Le mardi à partir de 20h , edit: https://goclubdb.herokuapp.com/club/908/", 
         "name": "Club de Lorient"
       }, 
       "type": "Feature"
@@ -831,29 +831,14 @@
     {
       "geometry": {
         "coordinates": [
-          4.84443302936, 
-          45.7525022569
+          4.8473375, 
+          45.7570833
         ], 
         "type": "Point"
       }, 
       "layer": "FR", 
       "properties": {
-        "description": "http://lyon-shinogi.jeudego.org/ , Trollune 25 rue Sébastien Gryphe, 69007 LYON , Mardi 18:30 - 23:00 , edit: https://goclubdb.herokuapp.com/club/879/", 
-        "name": "Lyon Shinogi"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          4.8364512, 
-          45.7657527
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "FR", 
-      "properties": {
-        "description": "http://lyon-shinogi.jeudego.org/ , Restaurant Hua Yuan Xuan 20 rue Mulet, Lyon , 1er Lundi 19h - 22h30 , edit: https://goclubdb.herokuapp.com/club/878/", 
+        "description": "http://lyon-shinogi.jeudego.org/ , Salle associative 233 rue Vendôme Lyon 3e , Samedi 14h - 19h , edit: https://goclubdb.herokuapp.com/club/881/", 
         "name": "Lyon Shinogi"
       }, 
       "type": "Feature"
@@ -876,14 +861,29 @@
     {
       "geometry": {
         "coordinates": [
-          4.8473375, 
-          45.7570833
+          4.8364512, 
+          45.7657527
         ], 
         "type": "Point"
       }, 
       "layer": "FR", 
       "properties": {
-        "description": "http://lyon-shinogi.jeudego.org/ , Salle associative 233 rue Vendôme Lyon 3e , Samedi 14h - 19h , edit: https://goclubdb.herokuapp.com/club/881/", 
+        "description": "http://lyon-shinogi.jeudego.org/ , Restaurant Hua Yuan Xuan 20 rue Mulet, Lyon , 1er Lundi 19h - 22h30 , edit: https://goclubdb.herokuapp.com/club/878/", 
+        "name": "Lyon Shinogi"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.84443302936, 
+          45.7525022569
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "FR", 
+      "properties": {
+        "description": "http://lyon-shinogi.jeudego.org/ , Trollune 25 rue Sébastien Gryphe, 69007 LYON , Mardi 18:30 - 23:00 , edit: https://goclubdb.herokuapp.com/club/879/", 
         "name": "Lyon Shinogi"
       }, 
       "type": "Feature"
@@ -1119,29 +1119,14 @@
     {
       "geometry": {
         "coordinates": [
-          1.5013216, 
-          43.6041831
+          1.34, 
+          43.4411
         ], 
         "type": "Point"
       }, 
       "layer": "FR", 
       "properties": {
-        "description": "http://toulouse.jeudego.org/ , Ecole de GO 63 Rue Antoine de Saint-Exupéry, Toulouse , Les vendredi soir de 18h à 20h , edit: https://goclubdb.herokuapp.com/club/938/", 
-        "name": "Toulouse - Club Go Seigen"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          1.4370899, 
-          43.610843
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "FR", 
-      "properties": {
-        "description": "http://toulouse.jeudego.org/ , Le Cactus 13 boulevard Lascrosses, 31000 Toulouse , Le Mercredi soir de 19h à 23h , edit: https://goclubdb.herokuapp.com/club/932/", 
+        "description": "http://toulouse.jeudego.org/ , Section Muret Restaurant L’Arche 21 route d’Eaunes, 31600 MURET , Le lundi après-midi Le samedi après-midi Horaires d’hiver : Du lundi au mercredi : de 9h00 à 19h00 sans interruption Du jeudi au samedi : de 9h00 à 23h00 sans interruption , edit: https://goclubdb.herokuapp.com/club/930/", 
         "name": "Toulouse - Club Go Seigen"
       }, 
       "type": "Feature"
@@ -1179,21 +1164,6 @@
     {
       "geometry": {
         "coordinates": [
-          1.36200135474, 
-          43.60290985
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "FR", 
-      "properties": {
-        "description": "http://toulouse.jeudego.org/ , C.E. C.S. Europarc à St martin du touch , tous les jeudi de 12h15 à 14h , edit: https://goclubdb.herokuapp.com/club/937/", 
-        "name": "Toulouse - Club Go Seigen"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           1.4940079, 
           43.5811093
         ], 
@@ -1209,14 +1179,44 @@
     {
       "geometry": {
         "coordinates": [
-          1.34, 
-          43.4411
+          1.4370899, 
+          43.610843
         ], 
         "type": "Point"
       }, 
       "layer": "FR", 
       "properties": {
-        "description": "http://toulouse.jeudego.org/ , Section Muret Restaurant L’Arche 21 route d’Eaunes, 31600 MURET , Le lundi après-midi Le samedi après-midi Horaires d’hiver : Du lundi au mercredi : de 9h00 à 19h00 sans interruption Du jeudi au samedi : de 9h00 à 23h00 sans interruption , edit: https://goclubdb.herokuapp.com/club/930/", 
+        "description": "http://toulouse.jeudego.org/ , Le Cactus 13 boulevard Lascrosses, 31000 Toulouse , Le Mercredi soir de 19h à 23h , edit: https://goclubdb.herokuapp.com/club/932/", 
+        "name": "Toulouse - Club Go Seigen"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.5013216, 
+          43.6041831
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "FR", 
+      "properties": {
+        "description": "http://toulouse.jeudego.org/ , Ecole de GO 63 Rue Antoine de Saint-Exupéry, Toulouse , Les vendredi soir de 18h à 20h , edit: https://goclubdb.herokuapp.com/club/938/", 
+        "name": "Toulouse - Club Go Seigen"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.36200135474, 
+          43.60290985
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "FR", 
+      "properties": {
+        "description": "http://toulouse.jeudego.org/ , C.E. C.S. Europarc à St martin du touch , tous les jeudi de 12h15 à 14h , edit: https://goclubdb.herokuapp.com/club/937/", 
         "name": "Toulouse - Club Go Seigen"
       }, 
       "type": "Feature"
@@ -1269,21 +1269,6 @@
     {
       "geometry": {
         "coordinates": [
-          0.688085440743, 
-          47.3954867
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "FR", 
-      "properties": {
-        "description": "http://touraine.jeudego.org/ , Bar-restaurant les Blancs-Manteaux 27 rue Colbert, Tours , Le jeudi , edit: https://goclubdb.herokuapp.com/club/917/", 
-        "name": "Touraine"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           1.012608, 
           47.4134641
         ], 
@@ -1292,6 +1277,21 @@
       "layer": "FR", 
       "properties": {
         "description": "http://touraine.jeudego.org/ , Amboise, hotel Ibis Chemin du Roy, 37400 Amboise , Le vendredi , edit: https://goclubdb.herokuapp.com/club/916/", 
+        "name": "Touraine"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          0.688085440743, 
+          47.3954867
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "FR", 
+      "properties": {
+        "description": "http://touraine.jeudego.org/ , Bar-restaurant les Blancs-Manteaux 27 rue Colbert, Tours , Le jeudi , edit: https://goclubdb.herokuapp.com/club/917/", 
         "name": "Touraine"
       }, 
       "type": "Feature"
