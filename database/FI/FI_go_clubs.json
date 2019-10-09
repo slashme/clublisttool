@@ -44,6 +44,21 @@
         "name": "Tengen Jyväskylä"
       }, 
       "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          24.947261, 
+          60.171825
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "FI", 
+      "properties": {
+        "description": "https://www.suomigo.net/wiki/PeliIllat , Kaisla Oluthuone bar\r\nHelsinki , wednesdays 19:00-22:00 , edit: https://goclubdb.herokuapp.com/club/302/", 
+        "name": "Yligo"
+      }, 
+      "type": "Feature"
     }
   ], 
   "type": "FeatureCollection"
