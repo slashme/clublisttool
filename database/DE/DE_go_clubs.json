@@ -1117,7 +1117,7 @@
       }, 
       "layer": "DE", 
       "properties": {
-        "description": "http://www.karlsgo.de/aka , Studentenzentrum Z10 im 2. OG (ggf. klingeln) , Dienstag, 18-22 Uhr , siehe Homepage ( , edit: https://goclubdb.herokuapp.com/club/216/", 
+        "description": "http://www.karlsgo.de/aka , Studentenzentrum Z10 im 2. OG (ggf. klingeln) , Dienstag, 18-22 Uhr , siehe Homepage , edit: https://goclubdb.herokuapp.com/club/216/", 
         "name": "Karlsruhe-AkaGo"
       }, 
       "type": "Feature"
