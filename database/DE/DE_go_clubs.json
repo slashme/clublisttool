@@ -924,21 +924,6 @@
     {
       "geometry": {
         "coordinates": [
-          9.7225325, 
-          52.3784695
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.hannover-go.de , Uni, Conti-Hochhaus, Königsworther Platz 1, Etage 13 , Di 19.30-22 , Ralph Tiefenthaler, 0511-8765551; Christoph Gerlach (Email), 0511-7000552 , edit: https://goclubdb.herokuapp.com/club/1164/", 
-        "name": "Hannover"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           9.7590527, 
           52.3701065
         ], 
@@ -947,6 +932,21 @@
       "layer": "DE", 
       "properties": {
         "description": "http://www.hannover-go.de , RSV Geschäftsstelle, Vorraum der dortigen Kegelbahn im Keller der Sporthalle, Am Südbahnhof 7 , Mo 19.15-22 , Ralph Tiefenthaler, 0511-8765551 , edit: https://goclubdb.herokuapp.com/club/1165/", 
+        "name": "Hannover"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          9.7225325, 
+          52.3784695
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.hannover-go.de , Uni, Conti-Hochhaus, Königsworther Platz 1, Etage 13 , Di 19.30-22 , Ralph Tiefenthaler, 0511-8765551; Christoph Gerlach (Email), 0511-7000552 , edit: https://goclubdb.herokuapp.com/club/1164/", 
         "name": "Hannover"
       }, 
       "type": "Feature"
@@ -1117,7 +1117,7 @@
       }, 
       "layer": "DE", 
       "properties": {
-        "description": "http://www.karlsgo.de/aka , Studentenzentrum Z10 im 2. OG (ggf. klingeln) , Donnerstag, 18-22 Uhr , siehe Homepage , edit: https://goclubdb.herokuapp.com/club/216/", 
+        "description": "http://www.karlsgo.de/aka , Studentenzentrum Z10 im 2. OG (ggf. klingeln) , Dienstag, 18-22 Uhr , siehe Homepage ( , edit: https://goclubdb.herokuapp.com/club/216/", 
         "name": "Karlsruhe-AkaGo"
       }, 
       "type": "Feature"
@@ -1150,7 +1150,7 @@
       }, 
       "layer": "DE", 
       "properties": {
-        "description": "http://www.karlsgo.de/ , Begegnungsstätte Gretl Vogt, Adlerstr. 33 , Mittwoch, ab 18 Uhr , Wilhelm Bühler , edit: https://goclubdb.herokuapp.com/club/1229/", 
+        "description": "http://www.karlsgo.de/ , Bürgerzentrum Innenstadt, Adlerstr. 33 , Mittwoch, ab 19 Uhr , Wilhelm Bühler , edit: https://goclubdb.herokuapp.com/club/1229/", 
         "name": "Karlsruhe-Altsadt"
       }, 
       "type": "Feature"
@@ -1254,21 +1254,6 @@
     {
       "geometry": {
         "coordinates": [
-          9.17817603945, 
-          47.6609571
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "\"Seekuh\" Kneipe, Konzilstr. 1 , Mi ab 19 , Christoph Adelsberger, 0171-5255715; Norbert Kolassa (Email), 07531-8076906 , edit: https://goclubdb.herokuapp.com/club/1232/", 
-        "name": "Konstanz"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           9.1767391, 
           47.6903464
         ], 
@@ -1277,6 +1262,21 @@
       "layer": "DE", 
       "properties": {
         "description": "Universität Raum G302, Universitätsstr. 10 (im Semester) , Di ab 18.45 , Christoph Adelsberger, 0171-5255715 , edit: https://goclubdb.herokuapp.com/club/1233/", 
+        "name": "Konstanz"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          9.17817603945, 
+          47.6609571
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "\"Seekuh\" Kneipe, Konzilstr. 1 , Mi ab 19 , Christoph Adelsberger, 0171-5255715; Norbert Kolassa (Email), 07531-8076906 , edit: https://goclubdb.herokuapp.com/club/1232/", 
         "name": "Konstanz"
       }, 
       "type": "Feature"
@@ -1347,21 +1347,6 @@
     {
       "geometry": {
         "coordinates": [
-          12.3667135835, 
-          51.3420215085
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "Villa e.V., Lessingstr. 7, kleiner Seminarraum, 3. Etage , Di 18.30-22 , Hans Zötzsche, 0341-2329228; Jürgen Posselt, 0341-6016724 , edit: https://goclubdb.herokuapp.com/club/1121/", 
-        "name": "Leipzig"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           12.3808791362, 
           51.33881915
         ], 
@@ -1370,6 +1355,21 @@
       "layer": "DE", 
       "properties": {
         "description": "Universität Leipzig, Augustusplatz, Raum A314 (im Semester) , Do 18-21 , Bastian Schütze ; Anke Bremer (Email), 0163-4554310 , edit: https://goclubdb.herokuapp.com/club/1122/", 
+        "name": "Leipzig"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          12.3667135835, 
+          51.3420215085
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "Villa e.V., Lessingstr. 7, kleiner Seminarraum, 3. Etage , Di 18.30-22 , Hans Zötzsche, 0341-2329228; Jürgen Posselt, 0341-6016724 , edit: https://goclubdb.herokuapp.com/club/1121/", 
         "name": "Leipzig"
       }, 
       "type": "Feature"
@@ -1473,21 +1473,6 @@
     {
       "geometry": {
         "coordinates": [
-          10.3377483218, 
-          53.24993835
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "Reppenstedt (layer, bei Lüneburg) Privat, Bitte vorher anrufen , 2. Sonntag / Monat 14:30 - 18:00 , Alexander Huber, 04131-395300 , edit: https://goclubdb.herokuapp.com/club/1150/", 
-        "name": "Lüneburg"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           10.3844010777, 
           53.22281005
         ], 
@@ -1499,6 +1484,21 @@
           "iconClass": "Ball"
         }, 
         "description": "Privat n.V. , Ralf Schulz, 0151-65783327 , edit: https://goclubdb.herokuapp.com/club/1149/", 
+        "name": "Lüneburg"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          10.3377483218, 
+          53.24993835
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "Reppenstedt (layer, bei Lüneburg) Privat, Bitte vorher anrufen , 2. Sonntag / Monat 14:30 - 18:00 , Alexander Huber, 04131-395300 , edit: https://goclubdb.herokuapp.com/club/1150/", 
         "name": "Lüneburg"
       }, 
       "type": "Feature"
@@ -1731,21 +1731,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.0108711, 
-          52.4018765
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.planet-nil.de , Nil Keller, Am Neuen Palais 10, Haus 11, www.planet-nil.de , Mi ab 19.30 , Stefan Leon, 01520-731 58 21 , edit: https://goclubdb.herokuapp.com/club/1136/", 
-        "name": "Potsdam"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           13.034183979, 
           52.3960951891
         ], 
@@ -1754,6 +1739,21 @@
       "layer": "DE", 
       "properties": {
         "description": "http://www.go-potsdam.de , privat bei Oliver Lenz, Carl-von-Ossietzky-Str. 6 , priv. n. V. , Oliver Lenz, 0331-902395 , edit: https://goclubdb.herokuapp.com/club/1137/", 
+        "name": "Potsdam"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          13.0108711, 
+          52.4018765
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.planet-nil.de , Nil Keller, Am Neuen Palais 10, Haus 11, www.planet-nil.de , Mi ab 19.30 , Stefan Leon, 01520-731 58 21 , edit: https://goclubdb.herokuapp.com/club/1136/", 
         "name": "Potsdam"
       }, 
       "type": "Feature"
@@ -1962,21 +1962,6 @@
     {
       "geometry": {
         "coordinates": [
-          6.6441823, 
-          49.7583755
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://de.trigo.wikia.com , Jugendzentrum \"Mergener Hof\", Rindertanzstr. 4 , Fr ab 20 , Horst Zein, 0651-52711 , edit: https://goclubdb.herokuapp.com/club/1202/", 
-        "name": "Trier"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           6.6920685, 
           49.7441331
         ], 
@@ -1985,6 +1970,21 @@
       "layer": "DE", 
       "properties": {
         "description": "http://de.trigo.wikia.com , Universität Trier , n. V. , Marc Oliver Rieger , edit: https://goclubdb.herokuapp.com/club/1203/", 
+        "name": "Trier"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          6.6441823, 
+          49.7583755
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://de.trigo.wikia.com , Jugendzentrum \"Mergener Hof\", Rindertanzstr. 4 , Fr ab 20 , Horst Zein, 0651-52711 , edit: https://goclubdb.herokuapp.com/club/1202/", 
         "name": "Trier"
       }, 
       "type": "Feature"
