@@ -279,21 +279,6 @@
     {
       "geometry": {
         "coordinates": [
-          10.5427699, 
-          52.2632964
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.braunschweig-go.de , Café Fischer, Altewiekring 44 , Do ab 19 , Joachim Beggerow, 0531-42504; Andreas Szostak (Email), 0176-82167987 , edit: https://goclubdb.herokuapp.com/club/1178/", 
-        "name": "Braunschweig"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           10.5366363, 
           52.2739507
         ], 
@@ -302,6 +287,21 @@
       "layer": "DE", 
       "properties": {
         "description": "http://www.braunschweig-go.de , Gebäude Grotrian an der TUBS, Zimmerstr. 24 D , Mo ab 19 , Björn Meier, 05306-931757; Nina Knöchelmann (Email), 0160-4434640 , edit: https://goclubdb.herokuapp.com/club/1179/", 
+        "name": "Braunschweig"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          10.5427699, 
+          52.2632964
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.braunschweig-go.de , Café Fischer, Altewiekring 44 , Do ab 19 , Joachim Beggerow, 0531-42504; Andreas Szostak (Email), 0176-82167987 , edit: https://goclubdb.herokuapp.com/club/1178/", 
         "name": "Braunschweig"
       }, 
       "type": "Feature"
@@ -409,7 +409,7 @@
       }, 
       "layer": "DE", 
       "properties": {
-        "description": "\"Hobbit\", Lauteschlägerstr. 3 , Mo ab 19.30 , Jochen Tappe, 06151-3928560 , edit: https://goclubdb.herokuapp.com/club/1215/", 
+        "description": "\"Hobbit\", Lauteschlägerstr. 3 , Mi ab 19 , Klaus Petri, 06151-9674362 , edit: https://goclubdb.herokuapp.com/club/1216/", 
         "name": "Darmstadt"
       }, 
       "type": "Feature"
@@ -424,7 +424,7 @@
       }, 
       "layer": "DE", 
       "properties": {
-        "description": "\"Hobbit\", Lauteschlägerstr. 3 , Mi ab 19 , Klaus Petri, 06151-9674362 , edit: https://goclubdb.herokuapp.com/club/1216/", 
+        "description": "\"Hobbit\", Lauteschlägerstr. 3 , Mo ab 19.30 , Jochen Tappe, 06151-3928560 , edit: https://goclubdb.herokuapp.com/club/1215/", 
         "name": "Darmstadt"
       }, 
       "type": "Feature"
@@ -642,21 +642,6 @@
     {
       "geometry": {
         "coordinates": [
-          7.8141061, 
-          47.975875
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.Dreisam-Honinbo.de , Enigma, Bergiselstr. 34 , Mo ab 19 , Christian Haberbosch, 0761-4299652; Kirsten Grimm, 0172-5841455 , edit: https://goclubdb.herokuapp.com/club/1234/", 
-        "name": "Freiburg"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           7.90094001771, 
           47.96398895
         ], 
@@ -668,6 +653,21 @@
           "iconClass": "Ball"
         }, 
         "description": "privat, Am Hagmättle 11 , Fr ab 18 , Kirsten Grimm, 0172-5841455 , edit: https://goclubdb.herokuapp.com/club/1235/", 
+        "name": "Freiburg"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          7.8141061, 
+          47.975875
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.Dreisam-Honinbo.de , Enigma, Bergiselstr. 34 , Mo ab 19 , Christian Haberbosch, 0761-4299652; Kirsten Grimm, 0172-5841455 , edit: https://goclubdb.herokuapp.com/club/1234/", 
         "name": "Freiburg"
       }, 
       "type": "Feature"
@@ -924,21 +924,6 @@
     {
       "geometry": {
         "coordinates": [
-          9.7590527, 
-          52.3701065
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.hannover-go.de , RSV Geschäftsstelle, Vorraum der dortigen Kegelbahn im Keller der Sporthalle, Am Südbahnhof 7 , Mo 19.15-22 , Ralph Tiefenthaler, 0511-8765551 , edit: https://goclubdb.herokuapp.com/club/1165/", 
-        "name": "Hannover"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           9.7225325, 
           52.3784695
         ], 
@@ -947,6 +932,21 @@
       "layer": "DE", 
       "properties": {
         "description": "http://www.hannover-go.de , Uni, Conti-Hochhaus, Königsworther Platz 1, Etage 13 , Di 19.30-22 , Ralph Tiefenthaler, 0511-8765551; Christoph Gerlach (Email), 0511-7000552 , edit: https://goclubdb.herokuapp.com/club/1164/", 
+        "name": "Hannover"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          9.7590527, 
+          52.3701065
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.hannover-go.de , RSV Geschäftsstelle, Vorraum der dortigen Kegelbahn im Keller der Sporthalle, Am Südbahnhof 7 , Mo 19.15-22 , Ralph Tiefenthaler, 0511-8765551 , edit: https://goclubdb.herokuapp.com/club/1165/", 
         "name": "Hannover"
       }, 
       "type": "Feature"
@@ -1209,21 +1209,6 @@
     {
       "geometry": {
         "coordinates": [
-          10.1387933, 
-          54.3413523
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://sites.google.com/site/gospielkreiskiel/ , Gaststätte Blücher, Esmarchstr. 44 , Mo ab 19.30 , Werner Ente, 0431-677304 , edit: https://goclubdb.herokuapp.com/club/1153/", 
-        "name": "Kiel"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           10.1131524425, 
           54.3421942235
         ], 
@@ -1232,6 +1217,21 @@
       "layer": "DE", 
       "properties": {
         "description": "http://server.sportzentrum.uni-kiel.de/sportarten/aktueller_zeitraum/_Go.html , Uni-Go-Gruppe, Stadionturm, Olshausenstr. 70 (Während der Vorlesungszeit. In der vorlesungsfreien Zeit Termin evtl. abweichend.) , Mi 18-20 , Christina Schramm , edit: https://goclubdb.herokuapp.com/club/1154/", 
+        "name": "Kiel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          10.1387933, 
+          54.3413523
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://sites.google.com/site/gospielkreiskiel/ , Gaststätte Blücher, Esmarchstr. 44 , Mo ab 19.30 , Werner Ente, 0431-677304 , edit: https://goclubdb.herokuapp.com/club/1153/", 
         "name": "Kiel"
       }, 
       "type": "Feature"
@@ -1254,21 +1254,6 @@
     {
       "geometry": {
         "coordinates": [
-          9.1767391, 
-          47.6903464
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "Universität Raum G302, Universitätsstr. 10 (im Semester) , Di ab 18.45 , Christoph Adelsberger, 0171-5255715 , edit: https://goclubdb.herokuapp.com/club/1233/", 
-        "name": "Konstanz"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           9.17817603945, 
           47.6609571
         ], 
@@ -1277,6 +1262,21 @@
       "layer": "DE", 
       "properties": {
         "description": "\"Seekuh\" Kneipe, Konzilstr. 1 , Mi ab 19 , Christoph Adelsberger, 0171-5255715; Norbert Kolassa (Email), 07531-8076906 , edit: https://goclubdb.herokuapp.com/club/1232/", 
+        "name": "Konstanz"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          9.1767391, 
+          47.6903464
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "Universität Raum G302, Universitätsstr. 10 (im Semester) , Di ab 18.45 , Christoph Adelsberger, 0171-5255715 , edit: https://goclubdb.herokuapp.com/club/1233/", 
         "name": "Konstanz"
       }, 
       "type": "Feature"
@@ -1473,6 +1473,21 @@
     {
       "geometry": {
         "coordinates": [
+          10.3377483218, 
+          53.24993835
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "Reppenstedt (layer, bei Lüneburg) Privat, Bitte vorher anrufen , 2. Sonntag / Monat 14:30 - 18:00 , Alexander Huber, 04131-395300 , edit: https://goclubdb.herokuapp.com/club/1150/", 
+        "name": "Lüneburg"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           10.3844010777, 
           53.22281005
         ], 
@@ -1491,29 +1506,14 @@
     {
       "geometry": {
         "coordinates": [
-          10.3377483218, 
-          53.24993835
+          11.6468926354918, 
+          52.1392692232297
         ], 
         "type": "Point"
       }, 
       "layer": "DE", 
       "properties": {
-        "description": "Reppenstedt (layer, bei Lüneburg) Privat, Bitte vorher anrufen , 2. Sonntag / Monat 14:30 - 18:00 , Alexander Huber, 04131-395300 , edit: https://goclubdb.herokuapp.com/club/1150/", 
-        "name": "Lüneburg"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          11.6400834, 
-          52.1389773
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "Universitätsplatz 2 (Campus), Gebäude 05, R. 210, Nordeingang , Di ab 19 , Olaf Salchow, 03949-4488 , edit: https://goclubdb.herokuapp.com/club/1181/", 
+        "description": "Universitätsplatz 2 (Campus), Gebäude 30 (Unibibliothek) , Di ab 18 , Olaf Salchow, 03949-4488 , edit: https://goclubdb.herokuapp.com/club/1181/", 
         "name": "Magdeburg"
       }, 
       "type": "Feature"
@@ -1962,21 +1962,6 @@
     {
       "geometry": {
         "coordinates": [
-          6.6920685, 
-          49.7441331
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://de.trigo.wikia.com , Universität Trier , n. V. , Marc Oliver Rieger , edit: https://goclubdb.herokuapp.com/club/1203/", 
-        "name": "Trier"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           6.6441823, 
           49.7583755
         ], 
@@ -1985,6 +1970,21 @@
       "layer": "DE", 
       "properties": {
         "description": "http://de.trigo.wikia.com , Jugendzentrum \"Mergener Hof\", Rindertanzstr. 4 , Fr ab 20 , Horst Zein, 0651-52711 , edit: https://goclubdb.herokuapp.com/club/1202/", 
+        "name": "Trier"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          6.6920685, 
+          49.7441331
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://de.trigo.wikia.com , Universität Trier , n. V. , Marc Oliver Rieger , edit: https://goclubdb.herokuapp.com/club/1203/", 
         "name": "Trier"
       }, 
       "type": "Feature"
