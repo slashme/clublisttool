@@ -105,8 +105,8 @@
     {
       "geometry": {
         "coordinates": [
-          28.2359846933, 
-          -25.7509314068
+          28.1933053834551, 
+          -25.845710496544
         ], 
         "type": "Point"
       }, 
@@ -115,7 +115,7 @@
         "_storage_options": {
           "iconClass": "Ball"
         }, 
-        "description": "http://www.sagoclubs.co.za/pretoria-club/ , Outer Limits Comic and Games shop in Hatfield Square (near News Cafe) , Wednesday evenings , Brett Wilson (072 099 9943) or John Leuner (076 226 9975) , edit: https://goclubdb.herokuapp.com/club/981/", 
+        "description": "http://sagoclubs.co.za/pretoria-club/ , Asia House, Centurion , Thursday evenings from ~18:30 , sago.pretoria@gmail.com , edit: https://goclubdb.herokuapp.com/club/981/", 
         "name": "Pretoria Go Club"
       }, 
       "type": "Feature"
