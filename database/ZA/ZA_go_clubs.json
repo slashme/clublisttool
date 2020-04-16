@@ -112,9 +112,6 @@
       }, 
       "layer": "ZA", 
       "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
         "description": "http://sagoclubs.co.za/pretoria-club/ , Asia House, Centurion\r\nDiscord server at https://discord.gg/eUKybg , Thursday evenings from ~18:30 , sago.pretoria@gmail.com , edit: https://goclubdb.herokuapp.com/club/981/", 
         "name": "Pretoria Go Club"
       }, 
