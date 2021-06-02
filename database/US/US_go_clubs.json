@@ -816,6 +816,21 @@
     {
       "geometry": {
         "coordinates": [
+          -105.91216743, 
+          35.6669240082
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "US", 
+      "properties": {
+        "description": "http://santafegoclub.org/ , St. Johns College , In person suspended for now. , edit: https://goclubdb.herokuapp.com/club/305/", 
+        "name": "Santa Fe Go Club"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           -88.0342, 
           42.0405
         ], 
