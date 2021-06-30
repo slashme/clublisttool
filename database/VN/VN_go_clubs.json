@@ -1,0 +1,20 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.797936363333, 
+          21.0360787381903
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "VN", 
+      "properties": {
+        "description": "https://www.facebook.com/groups/2332214213727638 , 41 Nguyen Van Huyen str, Cau Giay dist, Hanoi , 7:30 PM to 10:30PM , nguyennamhoang207@gmail.com , edit: https://goclubdb.herokuapp.com/club/306/", 
+        "name": "Clb Ánh Sáng"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "type": "FeatureCollection"
+}
