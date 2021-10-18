@@ -409,7 +409,7 @@
       }, 
       "layer": "DE", 
       "properties": {
-        "description": "\"Hobbit\", Lauteschlägerstr. 3 , Mo ab 19.30 , Jochen Tappe, 06151-3928560 , edit: https://goclubdb.herokuapp.com/club/1215/", 
+        "description": "\"Hobbit\", Lauteschlägerstr. 3 , Mi ab 19 , Klaus Petri, 06151-9674362 , edit: https://goclubdb.herokuapp.com/club/1216/", 
         "name": "Darmstadt"
       }, 
       "type": "Feature"
@@ -424,7 +424,7 @@
       }, 
       "layer": "DE", 
       "properties": {
-        "description": "\"Hobbit\", Lauteschlägerstr. 3 , Mi ab 19 , Klaus Petri, 06151-9674362 , edit: https://goclubdb.herokuapp.com/club/1216/", 
+        "description": "\"Hobbit\", Lauteschlägerstr. 3 , Mo ab 19.30 , Jochen Tappe, 06151-3928560 , edit: https://goclubdb.herokuapp.com/club/1215/", 
         "name": "Darmstadt"
       }, 
       "type": "Feature"
@@ -447,21 +447,6 @@
     {
       "geometry": {
         "coordinates": [
-          7.4071074, 
-          51.489962
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "https://www.facebook.com/DortmunderGo , University of Dortmund, Computer Science Building, Otto-Hahn-Str. 12, 2th floor, Room 2003 , Every Monday from 5 pm to 7 pm , Lars Gehrke, +49 1732015374 (I have WhatsApp) , edit: https://goclubdb.herokuapp.com/club/1188/", 
-        "name": "Dortmund"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           7.4674025, 
           51.5111632
         ], 
@@ -477,15 +462,15 @@
     {
       "geometry": {
         "coordinates": [
-          13.7560578, 
-          51.0696329
+          7.4071074, 
+          51.489962
         ], 
         "type": "Point"
       }, 
       "layer": "DE", 
       "properties": {
-        "description": "Barneby, Görlitzer Str. 11 , Do ab 18.30 , Sascha Giebner, 0151-23232237 , edit: https://goclubdb.herokuapp.com/club/1119/", 
-        "name": "Dresden"
+        "description": "https://www.facebook.com/DortmunderGo , University of Dortmund, Computer Science Building, Otto-Hahn-Str. 12, 2th floor, Room 2003 , Every Monday from 5 pm to 7 pm , Lars Gehrke, +49 1732015374 (I have WhatsApp) , edit: https://goclubdb.herokuapp.com/club/1188/", 
+        "name": "Dortmund"
       }, 
       "type": "Feature"
     }, 
@@ -500,6 +485,21 @@
       "layer": "DE", 
       "properties": {
         "description": "http://www.horst-huebner.de , Freiberger Str. 31 im Eigenbetrieb Sportstätten, 4. Etage, Konferenzraum. , Mi 18-22 , Horst Hübner, 0351-4712051 , edit: https://goclubdb.herokuapp.com/club/1118/", 
+        "name": "Dresden"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          13.7560578, 
+          51.0696329
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "Barneby, Görlitzer Str. 11 , Do ab 18.30 , Sascha Giebner, 0151-23232237 , edit: https://goclubdb.herokuapp.com/club/1119/", 
         "name": "Dresden"
       }, 
       "type": "Feature"
@@ -642,6 +642,21 @@
     {
       "geometry": {
         "coordinates": [
+          7.8141061, 
+          47.975875
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.Dreisam-Honinbo.de , Enigma, Bergiselstr. 34 , Mo ab 19 , Christian Haberbosch, 0761-4299652; Kirsten Grimm, 0172-5841455 , edit: https://goclubdb.herokuapp.com/club/1234/", 
+        "name": "Freiburg"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           7.90094001771, 
           47.96398895
         ], 
@@ -653,21 +668,6 @@
           "iconClass": "Ball"
         }, 
         "description": "privat, Am Hagmättle 11 , Fr ab 18 , Kirsten Grimm, 0172-5841455 , edit: https://goclubdb.herokuapp.com/club/1235/", 
-        "name": "Freiburg"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          7.8141061, 
-          47.975875
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.Dreisam-Honinbo.de , Enigma, Bergiselstr. 34 , Mo ab 19 , Christian Haberbosch, 0761-4299652; Kirsten Grimm, 0172-5841455 , edit: https://goclubdb.herokuapp.com/club/1234/", 
         "name": "Freiburg"
       }, 
       "type": "Feature"
@@ -924,21 +924,6 @@
     {
       "geometry": {
         "coordinates": [
-          9.7590527, 
-          52.3701065
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.hannover-go.de , RSV Geschäftsstelle, Vorraum der dortigen Kegelbahn im Keller der Sporthalle, Am Südbahnhof 7 , Mo 19.15-22 , Ralph Tiefenthaler, 0511-8765551 , edit: https://goclubdb.herokuapp.com/club/1165/", 
-        "name": "Hannover"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           9.7225325, 
           52.3784695
         ], 
@@ -947,6 +932,21 @@
       "layer": "DE", 
       "properties": {
         "description": "http://www.hannover-go.de , Uni, Conti-Hochhaus, Königsworther Platz 1, Etage 13 , Di 19.30-22 , Ralph Tiefenthaler, 0511-8765551; Christoph Gerlach (Email), 0511-7000552 , edit: https://goclubdb.herokuapp.com/club/1164/", 
+        "name": "Hannover"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          9.7590527, 
+          52.3701065
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.hannover-go.de , RSV Geschäftsstelle, Vorraum der dortigen Kegelbahn im Keller der Sporthalle, Am Südbahnhof 7 , Mo 19.15-22 , Ralph Tiefenthaler, 0511-8765551 , edit: https://goclubdb.herokuapp.com/club/1165/", 
         "name": "Hannover"
       }, 
       "type": "Feature"
@@ -1209,21 +1209,6 @@
     {
       "geometry": {
         "coordinates": [
-          10.1131524425, 
-          54.3421942235
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://server.sportzentrum.uni-kiel.de/sportarten/aktueller_zeitraum/_Go.html , Uni-Go-Gruppe, Stadionturm, Olshausenstr. 70 (Während der Vorlesungszeit. In der vorlesungsfreien Zeit Termin evtl. abweichend.) , Mi 18-20 , Christina Schramm , edit: https://goclubdb.herokuapp.com/club/1154/", 
-        "name": "Kiel"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           10.1387933, 
           54.3413523
         ], 
@@ -1232,6 +1217,21 @@
       "layer": "DE", 
       "properties": {
         "description": "http://sites.google.com/site/gospielkreiskiel/ , Gaststätte Blücher, Esmarchstr. 44 , Mo ab 19.30 , Werner Ente, 0431-677304 , edit: https://goclubdb.herokuapp.com/club/1153/", 
+        "name": "Kiel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          10.1131524425, 
+          54.3421942235
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://server.sportzentrum.uni-kiel.de/sportarten/aktueller_zeitraum/_Go.html , Uni-Go-Gruppe, Stadionturm, Olshausenstr. 70 (Während der Vorlesungszeit. In der vorlesungsfreien Zeit Termin evtl. abweichend.) , Mi 18-20 , Christina Schramm , edit: https://goclubdb.herokuapp.com/club/1154/", 
         "name": "Kiel"
       }, 
       "type": "Feature"
@@ -1254,21 +1254,6 @@
     {
       "geometry": {
         "coordinates": [
-          9.17817603945, 
-          47.6609571
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "\"Seekuh\" Kneipe, Konzilstr. 1 , Mi ab 19 , Christoph Adelsberger, 0171-5255715; Norbert Kolassa (Email), 07531-8076906 , edit: https://goclubdb.herokuapp.com/club/1232/", 
-        "name": "Konstanz"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           9.1767391, 
           47.6903464
         ], 
@@ -1277,6 +1262,21 @@
       "layer": "DE", 
       "properties": {
         "description": "Universität Raum G302, Universitätsstr. 10 (im Semester) , Di ab 18.45 , Christoph Adelsberger, 0171-5255715 , edit: https://goclubdb.herokuapp.com/club/1233/", 
+        "name": "Konstanz"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          9.17817603945, 
+          47.6609571
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "\"Seekuh\" Kneipe, Konzilstr. 1 , Mi ab 19 , Christoph Adelsberger, 0171-5255715; Norbert Kolassa (Email), 07531-8076906 , edit: https://goclubdb.herokuapp.com/club/1232/", 
         "name": "Konstanz"
       }, 
       "type": "Feature"
@@ -1473,6 +1473,21 @@
     {
       "geometry": {
         "coordinates": [
+          10.3377483218, 
+          53.24993835
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "Reppenstedt (layer, bei Lüneburg) Privat, Bitte vorher anrufen , 2. Sonntag / Monat 14:30 - 18:00 , Alexander Huber, 04131-395300 , edit: https://goclubdb.herokuapp.com/club/1150/", 
+        "name": "Lüneburg"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           10.3844010777, 
           53.22281005
         ], 
@@ -1484,21 +1499,6 @@
           "iconClass": "Ball"
         }, 
         "description": "Privat n.V. , Ralf Schulz, 0151-65783327 , edit: https://goclubdb.herokuapp.com/club/1149/", 
-        "name": "Lüneburg"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          10.3377483218, 
-          53.24993835
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "Reppenstedt (layer, bei Lüneburg) Privat, Bitte vorher anrufen , 2. Sonntag / Monat 14:30 - 18:00 , Alexander Huber, 04131-395300 , edit: https://goclubdb.herokuapp.com/club/1150/", 
         "name": "Lüneburg"
       }, 
       "type": "Feature"
@@ -1731,21 +1731,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.034183979, 
-          52.3960951891
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://www.go-potsdam.de , privat bei Oliver Lenz, Carl-von-Ossietzky-Str. 6 , priv. n. V. , Oliver Lenz, 0331-902395 , edit: https://goclubdb.herokuapp.com/club/1137/", 
-        "name": "Potsdam"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           13.0108711, 
           52.4018765
         ], 
@@ -1754,6 +1739,21 @@
       "layer": "DE", 
       "properties": {
         "description": "http://www.planet-nil.de , Nil Keller, Am Neuen Palais 10, Haus 11, www.planet-nil.de , Mi ab 19.30 , Stefan Leon, 01520-731 58 21 , edit: https://goclubdb.herokuapp.com/club/1136/", 
+        "name": "Potsdam"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          13.034183979, 
+          52.3960951891
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://www.go-potsdam.de , privat bei Oliver Lenz, Carl-von-Ossietzky-Str. 6 , priv. n. V. , Oliver Lenz, 0331-902395 , edit: https://goclubdb.herokuapp.com/club/1137/", 
         "name": "Potsdam"
       }, 
       "type": "Feature"
@@ -1962,21 +1962,6 @@
     {
       "geometry": {
         "coordinates": [
-          6.6441823, 
-          49.7583755
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "DE", 
-      "properties": {
-        "description": "http://de.trigo.wikia.com , Jugendzentrum \"Mergener Hof\", Rindertanzstr. 4 , Fr ab 20 , Horst Zein, 0651-52711 , edit: https://goclubdb.herokuapp.com/club/1202/", 
-        "name": "Trier"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           6.6920685, 
           49.7441331
         ], 
@@ -1985,6 +1970,21 @@
       "layer": "DE", 
       "properties": {
         "description": "http://de.trigo.wikia.com , Universität Trier , n. V. , Marc Oliver Rieger , edit: https://goclubdb.herokuapp.com/club/1203/", 
+        "name": "Trier"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          6.6441823, 
+          49.7583755
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "http://de.trigo.wikia.com , Jugendzentrum \"Mergener Hof\", Rindertanzstr. 4 , Fr ab 20 , Horst Zein, 0651-52711 , edit: https://goclubdb.herokuapp.com/club/1202/", 
         "name": "Trier"
       }, 
       "type": "Feature"
@@ -2145,6 +2145,21 @@
       "properties": {
         "description": "http://tonshi.de/tonshi2/der_spieleabend/ , Universität, Asta-Kneipe, Gauss-Str. 20 , Mo ab 19 , Erik Schweitzer, 0202-2429133; Hildegard Puttkammer (Email), 02053-40215 , edit: https://goclubdb.herokuapp.com/club/1185/", 
         "name": "Wuppertal"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          9.87298693499952, 
+          49.8281817772911
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "DE", 
+      "properties": {
+        "description": "Nach Vereinbarung , Einmal pro Woche, nach Vereinbarung , Florian.rasche@googlemail.com , edit: https://goclubdb.herokuapp.com/club/307/", 
+        "name": "Würzburger Goclub"
       }, 
       "type": "Feature"
     }
