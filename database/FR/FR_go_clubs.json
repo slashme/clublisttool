@@ -576,21 +576,6 @@
     {
       "geometry": {
         "coordinates": [
-          -1.6740972, 
-          48.1063566
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "FR", 
-      "properties": {
-        "description": "http://rennes.jeudego.org/ , Bar L'Heure du Jeu 11 Bd Magenta, 35000 Rennes , Les lundis de 20h00 à 01H00 , edit: https://goclubdb.herokuapp.com/club/915/", 
-        "name": "Club Rengo"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           -1.6981817, 
           48.1138233
         ], 
@@ -599,6 +584,21 @@
       "layer": "FR", 
       "properties": {
         "description": "http://rennes.jeudego.org/ , Institut Confucius 17 rue de Brest, 35000 Rennes , Les samedis de 15h00 à 18h00\r\nÉgalement au bar \"l'heure du jeu\" le lundi soir à partir de 20h , Facebook page: https://www.facebook.com/rengo.actu/?fref=ts , edit: https://goclubdb.herokuapp.com/club/913/", 
+        "name": "Club Rengo"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -1.6740972, 
+          48.1063566
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "FR", 
+      "properties": {
+        "description": "http://rennes.jeudego.org/ , Bar L'Heure du Jeu 11 Bd Magenta, 35000 Rennes , Les lundis de 20h00 à 01H00 , edit: https://goclubdb.herokuapp.com/club/915/", 
         "name": "Club Rengo"
       }, 
       "type": "Feature"
@@ -756,21 +756,6 @@
     {
       "geometry": {
         "coordinates": [
-          5.4546846, 
-          43.5285548
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "FR", 
-      "properties": {
-        "description": "http://www.aixetgo.fr/ , Ecole de Go café culturel et citoyen 23 Boulevard Carnot Aix-En-Provence , 2 samedis par mois de 10h00 à 11h30 , edit: https://goclubdb.herokuapp.com/club/949/", 
-        "name": "Le club de Go provençal"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           5.4449388, 
           43.5276886
         ], 
@@ -779,6 +764,21 @@
       "layer": "FR", 
       "properties": {
         "description": "http://www.aixetgo.fr/ , Au Goût Du Monde 38 rue des Bernardines, Aix-En-Provence , Le samedi à partir de 15h30 , edit: https://goclubdb.herokuapp.com/club/948/", 
+        "name": "Le club de Go provençal"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.4546846, 
+          43.5285548
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "FR", 
+      "properties": {
+        "description": "http://www.aixetgo.fr/ , Ecole de Go café culturel et citoyen 23 Boulevard Carnot Aix-En-Provence , 2 samedis par mois de 10h00 à 11h30 , edit: https://goclubdb.herokuapp.com/club/949/", 
         "name": "Le club de Go provençal"
       }, 
       "type": "Feature"
@@ -816,14 +816,14 @@
     {
       "geometry": {
         "coordinates": [
-          2.29385829099539, 
-          48.8959654731045
+          2.293858291, 
+          48.8959654731
         ], 
         "type": "Point"
       }, 
       "layer": "FR", 
       "properties": {
-        "description": "http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=275 , Maison des Associations\r\nSalle Frédéric Ozanam\r\n34 rue Pierre Brossolette\r\n92300 Levallois-Perret , Samedi de 14h à 17h. , http://www.facebook.com/go.levallois/ , edit: https://goclubdb.herokuapp.com/club/893/", 
+        "description": "http://ffg.jeudego.org/php/afficheGroupe.php?idGroupe=275 , Maison des Associations\r\nSalle Frédéric Ozanam\r\n34 rue Pierre Brossolette\r\n92300 Levallois-Perret , De 10h à 13h30 le 2ème, le 3ème et le 4ème dimanche du mois. , http://www.facebook.com/go.levallois/ , edit: https://goclubdb.herokuapp.com/club/893/", 
         "name": "Levallois-Perret"
       }, 
       "type": "Feature"
@@ -831,14 +831,14 @@
     {
       "geometry": {
         "coordinates": [
-          4.8473375, 
-          45.7570833
+          4.84443302936, 
+          45.7525022569
         ], 
         "type": "Point"
       }, 
       "layer": "FR", 
       "properties": {
-        "description": "http://lyon-shinogi.jeudego.org/ , Salle associative 233 rue Vendôme Lyon 3e , Samedi 14h - 19h , edit: https://goclubdb.herokuapp.com/club/881/", 
+        "description": "http://lyon-shinogi.jeudego.org/ , Trollune 25 rue Sébastien Gryphe, 69007 LYON , Mardi 18:30 - 23:00 , edit: https://goclubdb.herokuapp.com/club/879/", 
         "name": "Lyon Shinogi"
       }, 
       "type": "Feature"
@@ -876,14 +876,14 @@
     {
       "geometry": {
         "coordinates": [
-          4.84443302936, 
-          45.7525022569
+          4.8473375, 
+          45.7570833
         ], 
         "type": "Point"
       }, 
       "layer": "FR", 
       "properties": {
-        "description": "http://lyon-shinogi.jeudego.org/ , Trollune 25 rue Sébastien Gryphe, 69007 LYON , Mardi 18:30 - 23:00 , edit: https://goclubdb.herokuapp.com/club/879/", 
+        "description": "http://lyon-shinogi.jeudego.org/ , Salle associative 233 rue Vendôme Lyon 3e , Samedi 14h - 19h , edit: https://goclubdb.herokuapp.com/club/881/", 
         "name": "Lyon Shinogi"
       }, 
       "type": "Feature"
@@ -999,21 +999,6 @@
     {
       "geometry": {
         "coordinates": [
-          -0.5710535, 
-          43.4955325
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "FR", 
-      "properties": {
-        "description": "http://pau.jeudego.org , MJC du Lau 81 avenue Loup, Pau , Le Samedi de 14h30 à 18h , edit: https://goclubdb.herokuapp.com/club/928/", 
-        "name": "Pau"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           -0.3741493, 
           43.2973105
         ], 
@@ -1022,6 +1007,21 @@
       "layer": "FR", 
       "properties": {
         "description": "http://pau.jeudego.org , Librairie-Bar l%27Entropie Rue Bernadotte, 64000 Pau , En semaine , edit: https://goclubdb.herokuapp.com/club/929/", 
+        "name": "Pau"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -0.5710535, 
+          43.4955325
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "FR", 
+      "properties": {
+        "description": "http://pau.jeudego.org , MJC du Lau 81 avenue Loup, Pau , Le Samedi de 14h30 à 18h , edit: https://goclubdb.herokuapp.com/club/928/", 
         "name": "Pau"
       }, 
       "type": "Feature"
@@ -1119,14 +1119,14 @@
     {
       "geometry": {
         "coordinates": [
-          1.34, 
-          43.4411
+          1.5013216, 
+          43.6041831
         ], 
         "type": "Point"
       }, 
       "layer": "FR", 
       "properties": {
-        "description": "http://toulouse.jeudego.org/ , Section Muret Restaurant L’Arche 21 route d’Eaunes, 31600 MURET , Le lundi après-midi Le samedi après-midi Horaires d’hiver : Du lundi au mercredi : de 9h00 à 19h00 sans interruption Du jeudi au samedi : de 9h00 à 23h00 sans interruption , edit: https://goclubdb.herokuapp.com/club/930/", 
+        "description": "http://toulouse.jeudego.org/ , Ecole de GO 63 Rue Antoine de Saint-Exupéry, Toulouse , Les vendredi soir de 18h à 20h , edit: https://goclubdb.herokuapp.com/club/938/", 
         "name": "Toulouse - Club Go Seigen"
       }, 
       "type": "Feature"
@@ -1194,21 +1194,6 @@
     {
       "geometry": {
         "coordinates": [
-          1.5013216, 
-          43.6041831
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "FR", 
-      "properties": {
-        "description": "http://toulouse.jeudego.org/ , Ecole de GO 63 Rue Antoine de Saint-Exupéry, Toulouse , Les vendredi soir de 18h à 20h , edit: https://goclubdb.herokuapp.com/club/938/", 
-        "name": "Toulouse - Club Go Seigen"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           1.36200135474, 
           43.60290985
         ], 
@@ -1217,6 +1202,21 @@
       "layer": "FR", 
       "properties": {
         "description": "http://toulouse.jeudego.org/ , C.E. C.S. Europarc à St martin du touch , tous les jeudi de 12h15 à 14h , edit: https://goclubdb.herokuapp.com/club/937/", 
+        "name": "Toulouse - Club Go Seigen"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.34, 
+          43.4411
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "FR", 
+      "properties": {
+        "description": "http://toulouse.jeudego.org/ , Section Muret Restaurant L’Arche 21 route d’Eaunes, 31600 MURET , Le lundi après-midi Le samedi après-midi Horaires d’hiver : Du lundi au mercredi : de 9h00 à 19h00 sans interruption Du jeudi au samedi : de 9h00 à 23h00 sans interruption , edit: https://goclubdb.herokuapp.com/club/930/", 
         "name": "Toulouse - Club Go Seigen"
       }, 
       "type": "Feature"
@@ -1269,21 +1269,6 @@
     {
       "geometry": {
         "coordinates": [
-          1.012608, 
-          47.4134641
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "FR", 
-      "properties": {
-        "description": "http://touraine.jeudego.org/ , Amboise, hotel Ibis Chemin du Roy, 37400 Amboise , Le vendredi , edit: https://goclubdb.herokuapp.com/club/916/", 
-        "name": "Touraine"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           0.688085440743, 
           47.3954867
         ], 
@@ -1292,6 +1277,21 @@
       "layer": "FR", 
       "properties": {
         "description": "http://touraine.jeudego.org/ , Bar-restaurant les Blancs-Manteaux 27 rue Colbert, Tours , Le jeudi , edit: https://goclubdb.herokuapp.com/club/917/", 
+        "name": "Touraine"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.012608, 
+          47.4134641
+        ], 
+        "type": "Point"
+      }, 
+      "layer": "FR", 
+      "properties": {
+        "description": "http://touraine.jeudego.org/ , Amboise, hotel Ibis Chemin du Roy, 37400 Amboise , Le vendredi , edit: https://goclubdb.herokuapp.com/club/916/", 
         "name": "Touraine"
       }, 
       "type": "Feature"
