@@ -6,6 +6,6 @@ for i in json.loads(response.read()):
     try:
       os.makedirs(i['name'])
     except OSError:
-      print "Can't create directory %s\n" % i['name']
+      print("Can't create directory %s\n" % i['name'])
     else:
-      print "Made directory %s\n" % i['name']
+      print("Made directory %s\n" % i['name'])
