@@ -3,33 +3,33 @@
     {
       "geometry": {
         "coordinates": [
-          27.8984634593044, 
-          43.21733945
-        ], 
+          23.33228,
+          42.67251
+        ],
         "type": "Point"
-      }, 
-      "layer": "BG", 
+      },
+      "layer": "BG",
       "properties": {
-        "description": "http://bga.bg/content/view/138/9/ , Гранд Мол Варна - зад автогарата, втори етаж, до детския кът и Subway. , Всеки четвъртък и понеделник от 18 часа. , edit: https://goclubdb.herokuapp.com/club/252/", 
-        "name": "Варна"
-      }, 
+        "description": "http://bga.bg/content/view/138/9/ , ул. \"Галичица\" 37, вх. 2, офис 2 (офисите са всъщност с отделен вход).  Фирмата на вратата е COMPUTER ART MEDIA Ltd. За контакти Станислав Бояджиев. , Всеки вторник след 18:30ч. , edit: https://goclubdb.herokuapp.com/club/251/",
+        "name": "София"
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          23.33228, 
-          42.67251
-        ], 
+          27.8984634593044,
+          43.21733945
+        ],
         "type": "Point"
-      }, 
-      "layer": "BG", 
+      },
+      "layer": "BG",
       "properties": {
-        "description": "http://bga.bg/content/view/138/9/ , ул. \"Галичица\" 37, вх. 2, офис 2 (офисите са всъщност с отделен вход).  Фирмата на вратата е COMPUTER ART MEDIA Ltd. За контакти Станислав Бояджиев. , Всеки вторник след 18:30ч. , edit: https://goclubdb.herokuapp.com/club/251/", 
-        "name": "София"
-      }, 
+        "description": "http://bga.bg/content/view/138/9/ , Гранд Мол Варна - зад автогарата, втори етаж, до детския кът и Subway. , Всеки четвъртък и понеделник от 18 часа. , edit: https://goclubdb.herokuapp.com/club/252/",
+        "name": "Варна"
+      },
       "type": "Feature"
     }
-  ], 
+  ],
   "type": "FeatureCollection"
 }

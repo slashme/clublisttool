@@ -3,18 +3,18 @@
     {
       "geometry": {
         "coordinates": [
-          -56.184051, 
+          -56.184051,
           -34.9012149
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "UY", 
+      },
+      "layer": "UY",
       "properties": {
-        "description": "http://www.fedibergo.org/miembros/uruguay , Paysandú 1919/2, Montevideo , los martes a partir de 19:30 , gouruguay@gmail.com , edit: https://goclubdb.herokuapp.com/club/211/", 
+        "description": "http://www.fedibergo.org/miembros/uruguay , Paysandú 1919/2, Montevideo , los martes a partir de 19:30 , gouruguay@gmail.com , edit: https://goclubdb.herokuapp.com/club/211/",
         "name": "Montevideo"
-      }, 
+      },
       "type": "Feature"
     }
-  ], 
+  ],
   "type": "FeatureCollection"
 }

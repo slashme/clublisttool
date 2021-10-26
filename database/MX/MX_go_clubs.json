@@ -3,138 +3,138 @@
     {
       "geometry": {
         "coordinates": [
-          -99.1491356348, 
-          19.4286691466
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "MX", 
-      "properties": {
-        "description": "http://go.org.mx/index.php/recursos/donde-jugar , Biblioteca de México - Sala Infantil, Plaza de la Ciudadela No.4, Col. Centro , Sábados, 4:30 a 5:30 p.m. , kconsuegra@conaculta.gob.mx , edit: https://goclubdb.herokuapp.com/club/176/", 
-        "name": "Biblioteca de México"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -106.065380508334, 
+          -106.065380508334,
           28.6296773539755
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "MX", 
+      },
+      "layer": "MX",
       "properties": {
-        "description": "http://go.org.mx/index.php/recursos/donde-jugar , Círculo de Go en ISKRA Casa de Cultura, Av. Independencia 3205, Chihuahua , edit: https://goclubdb.herokuapp.com/club/175/", 
+        "description": "http://go.org.mx/index.php/recursos/donde-jugar , Círculo de Go en ISKRA Casa de Cultura, Av. Independencia 3205, Chihuahua , edit: https://goclubdb.herokuapp.com/club/175/",
         "name": "Chihuahua"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -99.1791971603, 
+          -99.1491356348,
+          19.4286691466
+        ],
+        "type": "Point"
+      },
+      "layer": "MX",
+      "properties": {
+        "description": "http://go.org.mx/index.php/recursos/donde-jugar , Biblioteca de México - Sala Infantil, Plaza de la Ciudadela No.4, Col. Centro , Sábados, 4:30 a 5:30 p.m. , kconsuegra@conaculta.gob.mx , edit: https://goclubdb.herokuapp.com/club/176/",
+        "name": "Biblioteca de México"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.1791971603,
           19.3246754964
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "MX", 
+      },
+      "layer": "MX",
       "properties": {
-        "description": "http://go.org.mx/index.php/recursos/donde-jugar , Frente a la fuente de Prometeo, Fac. de Ciencias, Ciudad, Universitaria, UNAM , Jueves, 2:00 a 7:00 p.m. , edit: https://goclubdb.herokuapp.com/club/177/", 
+        "description": "http://go.org.mx/index.php/recursos/donde-jugar , Frente a la fuente de Prometeo, Fac. de Ciencias, Ciudad, Universitaria, UNAM , Jueves, 2:00 a 7:00 p.m. , edit: https://goclubdb.herokuapp.com/club/177/",
         "name": "Club de Go Ciencias - Jueves"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -99.1932368348, 
+          -99.1932368348,
           19.32027175
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "MX", 
+      },
+      "layer": "MX",
       "properties": {
-        "description": "http://go.org.mx/index.php/recursos/donde-jugar , Jardín \"El Pulpo\", Fac. de Ciencias, Ciudad Universitaria, UNAM , Lunes a viernes, 10:00 a.m. a 6:00 p.m. (informal) , edit: https://goclubdb.herokuapp.com/club/178/", 
+        "description": "http://go.org.mx/index.php/recursos/donde-jugar , Jardín \"El Pulpo\", Fac. de Ciencias, Ciudad Universitaria, UNAM , Lunes a viernes, 10:00 a.m. a 6:00 p.m. (informal) , edit: https://goclubdb.herokuapp.com/club/178/",
         "name": "Club de Go Ciencias - Lunes a viernes"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -99.1880591788889, 
+          -99.1880591788889,
           19.3321035687833
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "MX", 
+      },
+      "layer": "MX",
       "properties": {
-        "description": "http://go.org.mx/index.php/recursos/donde-jugar , Rectoría, Frontones y Bigotes, Ciudad Universitaria, UNAM , Viernes, 2:00 a 6:00 p.m. , edit: https://goclubdb.herokuapp.com/club/179/", 
+        "description": "http://go.org.mx/index.php/recursos/donde-jugar , Rectoría, Frontones y Bigotes, Ciudad Universitaria, UNAM , Viernes, 2:00 a 6:00 p.m. , edit: https://goclubdb.herokuapp.com/club/179/",
         "name": "Espacios Recreativos de la DGACU"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -99.1620227599855, 
+          -99.1620227599855,
           19.4413382855449
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "MX", 
+      },
+      "layer": "MX",
       "properties": {
-        "description": "http://go.org.mx/index.php/recursos/donde-jugar , Icazbalceta 25, Col. San Rafael, Del. Cuauhtémoc , Lunes a viernes, 4:00 a 5:30 p.m. , edit: https://goclubdb.herokuapp.com/club/180/", 
+        "description": "http://go.org.mx/index.php/recursos/donde-jugar , Icazbalceta 25, Col. San Rafael, Del. Cuauhtémoc , Lunes a viernes, 4:00 a 5:30 p.m. , edit: https://goclubdb.herokuapp.com/club/180/",
         "name": "Gimnasio de Go"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -101.2528734, 
-          21.0156233
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "MX", 
-      "properties": {
-        "description": "http://go.org.mx/index.php/recursos/donde-jugar , Restaurante \"El Minero\", Guanajuato: Se encuentra al lado del hotel el minero, a la mitad del camino entre la Alhóndiga y la glorieta de Dos Ríos. , Jueves, 6:00 p.m. , edit: https://goclubdb.herokuapp.com/club/182/", 
-        "name": "Guanajuato"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -100.4168168, 
-          20.5672273
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "MX", 
-      "properties": {
-        "description": "http://go.org.mx/index.php/recursos/donde-jugar , Plaza de Armas (bancas alrededor de la fuente), Querétaro , Sábados, 4:00 p.m. , Gerardo de la Garza Castañeda - gerardo.dlg@gmail.com , edit: https://goclubdb.herokuapp.com/club/183/", 
-        "name": "Querétaro"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -99.1745495, 
+          -99.1745495,
           19.3890077
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "MX", 
+      },
+      "layer": "MX",
       "properties": {
-        "description": "http://go.org.mx/index.php/recursos/donde-jugar , Prol. Eugenia #17, Col. Nápoles\r\nDel. B. Juárez , Sábados, 12:00 p.m. , edit: https://goclubdb.herokuapp.com/club/181/", 
+        "description": "http://go.org.mx/index.php/recursos/donde-jugar , Prol. Eugenia #17, Col. Nápoles\r\nDel. B. Juárez , Sábados, 12:00 p.m. , edit: https://goclubdb.herokuapp.com/club/181/",
         "name": "Templo Budista Ekoji"
-      }, 
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -101.2528734,
+          21.0156233
+        ],
+        "type": "Point"
+      },
+      "layer": "MX",
+      "properties": {
+        "description": "http://go.org.mx/index.php/recursos/donde-jugar , Restaurante \"El Minero\", Guanajuato: Se encuentra al lado del hotel el minero, a la mitad del camino entre la Alhóndiga y la glorieta de Dos Ríos. , Jueves, 6:00 p.m. , edit: https://goclubdb.herokuapp.com/club/182/",
+        "name": "Guanajuato"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -100.4168168,
+          20.5672273
+        ],
+        "type": "Point"
+      },
+      "layer": "MX",
+      "properties": {
+        "description": "http://go.org.mx/index.php/recursos/donde-jugar , Plaza de Armas (bancas alrededor de la fuente), Querétaro , Sábados, 4:00 p.m. , Gerardo de la Garza Castañeda - gerardo.dlg@gmail.com , edit: https://goclubdb.herokuapp.com/club/183/",
+        "name": "Querétaro"
+      },
       "type": "Feature"
     }
-  ], 
+  ],
   "type": "FeatureCollection"
 }

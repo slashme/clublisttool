@@ -3,414 +3,414 @@
     {
       "geometry": {
         "coordinates": [
-          -79.2455030481644, 
-          43.1192919296601
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "CA", 
-      "properties": {
-        "description": "http://www.brocku.ca/goclub/ , Room MC J434, 500 Glenridge Avenue, St.Catharines, Ontario , Wednesdays 5-8 pm, meets only during teaching terms , twolf@brocku.ca , edit: https://goclubdb.herokuapp.com/club/192/", 
-        "name": "Brock University"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -60.2004234, 
-          46.1473724
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "CA", 
-      "properties": {
-        "description": "http://go-canada.org/Club/Display/1023 , George St., Sydney, Nova Scotia , Meeting time is in the weekend. Contact us to confirm time and venue. , capebretongoclub@gmail.com , edit: https://goclubdb.herokuapp.com/club/190/", 
-        "name": "Cape Breton"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -71.8904703855514, 
-          45.4018474752126
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "CA", 
-      "properties": {
-        "description": "https://www.facebook.com/groups/1639520386328504 , At the \"L'oeil de Chat\", you might see it as \"MysTea\" on the map. , Every tuesday from 19h to 22~23h , You can contact us on the facebook group if you want to play any other time. There are players from all ranks, from absolute beginners(30k) to rather strong players (5D) , edit: https://goclubdb.herokuapp.com/club/281/", 
-        "name": "Club de Go de Sherbrooke"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -72.5425530386, 
+          -72.5425530386,
           46.3419043489
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "CA", 
+      },
+      "layer": "CA",
       "properties": {
-        "description": "Nord-Ouest Café\r\n1441, rue Notre-Dame Centre\r\nTrois-Rivières\r\nQuébec , Deux fois par mois , Petit club qui se rencontre deux fois par mois. Les joueurs de tous les niveaux sont les bienvenus ! Pour connaître notre prochaine rencontre, contactez solarbear @ le site de courriels de Google. , edit: https://goclubdb.herokuapp.com/club/2/", 
+        "description": "Nord-Ouest Café\r\n1441, rue Notre-Dame Centre\r\nTrois-Rivières\r\nQuébec , Deux fois par mois , Petit club qui se rencontre deux fois par mois. Les joueurs de tous les niveaux sont les bienvenus ! Pour connaître notre prochaine rencontre, contactez solarbear @ le site de courriels de Google. , edit: https://goclubdb.herokuapp.com/club/2/",
         "name": "Club de go de Trois-Rivières"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -81.2460536970734, 
-          42.9842858634802
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "CA", 
-      "properties": {
-        "description": "https://forestcitygo.wordpress.com/ , London Public Library Central Branch, 251 Dundas Street, London, Ontario , every Tuesday from 6pm to 9pm , kenshin767@gmail.com , edit: https://goclubdb.herokuapp.com/club/193/", 
-        "name": "Forest City"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -82.1903605, 
-          42.4075084
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "CA", 
-      "properties": {
-        "description": "http://go-canada.org/Club/Display/1021 , at the GME, 55 Saint Clair street, Chatham , every Saturday from noon until 5pm , Dragonkay88@gmail.com , edit: https://goclubdb.herokuapp.com/club/194/", 
-        "name": "Gaming club of Chatham-kent"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -79.4074554666667, 
-          43.73142505
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "CA", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "description": "http://go-canada.org/Club/Display/2 , 281 Jedburgh Rd, Toronto, Ontario , Kids lessons:Mondays 7-8:30, Thursdays 7-8:30;\r\nAdult play/study: Mondays 8-11 , james_sedgwick2003@yahoo.com , edit: https://goclubdb.herokuapp.com/club/195/", 
-        "name": "Go at the Sedgwick's"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -79.6558459, 
-          43.5667374
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "CA", 
-      "properties": {
-        "description": "http://goldenkeygoschool.weebly.com/go-class.html , 3558 Erindale Station Road, Mississauga , Beginner:      Sun 1:00 pm to 2:30 pm (Mandarin and English Class)\r\nIntermediate: Monday 6:30 pm to 8:30 pm (English Class)\r\nAdvance:      Tuesday 6:30 pm to 9:00 pm \r\nReview:     Friday 6:30 pm to 9:00 pm , chineseculture.center@gmail.com , edit: https://goclubdb.herokuapp.com/club/196/", 
-        "name": "Golden Key Go Class - Mississauga"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -64.8047098, 
-          46.0613596
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "CA", 
-      "properties": {
-        "description": "http://go-canada.org/Club/Display/11 , 34 Honour House Crt, Riverview, New Brunswick , every Tuesday from 2:00 to 4:30 , https://www.facebook.com/GreaterMonctonGoClub , edit: https://goclubdb.herokuapp.com/club/189/", 
-        "name": "Greater Moncton"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -63.5763439333333, 
-          44.6349213166667
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "CA", 
-      "properties": {
-        "description": "http://go-canada.org/Club/Display/1015 , Uncommon Grounds Cafe, 1030 South Park Street, Halifax , every Tuesday night, from 7-10 , tkolokol@gmail.com , edit: https://goclubdb.herokuapp.com/club/191/", 
-        "name": "Halifax"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -97.1432556, 
-          49.8761125
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "CA", 
-      "properties": {
-        "description": "http://go-canada.org/Club/Display/7 , game knight games, 2nd floor, 726 Osborne st, Winnipeg , Tuesdays 6 PM - 10 PM , iamtengen@gmail.com , edit: https://goclubdb.herokuapp.com/club/188/", 
-        "name": "Manitoba Go Association"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -79.840178032339, 
-          43.195403244255
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "CA", 
-      "properties": {
-        "description": "http://mountaingoclub.org/ , Hamilton Japanese Cultural Center, 45 Hempstead Dr, Hamilton, Ontario , every Thursday from 6:30 p.m. to 9:30 p.m. , nick@mountaingoclub.org , edit: https://goclubdb.herokuapp.com/club/197/", 
-        "name": "Mountain Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -75.6838498372638, 
-          45.4226270665257
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "CA", 
-      "properties": {
-        "description": "http://goclubottawa.lexosites.com/en/ , Student Lounge (room 102), Jock-Turcot (UniCentre), 85 University Private,\r\nOttawa , Every Monday from 7 – 10:30 PM , https://www.facebook.com/OutaGo , edit: https://goclubdb.herokuapp.com/club/198/", 
-        "name": "Outago"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -77.3849303883475, 
-          44.1658876835077
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "CA", 
-      "properties": {
-        "description": "http://www.facebook.com/quintegoclub/ , The Urban Escape Cafe, 279 Front Street, Belleville , Saturdays from 1pm to 4pm , quintegoclub@hotmail.com , edit: https://goclubdb.herokuapp.com/club/199/", 
-        "name": "Quinte Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -104.591124171934, 
-          50.4165866005164
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "CA", 
-      "properties": {
-        "description": "http://go-canada.org/Club/Display/9 , University of Regina Riddell Centre food court, 3737 Wascana Parkway, Regina , Friday night from about 8:00pm until 11:00 pm , gkerr@cips.ca , edit: https://goclubdb.herokuapp.com/club/207/", 
-        "name": "Regina"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -73.6039093958763, 
-          45.5366086865979
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "CA", 
-      "properties": {
-        "description": "https://www.facebook.com/salonsenthe , Senthé Salon de thé et de go, 6547 Rue St-Hubert, Montreal , goaqjg@gmail.com , edit: https://goclubdb.herokuapp.com/club/206/", 
-        "name": "Senthé Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -122.9206183, 
-          49.2777493
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "CA", 
-      "properties": {
-        "description": "https://www.facebook.com/groups/sfugo , Burnaby Mountain campus - various locations (see Facebook group for more information) , Typically Fridays at 3:30PM , cwzhang@sfu.ca , edit: https://goclubdb.herokuapp.com/club/185/", 
-        "name": "SFU Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -73.3453204, 
-          45.5298967
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "CA", 
-      "properties": {
-        "description": "https://www.facebook.com/Club-de-Go-de-Saint-Bruno-de-Montarville-152260618256304/ , La Tasse Verte, 1473 rue Montarville, Saint-Bruno-de-Montarville , every Saturday morning from 8 to 11 am / tous les samedis matin de 8h à 11h , edit: https://goclubdb.herokuapp.com/club/205/", 
-        "name": "St-Bruno"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -79.2667474, 
-          43.7299437
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "CA", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "description": "http://go-canada.org/Club/Display/1022 , St. Maria Goretti school, 21 Kenmark Blvd., Toronto , School club: only for school pupils! Meets in the ARK every Wednesday at 11:35am , edit: https://goclubdb.herokuapp.com/club/200/", 
-        "name": "St. Maria GOretti GO club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -79.3809080949955, 
-          43.6665184
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "CA", 
-      "properties": {
-        "description": "http://www.torontogoclub.org , Room 303, The 519 Community Centre, 519 Church Street, Toronto , Sundays from 1:00 pm to 5:00 pm , torontogoclub+subscribe@googlegroups.com , edit: https://goclubdb.herokuapp.com/club/201/", 
-        "name": "Toronto"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -79.3380811, 
-          43.8539809
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "CA", 
-      "properties": {
-        "description": "http://go-canada.org/Club/Display/1019 , Room 705, 3601 Highway 7, Markham, Ontario , Go class on Sat and Sun , noseki88@gmail.com , edit: https://goclubdb.herokuapp.com/club/202/", 
-        "name": "Toronto Go School"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -113.5255948, 
+          -113.5255948,
           53.5247335
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "CA", 
+      },
+      "layer": "CA",
       "properties": {
-        "description": "http://go-canada.org/Club/Display/10 , 8900 114 Street Northwest, Edmonton, Alberta , every Sunday from 2pm to 4pm , edmontongoclub@gmail.com 7809949055 , edit: https://goclubdb.herokuapp.com/club/184/", 
+        "description": "http://go-canada.org/Club/Display/10 , 8900 114 Street Northwest, Edmonton, Alberta , every Sunday from 2pm to 4pm , edmontongoclub@gmail.com 7809949055 , edit: https://goclubdb.herokuapp.com/club/184/",
         "name": "University of Alberta"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -123.254362076, 
+          -122.9206183,
+          49.2777493
+        ],
+        "type": "Point"
+      },
+      "layer": "CA",
+      "properties": {
+        "description": "https://www.facebook.com/groups/sfugo , Burnaby Mountain campus - various locations (see Facebook group for more information) , Typically Fridays at 3:30PM , cwzhang@sfu.ca , edit: https://goclubdb.herokuapp.com/club/185/",
+        "name": "SFU Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.254362076,
           49.2682676506
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "CA", 
+      },
+      "layer": "CA",
       "properties": {
-        "description": "https://www.facebook.com/groups/25789055040/ , Nest Room 2514, 6133 University Blvd, UBC, Vancouver, BC , every Monday from 3-6pm , edit: https://goclubdb.herokuapp.com/club/186/", 
+        "description": "https://www.facebook.com/groups/25789055040/ , Nest Room 2514, 6133 University Blvd, UBC, Vancouver, BC , every Monday from 3-6pm , edit: https://goclubdb.herokuapp.com/club/186/",
         "name": "University of British Columbia"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -79.3954520676529, 
-          43.6609392083502
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "CA", 
-      "properties": {
-        "description": "http://www.uoftgoclub.com/ , 27 King's College Cir, Toronto, Ontario , See website , uoftgoclub@gmail.com , edit: https://goclubdb.herokuapp.com/club/203/", 
-        "name": "University of Toronto"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -80.5367001, 
-          43.4714103
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "CA", 
-      "properties": {
-        "description": "http://go-canada.org/Club/Display/4 , 200 University Avenue West, Waterloo, Ontario , every Tuesday from 5:30-10pm , https://www.facebook.com/groups/uwgoclub/ , edit: https://goclubdb.herokuapp.com/club/204/", 
-        "name": "University of Waterloo"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -122.964549291439, 
+          -122.964549291439,
           49.2177142851428
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "CA", 
+      },
+      "layer": "CA",
       "properties": {
-        "description": "http://www.geocities.jp/qxbqd097/Vango2.htm , Room: 250, Nikkei Place, 6688 Southoaks Crescent, Burnaby , roughly every other Saturday 1-5pm- see our website for the exact days. , http://go-canada.org/Club/Display/1025 , edit: https://goclubdb.herokuapp.com/club/187/", 
+        "description": "http://www.geocities.jp/qxbqd097/Vango2.htm , Room: 250, Nikkei Place, 6688 Southoaks Crescent, Burnaby , roughly every other Saturday 1-5pm- see our website for the exact days. , http://go-canada.org/Club/Display/1025 , edit: https://goclubdb.herokuapp.com/club/187/",
         "name": "Vancouver"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -135.06895895, 
-          60.7320825641
-        ], 
+          -97.1432556,
+          49.8761125
+        ],
         "type": "Point"
-      }, 
-      "layer": "CA", 
+      },
+      "layer": "CA",
       "properties": {
-        "description": "https://www.facebook.com/whitehorsegoclub , At the Starbucks by Walmart, 80 Chilkoot Way, Whitehorse, Yukon , every Monday, from 6pm-9pm , tjbowlby@gmail.com , edit: https://goclubdb.herokuapp.com/club/208/", 
+        "description": "http://go-canada.org/Club/Display/7 , game knight games, 2nd floor, 726 Osborne st, Winnipeg , Tuesdays 6 PM - 10 PM , iamtengen@gmail.com , edit: https://goclubdb.herokuapp.com/club/188/",
+        "name": "Manitoba Go Association"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -64.8047098,
+          46.0613596
+        ],
+        "type": "Point"
+      },
+      "layer": "CA",
+      "properties": {
+        "description": "http://go-canada.org/Club/Display/11 , 34 Honour House Crt, Riverview, New Brunswick , every Tuesday from 2:00 to 4:30 , https://www.facebook.com/GreaterMonctonGoClub , edit: https://goclubdb.herokuapp.com/club/189/",
+        "name": "Greater Moncton"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -60.2004234,
+          46.1473724
+        ],
+        "type": "Point"
+      },
+      "layer": "CA",
+      "properties": {
+        "description": "http://go-canada.org/Club/Display/1023 , George St., Sydney, Nova Scotia , Meeting time is in the weekend. Contact us to confirm time and venue. , capebretongoclub@gmail.com , edit: https://goclubdb.herokuapp.com/club/190/",
+        "name": "Cape Breton"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -63.5763439333333,
+          44.6349213166667
+        ],
+        "type": "Point"
+      },
+      "layer": "CA",
+      "properties": {
+        "description": "http://go-canada.org/Club/Display/1015 , Uncommon Grounds Cafe, 1030 South Park Street, Halifax , every Tuesday night, from 7-10 , tkolokol@gmail.com , edit: https://goclubdb.herokuapp.com/club/191/",
+        "name": "Halifax"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.2455030481644,
+          43.1192919296601
+        ],
+        "type": "Point"
+      },
+      "layer": "CA",
+      "properties": {
+        "description": "http://www.brocku.ca/goclub/ , Room MC J434, 500 Glenridge Avenue, St.Catharines, Ontario , Wednesdays 5-8 pm, meets only during teaching terms , twolf@brocku.ca , edit: https://goclubdb.herokuapp.com/club/192/",
+        "name": "Brock University"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.2460536970734,
+          42.9842858634802
+        ],
+        "type": "Point"
+      },
+      "layer": "CA",
+      "properties": {
+        "description": "https://forestcitygo.wordpress.com/ , London Public Library Central Branch, 251 Dundas Street, London, Ontario , every Tuesday from 6pm to 9pm , kenshin767@gmail.com , edit: https://goclubdb.herokuapp.com/club/193/",
+        "name": "Forest City"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.1903605,
+          42.4075084
+        ],
+        "type": "Point"
+      },
+      "layer": "CA",
+      "properties": {
+        "description": "http://go-canada.org/Club/Display/1021 , at the GME, 55 Saint Clair street, Chatham , every Saturday from noon until 5pm , Dragonkay88@gmail.com , edit: https://goclubdb.herokuapp.com/club/194/",
+        "name": "Gaming club of Chatham-kent"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.4074554666667,
+          43.73142505
+        ],
+        "type": "Point"
+      },
+      "layer": "CA",
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        },
+        "description": "http://go-canada.org/Club/Display/2 , 281 Jedburgh Rd, Toronto, Ontario , Kids lessons:Mondays 7-8:30, Thursdays 7-8:30;\r\nAdult play/study: Mondays 8-11 , james_sedgwick2003@yahoo.com , edit: https://goclubdb.herokuapp.com/club/195/",
+        "name": "Go at the Sedgwick's"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.6558459,
+          43.5667374
+        ],
+        "type": "Point"
+      },
+      "layer": "CA",
+      "properties": {
+        "description": "http://goldenkeygoschool.weebly.com/go-class.html , 3558 Erindale Station Road, Mississauga , Beginner:      Sun 1:00 pm to 2:30 pm (Mandarin and English Class)\r\nIntermediate: Monday 6:30 pm to 8:30 pm (English Class)\r\nAdvance:      Tuesday 6:30 pm to 9:00 pm \r\nReview:     Friday 6:30 pm to 9:00 pm , chineseculture.center@gmail.com , edit: https://goclubdb.herokuapp.com/club/196/",
+        "name": "Golden Key Go Class - Mississauga"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.840178032339,
+          43.195403244255
+        ],
+        "type": "Point"
+      },
+      "layer": "CA",
+      "properties": {
+        "description": "http://mountaingoclub.org/ , Hamilton Japanese Cultural Center, 45 Hempstead Dr, Hamilton, Ontario , every Thursday from 6:30 p.m. to 9:30 p.m. , nick@mountaingoclub.org , edit: https://goclubdb.herokuapp.com/club/197/",
+        "name": "Mountain Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.6838498372638,
+          45.4226270665257
+        ],
+        "type": "Point"
+      },
+      "layer": "CA",
+      "properties": {
+        "description": "http://goclubottawa.lexosites.com/en/ , Student Lounge (room 102), Jock-Turcot (UniCentre), 85 University Private,\r\nOttawa , Every Monday from 7 – 10:30 PM , https://www.facebook.com/OutaGo , edit: https://goclubdb.herokuapp.com/club/198/",
+        "name": "Outago"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.3849303883475,
+          44.1658876835077
+        ],
+        "type": "Point"
+      },
+      "layer": "CA",
+      "properties": {
+        "description": "http://www.facebook.com/quintegoclub/ , The Urban Escape Cafe, 279 Front Street, Belleville , Saturdays from 1pm to 4pm , quintegoclub@hotmail.com , edit: https://goclubdb.herokuapp.com/club/199/",
+        "name": "Quinte Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.2667474,
+          43.7299437
+        ],
+        "type": "Point"
+      },
+      "layer": "CA",
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        },
+        "description": "http://go-canada.org/Club/Display/1022 , St. Maria Goretti school, 21 Kenmark Blvd., Toronto , School club: only for school pupils! Meets in the ARK every Wednesday at 11:35am , edit: https://goclubdb.herokuapp.com/club/200/",
+        "name": "St. Maria GOretti GO club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.3809080949955,
+          43.6665184
+        ],
+        "type": "Point"
+      },
+      "layer": "CA",
+      "properties": {
+        "description": "http://www.torontogoclub.org , Room 303, The 519 Community Centre, 519 Church Street, Toronto , Sundays from 1:00 pm to 5:00 pm , torontogoclub+subscribe@googlegroups.com , edit: https://goclubdb.herokuapp.com/club/201/",
+        "name": "Toronto"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.3380811,
+          43.8539809
+        ],
+        "type": "Point"
+      },
+      "layer": "CA",
+      "properties": {
+        "description": "http://go-canada.org/Club/Display/1019 , Room 705, 3601 Highway 7, Markham, Ontario , Go class on Sat and Sun , noseki88@gmail.com , edit: https://goclubdb.herokuapp.com/club/202/",
+        "name": "Toronto Go School"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.3954520676529,
+          43.6609392083502
+        ],
+        "type": "Point"
+      },
+      "layer": "CA",
+      "properties": {
+        "description": "http://www.uoftgoclub.com/ , 27 King's College Cir, Toronto, Ontario , See website , uoftgoclub@gmail.com , edit: https://goclubdb.herokuapp.com/club/203/",
+        "name": "University of Toronto"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -80.5367001,
+          43.4714103
+        ],
+        "type": "Point"
+      },
+      "layer": "CA",
+      "properties": {
+        "description": "http://go-canada.org/Club/Display/4 , 200 University Avenue West, Waterloo, Ontario , every Tuesday from 5:30-10pm , https://www.facebook.com/groups/uwgoclub/ , edit: https://goclubdb.herokuapp.com/club/204/",
+        "name": "University of Waterloo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.3453204,
+          45.5298967
+        ],
+        "type": "Point"
+      },
+      "layer": "CA",
+      "properties": {
+        "description": "https://www.facebook.com/Club-de-Go-de-Saint-Bruno-de-Montarville-152260618256304/ , La Tasse Verte, 1473 rue Montarville, Saint-Bruno-de-Montarville , every Saturday morning from 8 to 11 am / tous les samedis matin de 8h à 11h , edit: https://goclubdb.herokuapp.com/club/205/",
+        "name": "St-Bruno"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.6039093958763,
+          45.5366086865979
+        ],
+        "type": "Point"
+      },
+      "layer": "CA",
+      "properties": {
+        "description": "https://www.facebook.com/salonsenthe , Senthé Salon de thé et de go, 6547 Rue St-Hubert, Montreal , goaqjg@gmail.com , edit: https://goclubdb.herokuapp.com/club/206/",
+        "name": "Senthé Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.591124171934,
+          50.4165866005164
+        ],
+        "type": "Point"
+      },
+      "layer": "CA",
+      "properties": {
+        "description": "http://go-canada.org/Club/Display/9 , University of Regina Riddell Centre food court, 3737 Wascana Parkway, Regina , Friday night from about 8:00pm until 11:00 pm , gkerr@cips.ca , edit: https://goclubdb.herokuapp.com/club/207/",
+        "name": "Regina"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -135.06895895,
+          60.7320825641
+        ],
+        "type": "Point"
+      },
+      "layer": "CA",
+      "properties": {
+        "description": "https://www.facebook.com/whitehorsegoclub , At the Starbucks by Walmart, 80 Chilkoot Way, Whitehorse, Yukon , every Monday, from 6pm-9pm , tjbowlby@gmail.com , edit: https://goclubdb.herokuapp.com/club/208/",
         "name": "Whitehorse Go Club"
-      }, 
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.8904703855514,
+          45.4018474752126
+        ],
+        "type": "Point"
+      },
+      "layer": "CA",
+      "properties": {
+        "description": "https://www.facebook.com/groups/1639520386328504 , At the \"L'oeil de Chat\", you might see it as \"MysTea\" on the map. , Every tuesday from 19h to 22~23h , You can contact us on the facebook group if you want to play any other time. There are players from all ranks, from absolute beginners(30k) to rather strong players (5D) , edit: https://goclubdb.herokuapp.com/club/281/",
+        "name": "Club de Go de Sherbrooke"
+      },
       "type": "Feature"
     }
-  ], 
+  ],
   "type": "FeatureCollection"
 }

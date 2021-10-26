@@ -3,18 +3,18 @@
     {
       "geometry": {
         "coordinates": [
-          117.127895447, 
+          117.127895447,
           36.6716050096
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "CN", 
+      },
+      "layer": "CN",
       "properties": {
-        "description": "edit: https://goclubdb.herokuapp.com/club/1360/", 
+        "description": "edit: https://goclubdb.herokuapp.com/club/1360/",
         "name": "济南市"
-      }, 
+      },
       "type": "Feature"
     }
-  ], 
+  ],
   "type": "FeatureCollection"
 }

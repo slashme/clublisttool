@@ -3,63 +3,63 @@
     {
       "geometry": {
         "coordinates": [
-          24.9379, 
-          60.176
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "FI", 
-      "properties": {
-        "description": "http://www.suomigo.net/wiki/HelsinginGoKerho , Sunny Bay Restaurant, Alvar Aallon katu 3, 00100 Helsinki , Tiistai klo 17:00-21:00\r\nTuesday 17:00-21:00 , edit: https://goclubdb.herokuapp.com/club/63/", 
-        "name": "Helsingin go-kerho"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          24.8259150981, 
+          24.8259150981,
           60.1893357583
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "FI", 
+      },
+      "layer": "FI",
       "properties": {
-        "description": "https://www.facebook.com/polingokerho/?fref=ts , In association room 240-241. , Every monday, at least between 18-21 , edit: https://goclubdb.herokuapp.com/club/5/", 
+        "description": "https://www.facebook.com/polingokerho/?fref=ts , In association room 240-241. , Every monday, at least between 18-21 , edit: https://goclubdb.herokuapp.com/club/5/",
         "name": "Polin Go-club"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          25.739942193, 
+          24.9379,
+          60.176
+        ],
+        "type": "Point"
+      },
+      "layer": "FI",
+      "properties": {
+        "description": "http://www.suomigo.net/wiki/HelsinginGoKerho , Sunny Bay Restaurant, Alvar Aallon katu 3, 00100 Helsinki , Tiistai klo 17:00-21:00\r\nTuesday 17:00-21:00 , edit: https://goclubdb.herokuapp.com/club/63/",
+        "name": "Helsingin go-kerho"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.739942193,
           62.2387011579
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "FI", 
+      },
+      "layer": "FI",
       "properties": {
-        "description": "http://www.suomigo.net/wiki/Tengen , Bar Vakiopaine, Kauppakatu 6 , Wednesdays 18:00 onwards , edit: https://goclubdb.herokuapp.com/club/79/", 
+        "description": "http://www.suomigo.net/wiki/Tengen , Bar Vakiopaine, Kauppakatu 6 , Wednesdays 18:00 onwards , edit: https://goclubdb.herokuapp.com/club/79/",
         "name": "Tengen Jyväskylä"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          24.947261, 
+          24.947261,
           60.171825
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "FI", 
+      },
+      "layer": "FI",
       "properties": {
-        "description": "https://www.suomigo.net/wiki/PeliIllat , Kaisla Oluthuone bar\r\nHelsinki , wednesdays 19:00-22:00 , edit: https://goclubdb.herokuapp.com/club/302/", 
+        "description": "https://www.suomigo.net/wiki/PeliIllat , Kaisla Oluthuone bar\r\nHelsinki , wednesdays 19:00-22:00 , edit: https://goclubdb.herokuapp.com/club/302/",
         "name": "Yligo"
-      }, 
+      },
       "type": "Feature"
     }
-  ], 
+  ],
   "type": "FeatureCollection"
 }

@@ -3,18 +3,18 @@
     {
       "geometry": {
         "coordinates": [
-          -84.3893710693331, 
+          -84.3893710693331,
           9.87734055
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "CR", 
+      },
+      "layer": "CR",
       "properties": {
-        "description": "Salón Parroquial de Tibás, en el 2do piso , Todos los sábados a partir de las 3pm , edit: https://goclubdb.herokuapp.com/club/209/", 
+        "description": "Salón Parroquial de Tibás, en el 2do piso , Todos los sábados a partir de las 3pm , edit: https://goclubdb.herokuapp.com/club/209/",
         "name": "Salón Parroquial de Tibás"
-      }, 
+      },
       "type": "Feature"
     }
-  ], 
+  ],
   "type": "FeatureCollection"
 }

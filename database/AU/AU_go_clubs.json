@@ -3,189 +3,189 @@
     {
       "geometry": {
         "coordinates": [
-          151.207206398066, 
-          -33.8818034236674
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "AU", 
-      "properties": {
-        "description": "http://club.artofgo.org/ , Facebook , Mon - Sun connect via Facebook and website , David Mitchell - 0413 080 900 , edit: https://goclubdb.herokuapp.com/club/296/", 
-        "name": "Austrlaian Online Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          153.0326894, 
-          -27.510319
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "AU", 
-      "properties": {
-        "description": "http://brisbane.go.org.au/ , 478 Ipswich Road, Annerley, Queensland, Australia , Tuesday evening 18:00 to 22:30 , secretary@brisbane.go.org.au , edit: https://goclubdb.herokuapp.com/club/28/", 
-        "name": "Brisbane Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          149.121151672, 
-          -35.279755145
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "AU", 
-      "properties": {
-        "description": "http://canberra.go.org.au/ , Ground floor, Asian Studies building, Australian National University campus - entrance off Ellery Circuit , Wednesday evenings from 6.30pm til late , Neville Smythe, 02 6232 7277 (H); email Neville.Smythe@optusnet.com.au , edit: https://goclubdb.herokuapp.com/club/31/", 
-        "name": "Canberra Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          153.34812504797, 
-          -27.8783063254446
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "AU", 
-      "properties": {
-        "description": "http://goldcoast.go.org.au/ , Links Hope Island Golf Club, Hope Island Road, Hope Island, Queensland , last Sunday of each month from 1pm , goldcoast@go.org.au , edit: https://goclubdb.herokuapp.com/club/29/", 
-        "name": "Gold Coast Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          144.963916184, 
-          -37.79887285
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "AU", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Circle"
-        }, 
-        "description": "Sidney Myer Asia Centre, University of Melbourne , Club seems to be inactive. Used to be Room 120 (Mondays 1pm to 3pm), Room 117 (noon to 2pm) , http://groups.google.com/group/students-playing-go/ , edit: https://goclubdb.herokuapp.com/club/33/", 
-        "name": "Melbourne University Students Playing Go"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          115.8583386, 
-          -31.9365203
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "AU", 
-      "properties": {
-        "description": "http://perth.go.org.au/ , Tzu Chi Australia, 247 Fitzgerald Street, West Perth , Saturdays from 1pm to 4pm , Clive Hunt (clivehunt@bigpond.com)\r\n\r\nPerth Go Players (perth@go.org.au), members only posting, contact Peiran Guo to be added to the list. , edit: https://goclubdb.herokuapp.com/club/38/", 
-        "name": "Perth Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          153.300538651, 
-          -28.8188634
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "AU", 
-      "properties": {
-        "description": "Southern Cross University, Lismore , email for details , Robin Garner, robin.garner@gmail.com , edit: https://goclubdb.herokuapp.com/club/30/", 
-        "name": "SCU/Lismore Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          151.2115744, 
-          -33.8794743
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "AU", 
-      "properties": {
-        "description": "http://sydneygo.club , Philas House, 17 Brisbane Street, Surry Hills , Friday nights 5pm to 10pm , David Mitchell; email david@1wilshire2230.net.au , edit: https://goclubdb.herokuapp.com/club/34/", 
-        "name": "Sydney Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          151.212274432, 
+          151.212274432,
           -33.8779559705
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "AU", 
+      },
+      "layer": "AU",
       "properties": {
-        "description": "http://www.sydneygo.club , 1st Floor, Philas House, 17 Brisbane Street, Surry Hills , Every Friday from 5:00pm , secretary@sydney.baduk.org.au , edit: https://goclubdb.herokuapp.com/club/27/", 
+        "description": "http://www.sydneygo.club , 1st Floor, Philas House, 17 Brisbane Street, Surry Hills , Every Friday from 5:00pm , secretary@sydney.baduk.org.au , edit: https://goclubdb.herokuapp.com/club/27/",
         "name": "Sydney Go Club"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          147.323974285, 
-          -42.88000865
-        ], 
+          153.0326894,
+          -27.510319
+        ],
         "type": "Point"
-      }, 
-      "layer": "AU", 
+      },
+      "layer": "AU",
+      "properties": {
+        "description": "http://brisbane.go.org.au/ , 478 Ipswich Road, Annerley, Queensland, Australia , Tuesday evening 18:00 to 22:30 , secretary@brisbane.go.org.au , edit: https://goclubdb.herokuapp.com/club/28/",
+        "name": "Brisbane Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.34812504797,
+          -27.8783063254446
+        ],
+        "type": "Point"
+      },
+      "layer": "AU",
+      "properties": {
+        "description": "http://goldcoast.go.org.au/ , Links Hope Island Golf Club, Hope Island Road, Hope Island, Queensland , last Sunday of each month from 1pm , goldcoast@go.org.au , edit: https://goclubdb.herokuapp.com/club/29/",
+        "name": "Gold Coast Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.300538651,
+          -28.8188634
+        ],
+        "type": "Point"
+      },
+      "layer": "AU",
+      "properties": {
+        "description": "Southern Cross University, Lismore , email for details , Robin Garner, robin.garner@gmail.com , edit: https://goclubdb.herokuapp.com/club/30/",
+        "name": "SCU/Lismore Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          149.121151672,
+          -35.279755145
+        ],
+        "type": "Point"
+      },
+      "layer": "AU",
+      "properties": {
+        "description": "http://canberra.go.org.au/ , Ground floor, Asian Studies building, Australian National University campus - entrance off Ellery Circuit , Wednesday evenings from 6.30pm til late , Neville Smythe, 02 6232 7277 (H); email Neville.Smythe@optusnet.com.au , edit: https://goclubdb.herokuapp.com/club/31/",
+        "name": "Canberra Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          145.1121762,
+          -37.8739558
+        ],
+        "type": "Point"
+      },
+      "layer": "AU",
+      "properties": {
+        "description": "http://senseis.xmp.net/?VictorianGoClub , Xin Jin Shan Chinese Library, Level 2, 13A Windsor Ave., Mt Waverley , Thursday evenings 7:00pm - 10:30pm , James Kaaden: victorian.go.club@gmail.com , edit: https://goclubdb.herokuapp.com/club/32/",
+        "name": "Victorian Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.963916184,
+          -37.79887285
+        ],
+        "type": "Point"
+      },
+      "layer": "AU",
       "properties": {
         "_storage_options": {
           "iconClass": "Circle"
-        }, 
-        "description": "https://www.facebook.com/pages/Tasmanian-Go-Club/196649457046277?fref=ts , Since the closure of Chado last year we have lost our regular meeting spot and we are now meeting only semi-regularly at members' houses. , Semi-regular - see Facebook group , Michael Cromer (mccromer@postoffice.utas.edu.au) , edit: https://goclubdb.herokuapp.com/club/37/", 
-        "name": "Tasmanian Go Club"
-      }, 
+        },
+        "description": "Sidney Myer Asia Centre, University of Melbourne , Club seems to be inactive. Used to be Room 120 (Mondays 1pm to 3pm), Room 117 (noon to 2pm) , http://groups.google.com/group/students-playing-go/ , edit: https://goclubdb.herokuapp.com/club/33/",
+        "name": "Melbourne University Students Playing Go"
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          151.225215465, 
+          151.2115744,
+          -33.8794743
+        ],
+        "type": "Point"
+      },
+      "layer": "AU",
+      "properties": {
+        "description": "http://sydneygo.club , Philas House, 17 Brisbane Street, Surry Hills , Friday nights 5pm to 10pm , David Mitchell; email david@1wilshire2230.net.au , edit: https://goclubdb.herokuapp.com/club/34/",
+        "name": "Sydney Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.225215465,
           -33.9169833
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "AU", 
+      },
+      "layer": "AU",
       "properties": {
-        "description": "http://www.unswgoclub.org/ , University of New South Wales, Kensington\r\nMain library seminary rooms 209/210, (Thursdays), Australian School of Business Theatre 119 (Wednesdays) , Thu. and Wed. 1pm to 6pm , https://www.facebook.com/groups/unswgoclub2012/ , edit: https://goclubdb.herokuapp.com/club/35/", 
+        "description": "http://www.unswgoclub.org/ , University of New South Wales, Kensington\r\nMain library seminary rooms 209/210, (Thursdays), Australian School of Business Theatre 119 (Wednesdays) , Thu. and Wed. 1pm to 6pm , https://www.facebook.com/groups/unswgoclub2012/ , edit: https://goclubdb.herokuapp.com/club/35/",
         "name": "UNSW Go Club"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          145.1121762, 
-          -37.8739558
-        ], 
+          147.323974285,
+          -42.88000865
+        ],
         "type": "Point"
-      }, 
-      "layer": "AU", 
+      },
+      "layer": "AU",
       "properties": {
-        "description": "http://senseis.xmp.net/?VictorianGoClub , Xin Jin Shan Chinese Library, Level 2, 13A Windsor Ave., Mt Waverley , Thursday evenings 7:00pm - 10:30pm , James Kaaden: victorian.go.club@gmail.com , edit: https://goclubdb.herokuapp.com/club/32/", 
-        "name": "Victorian Go Club"
-      }, 
+        "_storage_options": {
+          "iconClass": "Circle"
+        },
+        "description": "https://www.facebook.com/pages/Tasmanian-Go-Club/196649457046277?fref=ts , Since the closure of Chado last year we have lost our regular meeting spot and we are now meeting only semi-regularly at members' houses. , Semi-regular - see Facebook group , Michael Cromer (mccromer@postoffice.utas.edu.au) , edit: https://goclubdb.herokuapp.com/club/37/",
+        "name": "Tasmanian Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.8583386,
+          -31.9365203
+        ],
+        "type": "Point"
+      },
+      "layer": "AU",
+      "properties": {
+        "description": "http://perth.go.org.au/ , Tzu Chi Australia, 247 Fitzgerald Street, West Perth , Saturdays from 1pm to 4pm , Clive Hunt (clivehunt@bigpond.com)\r\n\r\nPerth Go Players (perth@go.org.au), members only posting, contact Peiran Guo to be added to the list. , edit: https://goclubdb.herokuapp.com/club/38/",
+        "name": "Perth Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.207206398066,
+          -33.8818034236674
+        ],
+        "type": "Point"
+      },
+      "layer": "AU",
+      "properties": {
+        "description": "http://club.artofgo.org/ , Facebook , Mon - Sun connect via Facebook and website , David Mitchell - 0413 080 900 , edit: https://goclubdb.herokuapp.com/club/296/",
+        "name": "Austrlaian Online Go Club"
+      },
       "type": "Feature"
     }
-  ], 
+  ],
   "type": "FeatureCollection"
 }

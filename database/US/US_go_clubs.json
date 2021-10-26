@@ -3,1149 +3,1149 @@
     {
       "geometry": {
         "coordinates": [
-          -66.2631368637074, 
-          18.4601114597807
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "https://www.facebook.com/prhscon/?fref=ts , every week different place/ working on monthly standard place , weekly , happykidshs@gmail.com , edit: https://goclubdb.herokuapp.com/club/225/", 
-        "name": "AGF Homeschool"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -106.619272828, 
-          35.0807861105
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "https://www.facebook.com/people/Albuquerque-Go-Club/100005582688990 , Frontier Restaurant\r\n2400 Central Ave SE\r\nAlbuquerque, NM 87106 , Wednesdays 7:00 PM to 11:00 PM , https://www.facebook.com/robert.gilman.520\r\nhttps://www.facebook.com/billybones116 , edit: https://goclubdb.herokuapp.com/club/263/", 
-        "name": "Albuquerque Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -149.9093484, 
-          61.1946237
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://www.anchoragegoclub.com/ , Title Wave books\r\n1360 West Northern Lights Blvd , Thursday 7:30\r\nSaturday 5:00 pm-9:00 pm , Robert E. Stoller stoller@alaska.net\r\n907-522-2299 , edit: https://goclubdb.herokuapp.com/club/40/", 
-        "name": "Anchorage Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -111.9205551, 
-          33.4187288
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://azgoclub.org/ , Arizona State University Memorial Union, 301 E. Orange St., Tempe on the ground floor (in the southeast section of the building in the raised dining area near the Taco Bell). , Saturday 1PM , William Gundberg bill@azgoclub.org 480-831-5567 H 480-429-0300 W , edit: https://goclubdb.herokuapp.com/club/43/", 
-        "name": "Arizona Go Club Tempe - Saturday"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -111.926202662, 
-          33.4231647385
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://azgoclub.org/ , IHOP, Corner of Rural and University - 705 S Rural Road, Tempe , Tuesday 7PM , William Gundberg bill@azgoclub.org\r\n480-831-5567 H\r\n480-429-0300 W , edit: https://goclubdb.herokuapp.com/club/42/", 
-        "name": "Arizona Go Club Tempe - Tuesday"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -84.347058, 
-          33.930868
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://atlantagoclub.org/ , 1030 Crown Pointe Pkwy, Atlanta , Tuesday 7-10 pm , kerlagon@bellsouth.net , edit: https://goclubdb.herokuapp.com/club/235/", 
-        "name": "Atlanta Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -122.268072077, 
-          37.8701935782
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://www.berkeleygoclub.org/ , Berkeley Go Club Clubroom: 2161 Shattuck Avenue (at Center), 2nd floor, Suite 222 , Fridays 6:00 PM - 9:00 PM\r\nSaturdays: 2:00 pm onward\r\nSundays: 2:00 pm onward\r\nCall 510-501-8314 to be let in if front door is locked. , edit: https://goclubdb.herokuapp.com/club/77/", 
-        "name": "Berkeley Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -86.8284003, 
-          33.3620295
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "We play at different places around the Hoover area. , Louis Gutenschwager <louis@bhamgo.org> 205-903-0688 , edit: https://goclubdb.herokuapp.com/club/46/", 
-        "name": "Birmingham Go Association"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -116.270391941065, 
-          43.5899924612646
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "https://www.meetup.com/en-AU/Boise-Go-Club/ , All About Games\r\n7079 W Overland\r\nBoise, ID , Mondays and Thursdays (6pm - 10pm) , edit: https://goclubdb.herokuapp.com/club/287/", 
-        "name": "Boise Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -118.60247612, 
-          34.1907720188
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "Topanga Plaza food court.\r\n6600 Topanga Canyon Boulevard, Canoga Park CA 91303 USA , Thursdays 6:30pm to 9:00pm , Jeff McLellan: jjmclellan@gmail.com , edit: https://goclubdb.herokuapp.com/club/244/", 
-        "name": "Canoga Park Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -72.6512306928624, 
-          41.5632440766013
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "\"The Board Room\", 514 Main Street Middletown, CT , Fridays 6:30pm-9:30pm (often goes later, the place closes at 11pm) , michael.j.scudder@gmail.com , edit: https://goclubdb.herokuapp.com/club/238/", 
-        "name": "Central Connecticut Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -93.65057, 
-          42.02005
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "https://www.facebook.com/groups/centraliowago/ , Stomping Grounds 303 Welch Ave, Ames, IA 50014 , Tuesdays 5pm , Kyle Kain: kkain84@gmail.com   \r\n\r\nXiaoxian Wang: gavinwxx1994@gmail.com , edit: https://goclubdb.herokuapp.com/club/265/", 
-        "name": "Central Iowa Go Society"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -80.8345377445216, 
-          35.2109138075964
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://senseis.xmp.net/?CharlotteGoClub , Asian Herald Library\r\n1339 Baxter St., Charlotte , Thursday 6:30pm to 10pm , steelblue@bellsouth.net , edit: https://goclubdb.herokuapp.com/club/232/", 
-        "name": "Charlotte Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -81.4967550160079, 
-          41.5005453121507
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://clevelandgo.org/ , 2101 Richmond Road, Beachwood, Ohio 44122 , Every Wednesday from 6:00 PM until 10:00 PM or later , Paul Jacobs, VP - jacobspd at gmail.com - 216-402-3071 , edit: https://goclubdb.herokuapp.com/club/256/", 
-        "name": "Cleveland Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -117.350764274613, 
-          33.1594152924584
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "https://www.facebook.com/CarlsbadCoastalGoClub/about/?ref=page_internal , Vinaka Cafe\r\nVillage Faire, 300 Carlsbad Village Dr #211, Carlsbad , Sunday's 5pm - 9pm , edit: https://goclubdb.herokuapp.com/club/261/", 
-        "name": "Coastal Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -123.2603888, 
-          44.5626389
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://www.oregongo.org/index.php?tpl=clubs&p=clubs , New Morning Bakery\r\n219 SW 2nd St\r\nCorvallis, OR\r\n97333 , Wednesdays 5-9 pm , Robert O'Malley\r\nEmail: omalleyr@science.oregonstate.edu\r\nPhone: (541) 929-5468 , edit: https://goclubdb.herokuapp.com/club/247/", 
-        "name": "Corvallis Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -90.131136, 
-          29.948106
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "https://www.facebook.com/Cranes-Nest-GO-Club-140027432709789/ , Z'otz Cafe, 8210 Oak St, New Orleans, LA , Wednesdays, 6-10pm , edit: https://goclubdb.herokuapp.com/club/58/", 
-        "name": "Crane's Nest Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -122.130801960792, 
-          47.6198279032988
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "“Game Lane” near Uncle’s Games and the giant chess board, \r\n15600 NE 8th St Suite K10 Bellevue , Thursdays, 6:00 – 8:00 pm , edit: https://goclubdb.herokuapp.com/club/298/", 
-        "name": "Crossroads Bellevue Shopping Center Meet-up"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -96.764634, 
+          -96.764634,
           33.002104
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "US", 
+      },
+      "layer": "US",
       "properties": {
-        "description": "http://dallasgoclub.org , 320 Coit Rd, Plano, TX 75075 , Thursdays 5-10pm , dallasgo@gmail.com , edit: https://goclubdb.herokuapp.com/club/3/", 
+        "description": "http://dallasgoclub.org , 320 Coit Rd, Plano, TX 75075 , Thursdays 5-10pm , dallasgo@gmail.com , edit: https://goclubdb.herokuapp.com/club/3/",
         "name": "Dallas Go Club"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -121.426803194, 
-          38.6012558634
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://www.davissacramentogoclub.org , Market Square at Arden Fair in the Food Court near the Barnes and Noble Bookstore, 1725 Arden Way, Sacramento, CA , Mondays from 6-10pm , Will Haynes: willard@emeritus.csus.edu , edit: https://goclubdb.herokuapp.com/club/85/", 
-        "name": "Davis Sacramento Go Club, Sacramento meeting"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -77.676281063088, 
-          43.0841084300582
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://www.emptysky.org/ , Java Wally's at RIT when RIT is open, ButaPub whenever else , 6pm-8pm on Mondays and Thursdays , edit: https://goclubdb.herokuapp.com/club/230/", 
-        "name": "Empty Sky Go"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -123.0928611, 
-          44.0457222
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "https://groups.google.com/forum/#!forum/eugene-go-club , Funagain Games\r\n1280 Willamette St.\r\nEugene, OR\r\n97401 , Sunday at 12 pm (noon) , https://www.facebook.com/groups/EugeneGoClub/ , edit: https://goclubdb.herokuapp.com/club/248/", 
-        "name": "Eugene Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -87.682056427, 
-          42.048798689
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://www.evanstongoclub.org , 1734 Sherman Ave\r\nEvanston, IL 60201 , Every Wed 6-10 PM , Mark Rubenstein\r\nmark@evanstongoclub.org , edit: https://goclubdb.herokuapp.com/club/1349/", 
-        "name": "Evanston Go club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -96.798833, 
-          46.883064
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "https://www.meetup.com/FargoGoClub/ , 610 N University Dr, Fargo, ND , Thursday - 5:30pm Fargo Brewing Company , edit: https://goclubdb.herokuapp.com/club/272/", 
-        "name": "Fargo Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -73.8849593734, 
-          40.8611666798
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "https://www.facebook.com/groups/1205339352886629/ , 441 E. Fordham Rd.\r\nBronx, NY 10458 , By appointment , message us on facebook , edit: https://goclubdb.herokuapp.com/club/278/", 
-        "name": "Fordham Go"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -122.279243929, 
-          37.8744356685
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://www.berkeleygoclub.org/ , Games of Berkeley, 2151 Shattuck Avenue, Berkeley in the center of the store on Mondays; in the downstairs game rooms at the same times on Thursday evenings , 6PM - 9 PM , edit: https://goclubdb.herokuapp.com/club/78/", 
-        "name": "Games of Berkeley"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -73.9636744559, 
-          40.8035772594
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://www.peterarmenia.com/gothamgogroup.html , The Hungarian Pastry Shop\r\n1030 Amsterdam Ave (between 110th and 111th) , Tuesdays from 7pm - 11pm. , A casual meeting of go players on the Upper West Side of Manhattan. Beginners always welcome. See website for contact information. , edit: https://goclubdb.herokuapp.com/club/267/", 
-        "name": "Gotham Go Group"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -118.096160888668, 
-          45.3292831998353
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "Le Bebe Cakes\r\n1103 Washington Avenue , Wednesday 5:00pm - 8:00pm , edit: https://goclubdb.herokuapp.com/club/303/", 
-        "name": "Grande Ronde Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -82.2903442383, 
-          34.820905965
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "https://www.facebook.com/groups/GreenvilleGoClub/ , Panera on Woodruff Rd , 7pm Tuesdays , https://www.facebook.com/groups/GreenvilleGoClub/ , edit: https://goclubdb.herokuapp.com/club/279/", 
-        "name": "Greenville Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -87.7178800106, 
-          41.9214748362
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "description": "edit: https://goclubdb.herokuapp.com/club/1348/", 
-        "name": "Harridan Go Club (unofficial)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -91.5325498581157, 
-          41.65991992493
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "Java House, 211 E. Washington St., Iowa City , Tuesdays 7-9pm , Kenneth Elliott: <ximane@gmail.com> , edit: https://goclubdb.herokuapp.com/club/257/", 
-        "name": "Iowa City Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -121.935830788, 
-          37.3569764808
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://www.meetup.com/GameKastleGoClub/ , Game Kastle, 1350 Coleman Ave, Santa Clara, CA , Saturdays: 1:00 pm to 3:00 pm; Please check website, as some holidays we may not meet. , Tom S. (Organizer) http://www.meetup.com/GameKastleGoClub/members/186613133/ , and Dave W. (Assistant Organizer) http://www.meetup.com/GameKastleGoClub/members/197276756/ , edit: https://goclubdb.herokuapp.com/club/86/", 
-        "name": "Kastle Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -115.17155, 
-          36.05369
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "https://www.facebook.com/groups/LasVegasGoClub/ , IHOP Las Vegas South Premium Outlets, 7490 S Las Vegas Blvd, South Las Vegas, NV 89123 , Saturdays 4:30 PM , LVgoclub@gmail.com\r\nor\r\nSean: sean@lasvegasgoclub.com\r\n(702) 821-6670 , edit: https://goclubdb.herokuapp.com/club/250/", 
-        "name": "Las Vegas Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -121.7697841, 
-          37.6811682
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "Panama Red Coffee Co.\r\n2115 First Street, Livermore, CA , First and third Saturdays: 2:00 pm onward , Lynda L. LoDestro - lodestro1@llnl.gov , edit: https://goclubdb.herokuapp.com/club/87/", 
-        "name": "Livermore Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -118.168036043657, 
-          34.0679828280762
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "https://www.facebook.com/groups/weiqi.game/ , CSU-LA, 5155 State University Dr, Los Angeles, CA 90032 or a cafe in East LA. Considering having meetings at ELAC if we have enough interest. , Meetings set up by FaceBook group. , email: sighris@gmail.com , edit: https://goclubdb.herokuapp.com/club/297/", 
-        "name": "Los Angeles east (and CSU-LA) WeiQi Association"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -94.0079481534, 
-          44.1621563596
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "Fillin' Station Coffeehouse, 630 S Front St, Mankato, MN 56001 , 4PM , edit: https://goclubdb.herokuapp.com/club/266/", 
-        "name": "Mankato Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -71.124032717, 
-          42.3957462
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://massgo.org , Multiple. See https://meetup.com/massgo , Multiple. See https://meetup.com/massgo , edit: https://goclubdb.herokuapp.com/club/234/", 
-        "name": "Massachusetts Go Association"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -156.498654, 
-          20.887857
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://maui-go-club.tumblr.com/ , Saturday - Maui Coffee Attic and Thursday - Kono's on the Green or Java Cafe , Saturday 10:30 am and Thursday 5:00 pm , edit: https://goclubdb.herokuapp.com/club/233/", 
-        "name": "Maui Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -122.143827965, 
-          37.4270298
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://www.mayfieldgoclub.com/ , Antonio's Nut House, 321 S. California Avenue, Palo Alto, CA , Wednesdays: 8:30 pm onward , http://mayfieldgoclub.com/contact/ , edit: https://goclubdb.herokuapp.com/club/88/", 
-        "name": "Mayfield Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -89.9376454, 
-          35.1450509
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "https://www.meetup.com/MemphisGoPlayers/events/past/ , Cheffies Cafe, 483 High Point Terrace, Memphis , Usually Sundays at 1 PM, but check availability on Meetup page. , edit: https://goclubdb.herokuapp.com/club/300/", 
-        "name": "Memphis Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -86.7799943348, 
-          36.0423154387
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "https://midtngoclub.wordpress.com/ , Fulin’s Asian Cuisine\r\n782 Old Hickory Blvd #115\r\nBrentwood , Saturdays 12-4 pm\r\nSundays 5-9 pm , edit: https://goclubdb.herokuapp.com/club/301/", 
-        "name": "Middle TN Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -81.1172103882, 
-          34.0436409595
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "https://www.facebook.com/groups/104251659909222/ , Firefly Toys & Games , Fridays between 3-6pm, check Facebook , https://www.facebook.com/groups/104251659909222/ , edit: https://goclubdb.herokuapp.com/club/280/", 
-        "name": "Midlands Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -122.267143316, 
-          37.8191727368
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://www.meetup.com/North-Oakland-Go-Club/ , Black Spring Coffee Co., 2930 Telegraph Avenue, Oakland, CA , Sundays: 10:00 am to 5:00 pm , Tom S. http://www.meetup.com/North-Oakland-Go-Club/members/186613133/ , edit: https://goclubdb.herokuapp.com/club/89/", 
-        "name": "North Oakland Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -122.274594478, 
-          37.8015712826
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://www.meetup.com/North-Oakland-Go-Club/ , Endgame Cafe, 917 Washington St. (@10th St.) Oakland, CA , Tuesdays: 7:00 pm to 10:00 pm , edit: https://goclubdb.herokuapp.com/club/90/", 
-        "name": "North Oakland Go Club at Endgame"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -122.1872249, 
-          37.4507104
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "Ing Goe Foundation, \r\n887 Oak Grove Road, Suite 203\r\nMenlo Park, CA , Saturdays: 1:00 pm to 4:00 pm,\r\nThe club is open Wednesday evenings from 8:00 pm for a free game review session with Mingjiu Jiang 7P , edit: https://goclubdb.herokuapp.com/club/91/", 
-        "name": "Palo Alto Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -112.045117191, 
-          33.50791578
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "https://www.facebook.com/Phoenixgoclub/ , Duck and Decanter\r\n1651 E Camelback Road\r\nPhoenix, AZ 85016 , Every other Sunday 1pm , Contact through Facebook , edit: https://goclubdb.herokuapp.com/club/83/", 
-        "name": "Phoenixgoclub"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -122.65636, 
-          45.51236
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://oregongo.org/ , Lucky Labrador Brew Pub\r\n915 SE Hawthorne Blvd.\r\nPortland, Oregon\r\n97214 , Sundays 1 PM - 4 PM , Glenn Peters\r\nEmail: glenn@portlandgo.org\r\nPhone: 503 427-844 , edit: https://goclubdb.herokuapp.com/club/246/", 
-        "name": "Portland Go Club - Lucky Labrador"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -122.68136, 
-          45.5231389
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://oregongo.org/ , Powell's Bookstore\r\n10th and West Burnside\r\nPortland, Oregon\r\n97209 , Tuesdays 6 PM - 10 PM , Glenn Peters\r\nEmail: glenn@portlandgo.org\r\nPhone: 503 427-8446 , edit: https://goclubdb.herokuapp.com/club/245/", 
-        "name": "Portland Go Club - Powell's"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -86.6263974357, 
-          34.7120213385
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://www.facebook.com/groups/rocketcitygo , Patton Rd, Huntsville AL , Noon-4 PM , email: chonas009@hotmail.com , edit: https://goclubdb.herokuapp.com/club/41/", 
-        "name": "Rocket City Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -121.740198757, 
-          38.5453527
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://www.davissacramentogoclub.org/ , Steve's Pizza, 314 F Street, Davis, CA , Thursdays: 6:00 pm to 10:00 pm , Will Haynes: willard@emeritus.csus.edu , edit: https://goclubdb.herokuapp.com/club/84/", 
-        "name": "Sacramento Davis Go Club, Davis meeting"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -117.146471142916, 
-          32.7608188370789
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://sdgoclub.weebly.com/ , Twigg's Coffee Shop\r\n4590 Park Blvd\r\nSan Diego, CA 92116 , 7-11 p.m. Tuesdays , Ted Terpstra\r\nted.terpstra@gmail.com , edit: https://goclubdb.herokuapp.com/club/236/", 
-        "name": "San Diego Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -122.429100286, 
-          37.7886112449
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://www.sfgoclub.com , Nichiren Hokke Buddhist Church\r\n2016 Pine Street (near Laguna)\r\nSan Francisco, CA , Thursdays: 7:00 pm to 10:00 pm\r\nSundays: 1:00 pm to 5:30 pm\r\nThe club is only open on certain Thursdays and Sundays. Please check club website for exceptions to the normal schedule. , https://www.facebook.com/sfgoclub/ , edit: https://goclubdb.herokuapp.com/club/92/", 
-        "name": "San Francisco Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -119.72940454439, 
-          34.4401857008344
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://www.santabarbaragoclub.com , 3052 De La Vina St, Santa Barbara, CA 93105 , Wednesdays 6pm-10pm, Saturday 1pm-6pm , There are typically anywhere from one to eight players, from 25 kyu to Pro 2 dan. Everyone is welcome!\r\n\r\nEmail: EdxLee(at)gmail.com , edit: https://goclubdb.herokuapp.com/club/228/", 
-        "name": "Santa Barbara Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -121.995764595, 
-          37.3230426066
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://www.gohappycup.com/club-when-where.shtml , Close to Stevens Creek Blvd & Lawrence Expressway, Santa Clara, CA. , Saturdays: 7:00 pm to 9:00 pm. Every child is welcome, even if you don't know how to play Go! , yanp.zhao@gmail.com , edit: https://goclubdb.herokuapp.com/club/93/", 
-        "name": "Santa Clara Youth Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -105.91216743, 
-          35.6669240082
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://santafegoclub.org/ , St. Johns College , In person suspended for now. , edit: https://goclubdb.herokuapp.com/club/305/", 
-        "name": "Santa Fe Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -88.0342, 
+          -88.0342,
           42.0405
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "US", 
+      },
+      "layer": "US",
       "properties": {
-        "description": "http://schaumburggoclub.org/ , Starbucks (Sts of Woodfield)\r\n601 N Martingale Road\r\nSchaumburg, IL , Thursday 6:30-10:30 PM , edit: https://goclubdb.herokuapp.com/club/39/", 
+        "description": "http://schaumburggoclub.org/ , Starbucks (Sts of Woodfield)\r\n601 N Martingale Road\r\nSchaumburg, IL , Thursday 6:30-10:30 PM , edit: https://goclubdb.herokuapp.com/club/39/",
         "name": "Schamburg Go Club"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -77.8597855568, 
-          40.7933274655
-        ], 
+          -149.9093484,
+          61.1946237
+        ],
         "type": "Point"
-      }, 
-      "layer": "US", 
+      },
+      "layer": "US",
       "properties": {
-        "description": "Musser Room (we share with the Chess Club) , every Saturday 14:00 , schlowgo@gmail.com , edit: https://goclubdb.herokuapp.com/club/1351/", 
-        "name": "Schlow Library Go Club"
-      }, 
+        "description": "http://www.anchoragegoclub.com/ , Title Wave books\r\n1360 West Northern Lights Blvd , Thursday 7:30\r\nSaturday 5:00 pm-9:00 pm , Robert E. Stoller stoller@alaska.net\r\n907-522-2299 , edit: https://goclubdb.herokuapp.com/club/40/",
+        "name": "Anchorage Go Club"
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -122.3206111, 
-          47.6616667
-        ], 
+          -86.6263974357,
+          34.7120213385
+        ],
         "type": "Point"
-      }, 
-      "layer": "US", 
+      },
+      "layer": "US",
       "properties": {
-        "description": "http://www.seattlego.org/ , SEATTLE GO CENTER\r\n700 NE 45TH STREET – UPSTAIRS\r\nSEATTLE WA 98105 , Monday: DDK Class 6:30 - 8:30 PM |\r\nTuesday: 1 - 10 PM |\r\nWednesday: SDK class 7 - 9 PM |\r\nThursday: 2 - 9 PM (Beginner class 6:30 - 9 PM) |\r\nSaturday: 1 - 7 PM , Telephone/Fax:   (206) 545-1424 |\r\nManager’s home/office phone:   (206) 632-1122 |\r\nEmail to Manager:\r\nfromweb@seattlego.org , edit: https://goclubdb.herokuapp.com/club/249/", 
-        "name": "Seattle Go Center"
-      }, 
+        "description": "http://www.facebook.com/groups/rocketcitygo , Patton Rd, Huntsville AL , Noon-4 PM , email: chonas009@hotmail.com , edit: https://goclubdb.herokuapp.com/club/41/",
+        "name": "Rocket City Go Club"
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -122.048075799, 
-          37.2422178856
-        ], 
+          -111.926202662,
+          33.4231647385
+        ],
         "type": "Point"
-      }, 
-      "layer": "US", 
+      },
+      "layer": "US",
       "properties": {
-        "description": "https://silivalleygoclub.wordpress.com/ , 15555 Bohlman Rd, Saratoga , We meet in Saratoga almost every Tuesday evening at 7:30. I send out an email every Monday to verify or cancel the club, but there are very few cancellations. Fill out the contact form on the website to be added to the mailing list. , David Doshay\r\nddoshay@mac.com , edit: https://goclubdb.herokuapp.com/club/94/", 
-        "name": "SiliValley Go Club"
-      }, 
+        "description": "http://azgoclub.org/ , IHOP, Corner of Rural and University - 705 S Rural Road, Tempe , Tuesday 7PM , William Gundberg bill@azgoclub.org\r\n480-831-5567 H\r\n480-429-0300 W , edit: https://goclubdb.herokuapp.com/club/42/",
+        "name": "Arizona Go Club Tempe - Tuesday"
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -122.718181995, 
-          38.3485916132
-        ], 
+          -111.9205551,
+          33.4187288
+        ],
         "type": "Point"
-      }, 
-      "layer": "US", 
+      },
+      "layer": "US",
       "properties": {
-        "description": "Sonoma Valley Bagel & Cafe, 350 Rohnert Park Expressway, Rohnert Park, CA , Sundays: 10:30 am to 4:00 pm , Contact Joanne and Ned Phipps 707-585-0669 , edit: https://goclubdb.herokuapp.com/club/95/", 
-        "name": "Sonoma County Go Club"
-      }, 
+        "description": "http://azgoclub.org/ , Arizona State University Memorial Union, 301 E. Orange St., Tempe on the ground floor (in the southeast section of the building in the raised dining area near the Taco Bell). , Saturday 1PM , William Gundberg bill@azgoclub.org 480-831-5567 H 480-429-0300 W , edit: https://goclubdb.herokuapp.com/club/43/",
+        "name": "Arizona Go Club Tempe - Saturday"
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -122.170810246, 
-          37.42421595
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://web.stanford.edu/group/go/ , Tresidder Union, 59 Lagunita Dr.\r\nStanford University, Stanford, CA , Sundays: 2:00 to 4:00 pm when school is in session , Active mailing list at https://mailman.stanford.edu/pipermail/go-club-chat/ , edit: https://goclubdb.herokuapp.com/club/96/", 
-        "name": "Stanford University Cardinal Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -76.0524, 
-          43.0332
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "https://groups.yahoo.com/neo/groups/syracusegoclub/info , Wegmans Grocery Store, 6789 East Genesee St, Fayetteville, NY. USA - we meet in the rear of the dining area , Monday evenings, 7:15 PM - 10 PM (or later) , Richard Moseson, phone: 315-682-7720, email: syracusegoclub@gmail.com\r\nhttps://www.facebook.com/Syracuse-Go-Club-195566967151668/ , edit: https://goclubdb.herokuapp.com/club/253/", 
-        "name": "Syracuse Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -82.5732421875, 
-          28.0525908233
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "https://www.facebook.com/tampagoclub/ , Saturdays , http://www.meetup.com/Tampa-Bay-Go-Baduk-Players/ , edit: https://goclubdb.herokuapp.com/club/1350/", 
-        "name": "Tampa Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -78.9106353031, 
-          36.0004905136
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "US", 
-      "properties": {
-        "description": "http://www.trianglegoclub.org , 1007 W Main St, Durham, NC 27701 , Wednesday 7 pm  the social bar , Paul celmer pcelmer@earhlink.net , edit: https://goclubdb.herokuapp.com/club/242/", 
-        "name": "Triangle Go Group"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -110.8632228, 
+          -110.8632228,
           32.221633125
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "US", 
+      },
+      "layer": "US",
       "properties": {
-        "description": "https://www.facebook.com/groups/4616488521/ , Panera Bread, 6129 E Broadway Blvd, Tucson, AZ , Sundays starting between 4pm and 5pm and going till the place closes around 8pm. , Martin Lebl \r\nChapter Representative\r\n520-850-9213 martinlebl@gmail.com , edit: https://goclubdb.herokuapp.com/club/44/", 
+        "description": "https://www.facebook.com/groups/4616488521/ , Panera Bread, 6129 E Broadway Blvd, Tucson, AZ , Sundays starting between 4pm and 5pm and going till the place closes around 8pm. , Martin Lebl \r\nChapter Representative\r\n520-850-9213 martinlebl@gmail.com , edit: https://goclubdb.herokuapp.com/club/44/",
         "name": "Tucson"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -93.2877659798, 
-          44.9521573692
-        ], 
+          -86.8284003,
+          33.3620295
+        ],
         "type": "Point"
-      }, 
-      "layer": "US", 
+      },
+      "layer": "US",
       "properties": {
-        "description": "Bob's Java Hut, 2651 Lyndale Ave S, Minneapolis, MN 55408 , Mondays, 18:00-23:00 , 612-871-4485 , edit: https://goclubdb.herokuapp.com/club/1345/", 
-        "name": "Twin Cities Go Club (Monday)"
-      }, 
+        "description": "We play at different places around the Hoover area. , Louis Gutenschwager <louis@bhamgo.org> 205-903-0688 , edit: https://goclubdb.herokuapp.com/club/46/",
+        "name": "Birmingham Go Association"
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -93.18775177, 
-          44.9397114784
-        ], 
+          -90.131136,
+          29.948106
+        ],
         "type": "Point"
-      }, 
-      "layer": "US", 
+      },
+      "layer": "US",
       "properties": {
-        "description": "Coffee Bene, 53 Cleveland Avenue South, Saint Paul, MN 55105 , Saturdays, 13:00-17:00 , 651-698-2266 , edit: https://goclubdb.herokuapp.com/club/1347/", 
-        "name": "Twin Cities Go Club (Saturday)"
-      }, 
+        "description": "https://www.facebook.com/Cranes-Nest-GO-Club-140027432709789/ , Z'otz Cafe, 8210 Oak St, New Orleans, LA , Wednesdays, 6-10pm , edit: https://goclubdb.herokuapp.com/club/58/",
+        "name": "Crane's Nest Go Club"
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -93.2461702824, 
-          44.9694055383
-        ], 
+          -122.268072077,
+          37.8701935782
+        ],
         "type": "Point"
-      }, 
-      "layer": "US", 
+      },
+      "layer": "US",
       "properties": {
-        "description": "Hard Times Cafe, 1821 Riverside Avenue, Minneapolis, MN 55454-1034 , Thursdays 18:30-22:00 , edit: https://goclubdb.herokuapp.com/club/1346/", 
-        "name": "Twin Cities Go Club (Thursday)"
-      }, 
+        "description": "http://www.berkeleygoclub.org/ , Berkeley Go Club Clubroom: 2161 Shattuck Avenue (at Center), 2nd floor, Suite 222 , Fridays 6:00 PM - 9:00 PM\r\nSaturdays: 2:00 pm onward\r\nSundays: 2:00 pm onward\r\nCall 510-501-8314 to be let in if front door is locked. , edit: https://goclubdb.herokuapp.com/club/77/",
+        "name": "Berkeley Go Club"
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -82.3624420166, 
+          -122.279243929,
+          37.8744356685
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://www.berkeleygoclub.org/ , Games of Berkeley, 2151 Shattuck Avenue, Berkeley in the center of the store on Mondays; in the downstairs game rooms at the same times on Thursday evenings , 6PM - 9 PM , edit: https://goclubdb.herokuapp.com/club/78/",
+        "name": "Games of Berkeley"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.045117191,
+          33.50791578
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "https://www.facebook.com/Phoenixgoclub/ , Duck and Decanter\r\n1651 E Camelback Road\r\nPhoenix, AZ 85016 , Every other Sunday 1pm , Contact through Facebook , edit: https://goclubdb.herokuapp.com/club/83/",
+        "name": "Phoenixgoclub"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.740198757,
+          38.5453527
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://www.davissacramentogoclub.org/ , Steve's Pizza, 314 F Street, Davis, CA , Thursdays: 6:00 pm to 10:00 pm , Will Haynes: willard@emeritus.csus.edu , edit: https://goclubdb.herokuapp.com/club/84/",
+        "name": "Sacramento Davis Go Club, Davis meeting"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.426803194,
+          38.6012558634
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://www.davissacramentogoclub.org , Market Square at Arden Fair in the Food Court near the Barnes and Noble Bookstore, 1725 Arden Way, Sacramento, CA , Mondays from 6-10pm , Will Haynes: willard@emeritus.csus.edu , edit: https://goclubdb.herokuapp.com/club/85/",
+        "name": "Davis Sacramento Go Club, Sacramento meeting"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.935830788,
+          37.3569764808
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://www.meetup.com/GameKastleGoClub/ , Game Kastle, 1350 Coleman Ave, Santa Clara, CA , Saturdays: 1:00 pm to 3:00 pm; Please check website, as some holidays we may not meet. , Tom S. (Organizer) http://www.meetup.com/GameKastleGoClub/members/186613133/ , and Dave W. (Assistant Organizer) http://www.meetup.com/GameKastleGoClub/members/197276756/ , edit: https://goclubdb.herokuapp.com/club/86/",
+        "name": "Kastle Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.7697841,
+          37.6811682
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "Panama Red Coffee Co.\r\n2115 First Street, Livermore, CA , First and third Saturdays: 2:00 pm onward , Lynda L. LoDestro - lodestro1@llnl.gov , edit: https://goclubdb.herokuapp.com/club/87/",
+        "name": "Livermore Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.143827965,
+          37.4270298
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://www.mayfieldgoclub.com/ , Antonio's Nut House, 321 S. California Avenue, Palo Alto, CA , Wednesdays: 8:30 pm onward , http://mayfieldgoclub.com/contact/ , edit: https://goclubdb.herokuapp.com/club/88/",
+        "name": "Mayfield Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.267143316,
+          37.8191727368
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://www.meetup.com/North-Oakland-Go-Club/ , Black Spring Coffee Co., 2930 Telegraph Avenue, Oakland, CA , Sundays: 10:00 am to 5:00 pm , Tom S. http://www.meetup.com/North-Oakland-Go-Club/members/186613133/ , edit: https://goclubdb.herokuapp.com/club/89/",
+        "name": "North Oakland Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.274594478,
+          37.8015712826
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://www.meetup.com/North-Oakland-Go-Club/ , Endgame Cafe, 917 Washington St. (@10th St.) Oakland, CA , Tuesdays: 7:00 pm to 10:00 pm , edit: https://goclubdb.herokuapp.com/club/90/",
+        "name": "North Oakland Go Club at Endgame"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.1872249,
+          37.4507104
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "Ing Goe Foundation, \r\n887 Oak Grove Road, Suite 203\r\nMenlo Park, CA , Saturdays: 1:00 pm to 4:00 pm,\r\nThe club is open Wednesday evenings from 8:00 pm for a free game review session with Mingjiu Jiang 7P , edit: https://goclubdb.herokuapp.com/club/91/",
+        "name": "Palo Alto Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.429100286,
+          37.7886112449
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://www.sfgoclub.com , Nichiren Hokke Buddhist Church\r\n2016 Pine Street (near Laguna)\r\nSan Francisco, CA , Thursdays: 7:00 pm to 10:00 pm\r\nSundays: 1:00 pm to 5:30 pm\r\nThe club is only open on certain Thursdays and Sundays. Please check club website for exceptions to the normal schedule. , https://www.facebook.com/sfgoclub/ , edit: https://goclubdb.herokuapp.com/club/92/",
+        "name": "San Francisco Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.995764595,
+          37.3230426066
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://www.gohappycup.com/club-when-where.shtml , Close to Stevens Creek Blvd & Lawrence Expressway, Santa Clara, CA. , Saturdays: 7:00 pm to 9:00 pm. Every child is welcome, even if you don't know how to play Go! , yanp.zhao@gmail.com , edit: https://goclubdb.herokuapp.com/club/93/",
+        "name": "Santa Clara Youth Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.048075799,
+          37.2422178856
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "https://silivalleygoclub.wordpress.com/ , 15555 Bohlman Rd, Saratoga , We meet in Saratoga almost every Tuesday evening at 7:30. I send out an email every Monday to verify or cancel the club, but there are very few cancellations. Fill out the contact form on the website to be added to the mailing list. , David Doshay\r\nddoshay@mac.com , edit: https://goclubdb.herokuapp.com/club/94/",
+        "name": "SiliValley Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.718181995,
+          38.3485916132
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "Sonoma Valley Bagel & Cafe, 350 Rohnert Park Expressway, Rohnert Park, CA , Sundays: 10:30 am to 4:00 pm , Contact Joanne and Ned Phipps 707-585-0669 , edit: https://goclubdb.herokuapp.com/club/95/",
+        "name": "Sonoma County Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.170810246,
+          37.42421595
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://web.stanford.edu/group/go/ , Tresidder Union, 59 Lagunita Dr.\r\nStanford University, Stanford, CA , Sundays: 2:00 to 4:00 pm when school is in session , Active mailing list at https://mailman.stanford.edu/pipermail/go-club-chat/ , edit: https://goclubdb.herokuapp.com/club/96/",
+        "name": "Stanford University Cardinal Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.348098272,
+          39.3906947307
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "Super Taco - Evergreen Shopping Center, 1726 S Main St. #A, Willits, CA , Tuesdays: 6:00 to 9:00 pm , Contact Brian Ferri-Taylor 707-459-9628 , edit: https://goclubdb.herokuapp.com/club/97/",
+        "name": "Willits Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -66.2631368637074,
+          18.4601114597807
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "https://www.facebook.com/prhscon/?fref=ts , every week different place/ working on monthly standard place , weekly , happykidshs@gmail.com , edit: https://goclubdb.herokuapp.com/club/225/",
+        "name": "AGF Homeschool"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.5988382101,
+          41.7912287426
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "https://www.facebook.com/groups/892419820863503/ , Hutchinson Commons, 5706 S. University Ave, Chicago , Thursdays, 5-8 pm , henryli@uchicago.edu , edit: https://goclubdb.herokuapp.com/club/226/",
+        "name": "University of Chicago Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.72940454439,
+          34.4401857008344
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://www.santabarbaragoclub.com , 3052 De La Vina St, Santa Barbara, CA 93105 , Wednesdays 6pm-10pm, Saturday 1pm-6pm , There are typically anywhere from one to eight players, from 25 kyu to Pro 2 dan. Everyone is welcome!\r\n\r\nEmail: EdxLee(at)gmail.com , edit: https://goclubdb.herokuapp.com/club/228/",
+        "name": "Santa Barbara Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.676281063088,
+          43.0841084300582
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://www.emptysky.org/ , Java Wally's at RIT when RIT is open, ButaPub whenever else , 6pm-8pm on Mondays and Thursdays , edit: https://goclubdb.herokuapp.com/club/230/",
+        "name": "Empty Sky Go"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -80.8345377445216,
+          35.2109138075964
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://senseis.xmp.net/?CharlotteGoClub , Asian Herald Library\r\n1339 Baxter St., Charlotte , Thursday 6:30pm to 10pm , steelblue@bellsouth.net , edit: https://goclubdb.herokuapp.com/club/232/",
+        "name": "Charlotte Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -156.498654,
+          20.887857
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://maui-go-club.tumblr.com/ , Saturday - Maui Coffee Attic and Thursday - Kono's on the Green or Java Cafe , Saturday 10:30 am and Thursday 5:00 pm , edit: https://goclubdb.herokuapp.com/club/233/",
+        "name": "Maui Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.124032717,
+          42.3957462
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://massgo.org , Multiple. See https://meetup.com/massgo , Multiple. See https://meetup.com/massgo , edit: https://goclubdb.herokuapp.com/club/234/",
+        "name": "Massachusetts Go Association"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.347058,
+          33.930868
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://atlantagoclub.org/ , 1030 Crown Pointe Pkwy, Atlanta , Tuesday 7-10 pm , kerlagon@bellsouth.net , edit: https://goclubdb.herokuapp.com/club/235/",
+        "name": "Atlanta Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.146471142916,
+          32.7608188370789
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://sdgoclub.weebly.com/ , Twigg's Coffee Shop\r\n4590 Park Blvd\r\nSan Diego, CA 92116 , 7-11 p.m. Tuesdays , Ted Terpstra\r\nted.terpstra@gmail.com , edit: https://goclubdb.herokuapp.com/club/236/",
+        "name": "San Diego Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -85.607958,
+          42.929486
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "https://www.facebook.com/groups/westmigoclub/ , 1814 Breton Rd, Grand Rapids, MI 49506 , Tuesdays at 7pm , edit: https://goclubdb.herokuapp.com/club/237/",
+        "name": "West Michigan Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -72.6512306928624,
+          41.5632440766013
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "\"The Board Room\", 514 Main Street Middletown, CT , Fridays 6:30pm-9:30pm (often goes later, the place closes at 11pm) , michael.j.scudder@gmail.com , edit: https://goclubdb.herokuapp.com/club/238/",
+        "name": "Central Connecticut Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.9435849590884,
+          38.9869749203522
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://www.umdgo.org , 1216 HJ Patterson Hall on Wednesdays, Stamp Student Union outside the Dairy on Fridays , 7-10 pm on Wednesdays, 5-9 pm on Fridays , edit: https://goclubdb.herokuapp.com/club/240/",
+        "name": "UMD Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.9106353031,
+          36.0004905136
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://www.trianglegoclub.org , 1007 W Main St, Durham, NC 27701 , Wednesday 7 pm  the social bar , Paul celmer pcelmer@earhlink.net , edit: https://goclubdb.herokuapp.com/club/242/",
+        "name": "Triangle Go Group"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.3376,
+          46.067
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "https://www.facebook.com/wallawallagoclub/ , Sweet Basil Pizzeria\r\n5 S 1st Avenue\r\nWalla Walla, WA , Wednesday 6:30pm - 9pm , edit: https://goclubdb.herokuapp.com/club/243/",
+        "name": "Walla Walla Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.60247612,
+          34.1907720188
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "Topanga Plaza food court.\r\n6600 Topanga Canyon Boulevard, Canoga Park CA 91303 USA , Thursdays 6:30pm to 9:00pm , Jeff McLellan: jjmclellan@gmail.com , edit: https://goclubdb.herokuapp.com/club/244/",
+        "name": "Canoga Park Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.68136,
+          45.5231389
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://oregongo.org/ , Powell's Bookstore\r\n10th and West Burnside\r\nPortland, Oregon\r\n97209 , Tuesdays 6 PM - 10 PM , Glenn Peters\r\nEmail: glenn@portlandgo.org\r\nPhone: 503 427-8446 , edit: https://goclubdb.herokuapp.com/club/245/",
+        "name": "Portland Go Club - Powell's"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.65636,
+          45.51236
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://oregongo.org/ , Lucky Labrador Brew Pub\r\n915 SE Hawthorne Blvd.\r\nPortland, Oregon\r\n97214 , Sundays 1 PM - 4 PM , Glenn Peters\r\nEmail: glenn@portlandgo.org\r\nPhone: 503 427-844 , edit: https://goclubdb.herokuapp.com/club/246/",
+        "name": "Portland Go Club - Lucky Labrador"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.2603888,
+          44.5626389
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://www.oregongo.org/index.php?tpl=clubs&p=clubs , New Morning Bakery\r\n219 SW 2nd St\r\nCorvallis, OR\r\n97333 , Wednesdays 5-9 pm , Robert O'Malley\r\nEmail: omalleyr@science.oregonstate.edu\r\nPhone: (541) 929-5468 , edit: https://goclubdb.herokuapp.com/club/247/",
+        "name": "Corvallis Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.0928611,
+          44.0457222
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "https://groups.google.com/forum/#!forum/eugene-go-club , Funagain Games\r\n1280 Willamette St.\r\nEugene, OR\r\n97401 , Sunday at 12 pm (noon) , https://www.facebook.com/groups/EugeneGoClub/ , edit: https://goclubdb.herokuapp.com/club/248/",
+        "name": "Eugene Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.3206111,
+          47.6616667
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://www.seattlego.org/ , SEATTLE GO CENTER\r\n700 NE 45TH STREET – UPSTAIRS\r\nSEATTLE WA 98105 , Monday: DDK Class 6:30 - 8:30 PM |\r\nTuesday: 1 - 10 PM |\r\nWednesday: SDK class 7 - 9 PM |\r\nThursday: 2 - 9 PM (Beginner class 6:30 - 9 PM) |\r\nSaturday: 1 - 7 PM , Telephone/Fax:   (206) 545-1424 |\r\nManager’s home/office phone:   (206) 632-1122 |\r\nEmail to Manager:\r\nfromweb@seattlego.org , edit: https://goclubdb.herokuapp.com/club/249/",
+        "name": "Seattle Go Center"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -115.17155,
+          36.05369
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "https://www.facebook.com/groups/LasVegasGoClub/ , IHOP Las Vegas South Premium Outlets, 7490 S Las Vegas Blvd, South Las Vegas, NV 89123 , Saturdays 4:30 PM , LVgoclub@gmail.com\r\nor\r\nSean: sean@lasvegasgoclub.com\r\n(702) 821-6670 , edit: https://goclubdb.herokuapp.com/club/250/",
+        "name": "Las Vegas Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.0524,
+          43.0332
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "https://groups.yahoo.com/neo/groups/syracusegoclub/info , Wegmans Grocery Store, 6789 East Genesee St, Fayetteville, NY. USA - we meet in the rear of the dining area , Monday evenings, 7:15 PM - 10 PM (or later) , Richard Moseson, phone: 315-682-7720, email: syracusegoclub@gmail.com\r\nhttps://www.facebook.com/Syracuse-Go-Club-195566967151668/ , edit: https://goclubdb.herokuapp.com/club/253/",
+        "name": "Syracuse Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.1486807,
+          34.1460517
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://www.yugoclub.org , 20 N. Raymond Ave, Suite 200 , Every Wednesday 6p - 10p , (626) 356-8055\r\nreiyukai@reiyukai-usa.org , edit: https://goclubdb.herokuapp.com/club/254/",
+        "name": "Yu Go Club of Pasadena"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.4967550160079,
+          41.5005453121507
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://clevelandgo.org/ , 2101 Richmond Road, Beachwood, Ohio 44122 , Every Wednesday from 6:00 PM until 10:00 PM or later , Paul Jacobs, VP - jacobspd at gmail.com - 216-402-3071 , edit: https://goclubdb.herokuapp.com/club/256/",
+        "name": "Cleveland Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.5325498581157,
+          41.65991992493
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "Java House, 211 E. Washington St., Iowa City , Tuesdays 7-9pm , Kenneth Elliott: <ximane@gmail.com> , edit: https://goclubdb.herokuapp.com/club/257/",
+        "name": "Iowa City Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.2124627644,
+          44.479103
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://www.vermontgo.org , Uncommon Grounds, 42 Church St, Burlington , Wednesdays, 6:30-9:00 PM , dfelcan@yahoo.com , edit: https://goclubdb.herokuapp.com/club/259/",
+        "name": "Vermont Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.350764274613,
+          33.1594152924584
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "https://www.facebook.com/CarlsbadCoastalGoClub/about/?ref=page_internal , Vinaka Cafe\r\nVillage Faire, 300 Carlsbad Village Dr #211, Carlsbad , Sunday's 5pm - 9pm , edit: https://goclubdb.herokuapp.com/club/261/",
+        "name": "Coastal Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.619272828,
+          35.0807861105
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "https://www.facebook.com/people/Albuquerque-Go-Club/100005582688990 , Frontier Restaurant\r\n2400 Central Ave SE\r\nAlbuquerque, NM 87106 , Wednesdays 7:00 PM to 11:00 PM , https://www.facebook.com/robert.gilman.520\r\nhttps://www.facebook.com/billybones116 , edit: https://goclubdb.herokuapp.com/club/263/",
+        "name": "Albuquerque Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.65057,
+          42.02005
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "https://www.facebook.com/groups/centraliowago/ , Stomping Grounds 303 Welch Ave, Ames, IA 50014 , Tuesdays 5pm , Kyle Kain: kkain84@gmail.com   \r\n\r\nXiaoxian Wang: gavinwxx1994@gmail.com , edit: https://goclubdb.herokuapp.com/club/265/",
+        "name": "Central Iowa Go Society"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -94.0079481534,
+          44.1621563596
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "Fillin' Station Coffeehouse, 630 S Front St, Mankato, MN 56001 , 4PM , edit: https://goclubdb.herokuapp.com/club/266/",
+        "name": "Mankato Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9636744559,
+          40.8035772594
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://www.peterarmenia.com/gothamgogroup.html , The Hungarian Pastry Shop\r\n1030 Amsterdam Ave (between 110th and 111th) , Tuesdays from 7pm - 11pm. , A casual meeting of go players on the Upper West Side of Manhattan. Beginners always welcome. See website for contact information. , edit: https://goclubdb.herokuapp.com/club/267/",
+        "name": "Gotham Go Group"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -96.798833,
+          46.883064
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "https://www.meetup.com/FargoGoClub/ , 610 N University Dr, Fargo, ND , Thursday - 5:30pm Fargo Brewing Company , edit: https://goclubdb.herokuapp.com/club/272/",
+        "name": "Fargo Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.8849593734,
+          40.8611666798
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "https://www.facebook.com/groups/1205339352886629/ , 441 E. Fordham Rd.\r\nBronx, NY 10458 , By appointment , message us on facebook , edit: https://goclubdb.herokuapp.com/club/278/",
+        "name": "Fordham Go"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.2903442383,
+          34.820905965
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "https://www.facebook.com/groups/GreenvilleGoClub/ , Panera on Woodruff Rd , 7pm Tuesdays , https://www.facebook.com/groups/GreenvilleGoClub/ , edit: https://goclubdb.herokuapp.com/club/279/",
+        "name": "Greenville Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.1172103882,
+          34.0436409595
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "https://www.facebook.com/groups/104251659909222/ , Firefly Toys & Games , Fridays between 3-6pm, check Facebook , https://www.facebook.com/groups/104251659909222/ , edit: https://goclubdb.herokuapp.com/club/280/",
+        "name": "Midlands Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.270391941065,
+          43.5899924612646
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "https://www.meetup.com/en-AU/Boise-Go-Club/ , All About Games\r\n7079 W Overland\r\nBoise, ID , Mondays and Thursdays (6pm - 10pm) , edit: https://goclubdb.herokuapp.com/club/287/",
+        "name": "Boise Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.168036043657,
+          34.0679828280762
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "https://www.facebook.com/groups/weiqi.game/ , CSU-LA, 5155 State University Dr, Los Angeles, CA 90032 or a cafe in East LA. Considering having meetings at ELAC if we have enough interest. , Meetings set up by FaceBook group. , email: sighris@gmail.com , edit: https://goclubdb.herokuapp.com/club/297/",
+        "name": "Los Angeles east (and CSU-LA) WeiQi Association"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.130801960792,
+          47.6198279032988
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "“Game Lane” near Uncle’s Games and the giant chess board, \r\n15600 NE 8th St Suite K10 Bellevue , Thursdays, 6:00 – 8:00 pm , edit: https://goclubdb.herokuapp.com/club/298/",
+        "name": "Crossroads Bellevue Shopping Center Meet-up"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.3624420166,
           36.3095921541
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "US", 
+      },
+      "layer": "US",
       "properties": {
         "_storage_options": {
           "iconClass": "Ball"
-        }, 
-        "description": "where ever , various , tgenade@gmail.com , edit: https://goclubdb.herokuapp.com/club/299/", 
+        },
+        "description": "where ever , various , tgenade@gmail.com , edit: https://goclubdb.herokuapp.com/club/299/",
         "name": "Tyrone's Go Board"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -76.9435849590884, 
-          38.9869749203522
-        ], 
+          -89.9376454,
+          35.1450509
+        ],
         "type": "Point"
-      }, 
-      "layer": "US", 
+      },
+      "layer": "US",
       "properties": {
-        "description": "http://www.umdgo.org , 1216 HJ Patterson Hall on Wednesdays, Stamp Student Union outside the Dairy on Fridays , 7-10 pm on Wednesdays, 5-9 pm on Fridays , edit: https://goclubdb.herokuapp.com/club/240/", 
-        "name": "UMD Go Club"
-      }, 
+        "description": "https://www.meetup.com/MemphisGoPlayers/events/past/ , Cheffies Cafe, 483 High Point Terrace, Memphis , Usually Sundays at 1 PM, but check availability on Meetup page. , edit: https://goclubdb.herokuapp.com/club/300/",
+        "name": "Memphis Go Club"
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -87.5988382101, 
-          41.7912287426
-        ], 
+          -86.7799943348,
+          36.0423154387
+        ],
         "type": "Point"
-      }, 
-      "layer": "US", 
+      },
+      "layer": "US",
       "properties": {
-        "description": "https://www.facebook.com/groups/892419820863503/ , Hutchinson Commons, 5706 S. University Ave, Chicago , Thursdays, 5-8 pm , henryli@uchicago.edu , edit: https://goclubdb.herokuapp.com/club/226/", 
-        "name": "University of Chicago Go Club"
-      }, 
+        "description": "https://midtngoclub.wordpress.com/ , Fulin’s Asian Cuisine\r\n782 Old Hickory Blvd #115\r\nBrentwood , Saturdays 12-4 pm\r\nSundays 5-9 pm , edit: https://goclubdb.herokuapp.com/club/301/",
+        "name": "Middle TN Go Club"
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -73.2124627644, 
-          44.479103
-        ], 
+          -118.096160888668,
+          45.3292831998353
+        ],
         "type": "Point"
-      }, 
-      "layer": "US", 
+      },
+      "layer": "US",
       "properties": {
-        "description": "http://www.vermontgo.org , Uncommon Grounds, 42 Church St, Burlington , Wednesdays, 6:30-9:00 PM , dfelcan@yahoo.com , edit: https://goclubdb.herokuapp.com/club/259/", 
-        "name": "Vermont Go Club"
-      }, 
+        "description": "Le Bebe Cakes\r\n1103 Washington Avenue , Wednesday 5:00pm - 8:00pm , edit: https://goclubdb.herokuapp.com/club/303/",
+        "name": "Grande Ronde Go Club"
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -118.3376, 
-          46.067
-        ], 
+          -105.91216743,
+          35.6669240082
+        ],
         "type": "Point"
-      }, 
-      "layer": "US", 
+      },
+      "layer": "US",
       "properties": {
-        "description": "https://www.facebook.com/wallawallagoclub/ , Sweet Basil Pizzeria\r\n5 S 1st Avenue\r\nWalla Walla, WA , Wednesday 6:30pm - 9pm , edit: https://goclubdb.herokuapp.com/club/243/", 
-        "name": "Walla Walla Go Club"
-      }, 
+        "description": "http://santafegoclub.org/ , St. Johns College , In person suspended for now. , edit: https://goclubdb.herokuapp.com/club/305/",
+        "name": "Santa Fe Go Club"
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -85.607958, 
-          42.929486
-        ], 
+          -93.2877659798,
+          44.9521573692
+        ],
         "type": "Point"
-      }, 
-      "layer": "US", 
+      },
+      "layer": "US",
       "properties": {
-        "description": "https://www.facebook.com/groups/westmigoclub/ , 1814 Breton Rd, Grand Rapids, MI 49506 , Tuesdays at 7pm , edit: https://goclubdb.herokuapp.com/club/237/", 
-        "name": "West Michigan Go Club"
-      }, 
+        "description": "Bob's Java Hut, 2651 Lyndale Ave S, Minneapolis, MN 55408 , Mondays, 18:00-23:00 , 612-871-4485 , edit: https://goclubdb.herokuapp.com/club/1345/",
+        "name": "Twin Cities Go Club (Monday)"
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -123.348098272, 
-          39.3906947307
-        ], 
+          -93.2461702824,
+          44.9694055383
+        ],
         "type": "Point"
-      }, 
-      "layer": "US", 
+      },
+      "layer": "US",
       "properties": {
-        "description": "Super Taco - Evergreen Shopping Center, 1726 S Main St. #A, Willits, CA , Tuesdays: 6:00 to 9:00 pm , Contact Brian Ferri-Taylor 707-459-9628 , edit: https://goclubdb.herokuapp.com/club/97/", 
-        "name": "Willits Go Club"
-      }, 
+        "description": "Hard Times Cafe, 1821 Riverside Avenue, Minneapolis, MN 55454-1034 , Thursdays 18:30-22:00 , edit: https://goclubdb.herokuapp.com/club/1346/",
+        "name": "Twin Cities Go Club (Thursday)"
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -118.1486807, 
-          34.1460517
-        ], 
+          -93.18775177,
+          44.9397114784
+        ],
         "type": "Point"
-      }, 
-      "layer": "US", 
+      },
+      "layer": "US",
       "properties": {
-        "description": "http://www.yugoclub.org , 20 N. Raymond Ave, Suite 200 , Every Wednesday 6p - 10p , (626) 356-8055\r\nreiyukai@reiyukai-usa.org , edit: https://goclubdb.herokuapp.com/club/254/", 
-        "name": "Yu Go Club of Pasadena"
-      }, 
+        "description": "Coffee Bene, 53 Cleveland Avenue South, Saint Paul, MN 55105 , Saturdays, 13:00-17:00 , 651-698-2266 , edit: https://goclubdb.herokuapp.com/club/1347/",
+        "name": "Twin Cities Go Club (Saturday)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.7178800106,
+          41.9214748362
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        },
+        "description": "edit: https://goclubdb.herokuapp.com/club/1348/",
+        "name": "Harridan Go Club (unofficial)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.682056427,
+          42.048798689
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "http://www.evanstongoclub.org , 1734 Sherman Ave\r\nEvanston, IL 60201 , Every Wed 6-10 PM , Mark Rubenstein\r\nmark@evanstongoclub.org , edit: https://goclubdb.herokuapp.com/club/1349/",
+        "name": "Evanston Go club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.5732421875,
+          28.0525908233
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "https://www.facebook.com/tampagoclub/ , Saturdays , http://www.meetup.com/Tampa-Bay-Go-Baduk-Players/ , edit: https://goclubdb.herokuapp.com/club/1350/",
+        "name": "Tampa Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.8597855568,
+          40.7933274655
+        ],
+        "type": "Point"
+      },
+      "layer": "US",
+      "properties": {
+        "description": "Musser Room (we share with the Chess Club) , every Saturday 14:00 , schlowgo@gmail.com , edit: https://goclubdb.herokuapp.com/club/1351/",
+        "name": "Schlow Library Go Club"
+      },
       "type": "Feature"
     }
-  ], 
+  ],
   "type": "FeatureCollection"
 }

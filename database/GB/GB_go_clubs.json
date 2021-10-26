@@ -3,1140 +3,1140 @@
     {
       "geometry": {
         "coordinates": [
-          -2.10586390402, 
-          57.1656495733
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3140 , Hardback Cafe, Aberdeen University \"Sir Duncan Rice Library, Bedford Road, Aberdeen , Saturday 11:00 every second one from 19/04/14, but check website , Neil McLean , edit: https://goclubdb.herokuapp.com/club/1264/", 
-        "name": "Aberdeen"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -0.553582682178482, 
-          50.853619921907
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3141 , 1 Town Quay, River Rd, Arundel, West Sussex , Sunday - last in month, but please ring first to confirm , Sue Paterson Tel: 07549 898376 , edit: https://goclubdb.herokuapp.com/club/1265/", 
-        "name": "Arundel"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -4.05362, 
-          52.72095
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "description": "http://www.britgo.org/node/3142 , By arrangement , Baron Allday Tel: 01341 280365 , edit: https://goclubdb.herokuapp.com/club/1266/", 
-        "name": "Barmouth"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -2.39513594149, 
-          51.3790174481
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3144 , Meets various places - check club web site. , Tuesday 19:30 , Paul Christie Tel: 01225 428995 , edit: https://goclubdb.herokuapp.com/club/1267/", 
-        "name": "Bath"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -5.9298685, 
-          54.5726437
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3145 , Function Room, Belfast Boat Club, 12 Lockview Road , Monday 19:00 , James Hutchinson , edit: https://goclubdb.herokuapp.com/club/1268/", 
-        "name": "Belfast Monday"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -5.9352958, 
-          54.5802696
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/4563 , 86 Stranmillis Road, Belfast BT9 5AW , Thursday 18:30 , James Hutchinson , edit: https://goclubdb.herokuapp.com/club/1269/", 
-        "name": "Belfast Thursday"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -64.78294909, 
-          32.2931208779
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "description": "https://www.facebook.com/BermudaGo , edit: https://goclubdb.herokuapp.com/club/1354/", 
-        "name": "Bermuda Go Society"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          0.4344761, 
-          51.6257112
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3147 , 42 Mons Avenue, Billericay, Essex , Monday 19:30 in term-time , Guy Footring Tel: 01277 623305 , edit: https://goclubdb.herokuapp.com/club/1270/", 
-        "name": "Billericay"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -1.91094750934004, 
-          52.47906255
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3148 , Starbucks cafe in the International Convention Centre (ICC) , Sunday 14:00 , Andrew Russellhttp://www.brumgo.co.uk/ , edit: https://goclubdb.herokuapp.com/club/1271/", 
-        "name": "Birmingham"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -2.7274482, 
-          55.606769
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3150 , Greenwells, Gattonside near Melrose and Galashiels , By arrangement , Ron Bell , edit: https://goclubdb.herokuapp.com/club/1272/", 
-        "name": "Borders"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -1.87724721566, 
-          50.7488004472
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3153 , 24 Cowper Road, Moordown , Tuesday 20:00 , Marcus Bennett Tel: 01202 512655 , edit: https://goclubdb.herokuapp.com/club/1273/", 
-        "name": "Bournemouth"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -0.7590057431305, 
-          51.4066504557614
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3151 , Crowthorne Road, RG12 7DL , Tuesday 20:00 meets by arrangement only , Ian Marsh Tel: 01344 422296 , edit: https://goclubdb.herokuapp.com/club/1274/", 
-        "name": "Bracknell"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -1.7748336, 
-          53.8344245
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3152 , BD18 3ST The Noble Comb, Quayside, Salts Mill Road, Shipley , Wednesday 19:30 , Ewen Pearson Tel: 01274 598980 , edit: https://goclubdb.herokuapp.com/club/1275/", 
-        "name": "Bradford"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -0.1318, 
-          50.8406
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3155 , Druid Arms, 79-81 Ditchling Rd , Wednesday 20:00 , Felix Shardlow tel: 07940 973406John Allen aka \"Yogi\" Tel: 01273 383254 or 07854 218920Jil Segerman Tel: 07920 865065 or 01273 470346 , edit: https://goclubdb.herokuapp.com/club/1276/", 
-        "name": "Brighton"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -0.1264609, 
-          50.8272903
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/club/brighton , BN2 9UF The Southover Pub, Southover St , Monday 20:00 , Felix Shardlow 07940 973406 https://www.facebook.com/groups/brightongoclub/ , edit: https://goclubdb.herokuapp.com/club/1277/", 
-        "name": "Brighton"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -2.59758, 
-          51.45624
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3156 , Bristol County Sports Club, 40 Colston Street, Bristol , Wednesday 19:00 , Luke Oram , edit: https://goclubdb.herokuapp.com/club/1278/", 
-        "name": "Bristol"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          0.139040991401667, 
-          52.1989164398522
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3158 , Devonshire Arms, Devonshire Road, Cambridge , Sunday 18:00-23:00 , Simon Mader , edit: https://goclubdb.herokuapp.com/club/1279/", 
-        "name": "Cambridge City"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          0.107533097928, 
-          52.2195568237
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/club/cambridgejunior , St Augustine's Church Hall, Richmond Road , Wednesday 18:00-19:30 , Paul Smith Tel: 01223 563932 , edit: https://goclubdb.herokuapp.com/club/1280/", 
-        "name": "Cambridge Junior Chess and Go"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          0.103866856482, 
-          52.2052962253
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3159 , Linnett Room, Robinson College , Monday 19:00-22:00 during University terms (possibly on hold this term) , Sean Hao , edit: https://goclubdb.herokuapp.com/club/1281/", 
-        "name": "Cambridge University"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          0.11636511026, 
-          52.2012165822
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3160 , University Centre, Mill Lane , Thursday 19:00-21:00 , Sean Hao , edit: https://goclubdb.herokuapp.com/club/1282/", 
-        "name": "Cambridge University"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          1.09364, 
-          51.27998
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/5002 , Chocolate Cafe in Canterbury, 1 Guildhall Street, Canterbury , Wednesday evenings from about 7.00pm , Andy Renshaw , edit: https://goclubdb.herokuapp.com/club/1283/", 
-        "name": "Canterbury Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -3.20868784881, 
-          51.4844325584
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3164 , Cafe area of Chapter Arts Centre, Market Road, Cardiff , Tuesday 19:00-23:30 , Dylan Carter , edit: https://goclubdb.herokuapp.com/club/1284/", 
-        "name": "Cardiff"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -0.1100581, 
-          51.5178439
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3198 , The Inn of Court pub, 18 Holborn , Saturday 14:00-20:00\r\nMonday 18:00-23:00 , Jonathan Turner Tel: 07968 538881 (mobile).\r\nrichard.mullens@gmail.com; Kiyohiko Tanaka Tel: 07956 594040 KGS: matta , edit: https://goclubdb.herokuapp.com/club/1310/", 
-        "name": "Central London Go Club, London City Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          0.0372064959227, 
-          51.48040805
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3165 , Charlton House, Charlton Road, London , Tuesday 19:30 , Tony Stebbings , edit: https://goclubdb.herokuapp.com/club/1285/", 
-        "name": "Charlton Chess Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -2.07656, 
-          51.89862
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3166 , Wednesday 19:30 , Adam Watts Tel: 07403 475573 , edit: https://goclubdb.herokuapp.com/club/1286/", 
-        "name": "Cheltenham"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -2.89142019827, 
-          53.1886174371
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3167 , Ye Olde Custom House Inn, 65-67 Watergate Street , Wednesday 20:00 - players normally present from 19:30 , Tony Pitchford Tel: 01925 730583 , edit: https://goclubdb.herokuapp.com/club/1287/", 
-        "name": "Chester"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -2.9931106, 
-          56.456211
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3170 , Mennie's, aka the Speedwell Bar, 165-167 Perth Road , Monday from 20:00 during University terms , Rich Philp Tel: 01382-666129Peter Clinch Tel: 01382 665322 , edit: https://goclubdb.herokuapp.com/club/1291/", 
-        "name": "Dundee"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -1.5845046092, 
-          54.7754614304
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3172 , The Elm Tree pub, Crossgate , Thursday 20:00-22:00 during term-time , Andrew Ambrose-Thurman , edit: https://goclubdb.herokuapp.com/club/1293/", 
-        "name": "Durham"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -1.579723, 
-          54.7600027
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3171 , The Bar, Ustinov College, Howlands Farm , Monday 20:00-22:00 during term time , Andrew Ambrose-Thurman , edit: https://goclubdb.herokuapp.com/club/1292/", 
-        "name": "Durham"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -3.2014957, 
-          55.9443777
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3174 , Edinburgh Games Hub, http://edinburghgamehub.co.uk/ , Thursday 18:30 , Phil Blamire Tel: 0131 663 0678 , edit: https://goclubdb.herokuapp.com/club/1294/", 
-        "name": "Edinburgh"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -0.2646228, 
-          51.3338915
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "description": "http://www.britgo.org/node/3176 , Epsom , Occasionally , Matthew via mobile: 07752 - 301 096 , edit: https://goclubdb.herokuapp.com/club/1295/", 
-        "name": "Epsom"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -3.5303122, 
-          50.7208506
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3177 , White Hart Inn, South Street , Monday 19:00 , David Storkey Tel: 01392 461182 , edit: https://goclubdb.herokuapp.com/club/1296/", 
-        "name": "Exeter"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -4.288999, 
-          55.871799
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3181 , Gilchrist Postgraduate Club, University Avenue, University of Glasgow , Thursday 18:00 , Seigfried Leher , edit: https://goclubdb.herokuapp.com/club/1298/", 
-        "name": "Glasgow University"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -2.45855, 
-          52.83697
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "_storage_options": {
-          "iconClass": "Ball"
-        }, 
-        "description": "http://www.britgo.org/node/3187 , By arrangement , Roger Huyshe Tel: 01952 550361 for details of local players , edit: https://goclubdb.herokuapp.com/club/1299/", 
-        "name": "Hinstock"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -0.348889686595, 
-          53.7639521608
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3189 , 12 Fitzroy St, Beverley Rd , Thursday 20:00 , Mark Collinson Tel: 01482 341179 , edit: https://goclubdb.herokuapp.com/club/1300/", 
-        "name": "Hull"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -4.46697, 
-          54.19823
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3191 , Phone for details , Sunday 20:00 , David Phillips, 4 Ivydene Ave, Onchan Tel: 01624 612294, 07624 473688 , edit: https://goclubdb.herokuapp.com/club/1301/", 
-        "name": "Isle of Man"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -2.79297358349, 
-          54.046615941
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3184 , Gregson Community Centre, 33 Moorgate , Wednesday 20:00 - players normally present from 19:30 , Adrian Abrahams Tel: 01524 34656 , edit: https://goclubdb.herokuapp.com/club/1302/", 
-        "name": "Lancaster"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -1.6051602, 
-          52.2457926
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3192 , 22 Keytes Lane, Barford, Warwickshire , Thursday 19:30, not Easter Thursday , Matthew Macfadyen Tel: 01926 624445 , edit: https://goclubdb.herokuapp.com/club/1303/", 
-        "name": "Leamington"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -1.5577702, 
-          53.8048979
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3193 , The Faversham, 1-5 Springfield Mount, Leeds , Tuesday 17:30-20:30 , Jitse Niesen , edit: https://goclubdb.herokuapp.com/club/1304/", 
-        "name": "Leeds University"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -1.2305961, 
-          52.6291197
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3194 , Stephen Bashforth's house, Mayfield, Station Road, Kirby Muxloe , Thursday 19:45 , Toby Manning Tel: 01530 245298 , edit: https://goclubdb.herokuapp.com/club/1305/", 
-        "name": "Leicester"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -0.2276028, 
-          51.9776758
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/4212 , Central Methodist Church, Norton Way South , Thursday 18:00-19:30 during term-time: Junior Chess and Go Club.\r\nThursday 20:00-22:30 during term-time: Letchworth Go Club , Alison Bexfield , edit: https://goclubdb.herokuapp.com/club/1307/", 
-        "name": "Letchworth"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -0.5389319, 
-          53.2341567
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3195 , The Wig and Mitre, Steep Hill , Monday 19:00-22:00 (1st Mon) , Richard Leedham-Green , edit: https://goclubdb.herokuapp.com/club/1308/", 
-        "name": "Lincoln"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          0.0282214, 
-          51.5760603
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3199 , Wanstead House, 21 The Green, Wanstead , Thursday 19:00 except August , Francis Roads Tel: 020 8505 4381 , edit: https://goclubdb.herokuapp.com/club/1311/", 
-        "name": "London, East"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -0.178857120143, 
-          51.5558438026
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3202 , Allatson Room, Parish Church, Church Row, Hampstead , Tuesday 19:30 , Michael Webster , edit: https://goclubdb.herokuapp.com/club/1312/", 
-        "name": "London, North"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -0.331331781603, 
-          51.4419936808
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3206 , The Alexander Pope Hotel, Cross Deep, Twickenham, West London , Wednesday 19:30 , Colin Maclennan Tel: 020 8941 1607 , edit: https://goclubdb.herokuapp.com/club/1313/", 
-        "name": "London, Twickenham"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -0.226957798004, 
+          -0.226957798004,
           51.5027
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://west.londongo.club , 54 Goldhawk Road\r\nShepherd’s Bush\r\nLONDON , Monday 7pm\r\nWednesday 7pm , admin at west.londongo.club , edit: https://goclubdb.herokuapp.com/club/258/", 
+        "description": "http://west.londongo.club , 54 Goldhawk Road\r\nShepherd’s Bush\r\nLONDON , Monday 7pm\r\nWednesday 7pm , admin at west.londongo.club , edit: https://goclubdb.herokuapp.com/club/258/",
         "name": "London, West"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -0.7343283, 
+          -2.10586390402,
+          57.1656495733
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3140 , Hardback Cafe, Aberdeen University \"Sir Duncan Rice Library, Bedford Road, Aberdeen , Saturday 11:00 every second one from 19/04/14, but check website , Neil McLean , edit: https://goclubdb.herokuapp.com/club/1264/",
+        "name": "Aberdeen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.553582682178482,
+          50.853619921907
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3141 , 1 Town Quay, River Rd, Arundel, West Sussex , Sunday - last in month, but please ring first to confirm , Sue Paterson Tel: 07549 898376 , edit: https://goclubdb.herokuapp.com/club/1265/",
+        "name": "Arundel"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.05362,
+          52.72095
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        },
+        "description": "http://www.britgo.org/node/3142 , By arrangement , Baron Allday Tel: 01341 280365 , edit: https://goclubdb.herokuapp.com/club/1266/",
+        "name": "Barmouth"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.39513594149,
+          51.3790174481
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3144 , Meets various places - check club web site. , Tuesday 19:30 , Paul Christie Tel: 01225 428995 , edit: https://goclubdb.herokuapp.com/club/1267/",
+        "name": "Bath"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.9298685,
+          54.5726437
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3145 , Function Room, Belfast Boat Club, 12 Lockview Road , Monday 19:00 , James Hutchinson , edit: https://goclubdb.herokuapp.com/club/1268/",
+        "name": "Belfast Monday"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.9352958,
+          54.5802696
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/4563 , 86 Stranmillis Road, Belfast BT9 5AW , Thursday 18:30 , James Hutchinson , edit: https://goclubdb.herokuapp.com/club/1269/",
+        "name": "Belfast Thursday"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.4344761,
+          51.6257112
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3147 , 42 Mons Avenue, Billericay, Essex , Monday 19:30 in term-time , Guy Footring Tel: 01277 623305 , edit: https://goclubdb.herokuapp.com/club/1270/",
+        "name": "Billericay"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.91094750934004,
+          52.47906255
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3148 , Starbucks cafe in the International Convention Centre (ICC) , Sunday 14:00 , Andrew Russellhttp://www.brumgo.co.uk/ , edit: https://goclubdb.herokuapp.com/club/1271/",
+        "name": "Birmingham"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.7274482,
+          55.606769
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3150 , Greenwells, Gattonside near Melrose and Galashiels , By arrangement , Ron Bell , edit: https://goclubdb.herokuapp.com/club/1272/",
+        "name": "Borders"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.87724721566,
+          50.7488004472
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3153 , 24 Cowper Road, Moordown , Tuesday 20:00 , Marcus Bennett Tel: 01202 512655 , edit: https://goclubdb.herokuapp.com/club/1273/",
+        "name": "Bournemouth"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.7590057431305,
+          51.4066504557614
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3151 , Crowthorne Road, RG12 7DL , Tuesday 20:00 meets by arrangement only , Ian Marsh Tel: 01344 422296 , edit: https://goclubdb.herokuapp.com/club/1274/",
+        "name": "Bracknell"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.7748336,
+          53.8344245
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3152 , BD18 3ST The Noble Comb, Quayside, Salts Mill Road, Shipley , Wednesday 19:30 , Ewen Pearson Tel: 01274 598980 , edit: https://goclubdb.herokuapp.com/club/1275/",
+        "name": "Bradford"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1318,
+          50.8406
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3155 , Druid Arms, 79-81 Ditchling Rd , Wednesday 20:00 , Felix Shardlow tel: 07940 973406John Allen aka \"Yogi\" Tel: 01273 383254 or 07854 218920Jil Segerman Tel: 07920 865065 or 01273 470346 , edit: https://goclubdb.herokuapp.com/club/1276/",
+        "name": "Brighton"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1264609,
+          50.8272903
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/club/brighton , BN2 9UF The Southover Pub, Southover St , Monday 20:00 , Felix Shardlow 07940 973406 https://www.facebook.com/groups/brightongoclub/ , edit: https://goclubdb.herokuapp.com/club/1277/",
+        "name": "Brighton"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.59758,
+          51.45624
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3156 , Bristol County Sports Club, 40 Colston Street, Bristol , Wednesday 19:00 , Luke Oram , edit: https://goclubdb.herokuapp.com/club/1278/",
+        "name": "Bristol"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.139040991401667,
+          52.1989164398522
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3158 , Devonshire Arms, Devonshire Road, Cambridge , Sunday 18:00-23:00 , Simon Mader , edit: https://goclubdb.herokuapp.com/club/1279/",
+        "name": "Cambridge City"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.107533097928,
+          52.2195568237
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/club/cambridgejunior , St Augustine's Church Hall, Richmond Road , Wednesday 18:00-19:30 , Paul Smith Tel: 01223 563932 , edit: https://goclubdb.herokuapp.com/club/1280/",
+        "name": "Cambridge Junior Chess and Go"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.103866856482,
+          52.2052962253
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3159 , Linnett Room, Robinson College , Monday 19:00-22:00 during University terms (possibly on hold this term) , Sean Hao , edit: https://goclubdb.herokuapp.com/club/1281/",
+        "name": "Cambridge University"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.11636511026,
+          52.2012165822
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3160 , University Centre, Mill Lane , Thursday 19:00-21:00 , Sean Hao , edit: https://goclubdb.herokuapp.com/club/1282/",
+        "name": "Cambridge University"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.09364,
+          51.27998
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/5002 , Chocolate Cafe in Canterbury, 1 Guildhall Street, Canterbury , Wednesday evenings from about 7.00pm , Andy Renshaw , edit: https://goclubdb.herokuapp.com/club/1283/",
+        "name": "Canterbury Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.20868784881,
+          51.4844325584
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3164 , Cafe area of Chapter Arts Centre, Market Road, Cardiff , Tuesday 19:00-23:30 , Dylan Carter , edit: https://goclubdb.herokuapp.com/club/1284/",
+        "name": "Cardiff"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.0372064959227,
+          51.48040805
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3165 , Charlton House, Charlton Road, London , Tuesday 19:30 , Tony Stebbings , edit: https://goclubdb.herokuapp.com/club/1285/",
+        "name": "Charlton Chess Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.07656,
+          51.89862
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3166 , Wednesday 19:30 , Adam Watts Tel: 07403 475573 , edit: https://goclubdb.herokuapp.com/club/1286/",
+        "name": "Cheltenham"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.89142019827,
+          53.1886174371
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3167 , Ye Olde Custom House Inn, 65-67 Watergate Street , Wednesday 20:00 - players normally present from 19:30 , Tony Pitchford Tel: 01925 730583 , edit: https://goclubdb.herokuapp.com/club/1287/",
+        "name": "Chester"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.9931106,
+          56.456211
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3170 , Mennie's, aka the Speedwell Bar, 165-167 Perth Road , Monday from 20:00 during University terms , Rich Philp Tel: 01382-666129Peter Clinch Tel: 01382 665322 , edit: https://goclubdb.herokuapp.com/club/1291/",
+        "name": "Dundee"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.579723,
+          54.7600027
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3171 , The Bar, Ustinov College, Howlands Farm , Monday 20:00-22:00 during term time , Andrew Ambrose-Thurman , edit: https://goclubdb.herokuapp.com/club/1292/",
+        "name": "Durham"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.5845046092,
+          54.7754614304
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3172 , The Elm Tree pub, Crossgate , Thursday 20:00-22:00 during term-time , Andrew Ambrose-Thurman , edit: https://goclubdb.herokuapp.com/club/1293/",
+        "name": "Durham"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.2014957,
+          55.9443777
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3174 , Edinburgh Games Hub, http://edinburghgamehub.co.uk/ , Thursday 18:30 , Phil Blamire Tel: 0131 663 0678 , edit: https://goclubdb.herokuapp.com/club/1294/",
+        "name": "Edinburgh"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.2646228,
+          51.3338915
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        },
+        "description": "http://www.britgo.org/node/3176 , Epsom , Occasionally , Matthew via mobile: 07752 - 301 096 , edit: https://goclubdb.herokuapp.com/club/1295/",
+        "name": "Epsom"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.5303122,
+          50.7208506
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3177 , White Hart Inn, South Street , Monday 19:00 , David Storkey Tel: 01392 461182 , edit: https://goclubdb.herokuapp.com/club/1296/",
+        "name": "Exeter"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.288999,
+          55.871799
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3181 , Gilchrist Postgraduate Club, University Avenue, University of Glasgow , Thursday 18:00 , Seigfried Leher , edit: https://goclubdb.herokuapp.com/club/1298/",
+        "name": "Glasgow University"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.45855,
+          52.83697
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        },
+        "description": "http://www.britgo.org/node/3187 , By arrangement , Roger Huyshe Tel: 01952 550361 for details of local players , edit: https://goclubdb.herokuapp.com/club/1299/",
+        "name": "Hinstock"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.348889686595,
+          53.7639521608
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3189 , 12 Fitzroy St, Beverley Rd , Thursday 20:00 , Mark Collinson Tel: 01482 341179 , edit: https://goclubdb.herokuapp.com/club/1300/",
+        "name": "Hull"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.46697,
+          54.19823
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3191 , Phone for details , Sunday 20:00 , David Phillips, 4 Ivydene Ave, Onchan Tel: 01624 612294, 07624 473688 , edit: https://goclubdb.herokuapp.com/club/1301/",
+        "name": "Isle of Man"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.79297358349,
+          54.046615941
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3184 , Gregson Community Centre, 33 Moorgate , Wednesday 20:00 - players normally present from 19:30 , Adrian Abrahams Tel: 01524 34656 , edit: https://goclubdb.herokuapp.com/club/1302/",
+        "name": "Lancaster"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.6051602,
+          52.2457926
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3192 , 22 Keytes Lane, Barford, Warwickshire , Thursday 19:30, not Easter Thursday , Matthew Macfadyen Tel: 01926 624445 , edit: https://goclubdb.herokuapp.com/club/1303/",
+        "name": "Leamington"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.5577702,
+          53.8048979
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3193 , The Faversham, 1-5 Springfield Mount, Leeds , Tuesday 17:30-20:30 , Jitse Niesen , edit: https://goclubdb.herokuapp.com/club/1304/",
+        "name": "Leeds University"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.2305961,
+          52.6291197
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3194 , Stephen Bashforth's house, Mayfield, Station Road, Kirby Muxloe , Thursday 19:45 , Toby Manning Tel: 01530 245298 , edit: https://goclubdb.herokuapp.com/club/1305/",
+        "name": "Leicester"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.2276028,
+          51.9776758
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/4212 , Central Methodist Church, Norton Way South , Thursday 18:00-19:30 during term-time: Junior Chess and Go Club.\r\nThursday 20:00-22:30 during term-time: Letchworth Go Club , Alison Bexfield , edit: https://goclubdb.herokuapp.com/club/1307/",
+        "name": "Letchworth"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.5389319,
+          53.2341567
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3195 , The Wig and Mitre, Steep Hill , Monday 19:00-22:00 (1st Mon) , Richard Leedham-Green , edit: https://goclubdb.herokuapp.com/club/1308/",
+        "name": "Lincoln"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1100581,
+          51.5178439
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3198 , The Inn of Court pub, 18 Holborn , Saturday 14:00-20:00\r\nMonday 18:00-23:00 , Jonathan Turner Tel: 07968 538881 (mobile).\r\nrichard.mullens@gmail.com; Kiyohiko Tanaka Tel: 07956 594040 KGS: matta , edit: https://goclubdb.herokuapp.com/club/1310/",
+        "name": "Central London Go Club, London City Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.0282214,
+          51.5760603
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3199 , Wanstead House, 21 The Green, Wanstead , Thursday 19:00 except August , Francis Roads Tel: 020 8505 4381 , edit: https://goclubdb.herokuapp.com/club/1311/",
+        "name": "London, East"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.178857120143,
+          51.5558438026
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3202 , Allatson Room, Parish Church, Church Row, Hampstead , Tuesday 19:30 , Michael Webster , edit: https://goclubdb.herokuapp.com/club/1312/",
+        "name": "London, North"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.331331781603,
+          51.4419936808
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3206 , The Alexander Pope Hotel, Cross Deep, Twickenham, West London , Wednesday 19:30 , Colin Maclennan Tel: 020 8941 1607 , edit: https://goclubdb.herokuapp.com/club/1313/",
+        "name": "London, Twickenham"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.7343283,
           51.5219319
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://www.britgo.org/node/3208 , Norhurst, Westmorland Rd, Maidenhead , Friday 20:00 , Iain Atwell, Tel: 01628 676792 , edit: https://goclubdb.herokuapp.com/club/1316/", 
+        "description": "http://www.britgo.org/node/3208 , Norhurst, Westmorland Rd, Maidenhead , Friday 20:00 , Iain Atwell, Tel: 01628 676792 , edit: https://goclubdb.herokuapp.com/club/1316/",
         "name": "Maidenhead"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -2.2398008, 
+          -2.2398008,
           53.4805574
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "https://www.facebook.com/groups/1752760928343423/1756314767988039 , The Shakespeare pub, 16 Fountain Street , Thursday 18:00 , Chris Kirkham Tel: 0161 903 9023 , edit: https://goclubdb.herokuapp.com/club/1317/", 
+        "description": "https://www.facebook.com/groups/1752760928343423/1756314767988039 , The Shakespeare pub, 16 Fountain Street , Thursday 18:00 , Chris Kirkham Tel: 0161 903 9023 , edit: https://goclubdb.herokuapp.com/club/1317/",
         "name": "Manchester"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -5.247745, 
-          50.228835
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/5195 , Bluefruit Software, Gateway Business Centre, Barncoose, Redruth, Cornwall , Friday 13:00 - 14:00 , Paul Massey Tel: 07966 474686 , edit: https://goclubdb.herokuapp.com/club/1319/", 
-        "name": "Mid-Cornwall"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -5.218773, 
+          -5.218773,
           50.198643
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://www.britgo.org/node/3211 , Penhalurick Barton, Penhalvean, Redruth, Cornwall , Tuesday 20:00 , Paul Massey Tel: 07966 474686 , edit: https://goclubdb.herokuapp.com/club/1318/", 
+        "description": "http://www.britgo.org/node/3211 , Penhalurick Barton, Penhalvean, Redruth, Cornwall , Tuesday 20:00 , Paul Massey Tel: 07966 474686 , edit: https://goclubdb.herokuapp.com/club/1318/",
         "name": "Mid-Cornwall"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -0.7692317, 
-          52.0384223
-        ], 
+          -5.247745,
+          50.228835
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://www.britgo.org/node/3214 , Wetherspoons, 201 Midsummer Boulevard , Tuesday 18:15 , Tim Hunt Tel: 07850 119939 , edit: https://goclubdb.herokuapp.com/club/1321/", 
-        "name": "Milton Keynes"
-      }, 
+        "description": "http://www.britgo.org/node/5195 , Bluefruit Software, Gateway Business Centre, Barncoose, Redruth, Cornwall , Friday 13:00 - 14:00 , Paul Massey Tel: 07966 474686 , edit: https://goclubdb.herokuapp.com/club/1319/",
+        "name": "Mid-Cornwall"
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -0.711252, 
+          -0.711252,
           52.0242571
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://www.britgo.org/node/3213 , The coffee bar in the Catering Hub, The Open University, Walton Hall , Tuesday 12:15-13:15 , Tim Hunt Tel: 07850 119939 , edit: https://goclubdb.herokuapp.com/club/1320/", 
+        "description": "http://www.britgo.org/node/3213 , The coffee bar in the Catering Hub, The Open University, Walton Hall , Tuesday 12:15-13:15 , Tim Hunt Tel: 07850 119939 , edit: https://goclubdb.herokuapp.com/club/1320/",
         "name": "Milton Keynes"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -0.8828779, 
+          -0.7692317,
+          52.0384223
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3214 , Wetherspoons, 201 Midsummer Boulevard , Tuesday 18:15 , Tim Hunt Tel: 07850 119939 , edit: https://goclubdb.herokuapp.com/club/1321/",
+        "name": "Milton Keynes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.8828779,
           52.2446911
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://www.britgo.org/node/3450 , Blackcurrent Centre, St Michaels Avenue, Abington, Northampton (www.blackcurrentcentre.org.uk) , Wednesday 19:00 , Thomas Streamer 07926357826 , edit: https://goclubdb.herokuapp.com/club/1322/", 
+        "description": "http://www.britgo.org/node/3450 , Blackcurrent Centre, St Michaels Avenue, Abington, Northampton (www.blackcurrentcentre.org.uk) , Wednesday 19:00 , Thomas Streamer 07926357826 , edit: https://goclubdb.herokuapp.com/club/1322/",
         "name": "Northampton"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -1.21634470519, 
+          -1.21634470519,
           52.9265494728
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://www.britgo.org/node/3219 , The Last Post, Chilwell Road, Beeston , Wednesday 19:30-22:00 , Brent Cutts Tel: 0115 959 2404 , edit: https://goclubdb.herokuapp.com/club/1323/", 
+        "description": "http://www.britgo.org/node/3219 , The Last Post, Chilwell Road, Beeston , Wednesday 19:30-22:00 , Brent Cutts Tel: 0115 959 2404 , edit: https://goclubdb.herokuapp.com/club/1323/",
         "name": "Nottingham"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -1.23801721426399, 
+          -1.23801721426399,
           51.7442363288173
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://britgo.org/clubs/oxford_c.html , 38 Henley Street, Oxford, OX4 1ES , Tuesday 18:30-23:00 , Harry Fearnley, 38 Henley Street, Oxford OX4 1ES Tel: 01865 248775 (day/eve) , edit: https://goclubdb.herokuapp.com/club/1324/", 
+        "description": "http://britgo.org/clubs/oxford_c.html , 38 Henley Street, Oxford, OX4 1ES , Tuesday 18:30-23:00 , Harry Fearnley, 38 Henley Street, Oxford OX4 1ES Tel: 01865 248775 (day/eve) , edit: https://goclubdb.herokuapp.com/club/1324/",
         "name": "Oxford City"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -1.25093916091, 
+          -1.25093916091,
           51.7511179
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://www.britgo.org/node/3223 , Fitzjames 2 in Merton College, Merton Street, Oxford , Thursday 19:30-23:00 - wks 1-8 Oxford Univ term , Toby Cathcart Burn Tel/Text: 07821 199649 , edit: https://goclubdb.herokuapp.com/club/1325/", 
+        "description": "http://www.britgo.org/node/3223 , Fitzjames 2 in Merton College, Merton Street, Oxford , Thursday 19:30-23:00 - wks 1-8 Oxford Univ term , Toby Cathcart Burn Tel/Text: 07821 199649 , edit: https://goclubdb.herokuapp.com/club/1325/",
         "name": "Oxford University"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -1.0462696, 
+          -1.0462696,
           50.8655411
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://www.britgo.org/node/3226 , Mostly at Peter Wendes's house , Thursday evenings - most weeks , Peter Wendes Tel: 02392 267648 , edit: https://goclubdb.herokuapp.com/club/1326/", 
+        "description": "http://www.britgo.org/node/3226 , Mostly at Peter Wendes's house , Thursday evenings - most weeks , Peter Wendes Tel: 02392 267648 , edit: https://goclubdb.herokuapp.com/club/1326/",
         "name": "Purbrook"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -0.9722766, 
+          -0.9722766,
           51.456639
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://www.britgo.org/node/3229 , Eclectic Games, 5 Union Street, Reading , Monday 18:30 except bank holidays , Jim Clare, 32-28 Granville Rd, Reading, RG30 3QE Tel: 0118 950 7319 , edit: https://goclubdb.herokuapp.com/club/1327/", 
+        "description": "http://www.britgo.org/node/3229 , Eclectic Games, 5 Union Street, Reading , Monday 18:30 except bank holidays , Jim Clare, 32-28 Granville Rd, Reading, RG30 3QE Tel: 0118 950 7319 , edit: https://goclubdb.herokuapp.com/club/1327/",
         "name": "Reading"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          0.0992885, 
+          0.0992885,
           50.7838979
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://www.britgo.org/node/4282 , 149 Princess Drive, Seaford , Thursday 19:00-21:30 (not every week) , Karen van den Zyl tel: 01323 351473 , edit: https://goclubdb.herokuapp.com/club/1328/", 
+        "description": "http://www.britgo.org/node/4282 , 149 Princess Drive, Seaford , Thursday 19:00-21:30 (not every week) , Karen van den Zyl tel: 01323 351473 , edit: https://goclubdb.herokuapp.com/club/1328/",
         "name": "Seaford"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -1.4627652005, 
+          -1.4627652005,
           53.3782610349
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "https://sheffieldgoclub.org.uk/ , (Since October 2015): The Old Queens Head, 40 Pond Hill, Sheffield, South Yorkshire , Sunday 19:30 , Phil Barker Tel: 0114 255 1440 (home)\r\nMatt Marsh Tel: 07795 297779 , edit: https://goclubdb.herokuapp.com/club/1329/", 
+        "description": "https://sheffieldgoclub.org.uk/ , (Since October 2015): The Old Queens Head, 40 Pond Hill, Sheffield, South Yorkshire , Sunday 19:30 , Phil Barker Tel: 0114 255 1440 (home)\r\nMatt Marsh Tel: 07795 297779 , edit: https://goclubdb.herokuapp.com/club/1329/",
         "name": "Sheffield"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -1.4872902829, 
+          -1.4872902829,
           53.3827442
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://www.britgo.org/node/4456 , Student Union Gallery Eye room, Western Bank , Tuesday 18:00-21:00 in term-time , David Philpott , edit: https://goclubdb.herokuapp.com/club/1330/", 
+        "description": "http://www.britgo.org/node/4456 , Student Union Gallery Eye room, Western Bank , Tuesday 18:00-21:00 in term-time , David Philpott , edit: https://goclubdb.herokuapp.com/club/1330/",
         "name": "Sheffield University Go Society"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -6.1987678, 
+          -6.1987678,
           57.4044894
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://www.britgo.org/node/3231 , Givendale Guest House, Heron Place, Portree, Isle of Skye , Tuesday 19:30 , Carel Goodheir Tel: 01478 611763. Jurriaan Dijkman Tel: 01478 612183, 07554 434215 , edit: https://goclubdb.herokuapp.com/club/1331/", 
+        "description": "http://www.britgo.org/node/3231 , Givendale Guest House, Heron Place, Portree, Isle of Skye , Tuesday 19:30 , Carel Goodheir Tel: 01478 611763. Jurriaan Dijkman Tel: 01478 612183, 07554 434215 , edit: https://goclubdb.herokuapp.com/club/1331/",
         "name": "Skye"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -0.3368138, 
+          -0.3368138,
           51.7500809
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://www.britgo.org/node/3233 , The Garibaldi, 61 Albert Street , Wednesday 20:00 until pub closing , Secretary: Brian Ellis 01727 872575, Mike Cockburn 01727 834035 , edit: https://goclubdb.herokuapp.com/club/1332/", 
+        "description": "http://www.britgo.org/node/3233 , The Garibaldi, 61 Albert Street , Wednesday 20:00 until pub closing , Secretary: Brian Ellis 01727 872575, Mike Cockburn 01727 834035 , edit: https://goclubdb.herokuapp.com/club/1332/",
         "name": "St Albans"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -2.79818538714, 
+          -2.79818538714,
           56.3400715128
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://www.britgo.org/node/3235 , Aikman's Cellar Bar, 32 Bell Street , Tuesday 19:30-23:00 , Edwin Brady , edit: https://goclubdb.herokuapp.com/club/1333/", 
+        "description": "http://www.britgo.org/node/3235 , Aikman's Cellar Bar, 32 Bell Street , Tuesday 19:30-23:00 , Edwin Brady , edit: https://goclubdb.herokuapp.com/club/1333/",
         "name": "St Andrews"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -3.9576637, 
+          -3.9576637,
           51.6152447
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://www.britgo.org/node/3244 , The Mill Pub, 75 Brynymor Road , By arrangement , Dylan Carter , edit: https://goclubdb.herokuapp.com/club/1334/", 
+        "description": "http://www.britgo.org/node/3244 , The Mill Pub, 75 Brynymor Road , By arrangement , Dylan Carter , edit: https://goclubdb.herokuapp.com/club/1334/",
         "name": "Swansea"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -1.78095942978, 
-          51.556550624
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "GB", 
-      "properties": {
-        "description": "http://www.britgo.org/node/3242 , The Beehive, Prospect Hill , Sunday evening , David King, 21 Windsor Rd, Swindon Tel: 01793 521625 , edit: https://goclubdb.herokuapp.com/club/1336/", 
-        "name": "Swindon"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          -1.83492588, 
+          -1.83492588,
           51.55013431
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://www.britgo.org/node/3241 , Windmill Pub, Freshbrook Village Centre, Worsley Road , Wednesday 19:30 , David King, 21 Windsor Rd, Swindon Tel: 01793 521625 , edit: https://goclubdb.herokuapp.com/club/1335/", 
+        "description": "http://www.britgo.org/node/3241 , Windmill Pub, Freshbrook Village Centre, Worsley Road , Wednesday 19:30 , David King, 21 Windsor Rd, Swindon Tel: 01793 521625 , edit: https://goclubdb.herokuapp.com/club/1335/",
         "name": "Swindon"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -1.27639, 
+          -1.78095942978,
+          51.556550624
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "description": "http://www.britgo.org/node/3242 , The Beehive, Prospect Hill , Sunday evening , David King, 21 Windsor Rd, Swindon Tel: 01793 521625 , edit: https://goclubdb.herokuapp.com/club/1336/",
+        "name": "Swindon"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.27639,
           54.56458
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://www.britgo.org/node/3212 , Meets by arrangement , Matthew Holton , edit: https://goclubdb.herokuapp.com/club/1337/", 
+        "description": "http://www.britgo.org/node/3212 , Meets by arrangement , Matthew Holton , edit: https://goclubdb.herokuapp.com/club/1337/",
         "name": "Teesside"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          0.2583921, 
+          0.2583921,
           51.19504
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://www.britgo.org/node/5190 , 4 Ives Road , Tuesday 19:30 , Michael Pickles , edit: https://goclubdb.herokuapp.com/club/1338/", 
+        "description": "http://www.britgo.org/node/5190 , 4 Ives Road , Tuesday 19:30 , Michael Pickles , edit: https://goclubdb.herokuapp.com/club/1338/",
         "name": "Tonbridge"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -1.5603331, 
+          -1.5603331,
           52.3787168
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://www.britgo.org/node/3238 , Room B2.03 on campus (see website for directions) , Wednesday 17:00-20:00 during University term , Philip Leung , edit: https://goclubdb.herokuapp.com/club/1339/", 
+        "description": "http://www.britgo.org/node/3238 , Room B2.03 on campus (see website for directions) , Wednesday 17:00-20:00 during University term , Philip Leung , edit: https://goclubdb.herokuapp.com/club/1339/",
         "name": "Warwick University"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -5.21861448918, 
+          -5.21861448918,
           50.1019853
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://www.britgo.org/node/3239 , John Culmer's house, Rose-in-Vale, Gweek, Helston , Thursday 20:00 , John Culmer Tel: 01326 573167 , edit: https://goclubdb.herokuapp.com/club/1340/", 
+        "description": "http://www.britgo.org/node/3239 , John Culmer's house, Rose-in-Vale, Gweek, Helston , Thursday 20:00 , John Culmer Tel: 01326 573167 , edit: https://goclubdb.herokuapp.com/club/1340/",
         "name": "West Cornwall"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -1.30736, 
+          -1.30736,
           51.0578146
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://www.britgo.org/node/3129 , The Black Boy Public House, 1 Wharf Hill, Bar End , Wednesday 19:30 , Mr John Tilley, The Old Cottage, Micheldever, Winchester, Hampshire SO21 3DF Tel: 07824-163776 , edit: https://goclubdb.herokuapp.com/club/1341/", 
+        "description": "http://www.britgo.org/node/3129 , The Black Boy Public House, 1 Wharf Hill, Bar End , Wednesday 19:30 , Mr John Tilley, The Old Cottage, Micheldever, Winchester, Hampshire SO21 3DF Tel: 07824-163776 , edit: https://goclubdb.herokuapp.com/club/1341/",
         "name": "Winchester"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -2.7004613, 
+          -2.7004613,
           50.9387109
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://www.britgo.org/node/3131 , Mason's Arms, 41 Lower Odcombe, Odcombe , Thursday 19:45 , Julian Davies Tel: 01935 423046 , edit: https://goclubdb.herokuapp.com/club/1342/", 
+        "description": "http://www.britgo.org/node/3131 , Mason's Arms, 41 Lower Odcombe, Odcombe , Thursday 19:45 , Julian Davies Tel: 01935 423046 , edit: https://goclubdb.herokuapp.com/club/1342/",
         "name": "Yeovil"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -1.0822194, 
+          -1.0822194,
           53.9606907
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "http://www.britgo.org/node/3135 , Moroccan Room, El Piano (www.el-piano.com), 15 - 17 Grape Lane, York , Tuesdays 19:30 check on Twitter @yorkgoclub , Chris Maughan , edit: https://goclubdb.herokuapp.com/club/1343/", 
+        "description": "http://www.britgo.org/node/3135 , Moroccan Room, El Piano (www.el-piano.com), 15 - 17 Grape Lane, York , Tuesdays 19:30 check on Twitter @yorkgoclub , Chris Maughan , edit: https://goclubdb.herokuapp.com/club/1343/",
         "name": "York"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          -1.0534877, 
+          -1.0534877,
           53.9485036
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "GB", 
+      },
+      "layer": "GB",
       "properties": {
-        "description": "https://yorkgosociety.wordpress.com/ , V Bar, Vanburgh College, University of York, Heslington , Tuesday 18.00 - 21.00 , Leonardo Sandoval , edit: https://goclubdb.herokuapp.com/club/1344/", 
+        "description": "https://yorkgosociety.wordpress.com/ , V Bar, Vanburgh College, University of York, Heslington , Tuesday 18.00 - 21.00 , Leonardo Sandoval , edit: https://goclubdb.herokuapp.com/club/1344/",
         "name": "York University"
-      }, 
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -64.78294909,
+          32.2931208779
+        ],
+        "type": "Point"
+      },
+      "layer": "GB",
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Ball"
+        },
+        "description": "https://www.facebook.com/BermudaGo , edit: https://goclubdb.herokuapp.com/club/1354/",
+        "name": "Bermuda Go Society"
+      },
       "type": "Feature"
     }
-  ], 
+  ],
   "type": "FeatureCollection"
 }

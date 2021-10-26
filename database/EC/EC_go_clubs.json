@@ -3,18 +3,18 @@
     {
       "geometry": {
         "coordinates": [
-          -78.4906390707299, 
+          -78.4906390707299,
           -0.206136260637068
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "EC", 
+      },
+      "layer": "EC",
       "properties": {
-        "description": "http://www.fedibergo.org/miembros/ecuador , Cafelibro, Calle Leonidas Plaza N 23-56, entre Wilson y Veintimilla , Martes y Jueves, de 18:00 a 22:00 , https://www.facebook.com/pages/Asociacion-Ecuatoriana-de-Go/156395541068717 , edit: https://goclubdb.herokuapp.com/club/210/", 
+        "description": "http://www.fedibergo.org/miembros/ecuador , Cafelibro, Calle Leonidas Plaza N 23-56, entre Wilson y Veintimilla , Martes y Jueves, de 18:00 a 22:00 , https://www.facebook.com/pages/Asociacion-Ecuatoriana-de-Go/156395541068717 , edit: https://goclubdb.herokuapp.com/club/210/",
         "name": "Cafelibro"
-      }, 
+      },
       "type": "Feature"
     }
-  ], 
+  ],
   "type": "FeatureCollection"
 }

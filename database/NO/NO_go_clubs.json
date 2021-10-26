@@ -3,18 +3,18 @@
     {
       "geometry": {
         "coordinates": [
-          10.7175466418266, 
+          10.7175466418266,
           59.9430748547325
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "NO", 
+      },
+      "layer": "NO",
       "properties": {
-        "description": "http://foreninger.uio.no/go/ , Ole Johan Dahls hus\r\nGaustadalléen 23B\r\n0373 Oslo , Wednesday 5 PM , oslo.goklubb@gmail.com , edit: https://goclubdb.herokuapp.com/club/4/", 
+        "description": "http://foreninger.uio.no/go/ , Ole Johan Dahls hus\r\nGaustadalléen 23B\r\n0373 Oslo , Wednesday 5 PM , oslo.goklubb@gmail.com , edit: https://goclubdb.herokuapp.com/club/4/",
         "name": "Oslo Goklubb"
-      }, 
+      },
       "type": "Feature"
     }
-  ], 
+  ],
   "type": "FeatureCollection"
 }

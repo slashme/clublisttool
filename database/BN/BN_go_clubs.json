@@ -3,51 +3,51 @@
     {
       "geometry": {
         "coordinates": [
-          114.962975, 
+          114.962975,
           4.891702
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "BN", 
+      },
+      "layer": "BN",
       "properties": {
         "_storage_options": {
           "iconClass": "Ball"
-        }, 
-        "description": "https://www.facebook.com/groups/bruneigo , Ignatius CHIN (Head-Coach) +6737234768 , edit: https://goclubdb.herokuapp.com/club/269/", 
+        },
+        "description": "https://www.facebook.com/groups/bruneigo , Ignatius CHIN (Head-Coach) +6737234768 , edit: https://goclubdb.herokuapp.com/club/269/",
         "name": "Brunei Darussalam Go Association"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          114.927332104, 
+          114.927332104,
           4.90010320536
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "BN", 
+      },
+      "layer": "BN",
       "properties": {
-        "description": "Kiulap, Hokkien Association , Every Friday 7.30pm - 9.00pm , edit: https://goclubdb.herokuapp.com/club/285/", 
+        "description": "Kiulap, Hokkien Association , Every Friday 7.30pm - 9.00pm , edit: https://goclubdb.herokuapp.com/club/285/",
         "name": "Hokkien Association Go Class"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          114.919846058, 
+          114.919846058,
           4.89605182571
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "BN", 
+      },
+      "layer": "BN",
       "properties": {
-        "description": "World Vision tuition School, Kiarong, Same Block as Hokko , Friday 5:00pm - 6.30pm\r\nSunday 5:00pm - 6.30pm\r\nMonday 7.30pm - 9.30pm , edit: https://goclubdb.herokuapp.com/club/286/", 
+        "description": "World Vision tuition School, Kiarong, Same Block as Hokko , Friday 5:00pm - 6.30pm\r\nSunday 5:00pm - 6.30pm\r\nMonday 7.30pm - 9.30pm , edit: https://goclubdb.herokuapp.com/club/286/",
         "name": "World Vision Tuition School Go Class"
-      }, 
+      },
       "type": "Feature"
     }
-  ], 
+  ],
   "type": "FeatureCollection"
 }

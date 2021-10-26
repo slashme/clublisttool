@@ -3,213 +3,213 @@
     {
       "geometry": {
         "coordinates": [
-          5.096406, 
-          50.489047
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "BE", 
-      "properties": {
-        "description": "Little Delirium Café Andenne\r\n17 place des tilleuls\r\n5300 Andenne , Wednesday 19:00 , club_andenne@gofed.be , edit: https://goclubdb.herokuapp.com/club/276/", 
-        "name": "Andenne"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          4.4305036962, 
+          4.4305036962,
           51.2070480768
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "BE", 
+      },
+      "layer": "BE",
       "properties": {
-        "description": "http://goclubantwerpen.be , De Nieuwe Zurenborger\r\nDageraadplaats 4 , Thursday at 20:00 , club_antwerpen@gofed.be , edit: https://goclubdb.herokuapp.com/club/16/", 
+        "description": "http://goclubantwerpen.be , De Nieuwe Zurenborger\r\nDageraadplaats 4 , Thursday at 20:00 , club_antwerpen@gofed.be , edit: https://goclubdb.herokuapp.com/club/16/",
         "name": "Antwerpen"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          3.78049582243, 
+          3.78049582243,
           50.6279554393
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "BE", 
+      },
+      "layer": "BE",
       "properties": {
-        "description": "Café Donquichotte De La Dendre\r\nRue de France 38 , Wednesday 20:15 , club_ath@gofed.be , edit: https://goclubdb.herokuapp.com/club/17/", 
+        "description": "Café Donquichotte De La Dendre\r\nRue de France 38 , Wednesday 20:15 , club_ath@gofed.be , edit: https://goclubdb.herokuapp.com/club/17/",
         "name": "Ath"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          3.72702598572, 
-          51.037278747
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "BE", 
-      "properties": {
-        "description": "http://gentgo.be/ , The Outpost\r\nOttergemsesteenweg 13 , Tuesday at 19:00 , club_gent@gofed.be , edit: https://goclubdb.herokuapp.com/club/21/", 
-        "name": "Gents Go Genootschap"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          5.34317292273, 
-          50.9302672206
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "BE", 
-      "properties": {
-        "description": "Café De Linck\r\nMaastrichterstraat 107 , Thursday at 20:00 , club_hasselt@gofed.be , edit: https://goclubdb.herokuapp.com/club/22/", 
-        "name": "Hasselt"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          4.347968, 
-          50.836863
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "BE", 
-      "properties": {
-        "description": "L'Eau Chaude\r\n25 Rue des renards , Saturday 16:00 - 20:00 , club_pantin@gofed.be , edit: https://goclubdb.herokuapp.com/club/239/", 
-        "name": "L'Eau Chaude"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          4.37093518674, 
-          50.8281308158
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "BE", 
-      "properties": {
-        "description": "Le Pantin, ch. d'Ixelles 355 , Monday 17:00 - 20:00 , club_pantin@gofed.be , edit: https://goclubdb.herokuapp.com/club/19/", 
-        "name": "Le Pantin - Monday"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          4.34806868434, 
-          50.8367874465
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "BE", 
-      "properties": {
-        "description": "L'Eau Chaude, Rue des renards, 25 , 16:00-20:00 , club_pantin@gofed.be , edit: https://goclubdb.herokuapp.com/club/20/", 
-        "name": "Le Pantin - Saturday"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          4.71393942833, 
-          50.8814172861
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "BE", 
-      "properties": {
-        "description": "http://www.goclubleuven.be/ , Cafe Sport\r\nMartelarenplein 13 , Tuesdays at 20:15 , club_leuven@gofed.be , edit: https://goclubdb.herokuapp.com/club/23/", 
-        "name": "Leuven"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          5.58223955333, 
-          50.6425798376
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "BE", 
-      "properties": {
-        "description": "http://www.goliege.be/ , Le Toussaint\r\nRue Ernest de Bavière 1 , Thursday at 18:30 , club_liege@gofed.be , edit: https://goclubdb.herokuapp.com/club/24/", 
-        "name": "Liège"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          4.61615681648, 
-          50.6683581505
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "BE", 
-      "properties": {
-        "description": "Café Altérez-Vous\r\nPlace des Brabançons 6A , Tuesday at 20:30 , club_lln@gofed.be , edit: https://goclubdb.herokuapp.com/club/25/", 
-        "name": "Louvain-La-Neuve"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          4.8610801079, 
-          50.4645612955
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "BE", 
-      "properties": {
-        "description": "http://membres.lycos.fr/namurgoclub , La Fontaine\r\nPlace St Aubain , Tuesday at 20:00 , club_namur@gofed.be , edit: https://goclubdb.herokuapp.com/club/26/", 
-        "name": "Namur"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          4.36522141099, 
+          4.36522141099,
           50.8487194447
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "BE", 
+      },
+      "layer": "BE",
       "properties": {
-        "description": "https://gophenix.wordpress.com , Outpost game center\r\nRue de la Tribune,8 , Wednesday 19:00 - 24:00 , club_phenix@gofed.be , edit: https://goclubdb.herokuapp.com/club/18/", 
+        "description": "https://gophenix.wordpress.com , Outpost game center\r\nRue de la Tribune,8 , Wednesday 19:00 - 24:00 , club_phenix@gofed.be , edit: https://goclubdb.herokuapp.com/club/18/",
         "name": "Phénix GO Club"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          3.71042981744, 
-          51.0240376242
-        ], 
+          4.37093518674,
+          50.8281308158
+        ],
         "type": "Point"
-      }, 
-      "layer": "BE", 
+      },
+      "layer": "BE",
       "properties": {
-        "description": "UGent, Campus Sterre, S8 , Wednesday noon , Alexander Duytschaever, WE12\r\n(not affiliated to gofed.be) , edit: https://goclubdb.herokuapp.com/club/277/", 
+        "description": "Le Pantin, ch. d'Ixelles 355 , Monday 17:00 - 20:00 , club_pantin@gofed.be , edit: https://goclubdb.herokuapp.com/club/19/",
+        "name": "Le Pantin - Monday"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.34806868434,
+          50.8367874465
+        ],
+        "type": "Point"
+      },
+      "layer": "BE",
+      "properties": {
+        "description": "L'Eau Chaude, Rue des renards, 25 , 16:00-20:00 , club_pantin@gofed.be , edit: https://goclubdb.herokuapp.com/club/20/",
+        "name": "Le Pantin - Saturday"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.72702598572,
+          51.037278747
+        ],
+        "type": "Point"
+      },
+      "layer": "BE",
+      "properties": {
+        "description": "http://gentgo.be/ , The Outpost\r\nOttergemsesteenweg 13 , Tuesday at 19:00 , club_gent@gofed.be , edit: https://goclubdb.herokuapp.com/club/21/",
+        "name": "Gents Go Genootschap"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.34317292273,
+          50.9302672206
+        ],
+        "type": "Point"
+      },
+      "layer": "BE",
+      "properties": {
+        "description": "Café De Linck\r\nMaastrichterstraat 107 , Thursday at 20:00 , club_hasselt@gofed.be , edit: https://goclubdb.herokuapp.com/club/22/",
+        "name": "Hasselt"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.71393942833,
+          50.8814172861
+        ],
+        "type": "Point"
+      },
+      "layer": "BE",
+      "properties": {
+        "description": "http://www.goclubleuven.be/ , Cafe Sport\r\nMartelarenplein 13 , Tuesdays at 20:15 , club_leuven@gofed.be , edit: https://goclubdb.herokuapp.com/club/23/",
+        "name": "Leuven"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.58223955333,
+          50.6425798376
+        ],
+        "type": "Point"
+      },
+      "layer": "BE",
+      "properties": {
+        "description": "http://www.goliege.be/ , Le Toussaint\r\nRue Ernest de Bavière 1 , Thursday at 18:30 , club_liege@gofed.be , edit: https://goclubdb.herokuapp.com/club/24/",
+        "name": "Liège"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.61615681648,
+          50.6683581505
+        ],
+        "type": "Point"
+      },
+      "layer": "BE",
+      "properties": {
+        "description": "Café Altérez-Vous\r\nPlace des Brabançons 6A , Tuesday at 20:30 , club_lln@gofed.be , edit: https://goclubdb.herokuapp.com/club/25/",
+        "name": "Louvain-La-Neuve"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8610801079,
+          50.4645612955
+        ],
+        "type": "Point"
+      },
+      "layer": "BE",
+      "properties": {
+        "description": "http://membres.lycos.fr/namurgoclub , La Fontaine\r\nPlace St Aubain , Tuesday at 20:00 , club_namur@gofed.be , edit: https://goclubdb.herokuapp.com/club/26/",
+        "name": "Namur"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.347968,
+          50.836863
+        ],
+        "type": "Point"
+      },
+      "layer": "BE",
+      "properties": {
+        "description": "L'Eau Chaude\r\n25 Rue des renards , Saturday 16:00 - 20:00 , club_pantin@gofed.be , edit: https://goclubdb.herokuapp.com/club/239/",
+        "name": "L'Eau Chaude"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.096406,
+          50.489047
+        ],
+        "type": "Point"
+      },
+      "layer": "BE",
+      "properties": {
+        "description": "Little Delirium Café Andenne\r\n17 place des tilleuls\r\n5300 Andenne , Wednesday 19:00 , club_andenne@gofed.be , edit: https://goclubdb.herokuapp.com/club/276/",
+        "name": "Andenne"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.71042981744,
+          51.0240376242
+        ],
+        "type": "Point"
+      },
+      "layer": "BE",
+      "properties": {
+        "description": "UGent, Campus Sterre, S8 , Wednesday noon , Alexander Duytschaever, WE12\r\n(not affiliated to gofed.be) , edit: https://goclubdb.herokuapp.com/club/277/",
         "name": "WE12 (dept. of Geography) go/weiqi club"
-      }, 
+      },
       "type": "Feature"
     }
-  ], 
+  ],
   "type": "FeatureCollection"
 }

@@ -3,18 +3,18 @@
     {
       "geometry": {
         "coordinates": [
-          80.229352265596, 
+          80.229352265596,
           26.5049360222017
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "IN", 
+      },
+      "layer": "IN",
       "properties": {
-        "description": "Games and Sports Council Room,\r\nNew SAC,\r\nIIT Kanpur , Undefined. Meets very frequently.\r\nNote: Plays all games including Go. Not limited to Go. , edit: https://goclubdb.herokuapp.com/club/213/", 
+        "description": "Games and Sports Council Room,\r\nNew SAC,\r\nIIT Kanpur , Undefined. Meets very frequently.\r\nNote: Plays all games including Go. Not limited to Go. , edit: https://goclubdb.herokuapp.com/club/213/",
         "name": "IITK CBG Club"
-      }, 
+      },
       "type": "Feature"
     }
-  ], 
+  ],
   "type": "FeatureCollection"
 }

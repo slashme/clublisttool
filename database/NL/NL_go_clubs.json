@@ -3,318 +3,318 @@
     {
       "geometry": {
         "coordinates": [
-          5.2748456, 
-          52.3972869
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "NL", 
-      "properties": {
-        "description": "https://gobond.nl/node/2741 , Almere Buurtcentrum \"de Wieken\"  , Wo: 19:00-20:00 jeugd; 20:00-23:00 volwassenen , Rob van Fucht contactpersoon & website beheerder 06-34318824 , edit: https://goclubdb.herokuapp.com/club/956/", 
-        "name": "Almere"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          4.6506465, 
-          52.1209021
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "NL", 
-      "properties": {
-        "description": "https://gobond.nl/node/2742 , Wijkvereniging de Oude Wereld, Oude Wereld 57 , Dinsdag 19:45 , edit: https://goclubdb.herokuapp.com/club/957/", 
-        "name": "Alphen aan den Rijn"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          4.8633637, 
-          52.3152063
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "NL", 
-      "properties": {
-        "description": "https://gobond.nl/node/2745 , Café Batavia 1920 tegenover het Centraal Station. Adres: Prins Hendrikkade 85, 1012 AE , Iedere woensdag avond vanaf 20:30 , voorzitter@goinamsterdam.nl , edit: https://goclubdb.herokuapp.com/club/959/", 
-        "name": "Amsterdamse Go Club"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          4.8633637, 
-          52.3152063
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "NL", 
-      "properties": {
-        "description": "https://gobond.nl/node/2744 , Amstelveen EGCC, Schokland 14 , Dinsdag 19:45 , edit: https://goclubdb.herokuapp.com/club/958/", 
-        "name": "De Twee Ogen"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          5.4615582, 
-          51.4408011
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "NL", 
-      "properties": {
-        "description": "http://eindhoven.gobond.nl/ , ontmoetingscentrum 't Bellefort - Iepenlaan 40-42 , maandagavond vanaf 19:30 , Nicole de Beer voorzitter , edit: https://goclubdb.herokuapp.com/club/966/", 
-        "name": "Eindhovense GC"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          5.481, 
-          51.4409831
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "NL", 
-      "properties": {
-        "description": "http://eindhoven.gobond.nl/ , The Trafalgar Pub - Dommelstraat 21 , donderdagavond vanaf 20:00 , Nicole de Beer voorzitter , edit: https://goclubdb.herokuapp.com/club/967/", 
-        "name": "Eindhovense GC"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          4.5187534, 
-          52.0763136
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "NL", 
-      "properties": {
-        "description": "https://gobond.nl/node/2762 , Huiskamerpatio van Rob Groeneveld, Scharounlijn 14, Zoetermeer , Dinsdag 19:45 , edit: https://goclubdb.herokuapp.com/club/973/", 
-        "name": "GC Amai Mizuumi"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          5.22031316383, 
-          51.96191845
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "NL", 
-      "properties": {
-        "description": "https://gobond.nl/node/2747 , Restaurant Op de Haven, Helling 7, 4101 AE , Laatste zondag van de maand: 13:00-16:00 , Rob Friederichs 06-39783298 culemborg@gobond.nl , edit: https://goclubdb.herokuapp.com/club/961/", 
-        "name": "GC Betuwe"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          5.2267711, 
-          51.9573743
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "NL", 
-      "properties": {
-        "description": "https://gobond.nl/club/go-club-betuwe , Nanne van der Zijpp, Elisabethdreef 5, 4101 KN Culemborg , Tweede woensdag van de maand: 19:30-23:00 uur , Rob Friederichs 06-39783298 culemborg@gobond.nl , edit: https://goclubdb.herokuapp.com/club/962/", 
-        "name": "GC Betuwe"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          4.6868942, 
-          52.0190099
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "NL", 
-      "properties": {
-        "description": "https://gobond.nl/node/2754 , De Hoog Biljart- en Bridgecentrum, Nieuwe Gouwe Oostzijde 11b , Dinsdag 19:45 , gouda@gobond.nl , edit: https://goclubdb.herokuapp.com/club/968/", 
-        "name": "GC GoGo"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          4.4648411, 
-          52.1564348
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "NL", 
-      "properties": {
-        "description": "https://gobond.nl/node/2758 , Denksportcentrum Leiden, Robijnstraat 4 , donderdag 19:45 , edit: https://goclubdb.herokuapp.com/club/970/", 
-        "name": "GC Leiden"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          4.3678704, 
-          52.0842279
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "NL", 
-      "properties": {
-        "description": "http://www.goclubseki.nl , Wijkcentrum Essesteijn, Elzendreef 10 , woensdag 19:45 , Ming Au voorzitter 0615322616 , edit: https://goclubdb.herokuapp.com/club/964/", 
-        "name": "GC Seki"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          5.3299, 
-          51.70551845
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "NL", 
-      "properties": {
-        "description": "http://www.goclub-denbosch.nl , Volkstuinvereniging Pastoor Barten, De Herven 70, 5232 NJ ’s-Hertogenbosch , Dinsdagavond, vanaf 20:00 uur , Don Verheijen Voorzitter; Sybo Bruinsma Secretaris denbosch@gobond.nl , edit: https://goclubdb.herokuapp.com/club/963/", 
-        "name": "Goclub Den Bosch"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          5.6180276, 
-          52.349934
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "NL", 
-      "properties": {
-        "description": "https://gobond.nl/node/3020 , De Graaf van Gelre; centrum Harderwijk , Woensdagavond vanaf 20.00 , Sander den Oudsten 06 4224 0945 , edit: https://goclubdb.herokuapp.com/club/975/", 
-        "name": "Go Club Harderwijk"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          6.1514605, 
-          52.2536119
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "NL", 
-      "properties": {
-        "description": "http://www.goclubsalland.nl/ , buurthuis De Fermerie aan het Muggeplein 9 in de binnenstad van Deventer , donderdagavond vanaf 20.00 , Gerard Bouwman secretaris 06-83080349 , edit: https://goclubdb.herokuapp.com/club/965/", 
-        "name": "Go Club Salland"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          6.5616966, 
-          53.218175
-        ], 
-        "type": "Point"
-      }, 
-      "layer": "NL", 
-      "properties": {
-        "description": "https://gobond.nl/node/2755 , Café \"Wolthoorn & Co\", Turftorenstraat 6 , maandag 20:00 , Siu Hong Chung voorzitter 06-52664744 , edit: https://goclubdb.herokuapp.com/club/969/", 
-        "name": "Groningen"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          5.9802908, 
+          5.9802908,
           50.8869947
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "NL", 
+      },
+      "layer": "NL",
       "properties": {
-        "description": "https://gobond.nl/node/2734 , Cafe Pelt, Heerlen , Woensdag, vanaf 20.30 , Robbert van Sluijs 0455726757 , edit: https://goclubdb.herokuapp.com/club/955/", 
+        "description": "https://gobond.nl/node/2734 , Cafe Pelt, Heerlen , Woensdag, vanaf 20.30 , Robbert van Sluijs 0455726757 , edit: https://goclubdb.herokuapp.com/club/955/",
         "name": "Heerlen"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          5.8719893, 
-          51.8408455
-        ], 
+          5.2748456,
+          52.3972869
+        ],
         "type": "Point"
-      }, 
-      "layer": "NL", 
+      },
+      "layer": "NL",
       "properties": {
-        "description": "https://gobond.nl/node/2759 , Wijkcentrum Daalsehof 2, achter Daalseweg 113 , Maandag 20:00 , nijmegen@gobond.nl , edit: https://goclubdb.herokuapp.com/club/971/", 
-        "name": "Nijmeegse Go Club"
-      }, 
+        "description": "https://gobond.nl/node/2741 , Almere Buurtcentrum \"de Wieken\"  , Wo: 19:00-20:00 jeugd; 20:00-23:00 volwassenen , Rob van Fucht contactpersoon & website beheerder 06-34318824 , edit: https://goclubdb.herokuapp.com/club/956/",
+        "name": "Almere"
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          5.9658318, 
+          4.6506465,
+          52.1209021
+        ],
+        "type": "Point"
+      },
+      "layer": "NL",
+      "properties": {
+        "description": "https://gobond.nl/node/2742 , Wijkvereniging de Oude Wereld, Oude Wereld 57 , Dinsdag 19:45 , edit: https://goclubdb.herokuapp.com/club/957/",
+        "name": "Alphen aan den Rijn"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8633637,
+          52.3152063
+        ],
+        "type": "Point"
+      },
+      "layer": "NL",
+      "properties": {
+        "description": "https://gobond.nl/node/2744 , Amstelveen EGCC, Schokland 14 , Dinsdag 19:45 , edit: https://goclubdb.herokuapp.com/club/958/",
+        "name": "De Twee Ogen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8633637,
+          52.3152063
+        ],
+        "type": "Point"
+      },
+      "layer": "NL",
+      "properties": {
+        "description": "https://gobond.nl/node/2745 , Café Batavia 1920 tegenover het Centraal Station. Adres: Prins Hendrikkade 85, 1012 AE , Iedere woensdag avond vanaf 20:30 , voorzitter@goinamsterdam.nl , edit: https://goclubdb.herokuapp.com/club/959/",
+        "name": "Amsterdamse Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.9658318,
           52.182566
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "NL", 
+      },
+      "layer": "NL",
       "properties": {
-        "description": "https://gobond.nl/node/2746 , Denksportcentrum Apeldoorn, Dubbelbeek 24 , woensdag 20:00 , Marten Ubbink apeldoorn@gobond.nl , edit: https://goclubdb.herokuapp.com/club/960/", 
+        "description": "https://gobond.nl/node/2746 , Denksportcentrum Apeldoorn, Dubbelbeek 24 , woensdag 20:00 , Marten Ubbink apeldoorn@gobond.nl , edit: https://goclubdb.herokuapp.com/club/960/",
         "name": "Nobe No Shinju"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          5.0823331, 
+          5.22031316383,
+          51.96191845
+        ],
+        "type": "Point"
+      },
+      "layer": "NL",
+      "properties": {
+        "description": "https://gobond.nl/node/2747 , Restaurant Op de Haven, Helling 7, 4101 AE , Laatste zondag van de maand: 13:00-16:00 , Rob Friederichs 06-39783298 culemborg@gobond.nl , edit: https://goclubdb.herokuapp.com/club/961/",
+        "name": "GC Betuwe"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.2267711,
+          51.9573743
+        ],
+        "type": "Point"
+      },
+      "layer": "NL",
+      "properties": {
+        "description": "https://gobond.nl/club/go-club-betuwe , Nanne van der Zijpp, Elisabethdreef 5, 4101 KN Culemborg , Tweede woensdag van de maand: 19:30-23:00 uur , Rob Friederichs 06-39783298 culemborg@gobond.nl , edit: https://goclubdb.herokuapp.com/club/962/",
+        "name": "GC Betuwe"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.3299,
+          51.70551845
+        ],
+        "type": "Point"
+      },
+      "layer": "NL",
+      "properties": {
+        "description": "http://www.goclub-denbosch.nl , Volkstuinvereniging Pastoor Barten, De Herven 70, 5232 NJ ’s-Hertogenbosch , Dinsdagavond, vanaf 20:00 uur , Don Verheijen Voorzitter; Sybo Bruinsma Secretaris denbosch@gobond.nl , edit: https://goclubdb.herokuapp.com/club/963/",
+        "name": "Goclub Den Bosch"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3678704,
+          52.0842279
+        ],
+        "type": "Point"
+      },
+      "layer": "NL",
+      "properties": {
+        "description": "http://www.goclubseki.nl , Wijkcentrum Essesteijn, Elzendreef 10 , woensdag 19:45 , Ming Au voorzitter 0615322616 , edit: https://goclubdb.herokuapp.com/club/964/",
+        "name": "GC Seki"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.1514605,
+          52.2536119
+        ],
+        "type": "Point"
+      },
+      "layer": "NL",
+      "properties": {
+        "description": "http://www.goclubsalland.nl/ , buurthuis De Fermerie aan het Muggeplein 9 in de binnenstad van Deventer , donderdagavond vanaf 20.00 , Gerard Bouwman secretaris 06-83080349 , edit: https://goclubdb.herokuapp.com/club/965/",
+        "name": "Go Club Salland"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.4615582,
+          51.4408011
+        ],
+        "type": "Point"
+      },
+      "layer": "NL",
+      "properties": {
+        "description": "http://eindhoven.gobond.nl/ , ontmoetingscentrum 't Bellefort - Iepenlaan 40-42 , maandagavond vanaf 19:30 , Nicole de Beer voorzitter , edit: https://goclubdb.herokuapp.com/club/966/",
+        "name": "Eindhovense GC"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.481,
+          51.4409831
+        ],
+        "type": "Point"
+      },
+      "layer": "NL",
+      "properties": {
+        "description": "http://eindhoven.gobond.nl/ , The Trafalgar Pub - Dommelstraat 21 , donderdagavond vanaf 20:00 , Nicole de Beer voorzitter , edit: https://goclubdb.herokuapp.com/club/967/",
+        "name": "Eindhovense GC"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.6868942,
+          52.0190099
+        ],
+        "type": "Point"
+      },
+      "layer": "NL",
+      "properties": {
+        "description": "https://gobond.nl/node/2754 , De Hoog Biljart- en Bridgecentrum, Nieuwe Gouwe Oostzijde 11b , Dinsdag 19:45 , gouda@gobond.nl , edit: https://goclubdb.herokuapp.com/club/968/",
+        "name": "GC GoGo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.5616966,
+          53.218175
+        ],
+        "type": "Point"
+      },
+      "layer": "NL",
+      "properties": {
+        "description": "https://gobond.nl/node/2755 , Café \"Wolthoorn & Co\", Turftorenstraat 6 , maandag 20:00 , Siu Hong Chung voorzitter 06-52664744 , edit: https://goclubdb.herokuapp.com/club/969/",
+        "name": "Groningen"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.4648411,
+          52.1564348
+        ],
+        "type": "Point"
+      },
+      "layer": "NL",
+      "properties": {
+        "description": "https://gobond.nl/node/2758 , Denksportcentrum Leiden, Robijnstraat 4 , donderdag 19:45 , edit: https://goclubdb.herokuapp.com/club/970/",
+        "name": "GC Leiden"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.8719893,
+          51.8408455
+        ],
+        "type": "Point"
+      },
+      "layer": "NL",
+      "properties": {
+        "description": "https://gobond.nl/node/2759 , Wijkcentrum Daalsehof 2, achter Daalseweg 113 , Maandag 20:00 , nijmegen@gobond.nl , edit: https://goclubdb.herokuapp.com/club/971/",
+        "name": "Nijmeegse Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.0823331,
           52.0801693
-        ], 
+        ],
         "type": "Point"
-      }, 
-      "layer": "NL", 
+      },
+      "layer": "NL",
       "properties": {
-        "description": "http://www.goclubutrecht.nl/ , NDC Den Hommel, Kennedylaan 9 , maandag 19:30 , Douwe van der Veen secretaris 06-52243622 , edit: https://goclubdb.herokuapp.com/club/972/", 
+        "description": "http://www.goclubutrecht.nl/ , NDC Den Hommel, Kennedylaan 9 , maandag 19:30 , Douwe van der Veen secretaris 06-52243622 , edit: https://goclubdb.herokuapp.com/club/972/",
         "name": "Utrechtse goclub"
-      }, 
+      },
       "type": "Feature"
-    }, 
+    },
     {
       "geometry": {
         "coordinates": [
-          6.0989139, 
-          52.508075
-        ], 
+          4.5187534,
+          52.0763136
+        ],
         "type": "Point"
-      }, 
-      "layer": "NL", 
+      },
+      "layer": "NL",
       "properties": {
-        "description": "https://gobond.nl/node/2763 , Café de Singel, Groot Weezenland 4 , woensdag 20:00 , edit: https://goclubdb.herokuapp.com/club/974/", 
+        "description": "https://gobond.nl/node/2762 , Huiskamerpatio van Rob Groeneveld, Scharounlijn 14, Zoetermeer , Dinsdag 19:45 , edit: https://goclubdb.herokuapp.com/club/973/",
+        "name": "GC Amai Mizuumi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.0989139,
+          52.508075
+        ],
+        "type": "Point"
+      },
+      "layer": "NL",
+      "properties": {
+        "description": "https://gobond.nl/node/2763 , Café de Singel, Groot Weezenland 4 , woensdag 20:00 , edit: https://goclubdb.herokuapp.com/club/974/",
         "name": "Zwolle"
-      }, 
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.6180276,
+          52.349934
+        ],
+        "type": "Point"
+      },
+      "layer": "NL",
+      "properties": {
+        "description": "https://gobond.nl/node/3020 , De Graaf van Gelre; centrum Harderwijk , Woensdagavond vanaf 20.00 , Sander den Oudsten 06 4224 0945 , edit: https://goclubdb.herokuapp.com/club/975/",
+        "name": "Go Club Harderwijk"
+      },
       "type": "Feature"
     }
-  ], 
+  ],
   "type": "FeatureCollection"
 }
