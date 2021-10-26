@@ -1,6 +1,6 @@
 import urllib, json, os
 
-response = urllib.urlopen("http://goclubdb.herokuapp.com/layers/json")
+response = urllib.request.urlopen("http://goclubdb.herokuapp.com/layers/json")
 for i in json.loads(response.read()):
   if not os.path.exists(i['name']):
     try:
