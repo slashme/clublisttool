@@ -1,4 +1,4 @@
-import urllib, json, os
+import urllib.request, json, os
 
 response = urllib.request.urlopen("http://goclubdb.herokuapp.com/layers/json")
 for i in json.loads(response.read()):
