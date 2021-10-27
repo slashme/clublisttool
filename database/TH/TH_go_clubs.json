@@ -14,6 +14,21 @@
         "name": "Thai Go Club, Silom, Bangkok"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          101.0642346,
+          12.6892497
+        ],
+        "type": "Point"
+      },
+      "layer": "TH",
+      "properties": {
+        "description": "https://mbasic.facebook.com/MaklomTrinity , โรงเรียนสอนหมากล้อม \r\nThe Living Rayong\r\nBan Chang, Ban Chang District, Rayong , Monday, Tuesday, Wednesday, Thursday, Friday, Saturdays\r\n12:00 pm - 6:00 pm , thanetchuebupa39@gmail.com , edit: https://goclubdb.herokuapp.com/club/308/",
+        "name": "Trinity Go Academy (baanchang)"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
