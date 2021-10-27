@@ -1,4 +1,20 @@
 {
-  "features": [],
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          35.8849751089388,
+          34.8838774003996
+        ],
+        "type": "Point"
+      },
+      "layer": "SY",
+      "properties": {
+        "description": "https://t.me/IgoClub , Syria, Tartous , Online meetings recently , Email: Issadaoud55@gmail.com\r\nTelegram: @IssaDa99 , edit: https://goclubdb.herokuapp.com/club/309/",
+        "name": "GCS (Go Club Syria)"
+      },
+      "type": "Feature"
+    }
+  ],
   "type": "FeatureCollection"
 }
