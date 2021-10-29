@@ -3,6 +3,21 @@
     {
       "geometry": {
         "coordinates": [
+          -74.0677115,
+          4.7130958
+        ],
+        "type": "Point"
+      },
+      "layer": "CO",
+      "properties": {
+        "description": "https://www.colombiago.org/index.php/nosotros/encuentros , Bulevar Niza, Calle 127D, Bogota, Colombia , Sabado y Domingo 15:00 - 20:00\r\nFrente a la cafetería Oma o la tienda de zumos Frutitos , jaunburgos@gmail.com\r\n573004004017 , edit: https://goclubdb.herokuapp.com/club/320/",
+        "name": "Bulevar Niza"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           -75.5630743504,
           6.25571153215
         ],
@@ -18,15 +33,15 @@
     {
       "geometry": {
         "coordinates": [
-          -74.0435063839,
-          4.68897699775
+          -74.0664431865495,
+          4.60112010857343
         ],
         "type": "Point"
       },
       "layer": "CO",
       "properties": {
-        "description": "https://www.facebook.com/Asociación-Colombiana-de-Go-266936886710738/ , Calle 106, número 13-33 , Sábados tarde , Federico Pareja , edit: https://goclubdb.herokuapp.com/club/1353/",
-        "name": "Go Bogota"
+        "description": "https://www.colombiago.org/index.php/nosotros/encuentros , Universidad de los Andes, Calle 18A No 0-07, Bloque CJ , Martes de las 2:00pm a las 4:00pm , centrodeljapon@uniandes.edu.co\r\n(+571) 339-4949 Ext: 1018 , edit: https://goclubdb.herokuapp.com/club/1353/",
+        "name": "Centro del Japón - Universidad de Los Andes"
       },
       "type": "Feature"
     }
