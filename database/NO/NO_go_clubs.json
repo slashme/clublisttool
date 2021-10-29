@@ -29,6 +29,21 @@
         "name": "Oslo Goklubb Sunday"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.4036052,
+          63.4164112
+        ],
+        "type": "Point"
+      },
+      "layer": "NO",
+      "properties": {
+        "description": "IT-bygget, sydfløy, Sem Sælands vei 7, Trondheim , Tuesdays 18:00 pm - 21:00 pm\r\nWe are a small club so there might not always be someone there - send email if you intend to visit. , rasmunis@gmail.com , edit: https://goclubdb.herokuapp.com/club/314/",
+        "name": "Trondheim Go Club"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
