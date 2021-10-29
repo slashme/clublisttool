@@ -78,6 +78,21 @@
     {
       "geometry": {
         "coordinates": [
+          15.5785765070351,
+          58.3971552335863
+        ],
+        "type": "Point"
+      },
+      "layer": "SE",
+      "properties": {
+        "description": "Linköpings universitet, Linköping, Sweden , Thursday 17:00 - 19:00 , erik.oy@bredband.net , edit: https://goclubdb.herokuapp.com/club/312/",
+        "name": "Linköping Go Club"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.648168206204,
           59.8416011769617
         ],
