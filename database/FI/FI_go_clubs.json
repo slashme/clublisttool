@@ -59,6 +59,21 @@
         "name": "Yligo"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.4754993,
+          65.0127425
+        ],
+        "type": "Point"
+      },
+      "layer": "FI",
+      "properties": {
+        "description": "Irish Pub St. Michael,\r\nHallituskatu 13, Oulu, Finland , Wednesday from 20:00 , mipoloja@gmail.com , edit: https://goclubdb.herokuapp.com/club/310/",
+        "name": "Oulun Goonpellaajat"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
