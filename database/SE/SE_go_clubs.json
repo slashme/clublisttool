@@ -63,6 +63,21 @@
     {
       "geometry": {
         "coordinates": [
+          22.1521182,
+          65.5841966
+        ],
+        "type": "Point"
+      },
+      "layer": "SE",
+      "properties": {
+        "description": "Storgatan 47, Luleå, Sweden , Monday 18:00 , markus.backebo@gmail.com , edit: https://goclubdb.herokuapp.com/club/311/",
+        "name": "Luleå go"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.648168206204,
           59.8416011769617
         ],
