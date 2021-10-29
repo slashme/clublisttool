@@ -3,6 +3,66 @@
     {
       "geometry": {
         "coordinates": [
+          -8.403387,
+          43.36971
+        ],
+        "type": "Point"
+      },
+      "layer": "ES",
+      "properties": {
+        "description": "https://online-go.com/group/1925 , R. San Andrés, 106, A Coruña , 17:00 - 22:00, usually Wednesdays , gocoruna@gmail.com\r\nhttps://www.facebook.com/groups/gohokusei/ , edit: https://goclubdb.herokuapp.com/club/315/",
+        "name": "Go Hokusei"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7095364,
+          40.6000865
+        ],
+        "type": "Point"
+      },
+      "layer": "ES",
+      "properties": {
+        "description": "https://www.facebook.com/MusiChess3C , Pl. de la Constitución, 5, Tres Cantos, Madrid , Los domingos 10:00 - 14:00 , aseiferoe@yahoo.es , edit: https://goclubdb.herokuapp.com/club/316/",
+        "name": "Go MusiChess Tres Cantos"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -6.0607883,
+          37.3416515
+        ],
+        "type": "Point"
+      },
+      "layer": "ES",
+      "properties": {
+        "description": "https://t.me/joinchat/AJawxhKXz9CPhAmTdYYifA , Av. del Jardinillo, 271, 41927 Mairena del Aljarafe , Los jueves 18:30 - 21:00 , taiteki@gmail.com , edit: https://goclubdb.herokuapp.com/club/317/",
+        "name": "Aljarafe"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.93484075900506,
+          43.2637641023391
+        ],
+        "type": "Point"
+      },
+      "layer": "ES",
+      "properties": {
+        "description": "https://gobi.webnode.es/ , Casa Montero, Alameda de Recalde, 34, Bilbao , los miércoles desde las 19:00 hasta las 22:00 , https://www.facebook.com/GOBi-Club-de-Go-de-Bilbao-1433330466906295/\r\ngobi.bilbao@gmail.com , edit: https://goclubdb.herokuapp.com/club/318/",
+        "name": "GOBi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           -5.98731279373,
           37.3881886426
         ],
@@ -63,14 +123,14 @@
     {
       "geometry": {
         "coordinates": [
-          -2.93065667152,
-          43.2678625517
+          -2.9460208,
+          43.2723364
         ],
         "type": "Point"
       },
       "layer": "ES",
       "properties": {
-        "description": "http://www.escueladegodebilbao.com/ , Restaurante Larruzz Bilbao (Antiguo Tapelia), en el Paseo de Uribitarte nº 14, de Bilbao, junto al Puente de Calatrava , todos los miércoles entre las 18'30 y las 21'30 horas , edit: https://goclubdb.herokuapp.com/club/867/",
+        "description": "http://www.escueladegodebilbao.com/ , Espacio Luzarra, en la calle Luzarra, 14-16 bajo, Deusto, Bilbao (a 100 metros de la parada de metro Lehendakari Aguirre). , todos los miércoles entre las 19'30 y las 22'00 horas , baduk@telefonica.net\r\nescueladegodebilbao@gmail.com , edit: https://goclubdb.herokuapp.com/club/867/",
         "name": "Escuela de Go de Bilbao"
       },
       "type": "Feature"
@@ -93,14 +153,14 @@
     {
       "geometry": {
         "coordinates": [
-          -3.71191442013,
-          40.4225648282
+          -3.703416,
+          40.4234854
         ],
         "type": "Point"
       },
       "layer": "ES",
       "properties": {
-        "description": "http://www.clubgomadrid.org/ , Círculo Catalán, Plaza de España nº6, Madrid , los lunes, jueves y viernes de 19:00 a 22:00 , http://es.groups.yahoo.com/group/nam-ban/ , edit: https://goclubdb.herokuapp.com/club/869/",
+        "description": "http://www.clubgomadrid.org/ , El Club de Ajedrez La Didáctica\r\nCalle Molino de Viento nº 10\r\nLa boca de metro más cercana es Tribunal , los lunes, jueves y viernes de 19:00 a 22:00 , http://es.groups.yahoo.com/group/nam-ban/\r\ninfo@clubgomadrid.org , edit: https://goclubdb.herokuapp.com/club/869/",
         "name": "Nam-Ban"
       },
       "type": "Feature"

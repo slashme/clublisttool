@@ -1,0 +1,20 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.5029075788711,
+          35.86379925
+        ],
+        "type": "Point"
+      },
+      "layer": "MT",
+      "properties": {
+        "description": "https://www.facebook.com/groups/737919946706420/ , Chinese Garden, Santa Lucija , Sunday 09:30 - 13:00 , shawnedwardp@gmail.com , edit: https://goclubdb.herokuapp.com/club/319/",
+        "name": "Malta Weiqi Club"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
