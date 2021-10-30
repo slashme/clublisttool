@@ -864,15 +864,15 @@
     {
       "geometry": {
         "coordinates": [
-          -52.3317557,
-          4.9434517
+          -0.3525146,
+          49.1812745
         ],
         "type": "Point"
       },
       "layer": "FR",
       "properties": {
-        "description": "http://gocayenne.blogspot.com/ , Place des Amandiers pl Auguste Horth, CAYENNE , Les samedi entre 10 heures et 12 heures , edit: https://goclubdb.herokuapp.com/club/924/",
-        "name": "Guyane"
+        "description": "https://www.facebook.com/GoCaen14 , Newport Café\r\n74 Quai Vendeuvre, Caen , Le Lundi soir 20h30 au Newport Café à Caen , yoaibgo@gmail.com\r\n+33 6 46 65 19 43 , edit: https://goclubdb.herokuapp.com/club/924/",
+        "name": "Club de Go de Caen"
       },
       "type": "Feature"
     },
