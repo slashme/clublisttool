@@ -10,8 +10,38 @@
       },
       "layer": "VE",
       "properties": {
-        "description": "http://goclubucv.wix.com/ve , Universidad Central de Venezuela, Facultad de ciencias , Todos los Jueves de 3-5pm , https://www.facebook.com/goclubucv;\r\nhttps://twitter.com/goclubucv , edit: https://goclubdb.herokuapp.com/club/271/",
+        "description": "http://goclubucv.wix.com/ve , Universidad Central de Venezuela, Facultad de ciencias, Paseo Los Ilustres, Caracas , Los lunes y los viernes de 13-15pm , Goclubucv@gmail.com \r\nhttps://www.facebook.com/goclubucv\r\nhttps://twitter.com/goclubucv , edit: https://goclubdb.herokuapp.com/club/271/",
         "name": "Go Club UCV"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -66.8954558057601,
+          10.4831905
+        ],
+        "type": "Point"
+      },
+      "layer": "VE",
+      "properties": {
+        "description": "Plaza Los Símbolos, Caracas, Venezuela , Los Domingos 11:00 - 13:00 , gerardouseche@gmail.com\r\n+584126019860\r\nReunión abierta:\r\nSe necesita contactar con antelación , edit: https://goclubdb.herokuapp.com/club/321/",
+        "name": "Plaza Los Símbolos"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -66.8439725968882,
+          10.5000386
+        ],
+        "type": "Point"
+      },
+      "layer": "VE",
+      "properties": {
+        "description": "Plaza Los Palos Grandes, Caracas , Los Martes, Jueves, Domingos 16:00 - 19:00 , gerardouseche@gmail.com\r\n+584126019860\r\nReunión abierta:\r\nSe necesita contactar con antelación , edit: https://goclubdb.herokuapp.com/club/322/",
+        "name": "Plaza Los Palos Grandes"
       },
       "type": "Feature"
     }
